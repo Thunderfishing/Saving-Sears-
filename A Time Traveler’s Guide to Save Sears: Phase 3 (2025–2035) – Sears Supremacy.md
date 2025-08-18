@@ -1,0 +1,783 @@
+# A Time Traveler’s Guide to Save Sears: Phase 4 (2025–2035) – Factory-Powered Global AI-Crypto-Luxury-Automotive Dominance
+
+## Mission
+The goal is to transform Sears into a vertically integrated, AI-tech-driven, crypto-powered retail-industrial mega-corporation valued at **$3 trillion** by 2035, achieving global e-commerce supremacy through **Sears.com**, generating **$900 billion** in revenue.
+
+- Offer **10 million stock-keeping units (SKUs)**.
+- Serve **280 million users**.
+- Command a **35% share of the North American market**, capturing **$1.4 trillion** out of a **$4 trillion** total e-commerce market.
+- Secure a **12% share in expanded markets** (Japan, Indonesia, Australia, New Zealand, Singapore, UK), capturing **$200 billion** out of a **$4.5 trillion** Southeast Asia and emerging regions market.
+
+---
+
+## Strategic Context
+By the end of Phase 3 (2025), Sears achieves significant milestones:
+
+- **Revenue**: $800 billion (North America: $640 billion; Expanded Markets: $160 billion)
+- **EBITDA**: $64 billion (8% margin)
+- **Valuation**: $960 billion (15x EBITDA multiple)
+- **Surplus**: $0.5 billion
+- **Debt**: $18 billion
+
+### Operations
+- **Stores**: 2,300 total (2,000 showrooms for Datsun display/test drive centers and micro-distribution centers, 300 full-line stores at Sears Homart Malls)
+- **Workforce**: 450,000 employees
+- **Logistics**: 45 hubs (28 U.S., 13 global, 4 in Canada: Toronto, Vancouver, Montreal) and 8,000 micro-distribution centers
+- **Sears Academy**: Dallas campus partnered with 90 colleges
+
+---
+
+## Key Assets
+| Asset | Ownership | Description | Revenue (2025) | Revenue (2035) | Value (2025) | Value (2035) | Market Share (2025) | Market Share (2035) |
+|-------|-----------|-------------|----------------|----------------|--------------|--------------|---------------------|---------------------|
+| **Sears.com** | Full | Online digital marketplace (beta 1993, full launch 1995), 200M+ users | $400B (NA: $320B, Expanded: $80B) | $900B (NA: $720B, Expanded: $180B) | $600B | $1.35T | 25% NA | 35% NA, 12% Expanded |
+| **Yahoo!** | 100% (Standalone) | 35% search market share | $30B (NA: $24B, Expanded: $6B) | $45B (NA: $36B, Expanded: $9B) | $150B | $225B | 30% | 35% |
+| **SCloud** | Full | Cloud services (1995), 2M 3rd-party customers | $200B (NA: $140B, Expanded: $60B) | $375B (NA: $262.5B, Expanded: $112.5B) | $300B | $562.5B | 10% Global | 15% Global |
+| **Homart** | Full | 250 malls, 80,000 apartments, property management | $25B (NA: $22.5B, Expanded: $2.5B) | $50B (NA: $45B, Expanded: $5B) | $100B | $200B | 8% NA | 10% NA |
+| **Coldwell Banker** | Full | Real estate brokerage and management | $8B (NA: $7.2B, Expanded: $0.8B) | $15B (NA: $13.5B, Expanded: $1.5B) | $16B | $30B | 6% NA | 8% NA |
+| **Allstate** | 20% stake | Bundled insurance for Datsun purchase/financing, roadside assistance | $8B (NA: $7.2B, Expanded: $0.8B) | $10B (NA: $9B, Expanded: $1B) | $10B | $12B | 5% | 6% |
+| **Discover Card Network** | Full | Backbone of Sears Financial, facilitates SearsPay and SearsCoin | $5B (NA: $4B, Expanded: $1B) | $8B (NA: $6.4B, Expanded: $1.6B) | $7B | $12B | 4% | 5% |
+| **Dean Witter/Funds** | Full | Brokerage, manages Sears Corporate Wealth/Bitcoin Funds, Sears Ventures, Dallas HQ | $1B/$30B (NA: $0.8B/$24B, Expanded: $0.2B/$6B) | $2B/$45B (NA: $1.6B/$36B, Expanded: $0.4B/$9B) | $4B/$10B | $6B/$15B | 3% | 4% |
+| **Western Forge** | Full (acquired 2009) | Craftsman hand tools, KENN AI-integrated factory, Colorado | $2B (NA: $1.6B, Expanded: $0.4B) | $4B (NA: $3.2B, Expanded: $0.8B) | $2B | $6B | 20% NA | 25% NA |
+| **Serta** | 20% stake (2009) | Harmony House mattresses/bedding, Mexico/Indonesia factories | $1.5B (NA: $1.2B, Expanded: $0.3B) | $2B (NA: $1.6B, Expanded: $0.4B) | $2B | $3B | 15% NA | 18% NA |
+| **SearsCoin Rewards** | Full | Blockchain rewards (3% non-Sears, 5% Sears/affiliates), 45M users | $8B (NA: $6.4B, Expanded: $1.6B) | $15B (NA: $12B, Expanded: $3B) | $10B | $20B | N/A | N/A |
+| **Atari Home Entertainment** | Full (acquired 2013, $30M) | Console/cloud gaming, Osaka factory, Austin R&D | $60B (NA: $42B, Expanded: $18B) | $100B (NA: $70B, Expanded: $30B) | $90B | $200B | 15% Global | 20% Global |
+| **Kodak Optics/Graphics** | Full (acquired 2009, $205M) | Lenses for Sears Optical, KENN AI image tech, Atari graphics, Austin R&D | $1.5B (NA: $1.2B, Expanded: $0.3B) | $4B (NA: $3.2B, Expanded: $0.8B) | $2.5B | $8B | 10% Global | 15% Global |
+| **Saks Fifth Avenue** | Full (acquired 2025, HBC bankruptcy) | 50 stores | $600M (NA: $480M, Expanded: $120M) | $20B (NA: $16B, Expanded: $4B) | $800M | $40B | 3% Global | 5% Global |
+| **Saks Off 5th** | Full | Sears.com storefront | $300M (NA: $240M, Expanded: $60M) | $10B (NA: $8B, Expanded: $2B) | $500M | $20B | 2% Global | 4% Global |
+| **Cub Cadet** | Full (acquired 2016) | Mowers, snowblowers, garden tractors, Martin/Brownsville factories | $1.5B (NA: $1.35B, Expanded: $0.15B) | $5B (NA: $4.5B, Expanded: $0.5B) | $1.8B | $7.5B | 12% NA | 15% NA |
+| **Sears World Trade, Inc.** | Full (revived 1987) | Vetted foreign SKUs for Sears.com, 200,000 SKUs | $6B (NA: $3B, Expanded: $3B) | $30B (NA: $15B, Expanded: $15B) | $7B | $45B | 15% | 20% |
+
+---
+
+## Financial Restructuring
+### Acquisitions
+#### 2030-2033
+- **Whirlpool**: 15% stake for $2B to enhance Kenmore/Coldspot
+- **Kroger**: 10% stake for $4.5B to anchor 300 Homart malls
+- **Shopify**: 10% stake for $2.5B to improve Sears.com tools
+
+#### 2026-2028
+- **Atari Acquisitions**:
+  - Namco/Bandai: 5% stake for $250M (2026)
+  - Capcom: 5% stake for $200M (2026)
+  - Sega/Sammy: 5% stake for $150M (2026)
+- **Nissan/Datsun**: 33-51% stake for $8B for automotive entry
+  - Partner with Yamaha ($800M) for engine manufacturing
+  - Partner with Getrag/Magna ($800M) for transmission manufacturing
+
+### Corporate Wealth Investments
+- **Investments**:
+  - Tesla: $800M
+  - ByteDance: $400M
+  - Malls: $2B
+  - Gaming startups: $400M
+  - Other startups/SMBs: $1.5B, targeting 16% CAGR to reach $18-22B by 2035
+- **Total Cost**: $16B-$20B
+
+### Asset Sales
+- Generate **$8B** from non-core Nissan assets (discontinued models, surplus factories)
+
+### Funding
+- **Total Funding**: $130B
+  - 2025 surplus: $0.5B
+  - Profits (2025-2030): $70B (~50% of $140B EBITDA)
+  - Debt: $1.2B (Sears: $0.4B in 2028, $40M fee, 3% interest; Datsun: $0.8B in 2028, $8M fee)
+  - Datsun IPO: $4B in 2030 for 10% equity, $40M fee
+  - Atari Fund: $1.2B in 2026 from Corporate Wealth Fund
+
+### Internal Savings
+- KENN AI logistics: $14B
+- Robotics: $3.5B
+- World Trade vetting: $1.5B
+- Factory efficiencies: $4B
+- Cub Cadet efficiencies: $0.6B
+- Datsun efficiencies: $1.5B
+- Datsun dealership savings: $2.5B
+- Deferred Southeast Asia/emerging regions capex: $0.8B
+- Other efficiencies: $28B
+- **Total Savings**: $56B
+
+### Financial Outcomes
+- **Surplus**: $0.6B
+- **Total Debt**: $19.2B (Sears: $18.4B, Datsun: $0.8B, 0.15x EBITDA)
+
+---
+
+## Workforce and Operations
+- **Workforce**: 500,000 employees
+- **Stores**: 2,700 (2,400 showrooms/micro-DCs, 300 full-line Homart Mall anchor stores)
+- **Other Operations**: 280 malls, 60 logistics distribution centers, 140 Saks stores, 280 Atari Arcades (Homart malls), Cub Cadet factories/R&D, Datsun support, Sears World Trade, Inc.
+
+---
+
+## Facilities
+- **Sears HQ**: Dallas, TX ($18M)
+- **R&D Facilities**:
+  - Atari, Kodak, Yahoo!, Zenith: Austin, TX ($50M, $50M, $30M, $30M, collaborating labs)
+  - Cub Cadet: Austin, TX ($18M)
+  - Sears/Whirlpool joint R&D: Austin, TX ($30M)
+- **Other HQs**:
+  - Sears Canada, Toronto, $12M/year
+  - Yahoo!: Austin, TX, $15M/year
+  - Dean Witter: Dallas, TX $8M/year
+  - Datsun satellite: Dallas, TX $18M/year
+  - Chicago satellite: $15M/year
+  - Jakarta satellite: $10M/year
+- **World Trade Offices**: Tokyo, Seoul, Taipei, Frankfurt, Mumbai ($25M)
+- **Datsun HQ/R&D**: Yokohama, Japan $28M/year
+
+**Sears Corporation R&D Spending**: $1.5 billion annually by 2035, focused on core retail operations, supply chain AI, and in-store tech upgrades (e.g., AR fitting rooms and automated inventory).
+
+---
+
+## Strategic Pillars
+### 1. Tech Division
+**Objective**: Scale to **$1.2T** revenue, outpacing Amazon ($800B), Apple ($350B), Home Depot ($140B), Stanley Black & Decker ($16B).
+
+- **Workforce**: 38,000 employees (+2,000 for Atari) – Payroll: $20/hour min wage floor; 10% premium above medians for roles (e.g., tech specialists ~$30-40/hour); annual reviews tied to inflation/market benchmarks.
+- **Revenue (2025)**: $600B (NA: $420B, Expanded: $180B)
+- **Revenue (2035)**: $1.2T (NA: $840B, Expanded: $360B)
+- **Budget**: $60B
+- **Value (2025)**: $900B
+- **Value (2035)**: $1.8T
+
+#### Sears.com
+- **SKUs**: 10M (6M first-party, 4M third-party)
+- **Users**: 280M (170M mobile, 85M Prime members)
+- **Market Share (2025)**: 25% North America ($800B TAM, revenue $200B), 8% Expanded ($1.8T TAM, revenue $144B)
+- **Market Share (2035)**: 35% North America ($4T TAM, revenue $1.4T), 12% Expanded ($4.5T TAM, revenue $540B)
+- **Features**:
+  - Saks Off 5th: 280,000 SKUs, $12B
+  - PartsDirect: 900,000 SKUs, $50B (Dallas, Guadalajara, Martin, Brownsville)
+  - Books/CDs: $8B
+  - Zenith/Silvertone: $35B-$55B (Guadalajara)
+  - Cub Cadet: 90,000 SKUs, $2B-$2.5B (Martin, Brownsville, Austin R&D)
+  - Datsun: 90,000 SKUs, $0.4B-$0.8B (parts/accessories)
+  - World Trade: 900,000 SKUs, $25B-$30B
+  - Yahoo!/KENN AI: $3.5B, $50B uplift
+  - Sears Prime: $55/year, $4.5B (warranties, free/same-day delivery, promotions)
+  - SearsPay: 110M users, $800B processed
+  - Mobile app: $5B
+  - Shopify tools: $1.5B uplift
+- **Revenue (2025)**: $344B (NA: $275.2B, Expanded: $68.8B)
+- **Revenue (2035)**: $900B (NA: $720B, Expanded: $180B)
+- **Budget**: $35B (+$0.8B for Zenith/Silvertone/Saks/Atari/World Trade, $80M for Cub Cadet/Datsun)
+- **Value (2025)**: $516B
+- **Value (2035)**: $1.35T
+
+#### SCloud
+- **Revenue (2025)**: $200B (NA: $140B, Expanded: $60B)
+- **Revenue (2035)**: $375B (NA: $262.5B, Expanded: $112.5B)
+- **Value (2025)**: $300B
+- **Value (2035)**: $562.5B
+- **Market Share (2025)**: 10% Global ($1T TAM)
+- **Market Share (2035)**: 15% Global ($2.5T TAM)
+- **Clients**: 2M, 25% Expanded share
+- **Features**:
+  - 60 data centers ($5.5B, +3 for Atari)
+  - IaaS/PaaS: $2.5B
+  - Savings: $2B
+  - Atari gaming: 55M users, $8B (Osaka)
+- **Budget**: $10B (+$0.8B for gaming)
+
+#### KENN AI
+- **Revenue (2025)**: $8B (NA: $5.6B, Expanded: $2.4B)
+- **Revenue (2035)**: $10B (NA: $7B, Expanded: $3B)
+- **Uplift (2025)**: $70B
+- **Uplift (2035)**: $80B
+- **Market Share**: N/A (internal uplift tool)
+- **Features**:
+  - Multimodal, contextually aware retail intelligence (non-black-box AGI with xAI)
+  - Retail Discovery: $18B uplift (incl. Cub Cadet/Datsun)
+  - Kodak image recognition
+  - Logistics routing: $14B savings
+  - Fraud detection: $7B savings
+  - SearsCoin management: $1.5B
+  - Smart home: $3.5B uplift (incl. Cub Cadet/Datsun)
+  - Career guidance: $8B uplift
+  - Gaming: $3.5B uplift
+  - Luxury (Saks): $1.5B uplift
+  - Cub Cadet R&D: $0.4B uplift (Austin)
+  - Datsun R&D: $1.5B uplift (Yokohama)
+  - World Trade vetting: $1.5B uplift
+- **Security**:
+  - Regional subnets, quantum resilience layers
+  - Quantum-resistant blockchain protocols, autonomous cybersecurity agents
+  - Multimodal threat detection (network traffic, user behavior, physical sensors, financial transactions)
+  - Manages data anonymization, consent agents, threat detection, quantum resilience
+  - Transparent consumer dashboards for data sale payouts via SearsPay/SearsCoin
+- **Budget**: $6B ($3.5B infrastructure, $2B onboarding, $0.3B Atari, $0.15B Saks/World Trade, $0.04B Datsun)
+- **Value (2025)**: $120B
+- **Value (2035)**: $150B
+
+#### Consumer Data Marketplace
+- **Revenue (2025)**: $5B (NA: $3.5B, Expanded: $1.5B)
+- **Revenue (2035)**: $6B (NA: $4.2B, Expanded: $1.8B)
+- **Market Share (2025)**: 12% of $40B market
+- **Market Share (2035)**: 13% of $45B market
+- **Features**:
+  - 180M users, 20 partners (Apple, Kroger, LVMH, Whirlpool, Shopify, Namco/Bandai, Capcom, Sega/Sammy, Saks, World Trade, Yamaha, Datsun, etc.)
+  - 50/50 profit split (Sears/partners-consumers)
+  - Voluntary opt-in, accessed via SearsPay dashboard
+  - Uplift: $3.5B (Sears.com, incl. $0.15B Cub Cadet/Datsun), $1.5B Yahoo!, $1.5B Atari, $0.8B Saks, $0.4B World Trade
+  - Vetted data brokers, consumer ratings, free buyer charts/analytics
+- **Budget**: Included in KENN AI
+- **Value (2025)**: $7.5B
+- **Value (2035)**: $9B
+
+---
+
+### 2. Retail Stores and Showrooms
+**Objective**: Scale to 2,700 stores (2,400 showrooms/micro-DCs, 300 full-line), capture 10% retail market share.
+
+- **Workforce**: 180,000 (+3,000 Saks, 4,500 showrooms/Datsun) – Payroll: $20/hour min wage floor; 10% premium above medians for roles (e.g., retail floor ~$20-22/hour floored at min); annual reviews tied to inflation/market benchmarks.
+- **Revenue (2025)**: $160B (NA: $128B, Expanded: $32B)
+- **Revenue (2035)**: $180B (NA: $144B, Expanded: $36B)
+- **Market Share (2025)**: 8% NA retail
+- **Market Share (2035)**: 10% NA retail
+- **Budget**: $12B (+$0.8B for 1,400 showrooms, $350M Atari, $80M Cub Cadet, $400M Datsun)
+- **Features**:
+  - Kiosks: $200M (+$18M for 280 showrooms)
+  - Workshops: $500M
+  - Robotics: $0.8B (Dallas)
+  - Kroger anchors: $1.8B uplift
+  - Atari demo kiosks: 90,000 units, $0.8B
+  - Cub Cadet displays: $80M
+  - Datsun displays: $0.4B in 1,400 showrooms (North America DTC sales)
+- **Value (2025)**: $240B
+- **Value (2035)**: $270B
+
+---
+
+### 3. Homart Development & Coldwell Banker
+**Objective**: Scale to 280 purchased/redeveloped malls, 110,000 apartments.
+
+- **Workforce**: 17,000 (+1,200 for 45 malls) – Payroll: $20/hour min wage floor; 10% premium above medians for roles (e.g., property management ~$20-25/hour); annual reviews tied to inflation/market benchmarks.
+- **Revenue (2025)**: $33B (Homart $25B, Coldwell $8B) (NA: $29.7B, Expanded: $3.3B)
+- **Revenue (2035)**: $65B (Homart $50B, Coldwell $15B) (NA: $58.5B, Expanded: $6.5B)
+- **Budget**: $3.5B ($1.2B malls, $1B apartments, $0.4B Atari, $0.7B Saks, $0.08B Datsun)
+- **Value (2025)**: Homart $100B, Coldwell $16B
+- **Value (2035)**: Homart $200B, Coldwell $30B
+- **Market Share (2025)**: Homart 8% NA, Coldwell 6% NA
+- **Market Share (2035)**: Homart 10% NA, Coldwell 8% NA
+
+#### Homart Development
+- **Features**:
+  - 280 malls: $24B leases (75% third-party tenants: Macy’s, Gap; 25% Sears, Kroger, Atari, Saks, Datsun, dollar stores, clinics, salons, bookstores, etc.)
+  - 110,000 apartments: $17B
+  - 22,000 bots, 6,500 drones: $1B (Dallas)
+  - Atari lounges: $400M
+  - Datsun displays: $80M (45 rotating through 280 malls)
+  - Community initiatives:
+    - Toastmasters partnership: 280 mall chapters, public speaking events ($8M)
+    - Vetted buskers/musicians: mall squares/entrances ($8M)
+    - Community gardens: underutilized mall property ($0.9M)
+    - Parking lot sausage/pancake breakfast: Summer clearance sale ($18M)
+    - Car Clubs: annual show & shines ($8M)
+    - Carnivals/Shriners: parking lot fairs/circuses ($18M)
+
+#### Coldwell Banker
+- **Features**: $15B revenue from brokerage, now managing Sears Mortgage for real estate synergies.
+
+---
+
+### 4. Sears Logistics
+**Objective**: Scale to 60 distribution centers, capture 0.5% of $15T global market.
+
+- **Workforce**: 90,000 employees – Payroll: $20/hour min wage floor; 10% premium above medians for roles (e.g., logistics workers ~$20-27.50/hour); annual reviews tied to inflation/market benchmarks.
+- **Revenue (2025)**: $60B (NA: $42B, Expanded: $18B)
+- **Revenue (2035)**: $75B (NA: $52.5B, Expanded: $22.5B)
+- **Market Share (2025)**: 0.4% Global ($10T TAM)
+- **Market Share (2035)**: 0.5% Global ($15T TAM)
+- **Budget**: $19B (+$0.8B Atari, $180M Saks, $0.4B World Trade, $80M Cub Cadet, $180M Datsun)
+- **Features**:
+  - 60 distribution centers
+  - 8,000 micro-DCs (2,000 at showrooms): $3.2B
+  - 180,000 hybrid vehicles (serviced at Sears Auto Centers) with KENN AI: $9B
+  - 180,000 KivaBots, 43,000 Dragonfly drones: $2.5B (Dallas)
+  - Atari distribution: $0.8B (Osaka)
+  - Saks logistics: $180M
+  - World Trade logistics: $0.4B
+  - Cub Cadet distribution: $80M (Martin, Brownsville)
+  - Datsun distribution: $180M (North America DTC)
+- **Self-Healing Supply Chains**: KENN AI autonomously reroutes shipments, shifts production (Whirlpool/Serta integration), manages inventory for global disruptions (geopolitical, climate, trade)
+- **Value (2025)**: $90B
+- **Value (2035)**: $112.5B
+
+---
+
+### 5. Factories & Brands
+**Objective**: Scale factories and brands to generate $250B, leveraging Cub Cadet and Datsun.
+
+- **Workforce**: 27,000 (+1,000 Zenith, 2,800 Dallas/Colorado, 1,800 Surabaya, 900 Atari Osaka, 2,200 Cub Cadet Martin/Brownsville, 450 Cub Cadet R&D Austin) – Payroll: $20/hour min wage floor; 10% premium above medians for roles (e.g., factory workers ~$20-22/hour); annual reviews tied to inflation/market benchmarks.
+- **Revenue (2025)**: $200B (NA: $160B, Expanded: $40B)
+- **Revenue (2035)**: $250B (NA: $200B, Expanded: $50B)
+- **Budget**: $24B ($0.5B Guadalajara, $0.7B Surabaya/Osaka, $0.5B Dallas/Colorado, $0.25B Martin/Brownsville, $0.04B Cub Cadet R&D, $1.8B Atari, $0.25B developer/modder kits, $1B Saks, $1.8B Datsun)
+- **Features**:
+  - Whirlpool/Serta/SMB supplier profit-sharing: $3.5B uplift
+  - Second Guadalajara plant: $0.5B (2030)
+  - Atari gaming: 55M users, $8B; indie developer kits: $250M
+  - Gaming stakes: $0.6B (2026)
+  - “Stop Killing Games” initiative: $350M
+  - Saks expansion: 140 stores, $1B
+  - Surabaya/Osaka: $0.7B
+  - Martin/Brownsville: 450,000 mowers/rotor tillers/snowblowers, $2B ($0.25B capex)
+  - Austin R&D: $0.8B uplift
+  - Datsun synergies: $6B (Sears.com, Auto Centers, HomeForce, Allstate)
+- **Value (2025)**: $300B
+- **Value (2035)**: $375B
+
+#### Core Brands
+| Brand | Ownership | Market Share (2025) | Market Share (2035) | Production | Revenue (2025) | Revenue (2035) | Capex | Value (2025) | Value (2035) |
+|-------|-----------|---------------------|---------------------|------------|----------------|----------------|-------|--------------|--------------|
+| **Kenmore** | Sears/Whirlpool | 35% NA, 12% Expanded | 38% NA, 14% Expanded | 900,000 units (Dallas), 450,000 (Surabaya/Osaka) | $90B (NA: $72B, Expanded: $18B) | $100B (NA: $80B, Expanded: $20B) | $1.2B (Dallas: $0.8B, Surabaya/Osaka: $0.3B, Austin R&D: $0.1B) | $135B | $150B |
+| **Craftsman** | Full | 28% NA, 10% Expanded | 30% NA, 12% Expanded | 1.8M power tools (Dallas), 18M hand tools (Colorado) | $11B (NA: $8.8B, Expanded: $2.2B) | $12B (NA: $9.6B, Expanded: $2.4B) | $0.8B (Dallas: $0.4B, Colorado: $0.4B) | $16.5B | $18B |
+| **Cub Cadet** | Full (acquired 2016) | 12% NA, 6% Expanded | 15% NA, 8% Expanded | 180,000 (Martin), 270,000 (Brownsville) | $5B (NA: $4.5B, Expanded: $0.5B) | $5.5B (NA: $4.95B, Expanded: $0.55B) | $0.3B (Martin: $0.09B, Brownsville: $0.18B, Austin R&D: $0.03B) | $7.5B | $8.25B |
+| **DieHard Batteries** | Full | 25% NA, 15% Expanded | 28% NA, 17% Expanded | 5.4M batteries (Dallas) | $9B (NA: $7.2B, Expanded: $1.8B) | $10B (NA: $8B, Expanded: $2B) | $0.4B (Dallas) | $13.5B | $15B |
+| **WeatherBeater** | Sherwin-Williams | 15% NA, 8% Expanded | 17% NA, 9% Expanded | Paints/sealants | $6B (NA: $4.8B, Expanded: $1.2B) | $6.5B (NA: $5.2B, Expanded: $1.3B) | - | $9B | $9.75B |
+| **RoadHandler Tires** | Cooper Tire | 18% NA, 10% Expanded | 20% NA, 11% Expanded | Tires | $20B (NA: $16B, Expanded: $4B) | $22B (NA: $17.6B, Expanded: $4.4B) | - | $30B | $33B |
+| **Coldspot Refrigerants** | Sears/Whirlpool | 12% NA, 8% Expanded | 14% NA, 9% Expanded | 225,000 (Dallas), 270,000 (Surabaya/Osaka) | $35B (NA: $28B, Expanded: $7B) | $40B (NA: $32B, Expanded: $8B) | $0.8B (Dallas: $0.4B, Surabaya/Osaka: $0.3B, Austin R&D: $0.1B) | $52.5B | $60B |
+| **Harmony House** | Sears/Serta (20%) | 18% NA, 6% Expanded | 20% NA, 7% Expanded | 1.8M mattresses (Surabaya), 900,000 (Guadalajara) | $7B (NA: $5.6B, Expanded: $1.4B) | $7.5B (NA: $6B, Expanded: $1.5B) | $0.4B (Surabaya: $0.16B, Guadalajara: $0.24B) | $10.5B | $11.25B |
+| **Silvertone** | Full | 18% NA, 8% Expanded | 20% NA, 9% Expanded | 1.1M audio devices (Guadalajara) | $45B (NA: $36B, Expanded: $9B) | $50B (NA: $40B, Expanded: $10B) | $0.4B (Guadalajara) | $67.5B | $75B |
+| **Char-Broil** | Char-Broil | 12% NA, 7% Expanded | 14% NA, 8% Expanded | Grills | $1B (NA: $0.8B, Expanded: $0.2B) | $1.1B (NA: $0.88B, Expanded: $0.22B) | - | $1.5B | $1.65B |
+| **Saks Fifth Avenue** | Full (acquired 2025, $400M) | 3% Global | 5% Global | 140 stores, USA/Japan/EU-sourced | $20B (NA: $16B, Expanded: $4B) | $30B (NA: $24B, Expanded: $6B) | $1.3B | $30B | $45B |
+| **Saks Off 5th** | Full (acquired 2025) | 2% Global | 4% Global | Sears.com storefront | $10B (NA: $8B, Expanded: $2B) | $15B (NA: $12B, Expanded: $3B) | $0.5B | $15B | $22.5B |
+| **Kodak Optics/Graphics** | Full (acquired 2009, $205M) | 10% Global | 15% Global | Lenses for Sears Optical, AI image tech | $4B (NA: $3.2B, Expanded: $0.8B) | $6B (NA: $4.8B, Expanded: $1.2B) | $0.2B | $6B | $9B |
+
+---
+
+### 6. Sears World Trade, Inc.
+**Objective**: Capture 18% of $130B NA/Expanded SKU market, scale to 900,000 SKUs generating $30B.
+
+- **Workforce**: 4,500 (+1,800 global ops) – Payroll: $20/hour min wage floor; 10% premium above medians for roles (e.g., procurement/logistics ~$20-25/hour); annual reviews tied to inflation/market benchmarks.
+- **Revenue (2025)**: $25B (electronics: $10B, tools: $8B, apparel: $6B, automotive: $1B) (NA: $12.5B, Expanded: $12.5B)
+- **Revenue (2035)**: $30B (electronics: $12B, tools: $9B, apparel: $8B, automotive: $1B) (NA: $15B, Expanded: $15B)
+- **Market Share (2025)**: 15% ($100B TAM)
+- **Market Share (2035)**: 18% ($130B TAM)
+- **Budget**: $2.2B ($0.4B logistics, $0.9B vetting, $0.9B onboarding, $0.04B Datsun)
+- **Features**:
+  - Offices: Tokyo, Seoul, Taipei, Frankfurt, Mumbai ($25M)
+  - Procures from EU, UK, AUS, NZ, Japan, Korea, Taiwan (9,000+ vendors)
+  - Integrates with 60 hubs ($0.4B)
+  - Consumer Data Marketplace: $0.4B uplift
+  - KENN AI vetting: $1.5B savings
+- **Value (2025)**: $37.5B
+- **Value (2035)**: $45B
+
+---
+
+### 7. HomeForce and PartsDirect
+**Objective**: Generate $28B, add 9,000 technicians.
+
+- **Workforce**: 45,000 (+9,000 Datsun commercial mobile repair) – Payroll: $20/hour min wage floor; 10% premium above medians for roles (e.g., technicians ~$25-30/hour); annual reviews tied to inflation/market benchmarks.
+- **Revenue (2025)**: $25B (NA: $20B, Expanded: $5B)
+- **Revenue (2035)**: $28B (NA: $22.4B, Expanded: $5.6B)
+- **Market Share (2025)**: 8% home services
+- **Market Share (2035)**: 10% home services
+- **Budget**: $6B (+$350M Atari, $180M Cub Cadet, $0.4B-$0.8B Datsun)
+- **Features**:
+  - PartsDirect: 1.9M SKUs, $50B (Dallas, Guadalajara, Martin, Brownsville)
+  - Academy training: $350M
+  - Atari repairs: $350M (Osaka)
+  - Cub Cadet parts: $180M (Martin, Brownsville)
+  - Datsun mobile repair: $0.8B (commercial fleets, NA)
+- **Value (2025)**: $37.5B
+- **Value (2035)**: $42B
+
+---
+
+### 8. Auto Centers
+**Objective**: Scale to 2,900 centers, generate $38B. (Avg revenue per store: $13M)
+
+- **Workforce**: 18,000 (+4,500 Datsun service) – Payroll: $20/hour min wage floor; mechanics at $50/hour base with warranty incentives (hybrid pay, tiered bonuses, no-fault safety net, quarterly team incentives); other roles 10% premium above medians; annual reviews tied to inflation/market benchmarks.
+- **Revenue (2025)**: $30B (NA: $24B, Expanded: $6B) (2,000 centers * $15M avg)
+- **Revenue (2035)**: $38B (NA: $30.4B, Expanded: $7.6B) (2,900 centers * $13M avg)
+- **Market Share (2025)**: 7% NA auto service (based on 2,000 stores / ~28,000 US shops)
+- **Market Share (2035)**: 9% NA auto service
+- **Budget**: $6B (+$180M Cub Cadet, $1.2B-$1.8B Datsun)
+- **Features**:
+  - Electric/hybrid/ICE vehicle servicing: $3.5B ($700M uplift for Sears Logistics fleet)
+  - DieHard batteries: Dallas factory
+  - Membership: $1.8B
+  - KENN diagnostics: $0.8B uplift
+  - Cub Cadet/Datsun tires: $400M (RoadHandler, Cooper Tire)
+  - Datsun warranty/servicing: $1.8B (NA DTC)
+- **Value (2025)**: $45B
+- **Value (2035)**: $57B
+
+---
+
+### 9. Sears Financial Division
+**Objective**: Generate $75B.
+
+- **Workforce**: 3,500 employees – Payroll: $20/hour min wage floor; 10% premium above medians for roles (e.g., financial specialists ~$25-35/hour); annual reviews tied to inflation/market benchmarks.
+- **Revenue (2025)**: $60B (NA: $48B, Expanded: $12B)
+- **Revenue (2035)**: $75B (NA: $60B, Expanded: $15B)
+- **Budget**: $24B
+- **Market Share (2025)**: 3% global financial services (~$100B TAM)
+- **Market Share (2035)**: 4% (~$150B TAM)
+- **Value (2025)**: $90B
+- **Value (2035)**: $112.5B
+
+#### Dean Witter
+- **Revenue (2025)**: $2B (Standalone)/$40B (fees) (NA: $1.6B/$32B, Expanded: $0.4B/$8B)
+- **Revenue (2035)**: $2.5B (Standalone)/$50B (fees) (NA: $2B/$40B, Expanded: $0.5B/$10B)
+- **Budget**: $0.12B
+- **Features**: Manages Corporate Wealth Fund, Bitcoin Fund, Sears Ventures, savings, brokerage.
+- **Value (2025)**: Dean-Witter $6B, Funds $13B
+- **Value (2035)**: Dean-Witter $7.5B, Funds $15B
+- **Market Share (2025)**: 2% brokerage
+- **Market Share (2035)**: 3% brokerage
+
+#### Sears Mortgage
+- **Revenue (2025)**: $1.2B (NA: $0.96B, Expanded: $0.24B)
+- **Revenue (2035)**: $1.5B (NA: $1.2B, Expanded: $0.3B)
+- **Budget**: $0.8B
+- **Features**: Managed by Coldwell Banker for real estate synergies.
+- **Market Share (2025)**: 1% mortgage
+- **Market Share (2035)**: 1.5% mortgage
+
+#### Sears Savings Accounts
+- **Revenue (2025)**: $0.5B (NA: $0.4B, Expanded: $0.1B)
+- **Revenue (2035)**: $0.6B (NA: $0.48B, Expanded: $0.12B)
+- **Budget**: $0.35B
+- **Features**: Dean Witter-managed
+- **Market Share**: N/A
+
+#### Corporate Wealth Fund
+- **Revenue (2025)**: $12B (NA: $9.6B, Expanded: $2.4B)
+- **Revenue (2035)**: $14B (NA: $11.2B, Expanded: $2.8B)
+- **Budget**: $6.5B (+$1.2B Atari, $0.4B Datsun)
+- **Features**: Assets: $14B (founded 2009, $1.8B), Dean Witter-managed
+
+#### Bitcoin Fund
+- **Budget**: $0.35B
+- **Features**: Assets: $1.2B, Dean Witter-managed
+
+#### Sears Ventures
+- **Revenue (2025)**: $18B (NA: $14.4B, Expanded: $3.6B)
+- **Revenue (2035)**: $20B (NA: $16B, Expanded: $4B)
+- **Budget**: $6B (+$0.8B gaming, $1.8B Datsun)
+- **Features**:
+  - NA SMB startup venture capital: $20B
+  - Gaming startups: $1.8B (Atari)
+  - Electric/hybrid vehicle startups: $1.8B (Datsun)
+  - SMB Sears.com retailer preference program: $1.8B
+
+#### Discover Card Network and SearsPay
+- **Revenue (2025)**: $10B (NA: $8B, Expanded: $2B)
+- **Revenue (2035)**: $11B (NA: $8.8B, Expanded: $2.2B)
+- **Budget**: $1.8B
+- **Features**:
+  - Facilitates SearsPay (one-click purchase), SearsCoin, Datsun financing/leasing
+  - Rewards: 2% non-Sears, 3% Sears/affiliates cashback or 3%/5% SearsCoin
+  - Terms: 21-day grace period, 14.95% interest, $40/SearsCoin yearly fee
+  - Credit checks/underwriting for BNPL loans (purchases >$1,500, credit check required, no multiple BNPLs, regulatory data provided)
+  - Avoids 6% BNPL fees (e.g., Klarna, ClearPay)
+- **Market Share (2025)**: 4%
+- **Market Share (2035)**: 5%
+
+#### SearsCoin
+- **Revenue (2025)**: $16B (NA: $12.8B, Expanded: $3.2B)
+- **Revenue (2035)**: $18B (NA: $14.4B, Expanded: $3.6B)
+- **Budget**: $4.2B (+$0.35B Atari, $0.14B Saks, $0.09B World Trade, $0.09B Cub Cadet, $0.4B Datsun)
+- **Users**: 110M
+- **Features**:
+  - Rewards across Discover Card network
+  - Consumer Data Marketplace payment method
+  - Atari, Saks, World Trade, Cub Cadet, Datsun eligibility
+  - 3% non-Sears, 5% Sears/affiliates SearsCoin or 2%/3% cashback: $3B uplift (+$0.8B Atari, $0.18B Saks, $0.09B World Trade, $0.09B Cub Cadet, $0.4B Datsun)
+- **Market Share**: N/A
+
+---
+
+### 10. Sears Optical Centers
+**Objective**: Maintain 750 showrooms (280 at Homart malls). (Avg revenue per center: $7M)
+
+- **Workforce**: 9,000 employees – Payroll: $20/hour min wage floor; 10% premium above medians for roles (e.g., opticians ~$20-25/hour); annual reviews tied to inflation/market benchmarks.
+- **Revenue (2025)**: $4.5B (NA: $3.6B, Expanded: $0.9B) (750 * $6M avg)
+- **Revenue (2035)**: $5.25B (NA: $4.2B, Expanded: $1.05B) (750 * $7M avg)
+- **Market Share (2025)**: 8% NA optical (based on 750 centers / ~9,000 US shops)
+- **Market Share (2035)**: 9% NA optical
+- **Budget**: $2.8B (+$180M gaming optics)
+- **Features**: Kodak-branded/engineered lightweight prescription lenses, eye care
+- **Value (2025)**: $6.75B
+- **Value (2035)**: $7.875B
+
+---
+
+### 11. Sears Academy and Sustainability
+**Objective**: Scale to 220 college partners, provide $35B revenue uplift.
+
+- **Workforce**: 6,500 employees – Payroll: $20/hour min wage floor; 10% premium above medians for roles (e.g., educators/trainers ~$25-30/hour); annual reviews tied to inflation/market benchmarks.
+- **Revenue Uplift (2025)**: $30B
+- **Revenue Uplift (2035)**: $35B
+- **Budget**: $4.5B (+$250M gaming, $90M Saks/World Trade/Cub Cadet/Datsun)
+- **Features**:
+  - Network of 220 colleges, Dallas polytechnic campus ($180M)
+  - Programs: AI, robotics, electric/hybrid/ICE vehicle tech, gaming development ($90M), luxury retail ($90M), procurement/logistics ($90M), factory operations ($90M), automotive service ($90M Datsun)
+  - KENN integration: $10B uplift (+$1.2B gaming, $0.4B World Trade, $0.8B Cub Cadet, $0.8B Datsun)
+  - Offers: Scholarships, 228-piece Craftsman kits, interviews, certifications (Atari, Saks, World Trade, Cub Cadet, Datsun)
+  - Upskills 500,000 employees, promotes economic mobility near 280 malls
+  - Sustainability: Green factories ($0.8B: Dallas, Colorado, Guadalajara, Surabaya, Osaka, Martin, Brownsville), community programs ($350M), Atari compliance ($350M)
+- **Value (2025)**: N/A (uplift)
+- **Value (2035)**: N/A (uplift)
+
+---
+
+### 12. Sears Robotics
+**Objective**: Scale to $45B revenue, 15% global robotics share.
+
+- **Workforce**: 8,000 – Payroll: $20/hour min wage floor; 10% premium above medians for roles (e.g., robotics engineers ~$30-40/hour); annual reviews tied to inflation/market benchmarks.
+- **Revenue (2025)**: $20B (NA: $14B, Expanded: $6B)
+- **Revenue (2035)**: $45B (NA: $31.5B, Expanded: $13.5B)
+- **Market Share (2025)**: 10% Global ($200B TAM)
+- **Market Share (2035)**: 15% Global ($300B TAM)
+- **Features**:
+  - Gen 3 Kodak Optics
+  - Consumer robots: 280,000 units, $1.5B (Dallas)
+  - Automated guided vehicles: 90,000 units, $5B (Dallas)
+  - Drones: 22,000 units, $3.5B (Dallas)
+  - Appliance bots: $3.5B (Dallas, Surabaya)
+  - Lawn mowers: $3.5B (Martin, Brownsville)
+  - Atari peripherals: $1.5B (Osaka)
+  - Cub Cadet electronics/RC parts: $80M (Dallas)
+  - Datsun smart vehicle components: $80M (Dallas)
+- **Budget**: $5.5B (+$350M for gaming, $40M for Cub Cadet/Datsun)
+- **Value (2025)**: $30B
+- **Value (2035)**: $67.5B
+
+---
+
+### 13. Sears Subsidiaries/Support
+#### Sears Canada
+- **Ownership**: Wholly owned
+- **HQ**: Toronto ($45M)
+- **Objective**: Maintain 220 stores/Auto Centers, incorporate Datsun showrooms
+- **Revenue (2025)**: $16B (NA: $16B, Expanded: $0)
+- **Revenue (2035)**: $18B (NA: $18B, Expanded: $0)
+- **Budget**: $4B (+$180M Atari, $90M Cub Cadet, $90M Datsun)
+- **Features**:
+  - Atari demo kiosks: 18,000 units, $180M (Osaka)
+  - Cub Cadet displays: $90M (Martin, Brownsville)
+  - Datsun displays: $90M (NA DTC)
+- **Value (2025)**: $24B
+- **Value (2035)**: $27B
+- **Market Share**: 10% Canada retail
+- **R&D Spending**: $400 million annually by 2035 (regional tech adaptations and store innovations).
+- **2035 Mini Financial Snapshot**: Revenue $18B, Net Profit $1.8B (10% margin), Employee Count 20,000, R&D % of Revenue 2.2%.
+
+#### Yahoo!
+- **Ownership**: Standalone, acquired 1997 ($1.5B)
+- **HQ**: Austin, TX ($30M)
+- **Market Share (2025)**: 30% ($90B TAM)
+- **Market Share (2035)**: 35% ($130B TAM)
+- **Revenue (2025)**: $27B (NA: $21.6B, Expanded: $5.4B)
+- **Revenue (2035)**: $45.5B (NA: $36.4B, Expanded: $9.1B)
+- **Features**:
+  - 900M users
+  - KENN AI-integrated Yahoo! Search rewards (Microsoft Edge-like, SearsCoin payouts)
+  - Conversational, trusted, impartial, comparative, recommendation-driven discovery
+- **Value (2025)**: $40.5B
+- **Value (2035)**: $68.25B
+- **R&D Spending**: $1.2 billion annually by 2035 (heavy investment in AI-driven search algorithms, ad tech, and content personalization).
+- **2035 Mini Financial Snapshot**: Revenue $45.5B, Net Profit $7.28B (16% margin), Employee Count 12,000, R&D % of Revenue 2.6%.
+
+#### Datsun
+- **Ownership**: Standalone, 33-51% Sears stake (2026-2028, $8B)
+- **HQ**: Yokohama, Japan ($45M)
+- **Market Share (2025)**: 6% hybrid/compact ($400B TAM)
+- **Market Share (2035)**: 8% hybrid/compact ($600B TAM)
+- **Revenue (2025)**: $24B (NA: $16.8B, Expanded: $7.2B)
+- **Revenue (2035)**: $48B (NA: $33.6B, Expanded: $14.4B)
+- **Capex**: $3.5B (9 factories: 3 US truck/van, 6 Japan car/crossover/240SX)
+- **Features**:
+  - 900,000 vehicles, 140,000 employees
+  - Yamaha engines (1.5L hybrid/2.0L turbo/2.8L NA V6, 250-400hp, 40-50 MPG)
+  - Getrag transmissions
+  - 5-6 models ($18K-$45K)
+  - NA DTC via Sears.com (280M users), showrooms (test drives), Homart mall displays
+  - ~2,800 dealerships in Japan/Expanded
+  - Allstate bundles: <$900/month
+  - Synergies: $6B (Sears.com, Auto Centers, HomeForce, Allstate)
+- **Value (2025)**: $36B
+- **Value (2035)**: $72B
+- **R&D Spending**: $800 million annually by 2035 (focus on hybrid/EV tech, engine partnerships, and smart vehicle integration).
+- **2035 Mini Financial Snapshot**: Revenue $48B, Net Profit $3.84B (8% margin), Employee Count 140,000, R&D % of Revenue 1.7%.
+
+#### Zenith
+- **Ownership**: Standalone, acquired 1995 ($585M)
+- **HQ**: Austin, TX
+- **Market Share (2025)**: 15% NA, 10% Expanded ($350B TAM)
+- **Market Share (2035)**: 18% NA, 11% Expanded ($450B TAM)
+- **Revenue (2025)**: $50B (NA: $40B, Expanded: $10B)
+- **Revenue (2035)**: $55B (NA: $44B, Expanded: $11B)
+- **Features**: Guadalajara production, KENN integration for TVs/audio
+- **Value (2025)**: $75B
+- **Value (2035)**: $82.5B
+- **R&D Spending**: $800 million annually by 2035 (heavy focus on smart home devices, OLED tech, and sustainable manufacturing).
+- **2035 Mini Financial Snapshot**: Revenue $55B, Net Profit $6.6B (12% margin), Employee Count 8,500, R&D % of Revenue 1.5%.
+
+#### Atari Home Entertainment
+- **Ownership**: Standalone, acquired 2013 ($30M)
+- **HQ**: Austin/Osaka
+- **Market Share (2025)**: 15% Global ($400B TAM)
+- **Market Share (2035)**: 20% Global ($500B TAM)
+- **Revenue (2025)**: $60B (NA: $42B, Expanded: $18B)
+- **Revenue (2035)**: $100B (NA: $70B, Expanded: $30B)
+- **Features**: 55M users, console/cloud gaming, acquisitions synergies
+- **Value (2025)**: $90B
+- **Value (2035)**: $150B
+- **R&D Spending**: $700 million annually by 2035 (heavy investment in VR/AR gaming, retro revivals, and blockchain integrations).
+- **2035 Mini Financial Snapshot**: Revenue $100B, Net Profit $14B (14% margin), Employee Count 5,200, R&D % of Revenue 0.7%.
+
+#### Western Forge
+- **Ownership**: Standalone, acquired 2009 ($70M)
+- **HQ**: Colorado
+- **Market Share (2025)**: 20% NA tools ($50B TAM)
+- **Market Share (2035)**: 25% NA tools ($60B TAM)
+- **Revenue (2025)**: $2B (NA: $1.6B, Expanded: $0.4B)
+- **Revenue (2035)**: $4B (NA: $3.2B, Expanded: $0.8B)
+- **Features**: KENN AI-integrated factory for Craftsman tools
+- **Value (2025)**: $3B
+- **Value (2035)**: $6B
+- **R&D Spending**: $300 million annually by 2035 (AI-integrated tool design and materials).
+- **2035 Mini Financial Snapshot**: Revenue $4B, Net Profit $600M (15% margin), Employee Count 2,000, R&D % of Revenue 7.5%.
+
+---
+
+## Financial Snapshot (2025)
+- **Total Revenue**: $2T (Datsun: $24B) (NA: $1.6T, Expanded: $0.4T)
+- **EBITDA**: $160B (8% margin)
+- **Valuation**: $2.4T (15x EBITDA)
+- **Surplus**: $0.5B
+- **Debt**: $18B (0.11x EBITDA)
+
+## Financial Snapshot (2035)
+- **Total Revenue**: $2.5T (Datsun: $48B) (NA: $2T, Expanded: $0.5T)
+- **EBITDA**: $200B (8% margin)
+- **Valuation**: $3T (15x EBITDA)
+- **Surplus**: $0.6B
+- **Debt**: $19.2B (0.1x EBITDA)
+
+---
+
+## Competitive Positioning (2035)
+| Metric | Sears | Amazon | Walmart | Alibaba | Apple | Home Depot | SBD | Toyota | Datsun |
+|--------|-------|--------|---------|--------|-------|------------|-----|--------|--------|
+| **Revenue** | $2.5T | $800B | $650B | $450B | $350B | $140B | $16B | $280B | $48B |
+| **E-commerce Users** | 280M | 140M | 28M | 180M | 90M | 18M | 4M | - | - |
+| **Market Share** | 35% NA, 12% Expanded | 22% NA | 4% global | 13% global | 9% services | 13% home imp. | 9% tools | 28% hybrids | 8% hybrids |
+| **Gaming Share** | 20% (Atari) | 4% (Arcade) | - | - | 4% | - | - | - | - |
+| **Valuation** | $3T | $900B | $450B | $540B | $2.7T | $360B | $18B | $270B | $72B |
+
+---
+
+## Decentralized Management
+**Objective**: Ensure agility across Sears’ empire, emphasizing factories and Datsun, with 70% autonomy by 2035.
+
+- **Decentralized Business Units**: 13 (Tech, Retail, Homart, Logistics, Factories/Brands, Sears World Trade, HomeForce, Auto Centers, Financial, Canada, Optical, Academy/Sustainability, Robotics)
+- **Factories/Brands**:
+  - Manages Dallas ($2.8B capex), Colorado ($0.4B), Guadalajara ($1.4B), Surabaya ($0.35B), Osaka ($0.35B), Martin ($0.09B), Brownsville ($0.18B), Austin R&D ($0.04B)
+  - Led by Managing Director (Dallas, $20M), Advisory Committee ($10M/year)
+- **Sears World Trade, Inc.**:
+  - Manages 900,000 SKUs ($30B)
+  - Dallas HQ ($20M), Advisory Committee ($10M/year)
+- **Regional Operating Units**:
+  - North America: Chicago ($15M/year)
+  - Southeast Asia: Jakarta ($100M)
+  - Emerging Markets: Manila ($10M, 2028)
+  - Japan/AUS/NZ/Singapore/UK: $30M each
+- **Centers of Excellence**:
+  - AI: Austin ($100M)
+  - Supply Chain: Dallas ($100M)
+  - HR: Dallas ($100M)
+  - Compliance: Dallas ($200M)
+  - Datsun Engines (Yamaha): $90M
+  - Datsun Transmissions (Getrag): $90M
+- **Global Steering Committee**:
+  - Aligns units, monitors KPIs (Atari: 20%, Sears.com: 280M users, Saks: 4%, World Trade: 900,000 SKUs, Cub Cadet: 8% NA, Datsun: 8% hybrids, factory output)
+- **KENN AI Optimizations**: $280B synergies (Atari: $3.5B, Zenith: $0.8B savings, Saks: $1.8B, World Trade: $1.5B savings, Cub Cadet: $0.8B, Datsun: $1.8B, factories: $4B savings)
+
+---
+
+### Employees
+- **Total**: 500,000 (Sears: 360,000, Datsun: 140,000)
+
+### Acquisitions/Price
+- iFixit: 1995, $50M
+- Yahoo!: 1997, $1.5B
+- Dragonfly (drones): 2001, $30M
+- Kiva (robotics): 2003, $50M
+- Western Forge: 2009, $70M
+- Serta: 2009, 20% stake, $210M (profit-sharing)
+- Kodak Optics: 2012, $205M
+- Atari: 2013, $30M
+- Cub Cadet: 2016, $500M-$625M (Martin/Brownsville)
+- Saks Off 5th: 2025, $250M (online)
+- Saks Fifth Avenue: 2025, $350M
+- Whirlpool: 2030, $2B (15% stake)
+- Kroger: 2032, $4.5B (10% stake)
+- Shopify: 2033, $2.5B (10% stake)
+- Namco/Bandai: 2026, $250M (5% stake, Atari)
+- Capcom: 2026, $200M (5% stake, Atari)
+- Sega/Sammy: 2026, $150M (5% stake, Atari)
+- Nissan/Datsun: 2026-2028, $8B (33-51% stake)
+
+---
+
+## Key Updates to Phase 4
+### Nissan/Datsun Rescue
+- **Structure**: Standalone Japanese corporation, Yokohama HQ/R&D ($45M)
+- **Ownership**: 33-51% Sears stake ($8B, 2026-2028)
+- **Revenue (2035)**: $48B (NA: $33.6B, Expanded: $14.4B)
+- **Market Share**: 8% hybrid/compact ($600B global TAM)
+- **Workforce**: 140,000
+- **Factories**: 9 (3 US truck/van, 6 Japan car/crossover/240SX, $3.5B capex)
+- **Model Lineup** (dedicated platforms):
+  - **Ultima** (FWD, $4.5B development):
+    - Compact sedan/hatchback/wagon: $18K-$28K
+    - Plug-in hybrid (1.5L Yamaha, 250hp, 45 MPG) standard, optional 2L NA I4 (6-speed manual/auto)
+    - Wagon: Full-time AWD option
+    - Targets young buyers, fleet operators
+  - **240SX** (RWD, $2.5B):
+    - Sub-compact sport coupe: $28K-$38K
+    - Hybrid or 2.8L NA V6 (Yamaha, 400hp, 35 MPG, forged internals, blower-ready)
+    - Manual standard (auto optional), RWD, 2-seater, dual exhaust, Posi-Traction T-Loc differential
+  - **Rogue** (240SX platform, $2.5B):
+    - Sub-compact hybrid CUV: $23K-$33K
+    - Hybrid (1.5L or 2L NA I4, 250hp, 40 MPG) or 2.8L V6 (350hp, 35 MPG)
+    - Part-time AWD standard
+    - Family-focused crossover
+    - 720K units, $27B
+  - **Frontier/Pathfinder** (utilitarian/4x4, $2.5B):
+    - Mid-size pickup/utility van/CUV: $22K-$40K
+    - Hybrid (1.5L, 250hp, 40 MPG) or 2.8L V6 (350hp, 35 MPG)
+    - RWD standard, part-time AWD, real 4x4 option (lockers, skid plates)
+    - 6-speed auto (manual optional)
+    - Full EV delivery van model
+    - Commercial/off-road focus
+- **Sales**:
+  - NA: Sears.com (280M users, 90,000 SKUs, $0.8B), 2,700 stores (2,400 showrooms, $0.4B Datsun displays, 280 full-line Homart malls)
+  - No NA dealerships ($2.5B savings), trade-in/test drive centers outside 280 Homart malls (5/state, not in non-DTC states)
+  - Japan/Expanded: ~2,800 dealerships
+  - Financing: 3/5-year Discover plans (10% down, no negative equity trade-ins, “Negative Equity Exit Plan” for base Ultima leases)
+- **Service**:
+  - Auto Centers: 2,900 centers, 18,000 employees, $1.8B
+  - HomeForce: 45,000 employees, $0.8B (commercial fleet mobile repair)
+- **Synergies** ($6B):
+  - DieHard batteries: $0.8B (Dallas)
+  - RoadHandler tires: $0.8B (Cooper Tire)
+  - Allstate insurance: $0.4B-$0.8B ($360-$810/month ownership)
+  - KENN AI: $1.8B uplift/savings
+  - World Trade: $0.8B
+  - Yamaha engines: $0.8B
+  - Getrag transmissions: $0.8B
+- **Financials**:
+  - Cost: $9B
+  - IPO: $4B
+  - Asset sales: $8B
+  - Debt: $0.8B
+  - EBITDA: $3.84B
+  - Valuation: $72B

@@ -254,6 +254,7 @@ By the end of Phase 3 (2025), Sears achieves significant milestones:
 ---
 
 ### 3. Homart Development & Coldwell Banker
+
 **Objective**: Scale to 280 purchased/redeveloped malls, 110,000 apartments.
 
 - **Workforce**: 18,000 (+1,200 for 45 malls)
@@ -266,6 +267,7 @@ By the end of Phase 3 (2025), Sears achieves significant milestones:
 - **Market Share (2035)**: Homart 10% NA, Coldwell 8% NA
 
 #### Homart Development
+- Homart Development Company was founded in 1959 by Sears, Roebuck and Co. as a subsidiary dedicated to real estate development, primarily focusing on building large-scale shopping centers anchored by Sears stores to capitalize on post-war suburban expansion. Named after Sears executives Homer J. Livingston and Arthur T. Martin, it pioneered enclosed malls like the Woodfield Mall in Illinois, developing over 80 properties across the U.S. by the 1990s. Known for integrating retail, entertainment, and community spaces, Homart was sold to General Growth Properties in 1995 for $1.85 billion, marking the end of Sears' direct involvement in mall development.
 - **Features**:
   - 280 malls: $24B leases (75% third-party tenants: Macy’s, Gap; 25% Sears, Kroger, Atari, Saks, Datsun, dollar stores, clinics, salons, bookstores, etc.)
   - 110,000 apartments: $17B
@@ -281,6 +283,7 @@ By the end of Phase 3 (2025), Sears achieves significant milestones:
     - Carnivals/Shriners: parking lot fairs/circuses ($18M)
 
 #### Coldwell Banker
+-Coldwell Banker was established in 1906 by Colbert Coldwell and Benjamin Arthur Banker in San Francisco, emerging from the aftermath of the devastating earthquake to focus on ethical real estate practices amid widespread fraud. Starting as a small brokerage, it pioneered innovations like standardized home listings and buyer protections, growing into a national franchise by the mid-20th century. Acquired by Sears in 1981 to diversify into real estate services, it expanded its residential and commercial operations, becoming one of the largest real estate firms in the U.S. with a reputation for reliability and extensive agent networks.
 - **Features**: $15B revenue from brokerage, now managing Sears Mortgage for real estate synergies.
 
 ---
@@ -351,6 +354,7 @@ By the end of Phase 3 (2025), Sears achieves significant milestones:
 ---
 
 ### 6. Sears World Trade, Inc.
+- Sears World Trade, Inc. was established in 1982 by Sears, Roebuck and Co. as an ambitious venture into international commerce, aiming to leverage the retail giant's supply chain for global trading in goods, services, and countertrade deals. Headquartered in Chicago, it sought to connect American manufacturers with overseas markets and import diverse products, but faced early challenges including significant financial losses due to operational complexities and market volatility. Despite initial setbacks leading to its restructuring by 1987, it represented Sears' bold attempt to evolve from domestic retailing into a multifaceted world trader.
 **Objective**: Capture 18% of $130B NA/Expanded SKU market, scale to 900,000 SKUs generating $30B.
 
 - **Workforce**: 4,500 (+1,800 global ops)

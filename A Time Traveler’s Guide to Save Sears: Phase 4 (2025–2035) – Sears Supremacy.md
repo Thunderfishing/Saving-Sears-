@@ -283,7 +283,7 @@ By the end of Phase 3 (2025), Sears achieves significant milestones:
     - Carnivals/Shriners: parking lot fairs/circuses ($18M)
 
 #### Coldwell Banker
--Coldwell Banker was established in 1906 by Colbert Coldwell and Benjamin Arthur Banker in San Francisco, emerging from the aftermath of the devastating earthquake to focus on ethical real estate practices amid widespread fraud. Starting as a small brokerage, it pioneered innovations like standardized home listings and buyer protections, growing into a national franchise by the mid-20th century. Acquired by Sears in 1981 to diversify into real estate services, it expanded its residential and commercial operations, becoming one of the largest real estate firms in the U.S. with a reputation for reliability and extensive agent networks.
+- Coldwell Banker was established in 1906 by Colbert Coldwell and Benjamin Arthur Banker in San Francisco, emerging from the aftermath of the devastating earthquake to focus on ethical real estate practices amid widespread fraud. Starting as a small brokerage, it pioneered innovations like standardized home listings and buyer protections, growing into a national franchise by the mid-20th century. Acquired by Sears in 1981 to diversify into real estate services, it expanded its residential and commercial operations, becoming one of the largest real estate firms in the U.S. with a reputation for reliability and extensive agent networks.
 - **Features**: $15B revenue from brokerage, now managing Sears Mortgage for real estate synergies.
 
 ---

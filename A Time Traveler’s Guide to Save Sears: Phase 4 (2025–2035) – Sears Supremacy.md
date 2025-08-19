@@ -267,7 +267,7 @@ By the end of Phase 3 (2025), Sears achieves significant milestones:
 - **Market Share (2035)**: Homart 10% NA, Coldwell 8% NA
 
 #### Homart Development
-- Homart Development Company was founded in 1959 by Sears, Roebuck and Co. as a subsidiary dedicated to real estate development, primarily focusing on building large-scale shopping centers anchored by Sears stores to capitalize on post-war suburban expansion. Named after Sears executives Homer J. Livingston and Arthur T. Martin, it pioneered enclosed malls like the Woodfield Mall in Illinois, developing over 80 properties across the U.S. by the 1990s. Known for integrating retail, entertainment, and community spaces, Homart was sold to General Growth Properties in 1995 for $1.85 billion, marking the end of Sears' direct involvement in mall development.
+- Homart Development Company was founded in 1959 by Sears, Roebuck and Co. as a subsidiary dedicated to real estate development, primarily focusing on building large-scale shopping centers anchored by Sears stores to capitalize on post-war suburban expansion. Named after Sears executives Homer J. Livingston and Arthur T. Martin, it pioneered enclosed malls like the Woodfield Mall in Illinois, developing over 80 properties across the U.S. by the 1990s. Known for integrating retail, entertgamingt.
 - **Features**:
   - 280 malls: $24B leases (75% third-party tenants: Macy’s, Gap; 25% Sears, Kroger, Atari, Saks, Datsun, dollar stores, clinics, salons, bookstores, etc.)
   - 110,000 apartments: $17B

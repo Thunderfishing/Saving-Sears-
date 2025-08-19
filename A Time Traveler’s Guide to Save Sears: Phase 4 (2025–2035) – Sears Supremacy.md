@@ -1,7 +1,7 @@
-# A Time Traveler’s Guide to Save Sears: Phase 4 (2025–2035) – Factory-Powered Global AI-Crypto-Luxury-Automotive Dominance
+A Time Traveler’s Guide to Save Sears: Phase 4 (2025–2035) – Factory-Powered Global AI-Crypto-Luxury-Automotive Dominance
 
 ## Mission
-The goal is to transform Sears into a vertically integrated, AI-tech-driven, crypto-powered retail-industrial mega-corporation valued at **$3 trillion** by 2035, achieving global e-commerce supremacy through **Sears.com**, generating **$900 billion** in revenue.
+The goal is to Cement Sears as a vertically integrated, 19th century born, AI-tech-driven, crypto-powered retail-industrial mega-corporation legend, valued at **$3 trillion** by 2035, achieving global e-commerce supremacy through **Sears.com**, generating **$900 billion** in revenue.
 
 - Offer **10 million stock-keeping units (SKUs)**.
 - Serve **280 million users**.
@@ -47,7 +47,6 @@ By the end of Phase 3 (2025), Sears achieves significant milestones:
 | **Saks Off 5th** | Full | Sears.com storefront | $300M (NA: $240M, Expanded: $60M) | $10B (NA: $8B, Expanded: $2B) | $500M | $20B | 2% Global | 4% Global |
 | **Cub Cadet** | Full (acquired 2016) | Mowers, snowblowers, garden tractors, Martin/Brownsville factories | $1.5B (NA: $1.35B, Expanded: $0.15B) | $5B (NA: $4.5B, Expanded: $0.5B) | $1.8B | $7.5B | 12% NA | 15% NA |
 | **Sears World Trade, Inc.** | Full (revived 1987) | Vetted foreign SKUs for Sears.com, 200,000 SKUs | $6B (NA: $3B, Expanded: $3B) | $30B (NA: $15B, Expanded: $15B) | $7B | $45B | 15% | 20% |
-
 ---
 
 ## Financial Restructuring
@@ -105,8 +104,10 @@ By the end of Phase 3 (2025), Sears achieves significant milestones:
 ---
 
 ## Workforce and Operations
-- **Workforce**: 500,000 employees
-- **Stores**: 2,700 (2,400 showrooms/micro-DCs, 300 full-line Homart Mall anchor stores)
+- **Workforce**: 450,000 (2025).
+  - 521,021 + 140,000 Datsun employees (2035)
+- **Stores**: 2,700 (2,420 showrooms/micro-DCs, 280 full-line Homart Mall anchor stores)
+- **Payroll**: $20/hour min wage floor; 10% premium above medians for roles (e.g., tech specialists ~$30-40/hour); annual reviews tied to inflation/market benchmarks. Mechanics at $50/hour base with warranty incentives (hybrid pay, tiered bonuses, no-fault safety net, quarterly team incentives).
 - **Other Operations**: 280 malls, 60 logistics distribution centers, 140 Saks stores, 280 Atari Arcades (Homart malls), Cub Cadet factories/R&D, Datsun support, Sears World Trade, Inc.
 
 ---
@@ -124,10 +125,10 @@ By the end of Phase 3 (2025), Sears achieves significant milestones:
   - Datsun satellite: Dallas, TX $18M/year
   - Chicago satellite: $15M/year
   - Jakarta satellite: $10M/year
+  - Atari: Austin, TX $15M/year
+  - Zenith: Austin, TX $10M/year
 - **World Trade Offices**: Tokyo, Seoul, Taipei, Frankfurt, Mumbai ($25M)
 - **Datsun HQ/R&D**: Yokohama, Japan $28M/year
-
-**Sears Corporation R&D Spending**: $1.5 billion annually by 2035, focused on core retail operations, supply chain AI, and in-store tech upgrades (e.g., AR fitting rooms and automated inventory).
 
 ---
 
@@ -135,7 +136,7 @@ By the end of Phase 3 (2025), Sears achieves significant milestones:
 ### 1. Tech Division
 **Objective**: Scale to **$1.2T** revenue, outpacing Amazon ($800B), Apple ($350B), Home Depot ($140B), Stanley Black & Decker ($16B).
 
-- **Workforce**: 38,000 employees (+2,000 for Atari) – Payroll: $20/hour min wage floor; 10% premium above medians for roles (e.g., tech specialists ~$30-40/hour); annual reviews tied to inflation/market benchmarks.
+- **Workforce**: 38,000 employees (+2,000 for Atari)
 - **Revenue (2025)**: $600B (NA: $420B, Expanded: $180B)
 - **Revenue (2035)**: $1.2T (NA: $840B, Expanded: $360B)
 - **Budget**: $60B
@@ -156,8 +157,8 @@ By the end of Phase 3 (2025), Sears achieves significant milestones:
   - Datsun: 90,000 SKUs, $0.4B-$0.8B (parts/accessories)
   - World Trade: 900,000 SKUs, $25B-$30B
   - Yahoo!/KENN AI: $3.5B, $50B uplift
-  - Sears Prime: $55/year, $4.5B (warranties, free/same-day delivery, promotions)
-  - SearsPay: 110M users, $800B processed
+  - **Sears Prime**: $55/year, $4.5B. Extented warranties (including Datsun purchases, 80,000 mile, 5y bumpber to bumpber/powertrain, $90 deductable), free/same-day delivery, online/in-store promotions, basic Atari cloud/streaming, online gaming subscription.
+  - **SearsPay**: 110M users, 1 click payment, SearsPay "Nexus" dashboard Discover Network processing, $800B processed
   - Mobile app: $5B
   - Shopify tools: $1.5B uplift
 - **Revenue (2025)**: $344B (NA: $275.2B, Expanded: $68.8B)
@@ -195,6 +196,7 @@ By the end of Phase 3 (2025), Sears achieves significant milestones:
   - Fraud detection: $7B savings
   - SearsCoin management: $1.5B
   - Smart home: $3.5B uplift (incl. Cub Cadet/Datsun)
+  - Ifixit utilization/integration/uplift
   - Career guidance: $8B uplift
   - Gaming: $3.5B uplift
   - Luxury (Saks): $1.5B uplift
@@ -217,9 +219,9 @@ By the end of Phase 3 (2025), Sears achieves significant milestones:
 - **Market Share (2025)**: 12% of $40B market
 - **Market Share (2035)**: 13% of $45B market
 - **Features**:
-  - 180M users, 20 partners (Apple, Kroger, LVMH, Whirlpool, Shopify, Namco/Bandai, Capcom, Sega/Sammy, Saks, World Trade, Yamaha, Datsun, etc.)
+  - Open data Marketplace, 180M users, 20 partners (Apple, Kroger, LVMH, Whirlpool, Shopify, Namco/Bandai, Capcom, Sega/Sammy, Saks, World Trade, Yamaha, Datsun, etc.)
   - 50/50 profit split (Sears/partners-consumers)
-  - Voluntary opt-in, accessed via SearsPay dashboard
+  - Voluntary opt-in, accessed via SearsPay Nexus dashboard
   - Uplift: $3.5B (Sears.com, incl. $0.15B Cub Cadet/Datsun), $1.5B Yahoo!, $1.5B Atari, $0.8B Saks, $0.4B World Trade
   - Vetted data brokers, consumer ratings, free buyer charts/analytics
 - **Budget**: Included in KENN AI
@@ -231,7 +233,7 @@ By the end of Phase 3 (2025), Sears achieves significant milestones:
 ### 2. Retail Stores and Showrooms
 **Objective**: Scale to 2,700 stores (2,400 showrooms/micro-DCs, 300 full-line), capture 10% retail market share.
 
-- **Workforce**: 180,000 (+3,000 Saks, 4,500 showrooms/Datsun) – Payroll: $20/hour min wage floor; 10% premium above medians for roles (e.g., retail floor ~$20-22/hour floored at min); annual reviews tied to inflation/market benchmarks.
+- **Workforce**: 195,000 (+3,000 Saks, 4,500 showrooms/Datsun)
 - **Revenue (2025)**: $160B (NA: $128B, Expanded: $32B)
 - **Revenue (2035)**: $180B (NA: $144B, Expanded: $36B)
 - **Market Share (2025)**: 8% NA retail
@@ -253,7 +255,7 @@ By the end of Phase 3 (2025), Sears achieves significant milestones:
 ### 3. Homart Development & Coldwell Banker
 **Objective**: Scale to 280 purchased/redeveloped malls, 110,000 apartments.
 
-- **Workforce**: 17,000 (+1,200 for 45 malls) – Payroll: $20/hour min wage floor; 10% premium above medians for roles (e.g., property management ~$20-25/hour); annual reviews tied to inflation/market benchmarks.
+- **Workforce**: 18,000 (+1,200 for 45 malls)
 - **Revenue (2025)**: $33B (Homart $25B, Coldwell $8B) (NA: $29.7B, Expanded: $3.3B)
 - **Revenue (2035)**: $65B (Homart $50B, Coldwell $15B) (NA: $58.5B, Expanded: $6.5B)
 - **Budget**: $3.5B ($1.2B malls, $1B apartments, $0.4B Atari, $0.7B Saks, $0.08B Datsun)
@@ -285,7 +287,7 @@ By the end of Phase 3 (2025), Sears achieves significant milestones:
 ### 4. Sears Logistics
 **Objective**: Scale to 60 distribution centers, capture 0.5% of $15T global market.
 
-- **Workforce**: 90,000 employees – Payroll: $20/hour min wage floor; 10% premium above medians for roles (e.g., logistics workers ~$20-27.50/hour); annual reviews tied to inflation/market benchmarks.
+- **Workforce**: 105,000 employees
 - **Revenue (2025)**: $60B (NA: $42B, Expanded: $18B)
 - **Revenue (2035)**: $75B (NA: $52.5B, Expanded: $22.5B)
 - **Market Share (2025)**: 0.4% Global ($10T TAM)
@@ -310,7 +312,7 @@ By the end of Phase 3 (2025), Sears achieves significant milestones:
 ### 5. Factories & Brands
 **Objective**: Scale factories and brands to generate $250B, leveraging Cub Cadet and Datsun.
 
-- **Workforce**: 27,000 (+1,000 Zenith, 2,800 Dallas/Colorado, 1,800 Surabaya, 900 Atari Osaka, 2,200 Cub Cadet Martin/Brownsville, 450 Cub Cadet R&D Austin) – Payroll: $20/hour min wage floor; 10% premium above medians for roles (e.g., factory workers ~$20-22/hour); annual reviews tied to inflation/market benchmarks.
+- **Workforce**: 30,000 (+1,000 Zenith, 2,800 Dallas/Colorado, 1,800 Surabaya, 900 Atari Osaka, 2,200 Cub Cadet Martin/Brownsville, 450 Cub Cadet R&D Austin)
 - **Revenue (2025)**: $200B (NA: $160B, Expanded: $40B)
 - **Revenue (2035)**: $250B (NA: $200B, Expanded: $50B)
 - **Budget**: $24B ($0.5B Guadalajara, $0.7B Surabaya/Osaka, $0.5B Dallas/Colorado, $0.25B Martin/Brownsville, $0.04B Cub Cadet R&D, $1.8B Atari, $0.25B developer/modder kits, $1B Saks, $1.8B Datsun)
@@ -350,7 +352,7 @@ By the end of Phase 3 (2025), Sears achieves significant milestones:
 ### 6. Sears World Trade, Inc.
 **Objective**: Capture 18% of $130B NA/Expanded SKU market, scale to 900,000 SKUs generating $30B.
 
-- **Workforce**: 4,500 (+1,800 global ops) – Payroll: $20/hour min wage floor; 10% premium above medians for roles (e.g., procurement/logistics ~$20-25/hour); annual reviews tied to inflation/market benchmarks.
+- **Workforce**: 4,500 (+1,800 global ops)
 - **Revenue (2025)**: $25B (electronics: $10B, tools: $8B, apparel: $6B, automotive: $1B) (NA: $12.5B, Expanded: $12.5B)
 - **Revenue (2035)**: $30B (electronics: $12B, tools: $9B, apparel: $8B, automotive: $1B) (NA: $15B, Expanded: $15B)
 - **Market Share (2025)**: 15% ($100B TAM)
@@ -370,7 +372,7 @@ By the end of Phase 3 (2025), Sears achieves significant milestones:
 ### 7. HomeForce and PartsDirect
 **Objective**: Generate $28B, add 9,000 technicians.
 
-- **Workforce**: 45,000 (+9,000 Datsun commercial mobile repair) – Payroll: $20/hour min wage floor; 10% premium above medians for roles (e.g., technicians ~$25-30/hour); annual reviews tied to inflation/market benchmarks.
+- **Workforce**: 48,000 (+9,000 Datsun commercial mobile repair)
 - **Revenue (2025)**: $25B (NA: $20B, Expanded: $5B)
 - **Revenue (2035)**: $28B (NA: $22.4B, Expanded: $5.6B)
 - **Market Share (2025)**: 8% home services
@@ -390,7 +392,7 @@ By the end of Phase 3 (2025), Sears achieves significant milestones:
 ### 8. Auto Centers
 **Objective**: Scale to 2,900 centers, generate $38B. (Avg revenue per store: $13M)
 
-- **Workforce**: 18,000 (+4,500 Datsun service) – Payroll: $20/hour min wage floor; mechanics at $50/hour base with warranty incentives (hybrid pay, tiered bonuses, no-fault safety net, quarterly team incentives); other roles 10% premium above medians; annual reviews tied to inflation/market benchmarks.
+- **Workforce**: 19,000 (+4,500 Datsun service)
 - **Revenue (2025)**: $30B (NA: $24B, Expanded: $6B) (2,000 centers * $15M avg)
 - **Revenue (2035)**: $38B (NA: $30.4B, Expanded: $7.6B) (2,900 centers * $13M avg)
 - **Market Share (2025)**: 7% NA auto service (based on 2,000 stores / ~28,000 US shops)
@@ -411,7 +413,7 @@ By the end of Phase 3 (2025), Sears achieves significant milestones:
 ### 9. Sears Financial Division
 **Objective**: Generate $75B.
 
-- **Workforce**: 3,500 employees – Payroll: $20/hour min wage floor; 10% premium above medians for roles (e.g., financial specialists ~$25-35/hour); annual reviews tied to inflation/market benchmarks.
+- **Workforce**: 3,800 employees
 - **Revenue (2025)**: $60B (NA: $48B, Expanded: $12B)
 - **Revenue (2035)**: $75B (NA: $60B, Expanded: $15B)
 - **Budget**: $24B
@@ -472,9 +474,10 @@ By the end of Phase 3 (2025), Sears achieves significant milestones:
 - **Features**:
   - Facilitates SearsPay (one-click purchase), SearsCoin, Datsun financing/leasing
   - Rewards: 2% non-Sears, 3% Sears/affiliates cashback or 3%/5% SearsCoin
-  - Terms: 21-day grace period, 14.95% interest, $40/SearsCoin yearly fee
-  - Credit checks/underwriting for BNPL loans (purchases >$1,500, credit check required, no multiple BNPLs, regulatory data provided)
+  - Terms: Sears Discover Credit Card offers a 21-day grace period, and a 14.95% interest fee, with a $40/SearsCoin yearly fee
+  - Credit checks/underwriting for BNPL loans (purchases >$1,500, credit check required, no multiple BNPLs, regulatory data voluntarily provided)
   - Avoids 6% BNPL fees (e.g., Klarna, ClearPay)
+  - **Datsun financing/leasing**: 36 months at 5.99% base interest rate, or 60 months at 7.99% base interest rate, and standard leasing terms, (+ 3 year special "negative equity escape plan" for salvagable underwater perspective customers).
 - **Market Share (2025)**: 4%
 - **Market Share (2035)**: 5%
 
@@ -487,6 +490,7 @@ By the end of Phase 3 (2025), Sears achieves significant milestones:
   - Rewards across Discover Card network
   - Consumer Data Marketplace payment method
   - Atari, Saks, World Trade, Cub Cadet, Datsun eligibility
+  - Non interest portion of Datsun Auto financing/leasing, and or insurance payments eligible.
   - 3% non-Sears, 5% Sears/affiliates SearsCoin or 2%/3% cashback: $3B uplift (+$0.8B Atari, $0.18B Saks, $0.09B World Trade, $0.09B Cub Cadet, $0.4B Datsun)
 - **Market Share**: N/A
 
@@ -495,7 +499,7 @@ By the end of Phase 3 (2025), Sears achieves significant milestones:
 ### 10. Sears Optical Centers
 **Objective**: Maintain 750 showrooms (280 at Homart malls). (Avg revenue per center: $7M)
 
-- **Workforce**: 9,000 employees – Payroll: $20/hour min wage floor; 10% premium above medians for roles (e.g., opticians ~$20-25/hour); annual reviews tied to inflation/market benchmarks.
+- **Workforce**: 9,000 employees
 - **Revenue (2025)**: $4.5B (NA: $3.6B, Expanded: $0.9B) (750 * $6M avg)
 - **Revenue (2035)**: $5.25B (NA: $4.2B, Expanded: $1.05B) (750 * $7M avg)
 - **Market Share (2025)**: 8% NA optical (based on 750 centers / ~9,000 US shops)
@@ -510,7 +514,7 @@ By the end of Phase 3 (2025), Sears achieves significant milestones:
 ### 11. Sears Academy and Sustainability
 **Objective**: Scale to 220 college partners, provide $35B revenue uplift.
 
-- **Workforce**: 6,500 employees – Payroll: $20/hour min wage floor; 10% premium above medians for roles (e.g., educators/trainers ~$25-30/hour); annual reviews tied to inflation/market benchmarks.
+- **Workforce**: 6,500 employees
 - **Revenue Uplift (2025)**: $30B
 - **Revenue Uplift (2035)**: $35B
 - **Budget**: $4.5B (+$250M gaming, $90M Saks/World Trade/Cub Cadet/Datsun)
@@ -529,7 +533,7 @@ By the end of Phase 3 (2025), Sears achieves significant milestones:
 ### 12. Sears Robotics
 **Objective**: Scale to $45B revenue, 15% global robotics share.
 
-- **Workforce**: 8,000 – Payroll: $20/hour min wage floor; 10% premium above medians for roles (e.g., robotics engineers ~$30-40/hour); annual reviews tied to inflation/market benchmarks.
+- **Workforce**: 10,000
 - **Revenue (2025)**: $20B (NA: $14B, Expanded: $6B)
 - **Revenue (2035)**: $45B (NA: $31.5B, Expanded: $13.5B)
 - **Market Share (2025)**: 10% Global ($200B TAM)
@@ -554,7 +558,8 @@ By the end of Phase 3 (2025), Sears achieves significant milestones:
 #### Sears Canada
 - **Ownership**: Wholly owned
 - **HQ**: Toronto ($45M)
-- **Objective**: Maintain 220 stores/Auto Centers, incorporate Datsun showrooms
+- **Objective**: Maintain 220 stores/ Logistical operations/Auto Centers, incorporate Datsun showrooms.
+- **Employees**: 45,500 country wide.
 - **Revenue (2025)**: $16B (NA: $16B, Expanded: $0)
 - **Revenue (2035)**: $18B (NA: $18B, Expanded: $0)
 - **Budget**: $4B (+$180M Atari, $90M Cub Cadet, $90M Datsun)
@@ -565,33 +570,30 @@ By the end of Phase 3 (2025), Sears achieves significant milestones:
 - **Value (2025)**: $24B
 - **Value (2035)**: $27B
 - **Market Share**: 10% Canada retail
-- **R&D Spending**: $400 million annually by 2035 (regional tech adaptations and store innovations).
-- **2035 Mini Financial Snapshot**: Revenue $18B, Net Profit $1.8B (10% margin), Employee Count 20,000, R&D % of Revenue 2.2%.
 
 #### Yahoo!
 - **Ownership**: Standalone, acquired 1997 ($1.5B)
 - **HQ**: Austin, TX ($30M)
 - **Market Share (2025)**: 30% ($90B TAM)
 - **Market Share (2035)**: 35% ($130B TAM)
+- **Employees**: 5,500 (head office, R&D, marking, etc).
 - **Revenue (2025)**: $27B (NA: $21.6B, Expanded: $5.4B)
 - **Revenue (2035)**: $45.5B (NA: $36.4B, Expanded: $9.1B)
 - **Features**:
   - 900M users
-  - KENN AI-integrated Yahoo! Search rewards (Microsoft Edge-like, SearsCoin payouts)
+  - KENN AI/ifixit-integrated Yahoo! Search rewards (Microsoft Edge-like, SearsCoin payouts)
   - Conversational, trusted, impartial, comparative, recommendation-driven discovery
 - **Value (2025)**: $40.5B
 - **Value (2035)**: $68.25B
-- **R&D Spending**: $1.2 billion annually by 2035 (heavy investment in AI-driven search algorithms, ad tech, and content personalization).
-- **2035 Mini Financial Snapshot**: Revenue $45.5B, Net Profit $7.28B (16% margin), Employee Count 12,000, R&D % of Revenue 2.6%.
 
 #### Datsun
 - **Ownership**: Standalone, 33-51% Sears stake (2026-2028, $8B)
-- **HQ**: Yokohama, Japan ($45M)
+- **HQ**: Yokohama, Japan ($45M, 9,500 employees including R&D)
 - **Market Share (2025)**: 6% hybrid/compact ($400B TAM)
 - **Market Share (2035)**: 8% hybrid/compact ($600B TAM)
 - **Revenue (2025)**: $24B (NA: $16.8B, Expanded: $7.2B)
 - **Revenue (2035)**: $48B (NA: $33.6B, Expanded: $14.4B)
-- **Capex**: $3.5B (9 factories: 3 US truck/van, 6 Japan car/crossover/240SX)
+- **Capex**: $3.5B (9 factories: 3 US truck/van, 5 Japan car/crossover/240SX)
 - **Features**:
   - 900,000 vehicles, 140,000 employees
   - Yamaha engines (1.5L hybrid/2.0L turbo/2.8L NA V6, 250-400hp, 40-50 MPG)
@@ -603,38 +605,34 @@ By the end of Phase 3 (2025), Sears achieves significant milestones:
   - Synergies: $6B (Sears.com, Auto Centers, HomeForce, Allstate)
 - **Value (2025)**: $36B
 - **Value (2035)**: $72B
-- **R&D Spending**: $800 million annually by 2035 (focus on hybrid/EV tech, engine partnerships, and smart vehicle integration).
-- **2035 Mini Financial Snapshot**: Revenue $48B, Net Profit $3.84B (8% margin), Employee Count 140,000, R&D % of Revenue 1.7%.
 
 #### Zenith
 - **Ownership**: Standalone, acquired 1995 ($585M)
 - **HQ**: Austin, TX
 - **Market Share (2025)**: 15% NA, 10% Expanded ($350B TAM)
 - **Market Share (2035)**: 18% NA, 11% Expanded ($450B TAM)
+- **Employees**: 8500 (headquarters, marketing, engineering, R&D, etc.)
 - **Revenue (2025)**: $50B (NA: $40B, Expanded: $10B)
 - **Revenue (2035)**: $55B (NA: $44B, Expanded: $11B)
 - **Features**: Guadalajara production, KENN integration for TVs/audio
 - **Value (2025)**: $75B
 - **Value (2035)**: $82.5B
-- **R&D Spending**: $800 million annually by 2035 (heavy focus on smart home devices, OLED tech, and sustainable manufacturing).
-- **2035 Mini Financial Snapshot**: Revenue $55B, Net Profit $6.6B (12% margin), Employee Count 8,500, R&D % of Revenue 1.5%.
 
 #### Atari Home Entertainment
 - **Ownership**: Standalone, acquired 2013 ($30M)
 - **HQ**: Austin/Osaka
 - **Market Share (2025)**: 15% Global ($400B TAM)
 - **Market Share (2035)**: 20% Global ($500B TAM)
+- **Employees**: 9,500 ( headquarters, R&D, engineering, marketing, etc).
 - **Revenue (2025)**: $60B (NA: $42B, Expanded: $18B)
 - **Revenue (2035)**: $100B (NA: $70B, Expanded: $30B)
 - **Features**: 55M users, console/cloud gaming, acquisitions synergies
 - **Value (2025)**: $90B
 - **Value (2035)**: $150B
-- **R&D Spending**: $700 million annually by 2035 (heavy investment in VR/AR gaming, retro revivals, and blockchain integrations).
-- **2035 Mini Financial Snapshot**: Revenue $100B, Net Profit $14B (14% margin), Employee Count 5,200, R&D % of Revenue 0.7%.
 
 #### Western Forge
 - **Ownership**: Standalone, acquired 2009 ($70M)
-- **HQ**: Colorado
+- **HQ**: Colorado (75 Employees)
 - **Market Share (2025)**: 20% NA tools ($50B TAM)
 - **Market Share (2035)**: 25% NA tools ($60B TAM)
 - **Revenue (2025)**: $2B (NA: $1.6B, Expanded: $0.4B)
@@ -642,8 +640,8 @@ By the end of Phase 3 (2025), Sears achieves significant milestones:
 - **Features**: KENN AI-integrated factory for Craftsman tools
 - **Value (2025)**: $3B
 - **Value (2035)**: $6B
-- **R&D Spending**: $300 million annually by 2035 (AI-integrated tool design and materials).
-- **2035 Mini Financial Snapshot**: Revenue $4B, Net Profit $600M (15% margin), Employee Count 2,000, R&D % of Revenue 7.5%.
+
+- *Subsidiary employee headcounts excludes factory workers*
 
 ---
 
@@ -702,11 +700,9 @@ By the end of Phase 3 (2025), Sears achieves significant milestones:
 
 ---
 
-### Employees
-- **Total**: 500,000 (Sears: 360,000, Datsun: 140,000)
-
 ### Acquisitions/Price
 - iFixit: 1995, $50M
+- Zenith, 1995, $585M
 - Yahoo!: 1997, $1.5B
 - Dragonfly (drones): 2001, $30M
 - Kiva (robotics): 2003, $50M
@@ -727,19 +723,18 @@ By the end of Phase 3 (2025), Sears achieves significant milestones:
 
 ---
 
-## Key Updates to Phase 4
 ### Nissan/Datsun Rescue
 - **Structure**: Standalone Japanese corporation, Yokohama HQ/R&D ($45M)
 - **Ownership**: 33-51% Sears stake ($8B, 2026-2028)
 - **Revenue (2035)**: $48B (NA: $33.6B, Expanded: $14.4B)
 - **Market Share**: 8% hybrid/compact ($600B global TAM)
 - **Workforce**: 140,000
-- **Factories**: 9 (3 US truck/van, 6 Japan car/crossover/240SX, $3.5B capex)
+- **Factories**: 8 (3 US truck/van, 5 Japan car/crossover/240SX, $3.5B capex)
 - **Model Lineup** (dedicated platforms):
   - **Ultima** (FWD, $4.5B development):
     - Compact sedan/hatchback/wagon: $18K-$28K
     - Plug-in hybrid (1.5L Yamaha, 250hp, 45 MPG) standard, optional 2L NA I4 (6-speed manual/auto)
-    - Wagon: Full-time AWD option
+    - Wagon: Full-time AWD I4 turbo option
     - Targets young buyers, fleet operators
   - **240SX** (RWD, $2.5B):
     - Sub-compact sport coupe: $28K-$38K
@@ -753,7 +748,7 @@ By the end of Phase 3 (2025), Sears achieves significant milestones:
     - 720K units, $27B
   - **Frontier/Pathfinder** (utilitarian/4x4, $2.5B):
     - Mid-size pickup/utility van/CUV: $22K-$40K
-    - Hybrid (1.5L, 250hp, 40 MPG) or 2.8L V6 (350hp, 35 MPG)
+    - Hybrid (1.5L, 250hp, 40 MPG), 2.0L NA I4,  or 2.8L V6 (350hp, 35 MPG)
     - RWD standard, part-time AWD, real 4x4 option (lockers, skid plates)
     - 6-speed auto (manual optional)
     - Full EV delivery van model
@@ -762,10 +757,10 @@ By the end of Phase 3 (2025), Sears achieves significant milestones:
   - NA: Sears.com (280M users, 90,000 SKUs, $0.8B), 2,700 stores (2,400 showrooms, $0.4B Datsun displays, 280 full-line Homart malls)
   - No NA dealerships ($2.5B savings), trade-in/test drive centers outside 280 Homart malls (5/state, not in non-DTC states)
   - Japan/Expanded: ~2,800 dealerships
-  - Financing: 3/5-year Discover plans (10% down, no negative equity trade-ins, “Negative Equity Exit Plan” for base Ultima leases)
+  - Financing: 3/5-year 5.99%/7.99% base rate Discover plans (10% down, no negative equity trade-ins, “Negative Equity Exit Plan” for base Ultima leases)
 - **Service**:
-  - Auto Centers: 2,900 centers, 18,000 employees, $1.8B
-  - HomeForce: 45,000 employees, $0.8B (commercial fleet mobile repair)
+  - Auto Centers: 2,900 centers, 19,000 employees, $1.8B
+  - HomeForce: 48,000 employees, $0.8B (commercial fleet mobile repair)
 - **Synergies** ($6B):
   - DieHard batteries: $0.8B (Dallas)
   - RoadHandler tires: $0.8B (Cooper Tire)
@@ -781,3 +776,5 @@ By the end of Phase 3 (2025), Sears achieves significant milestones:
   - Debt: $0.8B
   - EBITDA: $3.84B
   - Valuation: $72B
+
+

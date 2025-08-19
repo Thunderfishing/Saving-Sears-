@@ -1,12 +1,12 @@
 A Time Traveler’s Guide to Save Sears: Phase 4 (2025–2035) – Factory-Powered Global AI-Crypto-Luxury-Automotive Dominance
 
 ## Mission
-The goal is to Cement Sears as a vertically integrated, 19th century born, AI-tech-driven, crypto-powered retail-industrial mega-corporation legend, valued at **$3 trillion** by 2035, achieving global e-commerce supremacy through **Sears.com**, generating **$900 billion** in revenue.
+The goal is to Cement Sears as a 19th century born,  vertically integrated, AI-tech-driven, crypto-powered retail-industrial mega-corporation legend, valued at **$3 trillion** by 2035, achieving global e-commerce supremacy through **Sears.com**, generating **$900 billion** in revenue.
 
 - Offer **10 million stock-keeping units (SKUs)**.
 - Serve **280 million users**.
 - Command a **35% share of the North American market**, capturing **$1.4 trillion** out of a **$4 trillion** total e-commerce market.
-- Secure a **12% share in expanded markets** (Japan, Indonesia, Australia, New Zealand, Singapore, UK), capturing **$200 billion** out of a **$4.5 trillion** Southeast Asia and emerging regions market.
+- Secure a **12% share in expanded markets** (Japan, Taiwan, Indonesia, Australia, New Zealand, Singapore, UK), capturing **$200 billion** out of a **$4.5 trillion** Southeast Asia and emerging regions market.
 
 ---
 
@@ -20,7 +20,7 @@ By the end of Phase 3 (2025), Sears achieves significant milestones:
 - **Debt**: $18 billion
 
 ### Operations
-- **Stores**: 2,300 total (2,000 showrooms for Datsun display/test drive centers and micro-distribution centers, 300 full-line stores at Sears Homart Malls)
+- **Stores**: 2,300 total (2,050 showrooms for merchandise (Kenmore/Coldspot, Craftsman, etc.), Cub Cadet and Datsun display/test drive centers and micro-distribution centers, 250 full-line stores at Sears Homart Malls)
 - **Workforce**: 450,000 employees
 - **Logistics**: 45 hubs (28 U.S., 13 global, 4 in Canada: Toronto, Vancouver, Montreal) and 8,000 micro-distribution centers
 - **Sears Academy**: Dallas campus partnered with 90 colleges
@@ -231,7 +231,7 @@ By the end of Phase 3 (2025), Sears achieves significant milestones:
 ---
 
 ### 2. Retail Stores and Showrooms
-**Objective**: Scale to 2,700 stores (2,400 showrooms/micro-DCs, 300 full-line), capture 10% retail market share.
+**Objective**: Scale to 2,700 stores (2,420 showrooms/micro-DCs, 280 full-line anchor stores), capture 10% retail market share.
 
 - **Workforce**: 195,000 (+3,000 Saks, 4,500 showrooms/Datsun)
 - **Revenue (2025)**: $160B (NA: $128B, Expanded: $32B)
@@ -776,5 +776,7 @@ By the end of Phase 3 (2025), Sears achieves significant milestones:
   - Debt: $0.8B
   - EBITDA: $3.84B
   - Valuation: $72B
+
+
 
 

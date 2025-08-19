@@ -64,6 +64,7 @@ By the end of Phase 3 (2025), Sears achieves significant milestones:
 - **Nissan/Datsun**: 33-51% stake for $8B for automotive entry
   - Partner with Yamaha ($800M) for engine manufacturing
   - Partner with Getrag/Magna ($800M) for transmission manufacturing
+- **Yamaha**: 15% stake (2026) for $450 million.
 
 ### Corporate Wealth Investments
 - **Investments**:
@@ -81,7 +82,7 @@ By the end of Phase 3 (2025), Sears achieves significant milestones:
 - **Total Funding**: $130B
   - 2025 surplus: $0.5B
   - Profits (2025-2030): $70B (~50% of $140B EBITDA)
-  - Debt: $1.2B (Sears: $0.4B in 2028, $40M fee, 3% interest; Datsun: $0.8B in 2028, $8M fee)
+  - Debt: $1.65B (Sears: $1B in 2026, $55M fee, 3% interest; Datsun: $0.8B in 2028, $8M fee)
   - Datsun IPO: $4B in 2030 for 10% equity, $40M fee
   - Atari Fund: $1.2B in 2026 from Corporate Wealth Fund
 
@@ -99,7 +100,7 @@ By the end of Phase 3 (2025), Sears achieves significant milestones:
 
 ### Financial Outcomes
 - **Surplus**: $0.6B
-- **Total Debt**: $19.2B (Sears: $18.4B, Datsun: $0.8B, 0.15x EBITDA)
+- **Total Debt**: $19.65B (Sears: $18.4B, Datsun: $0.8B, 0.15x EBITDA)
 
 ---
 
@@ -620,7 +621,7 @@ By the end of Phase 3 (2025), Sears achieves significant milestones:
 
 #### Atari Home Entertainment
 - **Ownership**: Standalone, acquired 2013 ($30M)
-- **HQ**: Austin/Osaka
+- **HQ**: Austin, TX
 - **Market Share (2025)**: 15% Global ($400B TAM)
 - **Market Share (2035)**: 20% Global ($500B TAM)
 - **Employees**: 9,500 ( headquarters, R&D, engineering, marketing, etc).
@@ -657,7 +658,7 @@ By the end of Phase 3 (2025), Sears achieves significant milestones:
 - **EBITDA**: $200B (8% margin)
 - **Valuation**: $3T (15x EBITDA)
 - **Surplus**: $0.6B
-- **Debt**: $19.2B (0.1x EBITDA)
+- **Debt**: $19.65B (0.1x EBITDA)
 
 ---
 
@@ -720,6 +721,7 @@ By the end of Phase 3 (2025), Sears achieves significant milestones:
 - Capcom: 2026, $200M (5% stake, Atari)
 - Sega/Sammy: 2026, $150M (5% stake, Atari)
 - Nissan/Datsun: 2026-2028, $8B (33-51% stake)
+- Yamaha: 2026, $450M (profit-sharing)
 
 ---
 
@@ -776,7 +778,5 @@ By the end of Phase 3 (2025), Sears achieves significant milestones:
   - Debt: $0.8B
   - EBITDA: $3.84B
   - Valuation: $72B
-
-
 
 

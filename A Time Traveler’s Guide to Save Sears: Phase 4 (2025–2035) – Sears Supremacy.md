@@ -3,21 +3,21 @@ A Time Traveler’s Guide to Save Sears: Phase 4 (2025–2035) – Factory-Power
 ## Mission
 To Cement Sears as a vertically integrated, AI, crypto-powered retail-industrial mega-corporation, valued at $3 trillion by 2035, through Sears.com, generating $900 billion in revenue.
 
-- Offer **10 million stock-keeping units (SKUs)**.
-- Serve **280 million users**.
-- Command a 35% share of the North American market, capturing $1.4 trillion out of a $4 trillion total e-commerce market.
-- Secure a 12% share in expanded marketsl (Japan, Taiwan, Indonesia, Australia, New Zealand, Singapore, UK), capturing $200 billion out of a $4.5 trillion Southeast Asia and emerging regions market.
+- Offer **100M+ stock-keeping units (SKUs)**.
+- Serve **300M users**.
+- Command a 35% share of the North American market, capturing $1.4T out of a $4T total e-commerce market.
+- Secure a 12% share in expanded marketsl (Japan, Taiwan, Indonesia, Australia, New Zealand, Singapore, UK), capturing $200B out of a $4.5T Southeast Asia and emerging regions market.
 
 ---
 
 ## Strategic Context
 By the end of Phase 3 (2025), Sears achieves significant milestones:
 
-- **Revenue**: $800 billion (North America: $640 billion; Expanded Markets: $160 billion)
-- **EBITDA**: $64 billion (8% margin)
-- **Valuation**: $960 billion (15x EBITDA multiple)
-- **Surplus**: $0.5 billion
-- **Debt**: $18 billion
+- **Revenue**: $800B (North America: $640 billion; Expanded Markets: $160B)
+- **EBITDA**: $64B (8% margin)
+- **Valuation**: $960B (15x EBITDA multiple)
+- **Surplus**: $0.5B
+- **Debt**: $18B
 
 ### Operations
 - **Stores**: 2,300 total (2,050 showrooms for merchandise (Kenmore/Coldspot, Craftsman, etc.), Cub Cadet and Datsun display/test drive centers and micro-distribution centers, 250 full-line stores at Sears Homart Malls)
@@ -30,7 +30,7 @@ By the end of Phase 3 (2025), Sears achieves significant milestones:
 ## Key Assets
 | Asset | Ownership | Description | Revenue (2025) | Revenue (2035) | Value (2025) | Value (2035) | Market Share (2025) | Market Share (2035) |
 |-------|-----------|-------------|----------------|----------------|--------------|--------------|---------------------|---------------------|
-| **Sears.com** | Full | Online digital marketplace (beta 1993, full launch 1995), 200M+ users | $400B (NA: $320B, Expanded: $80B) | $900B (NA: $720B, Expanded: $180B) | $600B | $1.35T | 25% NA | 35% NA, 12% Expanded |
+| **Sears.com** | Full | Online digital marketplace (beta 1993, full launch 1995), 220M+ users | $400B (NA: $320B, Expanded: $80B) | $900B (NA: $720B, Expanded: $180B) | $600B | $1.35T | 25% NA | 35% NA, 12% Expanded |
 | **Yahoo!** | 100% (Standalone) | 35% search market share | $30B (NA: $24B, Expanded: $6B) | $45B (NA: $36B, Expanded: $9B) | $150B | $225B | 30% | 35% |
 | **SCloud** | Full | Cloud services (1995), 2M 3rd-party customers | $200B (NA: $140B, Expanded: $60B) | $375B (NA: $262.5B, Expanded: $112.5B) | $300B | $562.5B | 10% Global | 15% Global |
 | **Homart** | Full | 250 malls, 80,000 apartments, property management | $25B (NA: $22.5B, Expanded: $2.5B) | $50B (NA: $45B, Expanded: $5B) | $100B | $200B | 8% NA | 10% NA |
@@ -46,7 +46,7 @@ By the end of Phase 3 (2025), Sears achieves significant milestones:
 | **Saks Fifth Avenue** | Full (acquired 2025, HBC bankruptcy) | 50 stores | $600M (NA: $480M, Expanded: $120M) | $20B (NA: $16B, Expanded: $4B) | $800M | $40B | 3% Global | 5% Global |
 | **Saks Off 5th** | Full | Sears.com storefront | $300M (NA: $240M, Expanded: $60M) | $10B (NA: $8B, Expanded: $2B) | $500M | $20B | 2% Global | 4% Global |
 | **Cub Cadet** | Full (acquired 2016) | Mowers, snowblowers, garden tractors, Martin/Brownsville factories | $1.5B (NA: $1.35B, Expanded: $0.15B) | $5B (NA: $4.5B, Expanded: $0.5B) | $1.8B | $7.5B | 12% NA | 15% NA |
-| **Sears World Trade, Inc.** | Full (revived 1987) | Vetted foreign SKUs for Sears.com, 200,000 SKUs | $6B (NA: $3B, Expanded: $3B) | $30B (NA: $15B, Expanded: $15B) | $7B | $45B | 15% | 20% |
+| **Sears World Trade, Inc.** | Full (revived 1987) | Vetted foreign SKUs for Sears.com, 6,000,000 SKUs | $6B (NA: $3B, Expanded: $3B) | $30B (NA: $15B, Expanded: $15B) | $7B | $45B | 15% | 20% |
 ---
 
 ## Financial Restructuring
@@ -69,7 +69,7 @@ By the end of Phase 3 (2025), Sears achieves significant milestones:
   - ByteDance: $400M
   - Malls: $2B
   - Gaming startups: $400M
-  - Other startups/SMBs: $1.5B, targeting 16% CAGR to reach $18-22B by 2035
+  - Other startups/SMBs: $1.5B, targeting 16% CAGR to reach $22B by 2035
 - **Total Cost**: $16B-$20B
 
 ### Asset Sales
@@ -79,9 +79,9 @@ By the end of Phase 3 (2025), Sears achieves significant milestones:
 - **Total Funding**: $130B
   - 2025 surplus: $0.5B
   - Profits (2025-2030): $70B (~50% of $140B EBITDA)
-  - Debt: $1.65B (Sears: $1B in 2026, $55M fee, 3% interest; Datsun: $0.8B in 2028, $8M fee)
+  - Debt: $1.65B (Sears: $1B, $55M fee, 3% interest; Datsun: $0.8B, $8M fee)
   - Datsun IPO: $4B in 2030 for 10% equity, $40M fee
-  - Atari Fund: $1.2B in 2026 from Corporate Wealth Fund
+  - Atari Fund: $1.2B from Corporate Wealth Fund
 
 ### Internal Savings
 - KENN AI logistics: $14B
@@ -104,7 +104,8 @@ By the end of Phase 3 (2025), Sears achieves significant milestones:
 ## Workforce & Operations
 - **Workforce**: 521,021 + 140,000 Datsun employees (by 2035)
 - **Stores**: 2,700 (2,420 showrooms/micro-DCs, 280 full-line Homart Mall anchor stores)
-- **Payroll**: $20/hour min wage floor; 10% premium above medians for roles (e.g., tech specialists ~$30-40/hour); annual reviews tied to inflation/market benchmarks. Mechanics at $50/hour base with warranty incentives (hybrid pay, tiered bonuses, no-fault safety net, quarterly team incentives)
+- **Payroll**: $20/hour min wage floor; 10% premium above medians for roles (e.g., tech specialists ~$30-40/hour); annual reviews tied to inflation/market benchmarks. 
+ - Mechanics at $50/hour base with warranty incentives (hybrid pay, tiered bonuses, no-fault safety net, quarterly team incentives)
 - **Other Operations**: 280 malls, 60 logistics distribution centers, 140 Saks stores, 280 Atari Arcades (Homart malls), Cub Cadet factories/R&D, Datsun support, Sears World Trade, Inc.
 
 ---
@@ -118,13 +119,14 @@ By the end of Phase 3 (2025), Sears achieves significant milestones:
 - **Other HQs**:
   - Sears Canada, Toronto, $12M/year
   - Yahoo!: Austin, TX, $15M/year
-  - Dean Witter: Dallas, TX $8M/year
-  - Datsun satellite: Dallas, TX $18M/year
+  - Dean Witter: Dallas TX, $8M/year
+  - Coldwell Banker/Homart,  Dallas, 10M/year
+  - Datsun satellite: Dallas, $18M/year
   - Chicago satellite: $15M/year
   - Jakarta satellite: $10M/year
-  - Atari: Austin, TX $15M/year
-  - Zenith: Austin, TX $10M/year
-  - World Trade Offices: Dalkas, Tokyo, Seoul, Taipei, Frankfurt, Mumbai ($30M)
+  - Atari: Austin, $15M/year
+  - Zenith: Austin,  $10M/year
+  - World Trade Offices: Dallas, Tokyo, Seoul, Taipei, Frankfurt, Mumbai ($30M)
   - Datsun HQ/R&D: Yokohama, Japan $28M/year
 
 ---
@@ -141,22 +143,22 @@ By the end of Phase 3 (2025), Sears achieves significant milestones:
 - **Value (2035)**: $1.8T
 
 #### Sears.com
-- **SKUs**: 10M, 6M first-party (NA produced), 4M third-party (reputable)
-- **Users**: 280M (170M mobile, 85M Prime members)
+- **SKUs**: 100M+, 12M first-party (NA produced), 90M third-party (reputable vendor's, ie. Levi’s, Samsung, Pyrex)
+- **Users**: 280M (190M mobile, 85M Prime members)
 - **Market Share (2025)**: 25% North America ($800B TAM, revenue $200B), 8% Expanded ($1.8T TAM, revenue $144B)
 - **Market Share (2035)**: 35% North America ($4T TAM, revenue $1.4T), 12% Expanded ($4.5T TAM, revenue $540B)
 - **Features**:
   - 5 year parts support 
   - Saks Off 5th: 280,000 SKUs, $12B
-  - PartsDirect: 900,000 SKUs, $50B (Dallas, Guadalajara, Martin, Brownsville)
+  - PartsDirect: 9,000,000 SKUs, $50B (Dallas, Guadalajara, Martin, Brownsville)
   - Books/CDs: $8B
-  - Zenith/Silvertone: $35B-$55B (Guadalajara)
-  - Cub Cadet: 90,000 SKUs, $2B-$2.5B (Martin, Brownsville, Austin R&D)
-  - Datsun: 90,000 SKUs, $0.4B-$0.8B (parts/accessories)
-  - World Trade: 900,000 SKUs, $25B-$30B
+  - Zenith/Silvertone: $55B (Guadalajara)
+  - Cub Cadet: 90,000 SKUs, $2.5B (Martin, Brownsville, Austin R&D)
+  - Datsun: 90,000 SKUs, $0.8B (parts/accessories)
+  - World Trade: 9,000,000 SKUs, $30B
   - Yahoo!/KENN AI: $3.5B, $50B uplift
   - **Sears Prime**: $55/year, $4.5B. Extented warranties (including Datsun purchases, 80,000 mile, 5y bumpber to bumpber/powertrain, $90 deductable), free/same-day delivery, online/in-store promotions, basic Atari cloud/streaming, online gaming subscription.
-  - **SearsPay**: 110M users, 1 click payment, SearsPay "Nexus" dashboard Discover Network processing, $800B processed
+  - **SearsPay**: 130M users, 1 click payment, SearsPay "Nexus" dashboard Discover Network processing, $800B processed
   - Mobile app: $5B
   - Shopify tools: $1.5B uplift
 - **Revenue (2025)**: $344B (NA: $275.2B, Expanded: $68.8B)
@@ -327,7 +329,7 @@ By the end of Phase 3 (2025), Sears achieves significant milestones:
 - **Market Share (2035)**: 10% home services
 - **Budget**: $6B (+$350M Atari, $180M Cub Cadet, $0.4B-$0.8B Datsun)
 - **Features**:
-  - PartsDirect: 1.9M SKUs, $50B (Dallas, Guadalajara, Martin, Brownsville)
+  - PartsDirect: 9M SKUs, $50B
   - Academy training: $350M
   - Atari repairs: $350M (Osaka)
   - Cub Cadet parts: $180M (Martin, Brownsville)
@@ -362,8 +364,8 @@ By the end of Phase 3 (2025), Sears achieves significant milestones:
 **Objective**: Generate $75B.
 
 - **Workforce**: 3,800 employees
-- **Revenue (2025)**: $60B (NA: $48B, Expanded: $12B)
-- **Revenue (2035)**: $75B (NA: $60B, Expanded: $15B)
+- **Revenue (2025)**: $58.8B (NA: $47B, Expanded: $11.8B)
+- **Revenue (2035)**: $73.5B (NA: $59B, Expanded: $14.5B)
 - **Budget**: $24B
 - **Market Share (2025)**: 3% global financial services (~$100B TAM)
 - **Market Share (2035)**: 4% (~$150B TAM)
@@ -407,16 +409,6 @@ By the end of Phase 3 (2025), Sears achieves significant milestones:
   - Electric/hybrid vehicle startups: $1.8B (Datsun)
   - SMB Sears.com retailer preference program: $1.8B
 
-#### Sears Mortgage
-- **Revenue (2025)**: $1.2B (NA: $0.96B, Expanded: $0.24B)
-- **Revenue (2035)**: $1.5B (NA: $1.2B, Expanded: $0.3B)
-- **Budget**: $0.8B
-- **Features**: Managed by Coldwell Banker for real estate synergies.
-- Minimum down payment 30%, with high interest stress test.
-- **Market Share (2025)**: 1% mortgage
-- **Market Share (2035)**: 1.5% mortgage
-
-
 #### Discover Card Network and SearsPay
 - **Revenue (2025)**: $10B (NA: $8B, Expanded: $2B)
 - **Revenue (2035)**: $11B (NA: $8.8B, Expanded: $2.2B)
@@ -424,10 +416,10 @@ By the end of Phase 3 (2025), Sears achieves significant milestones:
 - **Features**:
   - Facilitates SearsPay (one-click purchase), SearsCoin, Datsun financing/leasing
   - Rewards: 2% non-Sears, 3% Sears/affiliates cashback or 3%/5% SearsCoin
-  - Terms: Sears Discover Credit Card offers a 21-day grace period, and a 14.95% interest fee, with a $40/SearsCoin yearly fee
+  - Terms: Sears Discover Credit Card offers a 24-day grace period, and a 14.95 APR, with a $50 yearly fee
   - Credit checks/underwriting for BNPL loans (purchases >$1,500, credit check required, no multiple BNPLs, regulatory data voluntarily provided)
   - Avoids 6% BNPL fees (e.g., Klarna, ClearPay)
-  - **Datsun financing/leasing**: 36 months at 5.99% base interest rate, or 60 months at 7.99% base interest rate, and standard leasing terms, (+ 3 year special "negative equity escape plan" for salvagable underwater perspective customers).
+  - **Datsun financing/leasing**: 36 months at 5.99% APR, or 60 months at 7.99% APR, and standard leasing terms, (plus a 3 year special "negative equity escape lease" for suitable customers)
 - **Market Share (2025)**: 4%
 - **Market Share (2035)**: 5%
 
@@ -441,7 +433,7 @@ By the end of Phase 3 (2025), Sears achieves significant milestones:
   - Consumer Data Marketplace payment method
   - Atari, Saks, World Trade, Cub Cadet, Datsun eligibility
   - Non interest portion of Datsun Auto financing/leasing, and or insurance payments eligible.
-  - 3% non-Sears, 5% Sears/affiliates SearsCoin or 2%/3% cashback: $3B uplift (+$0.8B Atari, $0.18B Saks, $0.09B World Trade, $0.09B Cub Cadet, $0.4B Datsun)
+  - 3% non-Sears, 5% Sears/affiliates: $3B uplift (+$0.8B Atari, $0.18B Saks, $0.09B World Trade, $0.09B Cub Cadet, $0.4B Datsun)
 - **Market Share**: N/A
 
 ---
@@ -491,12 +483,12 @@ By the end of Phase 3 (2025), Sears achieves significant milestones:
 - **Market Share (2035)**: 15% Global ($300B TAM)
 - **Features**:
   - Gen 3 Kodak Optics
-  - Consumer robots: 280,000 units, $1.5B (Dallas)
-  - Automated guided vehicles: 90,000 units, $5B (Dallas)
+  - Consumer robots: 280,000 units, $1.5B (Dallas factory)
+  - Automated guided vehicles: 90,000 units, $5B (Dallas factory)
   - Dragonfly drones: 22,000 units, $3.5B (Dallas)
-  - Kiva appliance bots: $3.5B (Dallas, Surabaya)
-  - Lawn mowers: $3.5B (Martin, Brownsville)
-  - Atari peripherals: $1.5B (Osaka)
+  - Kiva appliance bots: $3.5B (Dallas, Surabaya factories)
+  - Lawn mowers: $3.5B (Martin, Brownsville factories)
+  - Atari peripherals: $1.5B (Osaka factory)
   - Cub Cadet electronics/RC parts: $80M (Dallas)
   - Datsun smart vehicle components: $80M (Dallas)
 - **Budget**: $5.5B (+$350M for gaming, $40M for Cub Cadet/Datsun)
@@ -567,12 +559,20 @@ By the end of Phase 3 (2025), Sears achieves significant milestones:
 #### Coldwell Banker
 - **Ownership**: 100%
 - **HQ**: Dallas
-- **Revenue (2025)**: $8B
-- **Revenue (2035)**: $15B
+- **Revenue (2025)**: $8B (+1.2B)
+- **Revenue (2035)**: $15B (+1.5B)
 - **Market Share (2025)**: 6% NA
 - **Market Share (2035)**: 8% NA
-- **Features**: $15B revenue from brokerage, now managing Sears Mortgage for real estate synergies
-- **Value (2025)**: $16B
+- **Features**: $15B revenue from brokerage, Reality, property Mngmt
+ - **Sears Mortgages**
+ - Managed by Coldwell Banker for real estate synergies.
+- Minimum down payment 30%, with stress test
+- **Revenue (2025)**: $1.2B (NA: $0.96B, Expanded: $0.24B)
+- **Revenue (2035)**: $1.5B (NA: $1.2B, Expanded: $0.3B
+- **Budget**: $0.8B
+- **Market Share (2025)**: 1% mortgage
+- **Market Share (2035)**: 1.5% mortgage
+ - **Value (2025)**: $16B
 - **Value (2035)**: $30B
 
 #### Sears Canada
@@ -594,7 +594,7 @@ By the end of Phase 3 (2025), Sears achieves significant milestones:
 #### Sears World Trade, Inc.
 - **Ownership**: 100%
 - **HQ**: Dallas
-- **Objective**: Capture 18% of $130B NA/Expanded SKU market, scale to 900,000 SKUs generating $30B.
+- **Objective**: Capture 18% of $130B NA/Expanded SKU market, scale to  9,000,000 SKUs generating $30B.
 - **Workforce**: 4,500 (+1,800 glllobal ops)
 - **Revenue (2025)**: $25B (electronics: $10B, tools: $8B, apparel: $6B, automotive: $1B) (NA: $12.5B, Expanded: $12.5B)
 - **Revenue (2035)**: $30B (electronics: $12B, tools: $9B, apparel: $8B, automotive: $1B) (NA: $15B, Expanded: $15B)
@@ -602,8 +602,8 @@ By the end of Phase 3 (2025), Sears achieves significant milestones:
 - **Market Share (2035)**: 18% ($130B TAM)
 - **Budget**: $2.2B ($0.4B logistics, $0.9B vetting, $0.9B onboarding, $0.04B Datsun)
 - **Features**:
-  - Offices: Tokyo, Seoul, Taipei, Frankfurt, Mumbai ($25M)
-  - Procures from EU, UK, AUS, NZ, Japan, Korea, Taiwan (9,000+ vendors)
+  - Offices: Dallas, Tokyo, Seoul, Taipei, Frankfurt, Mumbai ($25M)
+  - Procures from EU, UK, AUS, NZ, Japan, Korea, Taiwan (90,000+ vendors)
   - Integrates with 60 hubs ($0.4B)
   - Consumer Data Marketplace: $0.4B uplift
   - KENN AI vetting: $1.5B savings
@@ -672,7 +672,7 @@ By the end of Phase 3 (2025), Sears achieves significant milestones:
 | Metric | Sears | Amazon | Walmart | Alibaba | Apple | Home Depot | SBD | Toyota | Datsun |
 |--------|-------|--------|---------|--------|-------|------------|-----|--------|--------|
 | **Revenue** | $2.5T | $800B | $650B | $450B | $350B | $140B | $16B | $280B | $48B |
-| **E-commerce Users** | 280M | 140M | 28M | 180M | 90M | 18M | 4M | - | - |
+| **E-commerce Users** | 300M | 140M | 28M | 180M | 90M | 18M | 4M | - | - |
 | **Market Share** | 35% NA, 12% Expanded | 22% NA | 4% global | 13% global | 9% services | 13% home imp. | 9% tools | 28% hybrids | 8% hybrids |
 | **Gaming Share** | 20% (Atari) | 4% (Arcade) | - | - | 4% | - | - | - | - |
 | **Valuation** | $3T | $900B | $450B | $540B | $2.7T | $360B | $18B | $270B | $72B |
@@ -687,7 +687,7 @@ By the end of Phase 3 (2025), Sears achieves significant milestones:
   - Manages Dallas ($2.8B capex), Colorado ($0.4B), Guadalajara ($1.4B), Surabaya ($0.35B), Osaka ($0.35B), Martin ($0.09B), Brownsville ($0.18B), Austin R&D ($0.04B)
   - Led by Managing Director (Dallas, $20M), Advisory Committee ($10M/year)
 - **Sears World Trade, Inc.**:
-  - Manages 900,000 SKUs ($30B)
+  - Manages 9,000,000 SKUs ($30B)
   - Dallas HQ ($20M), Advisory Committee ($10M/year)
 - **Regional Operating Units**:
   - North America: Chicago ($15M/year)
@@ -702,7 +702,7 @@ By the end of Phase 3 (2025), Sears achieves significant milestones:
   - Datsun Engines (Yamaha): $90M
   - Datsun Transmissions (Getrag): $90M
 - **Global Steering Committee**:
-  - Aligns units, monitors KPIs (Atari: 20%, Sears.com: 280M users, Saks: 4%, World Trade: 900,000 SKUs, Cub Cadet: 8% NA, Datsun: 8% hybrids, factory output)
+  - Aligns units, monitors KPIs (Atari: 20%, Sears.com: 280M users, Saks: 4%, World Trade: 9,000,000 SKUs, Cub Cadet: 8% NA, Datsun: 8% hybrids, factory output)
 - **KENN AI Optimizations**: $280B synergies (Atari: $3.5B, Zenith: $0.8B savings, Saks: $1.8B, World Trade: $1.5B savings, Cub Cadet: $0.8B, Datsun: $1.8B, factories: $4B savings)
 
 ---
@@ -763,7 +763,7 @@ By the end of Phase 3 (2025), Sears achieves significant milestones:
   - NA: Sears.com (280M users, 90,000 SKUs, $0.8B), 2,700 stores (2,400 showrooms, $0.4B Datsun displays, 280 full-line Homart malls)
   - No NA dealerships ($2.5B savings), trade-in/test drive centers outside 280 Homart malls (5/state, not in non-DTC states)
   - Japan/Expanded: ~2,800 dealerships
-  - Financing: 3/5-year 5.99%/7.99% base rate Discover plans (10% down, no negative equity trade-ins, “Negative Equity Exit Plan” for base Ultima leases)
+  - Financing: 3/5-year 5.99%/7.99% APR Discover plans (10% down, no negative equity trade-ins, however a “Negative Equity Exit lease” on a base Ultima for suitable customers)
 - **Service**:
   - Auto Centers: 2,900 centers, 19,000 employees, $1.8B
   - HomeForce: 48,000 employees, $0.8B (commercial fleet mobile repair)
@@ -782,7 +782,5 @@ By the end of Phase 3 (2025), Sears achieves significant milestones:
   - Debt: $0.8B
   - EBITDA: $3.84B
   - Valuation: $72B
-
-
 
 

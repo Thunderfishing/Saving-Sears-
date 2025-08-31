@@ -4,7 +4,7 @@ A Time Traveler’s Guide to Save Sears: Phase 4 (2025–2035) – Factory-Power
 To Cement Sears as a vertically integrated, AI, crypto-powered retail-industrial mega-corporation, valued at $3 trillion by 2035, through Sears.com, generating $900 billion in revenue.
 
 - Offer **102M+ stock-keeping units (SKUs)**.
-- Serve **350M users**.
+- Serve 350M users.
 - Command a 35% share of the North American market, capturing $1.4T out of a $4T total e-commerce market.
 - Secure a 12% share in expanded marketsl (Japan, Taiwan, Indonesia, Australia, New Zealand, Singapore, UK), capturing $200B out of a $4.5T Southeast Asia and emerging regions market.
 
@@ -13,16 +13,16 @@ To Cement Sears as a vertically integrated, AI, crypto-powered retail-industrial
 ## Strategic Context
 By the end of Phase 3 (2025), Sears achieves significant milestones:
 
-- **Revenue**: $800B (North America: $640 billion; Expanded Markets: $160B)
+- **Revenue**: $850B (North America: $640 billion; Expanded Markets: $160B)
 - **EBITDA**: $64B (8% margin)
-- **Valuation**: $960B (15x EBITDA multiple)
+- **Valuation**: $980B (15x EBITDA multiple)
 - **Surplus**: $0.5B
 - **Debt**: $18B
 
 ### Operations
 - **Stores**: 2,300 total (2,050 showrooms for merchandise (Kenmore/Coldspot, Craftsman, etc.), Cub Cadet and Datsun display/test drive centers and micro-distribution centers, 250 full-line stores at Sears Homart Malls)
-- **Workforce**: 450,000 employees
-- **Logistics**: 50 distribution centers (28 U.S., 15 global, 4 in Canada, and 9,000 Local distribution centers
+- **Workforce**: 490,000 employees
+- **Logistics**: 65 distribution centers ( 45U.S., 16 global, 4 in Canada, and 9,000 Local distribution centers
 - **Sears Academy**: Dallas campus partnered with 90 colleges
 
 ---
@@ -257,12 +257,12 @@ By the end of Phase 3 (2025), Sears achieves significant milestones:
 ### 3. Sears Logistics
 **Objective**: Scale to 90   distribution centers, capture 1% of $15T global market.
 
-- **Workforce**: 105,000 employees
-- **Revenue (2025)**: $60B (NA: $42B, Expanded: $18B)
-- **Revenue (2035)**: $75B (NA: $52.5B, Expanded: $22.5B)
-- **Market Share (2025)**: 0.75% Global ($10T TAM)
-- **Market Share (2035)**: 1% Global ($15T TAM)
-- **Budget**: $20B (+$0.8B Atari, $180M Saks, $0.4B World Trade, $80M Cub Cadet, $180M Datsun)
+- **Workforce**: 205,000 employees
+- **Revenue (2025)**: $90B (NA: $70B, Expanded: $20B)
+- **Revenue (2035)**: $155B (NA: $105B, Expanded: $50B)
+- **Market Share (2025)**: 2% Global ($20T TAM)
+- **Market Share (2035)**: 2.5% Global ($30T TAM)
+- **Budget**: $150B (+$0.8B Atari, $180M Saks, $0.4B World Trade, $80M Cub Cadet, $180M Datsun)
 - **Features**:
   - 90 distribution centers
   - 10,000 micro-DCs (2,420 at showrooms): $3.2B
@@ -277,8 +277,8 @@ By the end of Phase 3 (2025), Sears achieves significant milestones:
   - Cub Cadet distribution: $80M (Martin, Brownsville)
   - Datsun distribution: $180M (North America DTC)
 - **Self-Healing Supply Chains**: KENN AI autonomously reroutes shipments, shifts production (Whirlpool/Serta integration), manages inventory for global disruptions (geopolitical, climate, trade)
-- **Value (2025)**: $90B
-- **Value (2035)**: $112.5B
+- **Value (2025)**: $185B
+- **Value (2035)**: $222B
 
 ---
 
@@ -660,15 +660,15 @@ By the end of Phase 3 (2025), Sears achieves significant milestones:
 ## Financial Snapshot (2025)
 - **Total Revenue**: $2T (Datsun: $24B) (NA: $1.6T, Expanded: $0.4T)
 - **EBITDA**: $160B (8% margin)
-- **Valuation**: $2.4T (15x EBITDA)
+- **Valuation**: $2.5T (15x EBITDA)
 - **Surplus**: $0.8B
 - **Debt**: $18B (0.11x EBITDA)
 
 ## Financial Snapshot (2035)
-- **Total Revenue**: $2.5T (Datsun: $48B) (NA: $2T, Expanded: $0.5T)
+- **Total Revenue**: $2.65T (Datsun: $48B) (NA: $2T, Expanded: $0.5T)
 - **EBITDA**: $200B (8% margin)
 - **Valuation**: $3T (15x EBITDA)
-- **Surplus**: $1.6B
+- **Surplus**: $6.5B
 - **Debt**: $19.65B (0.1x EBITDA)
 
 ---
@@ -676,8 +676,8 @@ By the end of Phase 3 (2025), Sears achieves significant milestones:
 ## Competitive Positioning (2035)
 | Metric | Sears | Amazon | Walmart | Alibaba | Apple | Home Depot | SBD | Toyota | Datsun |
 |--------|-------|--------|---------|--------|-------|------------|-----|--------|--------|
-| **Revenue** | $2.5T | $800B | $650B | $450B | $350B | $140B | $16B | $280B | $48B |
-| **E-commerce Users** | 300M | 140M | 28M | 180M | 90M | 18M | 4M | - | - |
+| **Revenue** | $2.65T | $800B | $650B | $450B | $350B | $140B | $16B | $280B | $48B |
+| **E-commerce Users** | 350M | 140M | 28M | 180M | 90M | 18M | 4M | - | - |
 | **Market Share** | 35% NA, 12% Expanded | 22% NA | 4% global | 13% global | 9% services | 13% home imp. | 9% tools | 28% hybrids | 8% hybrids |
 | **Gaming Share** | 20% (Atari) | 4% (Arcade) | - | - | 4% | - | - | - | - |
 | **Valuation** | $3T | $900B | $450B | $540B | $2.7T | $360B | $18B | $270B | $72B |
@@ -765,7 +765,7 @@ By the end of Phase 3 (2025), Sears achieves significant milestones:
     - Full EV delivery van model
     - Commercial/off-road focus
 - **Sales**:
-  - NA: Sears.com (280M users, 90,000 SKUs, $0.8B), 2,700 stores (2,400 showrooms, $0.4B Datsun displays, 280 full-line Homart malls)
+  - NA: 350M users, 90,000 SKUs, $0.8B), 2,700 stores (2,400 showrooms, $0.4B Datsun displays, 280 full-line Homart malls)
   - No NA dealerships ($2.5B savings), trade-in/test drive centers outside 280 Homart malls (5/state, not in non-DTC states)
   - Japan/Expanded: ~2,800 dealerships
   - Financing: 3/5-year 5.99%/7.99% APR Discover plans (10% down, no negative equity trade-ins, however a “Negative Equity Exit lease” on a base Ultima for suitable customers)

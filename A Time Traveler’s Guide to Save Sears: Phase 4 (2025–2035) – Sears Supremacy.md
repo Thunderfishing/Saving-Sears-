@@ -255,7 +255,7 @@ By the end of Phase 3 (2025), Sears achieves significant milestones:
 ---
 
 ### 3. Sears Logistics
-**Objective**: Scale to 65 distribution centers, capture 1% of $15T global market.
+**Objective**: Scale to 90   distribution centers, capture 1% of $15T global market.
 
 - **Workforce**: 105,000 employees
 - **Revenue (2025)**: $60B (NA: $42B, Expanded: $18B)
@@ -264,13 +264,13 @@ By the end of Phase 3 (2025), Sears achieves significant milestones:
 - **Market Share (2035)**: 1% Global ($15T TAM)
 - **Budget**: $20B (+$0.8B Atari, $180M Saks, $0.4B World Trade, $80M Cub Cadet, $180M Datsun)
 - **Features**:
-  - 65 distribution centers
-  - 9,000 micro-DCs (2,420 at showrooms): $3.2B
+  - 90 distribution centers
+  - 10,000 micro-DCs (2,420 at showrooms): $3.2B
   - 200,000 hybrid vehicles (serviced at Sears Auto Centers) with KENN AI: $9B
   - 329,000/220,000K Kiva-SortBots/MuleBots, 60,000 Dragonfly drones: $2.5B (Dallas)
-  - 22 Boeing 767-300F, 50 737-800BCF, 75 feeder aircraft: $2 5B
-  - Maersk partnership: $1B
-  - FedEx partnership ($700M)
+  - 57 Boeing 767-300F, 70 737-800BCF, 90 Cessna 408 Skycourier  feeder aircraft: $6.5B
+  - Maersk partnership: $2B
+  - FedEx partnership (2B)
   - Atari distribution: $0.8B (Osaka)
   - Saks logistics: $180M
   - World Trade logistics: $0.4B

@@ -255,13 +255,13 @@ By the end of Phase 3 (2025), Sears achieves significant milestones:
 ---
 
 ### 3. Sears Logistics
-**Objective**: Scale to 65 distribution centers, capture 0.5% of $15T global market.
+**Objective**: Scale to 65 distribution centers, capture 1% of $15T global market.
 
 - **Workforce**: 105,000 employees
 - **Revenue (2025)**: $60B (NA: $42B, Expanded: $18B)
 - **Revenue (2035)**: $75B (NA: $52.5B, Expanded: $22.5B)
-- **Market Share (2025)**: 0.4% Global ($10T TAM)
-- **Market Share (2035)**: 0.5% Global ($15T TAM)
+- **Market Share (2025)**: 0.75% Global ($10T TAM)
+- **Market Share (2035)**: 1% Global ($15T TAM)
 - **Budget**: $20B (+$0.8B Atari, $180M Saks, $0.4B World Trade, $80M Cub Cadet, $180M Datsun)
 - **Features**:
   - 65 distribution centers

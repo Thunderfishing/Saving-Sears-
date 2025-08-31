@@ -1,4 +1,4 @@
-A Time Traveler’s Guide to Save Sears: Phase 4 (2025–2035) – Factory-Powered Global AI-Crypto-Luxury-Automotive Dominance
+⁹A Time Traveler’s Guide to Save Sears: Phase 4 (2025–2035) – Factory-Powered Global AI-Crypto-Luxury-Automotive Dominance
 
 ## Mission
 To Cement Sears as a vertically integrated, AI, crypto-powered retail-industrial mega-corporation, valued at $3 trillion by 2035, through Sears.com, generating $900 billion in revenue.
@@ -102,7 +102,7 @@ By the end of Phase 3 (2025), Sears achieves significant milestones:
 ---
 
 ## Workforce & Operations
-- **Workforce**: 521,021 + 140,000 Datsun employees (by 2035)
+- **Workforce**: 621,021 + 140,000 Datsun employees (by 2035)
 - **Stores**: 2,700 (2,420 showrooms/micro-DCs, 280 full-line Homart Mall anchor stores)
 - **Payroll**: $20/hour min wage floor; 10% premium above medians for roles (e.g., tech specialists ~$30-40/hour); annual reviews tied to inflation/market benchmarks. 
  - Mechanics at $50/hour base with warranty incentives (hybrid pay, tiered bonuses, no-fault safety net, quarterly team incentives)
@@ -668,7 +668,7 @@ By the end of Phase 3 (2025), Sears achieves significant milestones:
 - **Total Revenue**: $2.65T (Datsun: $48B) (NA: $2T, Expanded: $0.5T)
 - **EBITDA**: $200B (8% margin)
 - **Valuation**: $3T (15x EBITDA)
-- **Surplus**: $6.5B
+- **Surplus**: $3.5B
 - **Debt**: $19.65B (0.1x EBITDA)
 
 ---

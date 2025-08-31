@@ -4,7 +4,7 @@ A Time Traveler’s Guide to Save Sears: Phase 4 (2025–2035) – Factory-Power
 To Cement Sears as a vertically integrated, AI, crypto-powered retail-industrial mega-corporation, valued at $3 trillion by 2035, through Sears.com, generating $900 billion in revenue.
 
 - Offer **102M+ stock-keeping units (SKUs)**.
-- Serve **400M users**.
+- Serve **350M users**.
 - Command a 35% share of the North American market, capturing $1.4T out of a $4T total e-commerce market.
 - Secure a 12% share in expanded marketsl (Japan, Taiwan, Indonesia, Australia, New Zealand, Singapore, UK), capturing $200B out of a $4.5T Southeast Asia and emerging regions market.
 

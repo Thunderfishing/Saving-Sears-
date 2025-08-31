@@ -144,7 +144,7 @@ By the end of Phase 3 (2025), Sears achieves significant milestones:
 
 #### Sears.com
 - **SKUs**: 102M+, 12M+ first-party (NA produced), 90M+ reputable, third-party vendors (brand focused, ie. Levi’s, Samsung, Pyrex)
-- **Users**: 400M (210M mobile, 125M Prime members)
+- **Users**: 350M (210M mobile, 135M Prime members)
 - **Market Share (2025)**: 25% North America ($800B TAM, revenue $200B), 8% Expanded ($1.8T TAM, revenue $144B)
 - **Market Share (2035)**: 35% North America ($4T TAM, revenue $1.4T), 12% Expanded ($4.5T TAM, revenue $540B)
 - **Features**:

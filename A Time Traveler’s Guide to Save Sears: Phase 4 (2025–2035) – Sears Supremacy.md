@@ -96,7 +96,7 @@ By the end of Phase 3 (2025), Sears achieves significant milestones:
 - **Total Savings**: $58B
 
 ### Financial Outcomes
-- **Surplus**: $2.6B
+- **Surplus**: $1.6B
 - **Total Debt**: $19.65B (Sears: $18.4B, Datsun: $0.8B, 0.15x EBITDA)
 
 ---
@@ -262,7 +262,7 @@ By the end of Phase 3 (2025), Sears achieves significant milestones:
 - **Revenue (2035)**: $155B (NA: $105B, Expanded: $50B)
 - **Market Share (2025)**: 2% Global ($20T TAM)
 - **Market Share (2035)**: 2.5% Global ($30T TAM)
-- **Budget**: $150B (+$0.8B Atari, $180M Saks, $0.4B World Trade, $80M Cub Cadet, $180M Datsun)
+- **Budget**: $100B (+$0.8B Atari, $180M Saks, $0.4B World Trade, $80M Cub Cadet, $180M Datsun)
 - **Features**:
   - 90 distribution centers
   - 10,000 micro-DCs (2,420 at showrooms): $3.2B
@@ -668,7 +668,7 @@ By the end of Phase 3 (2025), Sears achieves significant milestones:
 - **Total Revenue**: $2.65T (Datsun: $48B) (NA: $2T, Expanded: $0.5T)
 - **EBITDA**: $200B (8% margin)
 - **Valuation**: $3T (15x EBITDA)
-- **Surplus**: $3.5B
+- **Surplus**: $1.6B
 - **Debt**: $19.65B (0.1x EBITDA)
 
 ---

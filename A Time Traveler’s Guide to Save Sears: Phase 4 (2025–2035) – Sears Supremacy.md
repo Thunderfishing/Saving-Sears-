@@ -1,4 +1,4 @@
-⁹A Time Traveler’s Guide to Save Sears: Phase 4 (2025–2035) – Factory-Powered Global AI-Crypto-Luxury-Automotive Dominance
+A Time Traveler’s Guide to Save Sears: Phase 4 (2025–2035) – Factory-Powered Global AI-Crypto-Luxury-Automotive Dominance
 
 ## Mission
 To Cement Sears as a vertically integrated, AI, crypto-powered retail-industrial mega-corporation, valued at $3 trillion by 2035, through Sears.com, generating $900 billion in revenue.
@@ -472,7 +472,8 @@ By the end of Phase 3 (2025), Sears achieves significant milestones:
   - Free financial,consumer debt, literacy literacy courses 
   - Upskills 500,000 employees, promotes economic mobility near 280 malls
   - Sustainability: Green factories ($0.8B: Dallas, Colorado, Guadalajara, Surabaya, Osaka, Martin, Brownsville), community programs ($350M), Atari compliance ($350M)
- - Right to Repair advocate/lobbyist, $50M
+ - Right to Repair advocate/lobbyist, $70M
+ - Anti-planed obsolescence advocate/lobbyist, 30M (Sears produced goods are built for durability, and modular for easy repairability, no required APPs for full functionality)
 - **Value (2025)**: N/A (uplift)
 - **Value (2035)**: N/A (uplift)
 

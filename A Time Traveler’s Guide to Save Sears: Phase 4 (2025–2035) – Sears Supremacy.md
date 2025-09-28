@@ -473,7 +473,7 @@ By the end of Phase 3 (2025), Sears achieves significant milestones:
   - Upskills 500,000 employees, promotes economic mobility near 280 malls
   - Sustainability: Green factories ($0.8B: Dallas, Colorado, Guadalajara, Surabaya, Osaka, Martin, Brownsville), community programs ($350M), Atari compliance ($350M)
  - Right to Repair advocate/lobbyist, $70M
- - Anti-planed obsolescence advocate/lobbyist, 30M (Sears produced goods are built for durability, and modular for easy repairability, no required APPs for full functionality)
+ - Anti-planed obsolescence, unnecessary subscriptions, software tethering advocate/lobbyist, 50M (Sears produced goods are built for durability, and modular for easy repairability, no required APPs for full functionality)
 - **Value (2025)**: N/A (uplift)
 - **Value (2035)**: N/A (uplift)
 

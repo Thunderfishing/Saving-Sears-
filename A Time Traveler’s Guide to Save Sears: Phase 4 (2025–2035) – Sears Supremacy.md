@@ -560,6 +560,7 @@ By the end of Phase 3 (2025), Sears achieves significant milestones:
     - Parking lot sausage/pancake breakfast: Summer clearance sale ($18M)
     - Car Clubs: annual show & shines ($8M)
     - Carnivals/Shriners: parking lot fairs/circuses ($18M)
+    - integrated youth centers, periodic dances, youth based support ($50M)
 - **Value (2025)**: $100B
 - **Value (2035)**: $200B
 

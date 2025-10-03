@@ -3,12 +3,13 @@ A Time Traveler’s Guide to Save Sears: Phase 4 (2025–2035) – Factory-Power
 ## Mission
 To Cement Sears as a vertically integrated, AI, crypto-powered retail-industrial mega-corporation, valued at $3 trillion by 2035, through Sears.com, generating $900 billion in revenue. 
 
-- Maintain working class hero reputation,
-- continue developing safe harbor ecosystem. 
+
 - Offer **102M+ stock-keeping units (SKUs)**.
 - Serve 350M users.
 - Command a 35% share of the North American market, capturing $1.4T out of a $4T total e-commerce market.
 - Secure a 12% share in expanded marketsl (Japan, Taiwan, Indonesia, Australia, New Zealand, Singapore, UK), capturing $200B out of a $4.5T Southeast Asia and emerging regions market.
+- Maintain working class hero reputation,
+- Continue developing "safe harbor" ecosystem. 
 
 ---
 
@@ -115,7 +116,7 @@ By the end of Phase 3 (2025), Sears achieves significant milestones:
 ## Facilities
 - **Sears HQ**: Dallas, TX ($18M, 3500 employees) 
 - **R&D Facilities**:
-  - Atari, Kodak, Yahoo!, Zenith: Austin, TX ($50M, $50M, $30M, $30M, collaborating labs)
+  - Atari (1 addionally in Osaka), Kodak, Yahoo!, Zenith: Austin, TX ($50M, $50M, $30M, $30M, collaborating labs)
   - Cub Cadet: Austin, TX ($18M)
   - Sears/Whirlpool joint R&D: Austin, TX ($30M)
 - **Other HQs**:
@@ -145,7 +146,7 @@ By the end of Phase 3 (2025), Sears achieves significant milestones:
 - **Value (2035)**: $1.8T
 
 #### Sears.com
-- **SKUs**: 102M+, 12M+ first-party (NA produced), 90M+ reputable, third-party vendors (brand focused, ie. Levi’s, Samsung, Pyrex)
+- **SKUs**: 102M+, 12M+ first-party (NA produced), 90M+ reputable third-party vendors (brand focused, ie. Levi’s, Samsung, Pyrex, Patagonia)
 - **Users**: 350M (210M mobile, 135M Prime members)
 - **Market Share (2025)**: 25% North America ($800B TAM, revenue $200B), 8% Expanded ($1.8T TAM, revenue $144B)
 - **Market Share (2035)**: 35% North America ($4T TAM, revenue $1.4T), 12% Expanded ($4.5T TAM, revenue $540B)
@@ -178,7 +179,7 @@ By the end of Phase 3 (2025), Sears achieves significant milestones:
 - **Market Share (2035)**: 15% Global ($2.5T TAM)
 - **Clients**: 2M, 25% Expanded share
 - **Features**:
-  - 60 data centers ($5.5B, +3 for Atari)
+  - 60 data centers integrated into bowels of Homart malls in Colder climate states,integrated into mall climate controls ($5.5B, +3 for Atari)
   - IaaS/PaaS: $2.5B
   - Savings: $2B
   - Atari gaming: 55M users, $8B (Osaka)
@@ -319,9 +320,9 @@ By the end of Phase 3 (2025), Sears achieves significant milestones:
 | **Harmony House** | Sears/Serta (20%) | 18% NA, 6% Expanded | 20% NA, 7% Expanded | 1.8M mattresses/Beddings (Surabaya), 900,000 (Guadalajara) | $7B (NA: $5.6B, Expanded: $1.4B) | $7.5B (NA: $6B, Expanded: $1.5B) | $0.4B (Surabaya: $0.16B, Guadalajara: $0.24B) | $10.5B | $11.25B |
 | **Silvertone** | Sears/Zenith (100% stake | 18% NA, 8% Expanded | 20% NA, 9% Expanded | 1.1M audio devices (Guadalajara) | $45B (NA: $36B, Expanded: $9B) | $50B (NA: $40B, Expanded: $10B) | $0.4B (Guadalajara) | $67.5B | $75B |
 | **Char-Broil** | Sears/Char-Broil | 12% NA, 7% Expanded | 14% NA, 8% Expanded | Grills | $1B (NA: $0.8B, Expanded: $0.2B) | $1.1B (NA: $0.88B, Expanded: $0.22B) | - | $1.5B | $1.65B |
-| **Saks Fifth Avenue** |Sears (acquired 2025, $400M)/Various NA/EU suppliers | 3% Global | 5% Global | 140 stores, USA/Japan/EU-sourced | $20B (NA: $16B, Expanded: $4B) | $30B (NA: $24B, Expanded: $6B) | $1.3B | $30B | $45B |
+| **Saks Fifth Avenue** |Sears (acquired 2025, $400M)/Various NA/EU suppliers, sterling silver zippers, gold buckles (attempts to add real valueto luxurygoods)| 3% Global | 5% Global | 140 stores, USA/Japan/EU-sourced | $20B (NA: $16B, Expanded: $4B) | $30B (NA: $24B, Expanded: $6B) | $1.3B | $30B | $45B |
 | **Saks Off 5th** | Sears (acquired 2025) | 2% Global | 4% Global | Sears.com storefront | $10B (NA: $8B, Expanded: $2B) | $15B (NA: $12B, Expanded: $3B) | $0.5B | $15B | $22.5B |
-| **Kodak Optics/Graphics** | Sears (acquired 2009, $205M) | 10% Global | 15% Global | Lenses for Sears Optical, AI image tech | $4B (NA: $3.2B, Expanded: $0.8B) | $6B (NA: $4.8B, Expanded: $1.2B) | $0.2B | $6B | $9B |
+| **Kodak Optics/Graphics** | Sears (acquired 2009, $205M) | 10% Global | 15% Global | Lenses for Sears Optical, AI image tech, Kodak Graphics | $4B (NA: $3.2B, Expanded: $0.8B) | $6B (NA: $4.8B, Expanded: $1.2B) | $0.2B | $6B | $9B |
 
 ---
 
@@ -413,7 +414,7 @@ By the end of Phase 3 (2025), Sears achieves significant milestones:
   - NA SMB startup venture capital: $20B
   - Gaming startups: $1.8B (Atari)
   - Electric/hybrid vehicle startups: $1.8B (Datsun)
-  - SMB Sears.com retailer preference program: $1.8B
+  - Domestic, SMB Sears.com retailer preference program: $1.8B
 
 #### Discover Card Network and SearsPay
 - **Revenue (2025)**: $10B (NA: $8B, Expanded: $2B)
@@ -425,7 +426,7 @@ By the end of Phase 3 (2025), Sears achieves significant milestones:
   - Terms: Sears Discover Credit Card offers a 24-day grace period, and a 14.95 APR, with a $50 yearly fee
   - Credit checks/underwriting for BNPL loans (purchases >$1,500, credit check required, no multiple BNPLs, regulatory data voluntarily provided)
   - Avoids 6% BNPL fees (e.g., Klarna, ClearPay)
-  - **Datsun financing/leasing**: 36 months at 5.99% APR, or 60 months at 7.99% APR, and standard leasing terms, (plus a 3 year special "negative equity escape lease" for suitable customers)
+  - **Datsun financing/leasing**: 36 months at 5.49% APR, or 60 months at 6.99% APR, and standard leasing terms, (plus a 3 year special "negative equity escape lease" for suitable customers)
 - **Market Share (2025)**: 4%
 - **Market Share (2035)**: 5%
 
@@ -435,8 +436,8 @@ By the end of Phase 3 (2025), Sears achieves significant milestones:
 - **Budget**: $4.2B (+$0.35B Atari, $0.14B Saks, $0.09B World Trade, $0.09B Cub Cadet, $0.4B Datsun)
 - **Users**: 180M
 - **Features**:
-  - Rewards across Discover Card network
-  - Consumer Data Marketplace payment method
+  - Rewards across Discover Card network, including throughout Homart malls
+  - - Consumer Data Marketplace payment method
   - Atari, Saks, World Trade, Cub Cadet, Datsun eligibility
   - Non interest portion of Datsun Auto financing/leasing, and or insurance payments eligible.
   - 3% non-Sears, 5% Sears/affiliates: $3B uplift (+$0.8B Atari, $0.18B Saks, $0.09B World Trade, $0.09B Cub Cadet, $0.4B Datsun)
@@ -474,7 +475,7 @@ By the end of Phase 3 (2025), Sears achieves significant milestones:
   - Free financial,consumer debt, literacy literacy courses 
   - Upskills 500,000 employees, promotes economic mobility near 280 malls
   - Sustainability: Green factories ($0.8B: Dallas, Colorado, Guadalajara, Surabaya, Osaka, Martin, Brownsville), community programs ($350M), Atari compliance ($350M)
- - Produces Durable domestically produced, modular easilyrepaired goods, even going so far as to take into account of electron migration in wiring of products, as a example of lengths taken to produce long lasting goods. 
+ - Produces Durable domestically produced, modular easily repaired goods, going so far as to take into account of electron migration in wiring of products. (example of lengths taken to produce long lasting goods) 
  - Right to Repair advocate/lobbyist, $70M
  - Anti-planed obsolescence, unnecessary subscriptions, software tethering advocate/lobbyist, 50M (Sears produced goods are built for durability, and modular for easy repairability, no required APPs for full functionality)
 - **Value (2025)**: N/A (uplift)
@@ -516,6 +517,8 @@ By the end of Phase 3 (2025), Sears achieves significant milestones:
 - **Revenue (2025)**: $60B (NA: $42B, Expanded: $18B)
 - **Revenue (2035)**: $100B (NA: $70B, Expanded: $30B)
 - **Features**: 55M users, console/cloud gaming, acquisitions synergies
+- Unique Repair network. Independent electronics repair business with certified Sears Academy graduates ( with periodic refresher courses) can perform warranty work, subsidizing independent electronics repair business (addional support available from Sears Ventures, SMB programs).
+
 - **Value (2025)**: $90B
 - **Value (2035)**: $150B
 

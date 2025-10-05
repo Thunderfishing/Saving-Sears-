@@ -99,7 +99,7 @@ By the end of Phase 3 (2025), Sears achieves significant milestones:
 - **Total Savings**: $58B
 
 ### Financial Outcomes
-- **Surplus**: $1.6B
+- **Surplus**: $500M
 - **Total Debt**: $19.65B (Sears: $18.4B, Datsun: $0.8B, 0.15x EBITDA)
 
 ---
@@ -549,7 +549,7 @@ By the end of Phase 3 (2025), Sears achieves significant milestones:
 - **Workforce**: 19,500
 - **Revenue (2025)**: $33B (NA: $29.7B, Expanded: $3.3B)
 - **Revenue (2035)**: $65B ( (NA: $58.5B, Expanded: $6.5B)
-- **Budget**: $3.5B ($1.2B malls, $1B apartments, $0.4B Atari, $0.7B Saks, $0.08B Datsun)
+- **Budget**: $3.5B ($1.2B malls, $1B apartments, $0.4B Atari, $0.7B Saks, $0.08B Datsun.(+ $1.1B for mall related community initiatives)
 - **Market Share (2025)**: 8%
 - **Market Share (2035)**:10% 
 - **Features**:
@@ -559,13 +559,13 @@ By the end of Phase 3 (2025), Sears achieves significant milestones:
   - Atari lounges: $400M
   - Datsun displays: $80M (45 rotating through 280 malls)
   - Community initiatives:
-    - Toastmasters partnership: 280 mall chapters, public speaking events ($8M)
-    - Vetted buskers/musicians: mall squares/entrances ($8M)
-    - Community gardens: underutilized mall property ($0.9M)
-    - Parking lot sausage/pancake breakfast: Summer clearance sale ($18M)
-    - Car Clubs: annual show & shines ($8M)
-    - Carnivals/Shriners: parking lot fairs/circuses ($18M)
-    - integrated youth centers, periodic dances, youth based support ($50M)
+    - Toastmasters partnership: 280 mall chapters, public speaking events ($8M/y)
+    - Vetted buskers/musicians: mall squares/entrances ($8M/y)
+    - Community gardens: underutilized mall property ($0.9M/y)
+    - Parking lot sausage/pancake breakfast: Summer clearance sale ($18M/y)
+    - Car Clubs: annual show & shines ($8M/y)
+    - Carnivals/Shriners: parking lot fairs/circuses ($18M/y)
+    - integrated youth centers, periodic dances, youth based support, basic financial/digital (including student loan caution), summer jobs bank/fairs/placement within Sears/affiliates/partners/Various companies, access to nursing staff located at malls, sports like Floor Hockey/Volleyball, Chess/board games, Toastmasters fir dabating and puplic speaking, Atari lounge tournaments, and more ($50M/y)
 - **Value (2025)**: $100B
 - **Value (2035)**: $200B
 
@@ -676,7 +676,7 @@ By the end of Phase 3 (2025), Sears achieves significant milestones:
 - **Total Revenue**: $2.65T (Datsun: $48B) (NA: $2T, Expanded: $0.5T)
 - **EBITDA**: $200B (8% margin)
 - **Valuation**: $3T (15x EBITDA)
-- **Surplus**: $1.6B
+- **Surplus**: $500M
 - **Debt**: $19.65B (0.1x EBITDA)
 
 ---

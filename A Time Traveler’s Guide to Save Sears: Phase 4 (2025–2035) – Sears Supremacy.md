@@ -558,6 +558,7 @@ By the end of Phase 3 (2025), Sears achieves significant milestones:
   - 22,000 bots, 6,500 drones: $1B (Dallas)
   - Atari lounges: $400M
   - Datsun displays: $80M (45 rotating through 280 malls)
+  - Community College (Sears Academy partners) campuses have relocated or expand to Homart malls (incentavized) becoming anchors as well.
   - Community initiatives:
     - Toastmasters partnership: 280 mall chapters, public speaking events ($8M/y)
     - Vetted buskers/musicians: mall squares/entrances ($8M/y)

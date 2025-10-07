@@ -745,6 +745,7 @@ By the end of Phase 3 (2025), Sears achieves significant milestones:
 
 ### Nissan/Datsun Rescue
 - **Structure**: Standalone Japanese corporation, Yokohama HQ/R&D ($45M)
+- Incorporate Sears ethos of modular, easy to repair/service prioritization (no Strategic Component lifestyle, optimized durability targets, economic repair threshold double-speak or code for planned obsolescence/part failure, ie thermo plastic failure,  mounting timing belts instead of chains and mounting them on the back of engine to increase repairability difficulties)
 - **Ownership**: 33-51% Sears stake ($8B, 2026-2028)
 - **Revenue (2035)**: $48B (NA: $33.6B, Expanded: $14.4B)
 - **Market Share**: 8% hybrid/compact ($600B global TAM)

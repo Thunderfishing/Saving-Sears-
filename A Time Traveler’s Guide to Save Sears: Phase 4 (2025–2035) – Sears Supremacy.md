@@ -478,6 +478,7 @@ By the end of Phase 3 (2025), Sears achieves significant milestones:
  - Produces Durable domestically produced, modular easily repaired goods, going so far as to take into account of electron migration in wiring of products. (example of lengths taken to produce long lasting goods) 
  - Right to Repair advocate/lobbyist, $70M
  - Anti-planed obsolescence, unnecessary subscriptions, software tethering advocate/lobbyist, 50M (Sears produced goods are built for durability, and modular for easy repairability, no required APPs for full functionality)
+ - Unique Repair network. Independent electronics repair business with certified Sears Academy graduates ( with periodic refresher courses) can perform warranty work or subsequent repairs post warranty on Atari, Zenith/Silvertone, and Sears Consumer Robots (with Sears HomeForce Support if needed) thereby subsidizing SMB independent electronics/robotics repair business (addional support available from Sears Ventures, SMB programs).
 - **Value (2025)**: N/A (uplift)
 - **Value (2035)**: N/A (uplift)
 

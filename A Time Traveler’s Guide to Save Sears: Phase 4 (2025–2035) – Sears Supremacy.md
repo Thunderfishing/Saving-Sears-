@@ -7,7 +7,7 @@ To Cement Sears as a vertically integrated, AI, crypto-powered retail-industrial
 - Offer **102M+ stock-keeping units (SKUs)**.
 - Serve 350M users.
 - Command a 35% share of the North American market, capturing $1.4T out of a $4T total e-commerce market.
-- Secure a 12% share in expanded marketsl (Japan, Taiwan, Indonesia, Australia, New Zealand, Singapore, UK), capturing $200B out of a $4.5T Southeast Asia and emerging regions market.
+- Secure a 12% share in expanded marketsl (Japan, Taiwan, Indonesia, Australia, New Zealand, Singapore, Philippines), capturing $200B out of a $4.5T Southeast Asia and emerging regions market.
 - Maintain working class hero reputation,
 - Continue developing "safe harbor" ecosystem. 
 
@@ -593,7 +593,7 @@ By the end of Phase 3 (2025), Sears achieves significant milestones:
 
 #### Sears Canada
 - **Ownership**: 100%
-- **HQ**: Calgary, AB ($45M)
+- **HQ**: Calgary ($15M)
 - **Objective**: Maintain 220 stores/ Logistical operations/Auto Centers, incorporate Datsun showrooms.
 - **Employees**: 45,500 country wide.
 - **Revenue (2025)**: $16B (NA: $16B, Expanded: $0)

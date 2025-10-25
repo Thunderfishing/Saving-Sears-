@@ -120,14 +120,14 @@ By the end of Phase 3 (2025), Sears achieves significant milestones:
   - Cub Cadet: Austin, TX ($18M)
   - Sears/Whirlpool joint R&D: Austin, TX ($30M)
 - **Other HQs**:
-  - Sears Canada, Toronto, $12M/year
+  - Sears Canada, Calgary AB, $12M/year
   - Yahoo!: Austin, TX, $15M/year
   - Dean Witter: Dallas TX, $8M/year
   - Coldwell Banker/Homart,  Dallas, 10M/year
   - Datsun satellite: Dallas, $18M/year
   - Chicago satellite: $15M/year
   - Jakarta satellite: $10M/year
-  - Atari: Austin, $15M/year
+  - Atari: Yokohama Japan, with a Austin TX NA satellite office, $15M/year each.
   - Zenith: Austin,  $10M/year
   - World Trade Offices: Dallas, Tokyo, Seoul, Taipei, Frankfurt, Mumbai ($30M)
   - Datsun HQ/R&D: Yokohama, Japan $28M/year
@@ -293,7 +293,7 @@ By the end of Phase 3 (2025), Sears achieves significant milestones:
 - **Revenue (2035)**: $250B (NA: $200B, Expanded: $50B)
 - **Budget**: $24B ($0.5B Guadalajara, $0.7B Surabaya/Osaka, $0.5B Dallas/Colorado, $0.25B Martin/Brownsville, $0.04B Cub Cadet R&D, $1.8B Atari, $0.25B developer/modder kits, $1B Saks, $1.8B Datsun)
 - **Features**:
-  - Whirlpool/Serta/Yamaha/small/medium business supplier profit-sharing: $3.5B uplift
+  - Whirlpool/Serta/Yamaha/Magna, small/medium business supplier profit-sharing: $3.5B uplift
   - Second Guadalajara plant: $0.5B (2030)
   - Atari gaming: 55M users, $8B; indie developer kits: $250M
   - Gaming stakes: $0.6B (2026)
@@ -304,6 +304,7 @@ By the end of Phase 3 (2025), Sears achieves significant milestones:
   - Non exclusive licensing with supplier's (with exception of Sears/Whirlpool co-developmed Kenmore/Coldspot technology/features)
   - Austin R&D: $0.8B uplift
   - Datsun synergies: $6B (Sears.com, Auto Centers, HomeForce, Allstate)
+  - No BNPL for Saks 5th Avenue (sacrifice impulse buys for exclusivity)
 - **Value (2025)**: $300B
 - **Value (2035)**: $375B
 
@@ -511,7 +512,7 @@ By the end of Phase 3 (2025), Sears achieves significant milestones:
 ### Sears Subsidiaries
 #### Atari Home Entertainment
 - **Ownership**: 100%, acquired 2013 ($30M)
-- **HQ**: Austin, TX
+- **HQ**: Yokohama, Japan
 - **Market Share (2025)**: 15% Global ($400B TAM)
 - **Market Share (2035)**: 20% Global ($500B TAM)
 - **Employees**: 9,500 ( headquarters, R&D, engineering, marketing, etc).
@@ -592,7 +593,7 @@ By the end of Phase 3 (2025), Sears achieves significant milestones:
 
 #### Sears Canada
 - **Ownership**: 100%
-- **HQ**: Toronto ($45M)
+- **HQ**: Calgary, AB ($45M)
 - **Objective**: Maintain 220 stores/ Logistical operations/Auto Centers, incorporate Datsun showrooms.
 - **Employees**: 45,500 country wide.
 - **Revenue (2025)**: $16B (NA: $16B, Expanded: $0)

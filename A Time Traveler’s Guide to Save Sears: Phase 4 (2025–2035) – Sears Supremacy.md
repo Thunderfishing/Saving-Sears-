@@ -479,7 +479,11 @@ By the end of Phase 3 (2025), Sears achieves significant milestones:
  - Produces Durable domestically produced, modular easily repaired goods, going so far as to take into account of electron migration in wiring of products. (example of lengths taken to produce long lasting goods) 
  - Right to Repair advocate/lobbyist, $70M
  - Anti-planed obsolescence, unnecessary subscriptions, software tethering advocate/lobbyist, 50M (Sears produced goods are built for durability, and modular for easy repairability, no required APPs for full functionality)
- - Unique Repair network. Independent electronics repair business with certified Sears Academy graduates ( with periodic refresher courses) can perform warranty work or subsequent repairs post warranty on Atari, Zenith/Silvertone, and Sears Consumer Robots (with Sears HomeForce Support if needed) thereby subsidizing SMB independent electronics/robotics repair business (addional support available from Sears Ventures, SMB programs).
+ - **Unique Repair network** Independent electronics repair business with certified Sears Academy graduates ( with periodic refresher courses) can perform warranty work or subsequent repairs post warranty on Atari, Zenith/Silvertone, and Sears Consumer Robots (with Sears HomeForce Support if needed) thereby subsidizing SMB independent electronics/robotics repair business (addional support available from Sears Ventures, SMB programs).
+ - **Features**
+ - The "Sears Heritage Parts" Database: Sears could host a moderated, wiki-style database where certified shops can log their non-standard parts inventory—a kind of "PartsDirect 2.0" populated by the network itself.
+ - "Core Return" Incentives: Sears offers small credits or SearsCoin to shops that send them specific, valuable discontinued components from scrapped units. Sears then refurbish these at a factory level and reintroduce them to the official PartsDirect system as "Heritage" parts, ensuring quality control.
+ - Advanced Training Modules: The Sears Academy offers specialized "Legacy Product Repair" certifications, teaching technicians the nuances of maintaining and cannibalizing older models, further legitimizing the practice and ensuring it's done correctly.
 - **Value (2025)**: N/A (uplift)
 - **Value (2035)**: N/A (uplift)
 

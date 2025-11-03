@@ -16,6 +16,7 @@ By the end of Phase 3 (2025), Sears achieves significant milestones:
  * Valuation: $980B (15x EBITDA multiple)
  * Surplus: $0.5B
  * Debt: $18B
+ * Cash on Hand: $13.7B
 
 ## Operations
  * Stores: 2,300 total (2,050 showrooms for merchandise (Kenmore/Coldspot, Craftsman, etc.), Cub Cadet and Datsun display/test drive centers and micro-distribution centers, 250 full-line stores at Sears Homart Malls)
@@ -30,19 +31,19 @@ By the end of Phase 3 (2025), Sears achieves significant milestones:
 | Yahoo! | 100% (Standalone) | 35% search market share | $30B (NA: $24B, Expanded: $6B) | $45B (NA: $36B, Expanded: $9B) | $150B | $225B | 30% | 35% |
 | SCloud | Full | Cloud services (1995), 2M 3rd-party customers | $200B (NA: $140B, Expanded: $60B) | $375B (NA: $262.5B, Expanded: $112.5B) | $300B | $562.5B | 10% Global | 15% Global |
 | Homart | Full | 250 malls, 80,000 apartments, property management | $25B (NA: $22.5B, Expanded: $2.5B) | $50B (NA: $45B, Expanded: $5B) | $100B | $200B | 8% NA | 10% NA |
-| Coldwell Banker | Full | Real estate brokerage and management | $8B (NA: $7.2B, Expanded: $0.8B) | $15B (NA: $13.5B, Expanded: $1.5B) | $16B | $30B | 6% NA | 8% NA |
+| Coldwell Banker | Full | Real estate brokerage and Sears Mortgages management | $8B (NA: $7.2B, Expanded: $0.8B) | $15B (NA: $13.5B, Expanded: $1.5B) | $16B | $30B | 6% NA | 8% NA |
 | Allstate | 20% stake | Bundled insurance for Datsun purchase/financing, roadside assistance | $8B (NA: $7.2B, Expanded: $0.8B) | $10B (NA: $9B, Expanded: $1B) | $10B | $12B | 5% | 6% |
-| Discover Card Network | Full | Backbone of Sears Financial, facilitates SearsPay and SearsCoin | $5B (NA: $4B, Expanded: $1B) | $8B (NA: $6.4B, Expanded: $1.6B) | $7B | $12B | 4% | 5% |
-| Dean Witter/Funds | Full | Brokerage, manages Sears Corporate Wealth/Bitcoin Funds, Sears Ventures, Dallas HQ | $1B/$30B (NA: $0.8B/$24B, Expanded: $0.2B/$6B) | $2B/$45B (NA: $1.6B/$36B, Expanded: $0.4B/$9B) | $4B/$10B | $6B/$15B | 3% | 4% |
+| Discover Card Network | Full | Backbone of Sears Financial, facilitates SearsPay/SearsCoin transactions | $5B (NA: $4B, Expanded: $1B) | $8B (NA: $6.4B, Expanded: $1.6B) | $7B | $12B | 4% | 5% |
+| Dean Witter/Funds | Full | Brokerage, manages Sears Corporate Wealth/Bitcoin Funds, 5% of Sears shares for dedicated long-term Sears shareholders, Sears Ventures, Dallas HQ | $1B/$30B (NA: $0.8B/$24B, Expanded: $0.2B/$6B) | $2B/$45B (NA: $1.6B/$36B, Expanded: $0.4B/$9B) | $4B/$10B | $6B/$15B | 3% | 4% |
 | Western Forge | Full (acquired 2009) | Craftsman hand tools, KENN AI-integrated factory, Colorado | $2B (NA: $1.6B, Expanded: $0.4B) | $4B (NA: $3.2B, Expanded: $0.8B) | $2B | $6B | 20% NA | 25% NA |
 | Remington (by W. Forge) | Full (acquired 2020, $25M) | Bolt-action rifles, shotguns; Colorado factory synergy | $0.8B (NA: $0.72B, Expanded: $0.08B) | $1.8B (NA: $1.62B, Expanded: $0.18B) | $1.2B | $2.7B | 4% NA hunting | 8.5% NA hunting |
 | Serta | 20% stake (2009) | Harmony House mattresses/bedding, Mexico/Indonesia factories | $1.5B (NA: $1.2B, Expanded: $0.3B) | $2B (NA: $1.6B, Expanded: $0.4B) | $2B | $3B | 15% NA | 18% NA |
 | SearsCoin Rewards | Full | Blockchain rewards (3% non-Sears, 5% Sears/affiliates), 45M users | $8B (NA: $6.4B, Expanded: $1.6B) | $15B (NA: $12B, Expanded: $3B) | $10B | $20B | N/A | N/A |
-| Atari Home Entertainment | Full (acquired 2013, $30M) | Console/cloud gaming, Osaka factory, Austin R&D | $60B (NA: $42B, Expanded: $18B) | $100B (NA: $70B, Expanded: $30B) | $90B | $200B | 15% Global | 20% Global |
-| Kodak Optics/Graphics | Full (acquired 2009, $205M) | Lenses for Sears Optical, KENN AI image tech, Atari graphics, Austin R&D | $1.5B (NA: $1.2B, Expanded: $0.3B) | $4B (NA: $3.2B, Expanded: $0.8B) | $2.5B | $8B | 10% Global | 15% Global |
+| Atari Home Entertainment | Full (acquired 2013, $30M) | Console/cloud gaming, Osaka factory, Yokohama/Austin R&D | $60B (NA: $42B, Expanded: $18B) | $100B (NA: $70B, Expanded: $30B) | $90B | $200B | 15% Global | 20% Global |
+| Kodak Optics/Graphics | Full (acquired 2009, $205M) | Lenses for Sears Optical, KENN AI image tech, Atari graphics, Yokohama/Austin R&D | $1.5B (NA: $1.2B, Expanded: $0.3B) | $4B (NA: $3.2B, Expanded: $0.8B) | $2.5B | $8B | 10% Global | 15% Global |
 | Saks Fifth Avenue | Full (acquired 2025, HBC bankruptcy) | 50 stores | $600M (NA: $480M, Expanded: $120M) | $20B (NA: $16B, Expanded: $4B) | $800M | $40B | 3% Global | 5% Global |
 | Saks Off 5th | Full | Sears.com storefront | $300M (NA: $240M, Expanded: $60M) | $10B (NA: $8B, Expanded: $2B) | $500M | $20B | 2% Global | 4% Global |
-| Cub Cadet | Full (acquired 2016) | Mowers, snowblowers, garden tractors, Martin/Brownsville factories | $1.5B (NA: $1.35B, Expanded: $0.15B) | $5B (NA: $4.5B, Expanded: $0.5B) | $1.8B | $7.5B | 12% NA | 15% NA |
+| Cub Cadet | Full (acquired 2016) | Mowers, snowblowers, garden tractors, Martin/Brownsville factories, Austin  R&D | $1.5B (NA: $1.35B, Expanded: $0.15B) | $5B (NA: $4.5B, Expanded: $0.5B) | $1.8B | $7.5B | 12% NA | 15% NA |
 | Sears World Trade, Inc. | Full (revived 1987) | Vetted foreign SKUs for Sears.com, 6,000,000 SKUs | $6B (NA: $3B, Expanded: $3B) | $30B (NA: $15B, Expanded: $15B) | $7B | $45B | 15% | 20% |
 
 ## Financial Restructuring
@@ -54,7 +55,7 @@ By the end of Phase 3 (2025), Sears achieves significant milestones:
  * Atari Acquisitions:
    * Namco/Bandai: 5% stake for $250M (2026)
    * Capcom: 5% stake for $200M
-   * Sega/Sammy: 5% stake for $150M (2026)
+   * Sega/Sammy: 10% stake for $300M (2026)
  * Nissan/Datsun: 33-51% stake for $8B for automotive entry (2026, Chapter 11)
  * Yamaha: 15% stake for $450 million (2026).
    * Partner with Yamaha ($800M) for engine manufacturing
@@ -62,9 +63,10 @@ By the end of Phase 3 (2025), Sears achieves significant milestones:
 
 ### Corporate Wealth Investments
  * Investments:
-   * Tesla: $800M
+   * Tesla: $600M
    * ByteDance: $400M
    * Malls: $2B
+   * Silver Wheaton: $300M
    * Gaming startups: $400M
    * Other startups/SMBs: $1.5B, targeting 16% CAGR to reach $22B by 2035
  * Total Cost: $16B
@@ -106,9 +108,10 @@ By the end of Phase 3 (2025), Sears achieves significant milestones:
 ## Facilities
  * Sears HQ: Dallas, TX ($18M, 3500 employees)
  * R&D Facilities:
-   * Atari (1 additionally in Osaka), Kodak, Yahoo!, Zenith: Austin, TX ($50M, $50M, $30M, $30M, collaborating labs)
-   * Cub Cadet: Austin, TX ($18M)
+   * Atari (1 additinnal in Yokohama Japan), Kodak, Yahoo!, Zenith: Austin, TX ($50M, $50M, $30M, $30M, collaborating labs)
+   * Cub Cadet/Datsun (Joint): Austin, TX ($30M)
    * Sears/Whirlpool joint R&D: Austin, TX ($30M)
+   * Sears/Serta Joint R&D Austin TX ($10M)
  * Other HQs:
    * Sears Canada, Calgary AB, $12M/year
    * Yahoo!: Austin, TX, $15M/year
@@ -119,7 +122,7 @@ By the end of Phase 3 (2025), Sears achieves significant milestones:
    * Jakarta satellite: $10M/year
    * Atari: Yokohama Japan, with an Austin TX NA satellite office, $15M/year each.
    * Zenith: Austin, $10M/year
-   * World Trade Offices: Dallas, Tokyo, Seoul, Taipei, Frankfurt, Mumbai ($30M)
+   * World Trade Offices: Dallas, Tokyo, Seoul, Taipei, Frankfurt, Mumbai, Manila, Surabaya, Singapore ($45M)
    * Datsun HQ/R&D: Yokohama, Japan $28M/year
 
 ## Strategic Pillars
@@ -213,7 +216,7 @@ Objective: Scale to $1.2T revenue, outpacing Amazon ($800B), Apple ($350B), Home
  * Market Share (2035): 13% of $45B market
  * Features:
    * Open data Marketplace, 200M users, 20 partners (Apple, Kroger, LVMH, Whirlpool, Shopify, Namco/Bandai, Capcom, Sega/Sammy, Saks, World Trade, Yamaha, Datsun, Remington, etc.)
-   * 50/50 profit split (Sears/partners-consumers)
+   * 50/50 profit split, lump sum quarterly payouts in SearsCoin (Sears/partners-consumers)
    * Voluntary opt-in, accessed via SearsPay "Discover" dashboard
    * Uplift: $3.5B (Sears.com, incl. $0.15B Cub Cadet/Datsun/Remington), $1.5B Yahoo!, $1.5B Atari, $0.8B Saks, $0.4B World Trade
    * Vetted data brokers, consumer ratings, free buyer charts/analytics
@@ -243,7 +246,7 @@ Objective: Scale to 2,700 stores (2,420 showrooms/micro-DCs, 280 full-line ancho
  * Value (2035): $270B
 
 ### 3. Sears Logistics
-Objective: Scale to 90 distribution centers, capture 1% of $15T global market.
+Objective: Scale to 90 distribution centers, capture 2.5% of $15T global market.
  * Workforce: 205,000 employees
  * Revenue (2025): $90B (NA: $70B, Expanded: $20B)
  * Revenue (2035): $155B (NA: $105B, Expanded: $50B)
@@ -251,9 +254,10 @@ Objective: Scale to 90 distribution centers, capture 1% of $15T global market.
  * Market Share (2035): 2.5% Global ($30T TAM)
  * Budget: $100B (+$0.8B Atari, $180M Saks, $0.4B World Trade, $80M Cub Cadet, $180M Datsun, $5M Remington)
  * Features:
-   * 90 distribution centers
+   * 90 distribution centers (USA: 55 Canada: 6, Mexico: 4, Expanded Markets: 25
    * 10,000 micro-DCs (2,420 at showrooms): $3.2B
    * 200,000 hybrid vehicles (serviced at Sears Auto Centers) with KENN AI: $9B
+   * 2500 Tractor-Trailers (Paccar) ($625M)
    * 329,000/220,000K Kiva-SortBots/MuleBots, 60,000 Dragonfly drones: $2.5B (Dallas)
    * 57 Boeing 767-300F, 70 737-800BCF, 90 Cessna 408 Skycourier feeder aircraft: $6.5B
    * Maersk partnership: $2B
@@ -442,13 +446,13 @@ Objective: Scale to 220 college partners, provide $35B revenue uplift.
    * Network of 220 colleges, Dallas polytechnic campus ($180M)
    * Programs: AI, robotics, electric/hybrid/ICE vehicle tech, gaming development ($90M), luxury retail ($90M), procurement/logistics ($90M), factory operations ($90M), automotive service ($90M Datsun), precision manufacturing/gunsmithing (in partnership with Colorado Springs University, $10M Remington)
    * KENN integration: $10B uplift (+$1.2B gaming, $0.4B World Trade, $0.8B Cub Cadet, $0.8B Datsun, $0.1B Remington)
-   * Offers: Scholarships, 228-piece Craftsman kits, interviews, certifications (Atari, Saks, World Trade, Cub Cadet, Datsun, Remington)
+   * Offers: Partial/Full scholarships, 228-piece Craftsman kits, interviews, certifications (Atari, Saks, World Trade, Cub Cadet, Datsun, Remington)
    * Free financial, consumer debt, literacy courses
    * Upskills 500,000 employees, promotes economic mobility near 280 malls
    * Sustainability: Green factories ($0.8B: Dallas, Colorado, Guadalajara, Surabaya, Osaka, Martin, Brownsville), community programs ($350M), Atari compliance ($350M)
-   * Produces Durable domestically produced, modular easily repaired goods, going so far as to take into account of electron migration in wiring of products. (example of lengths taken to produce long lasting goods)
-   * Right to Repair advocate/lobbyist, $70M
-   * Anti-planned obsolescence, unnecessary subscriptions, software tethering advocate/lobbyist, $50M (Sears produced goods are built for durability, and modular for easy repairability, no required APPs for full functionality)
+   * Produces Durable domestically produced, modular easily repaired goods, going so far as to take into account of electron migration in wiring of products. (as a example of the many lengths taken by Sears engineers to produce long lasting goods)
+   * Right to Repair advocate/lobbyist, $50M/y
+   * Anti-planned obsolescence, unnecessary subscriptions, software tethering advocate/lobbyist, $50M/y (Sears produced goods are built for durability, modular construction for easy repairability, no required APPs for full functionality)
    * Unique Repair network: Independent electronics repair business with certified Sears Academy graduates (with periodic refresher courses) can perform warranty work or subsequent repairs post warranty on Atari, Zenith/Silvertone, and Sears Consumer Robots (with Sears HomeForce Support if needed) thereby subsidizing SMB independent electronics/robotics repair business (additional support available from Sears Ventures, SMB programs).
    * Features
      * The "Sears Heritage Parts" Database: Sears could host a moderated, wiki-style database where certified shops can log their non-standard parts inventory—a kind of "PartsDirect 2.0" populated by the network itself.
@@ -515,8 +519,9 @@ Objective: Scale to $45B revenue, 15% global robotics share.
 
 **Homart Development**
  * Ownership: 100%
- * HQ: Dallas
- * Objective: Scale to 280 purchased/redeveloped malls, 110,000 apartments.
+ * Main HQ: Dallas
+ * Satellite HQ's: Yokohama, Calgary, Manchester, Sydney, Seoul,  Singapore, Surabaya, Taipei, Manila,  Dublin ($55M)
+ * Objective: Scale to 280 purchased/redeveloped malls (USA: 175, Canada: 25, UK: 25, Japan: 20, Australia: 10, Ireland: 10, Korea: 5, Philippines: 5, Taiwan: 3, Singapore: 1, NZ: 1, 110,000 apartments (USA only).
  * Workforce: 19,500
  * Revenue (2025): $33B (NA: $29.7B, Expanded: $3.3B)
  * Revenue (2035): $65B (NA: $58.5B, Expanded: $6.5B)
@@ -538,7 +543,7 @@ Objective: Scale to $45B revenue, 15% global robotics share.
      * Parking lot sausage/pancake breakfast: Summer clearance sale ($18M/y)
      * Car Clubs: annual show & shines ($8M/y)
      * Carnivals/Shriners: parking lot fairs/circuses ($18M/y)
-     * integrated youth centers, periodic dances, youth based support, basic financial/digital (including student loan caution), summer jobs bank/fairs/placement within Sears/affiliates/partners/Various companies, access to nursing staff located at malls, sports like Floor Hockey/Volleyball, Chess/board games, Toastmasters for debating and public speaking, Atari lounge tournaments, and more ($50M/y)
+     * integrated youth centers, dances, youth based support, basic financial/digital (including student loan advice), summer jobs bank/fairs/placement within Sears/affiliates/partners/Various companies, access to nursing staff located at malls, sports: Floor Hockey/Volleyball/Dodgeball, Chess/board/Magic the Gathering games, Toastmasters for debating and public speaking, Atari lounge tournaments, and more ($50M/y)
  * Value (2025): $100B
  * Value (2035): $200B
 
@@ -549,7 +554,7 @@ Objective: Scale to $45B revenue, 15% global robotics share.
  * Revenue (2035): $15B (+$1.5B)
  * Market Share (2025): 6% NA
  * Market Share (2035): 8% NA
- * Features: $15B revenue from brokerage, Reality, property Mngmt
+ * Features: $15B revenue from mortgage brokerage, Reality, property Mngmt
  * Sears Mortgages
    * Managed by Coldwell Banker for real estate synergies.
    * Minimum down payment 30%, with stress test
@@ -564,7 +569,7 @@ Objective: Scale to $45B revenue, 15% global robotics share.
 **Sears Canada**
  * Ownership: 100%
  * HQ: Calgary ($15M)
- * Objective: Maintain 220 stores/Logistical operations/Auto Centers, incorporate Datsun showrooms.
+ * Objective: Maintain 220 stores/Auto Centers, incorporate Datsun showrooms.
  * Employees: 45,500 country-wide.
  * Revenue (2025): $16B (NA: $16B, Expanded: $0)
  * Revenue (2035): $18B (NA: $18B, Expanded: $0)
@@ -589,8 +594,8 @@ Objective: Scale to $45B revenue, 15% global robotics share.
  * Market Share (2035): 18% ($130B TAM)
  * Budget: $2.2B ($0.4B logistics, $0.9B vetting, $0.9B onboarding, $0.04B Datsun)
  * Features:
-   * Offices: Dallas, Tokyo, Seoul, Taipei, Frankfurt, Mumbai ($25M)
-   * Procures from EU, UK, AUS, NZ, Japan, Korea, Taiwan (90,000+ vendors)
+   * Offices: Dallas, Tokyo, Seoul, Taipei, Frankfurt, Mumbai, Manila, Surabaya, Singapore ($45M)
+   * Procures from EU, UK, AUS, NZ, Japan, Korea, Taiwan, India, Philippines, Indonesia  (100,000+ vendors)
    * Integrates with 60 hubs ($0.4B)
    * Consumer Data Marketplace: $0.4B uplift
    * KENN AI vetting: $1.5B savings
@@ -599,13 +604,13 @@ Objective: Scale to $45B revenue, 15% global robotics share.
 
 **Western Forge**
  * Ownership: 100%, acquired 2009 ($70M)
- * HQ: Colorado (75 Employees)
+ * HQ: Colorado (75 Employees,+ additional 50 for Remington)
  * Market Share (2025): 20% NA tools ($50B TAM)
  * Market Share (2035): 25% NA tools ($60B TAM)
  * Revenue (2025): $2B (NA: $1.6B, Expanded: $0.4B)
  * Revenue (2035): $4B (NA: $3.2B, Expanded: $0.8B)
  * Features: KENN AI-integrated factory for Craftsman tools and shared operations with Remington.
- * **Advanced Metallurgy Materials Laboratory:** $20M/year funding.
+ * **Advanced Metallurgy Materials Laboratory: $50M/year funding.
  * **Sears Academy Partnership:** Joint program with Colorado Springs University for precision manufacturing and metallurgy.
  * Value (2025): $3B
  * Value (2035): $6B
@@ -645,6 +650,7 @@ Objective: Scale to $45B revenue, 15% global robotics share.
  * Valuation: $2.5T (15x EBITDA)
  * Surplus: $0.8B
  * Debt: $18B (0.11x EBITDA)
+ * Cash on hand: $14.5B
 
 ## Financial Snapshot (2035)
  * Total Revenue: $2.6518T (Datsun: $48B, Remington: $1.8B) (NA: $2T, Expanded: $0.5T)

@@ -14,6 +14,7 @@ By the end of Phase 3 (2025), Sears achieves significant milestones:
  * Revenue: $850B (North America: $640 billion; Expanded Markets: $160B)
  * EBITDA: $64B (8% margin)
  * Valuation: $980B (15x EBITDA multiple)
+ * Total R&D spending $30B/y 
  * Surplus: $0.5B
  * Debt: $18B
  * Cash on Hand: $13.7B
@@ -363,7 +364,7 @@ Objective: Generate $75B.
  * Revenue (2025): $2B (Standalone)/$40B (fees) (NA: $1.6B/$32B, Expanded: $0.4B/$8B)
  * Revenue (2035): $2.5B (Standalone)/$50B (fees) (NA: $2B/$40B, Expanded: $0.5B/$10B)
  * Budget: $0.12B
- * Features: Manages Corporate Wealth Fund, Bitcoin Fund, Sears Ventures, savings, brokerage accounts.
+ * Features: Manages Corporate Wealth Fund, Bitcoin Fund, 5% of Sears stock held by longterm investors, Sears Ventures, savings, brokerage accounts.
  * Value (2025): Dean-Witter $6B, Funds $13B
  * Value (2035): Dean-Witter $7.5B, Funds $15B
  * Market Share (2025): 2% brokerage
@@ -417,11 +418,13 @@ Objective: Generate $75B.
  * Budget: $4.2B (+$0.35B Atari, $0.14B Saks, $0.09B World Trade, $0.09B Cub Cadet, $0.4B Datsun, $0.02B Remington)
  * Users: 180M
  * Features:
-   * Rewards across Discover Card network, including throughout Homart malls
+   * Rewards across Discover Card network, including throughout Homart malls, independent repair businesses, Yahoo Searches (5 SearsCoin/day limit)
+   * PartsDirect 2.0 participation reimbursements to SMBs.
    * Consumer Data Marketplace payment method
    * Atari, Saks, World Trade, Cub Cadet, Datsun, Remington eligibility
    * Non-interest portion of Datsun Auto financing/leasing, and or insurance payments eligible.
-   * 3% non-Sears, 5% Sears/affiliates: $3B uplift (+$0.8B Atari, $0.18B Saks, $0.09B World Trade, $0.09B Cub Cadet, $0.4B Datsun, $0.02B Remington)
+   * 3% non-Sears, 5% on purchases at Sears/affiliates: $3B uplift (+$0.8B Atari, $0.18B Saks, $0.09B World Trade, $0.09B Cub Cadet, $0.4B Datsun, $0.02B Remington)
+   * Used for Bonuses to Sears Employees (Christmas Bonus: 500 SearsCoin)
  * Market Share: N/A
 
 ### 8. Sears Optical Centers
@@ -437,7 +440,7 @@ Objective: Maintain 750 showrooms (280 at Homart malls). (Avg revenue per center
  * Value (2035): $7.875B
 
 ### 9. Sears Academy & Sustainability
-Objective: Scale to 220 college partners, provide $35B revenue uplift.
+Objective: Scale to 220 college partners (195 in NA, 7 in Japan, 18 spread across remaining overseas expanded markets, provide $35B revenue uplift.
  * Workforce: 6,500 employees
  * Revenue Uplift (2025): $30B
  * Revenue Uplift (2035): $35B
@@ -649,6 +652,7 @@ Objective: Scale to $45B revenue, 15% global robotics share.
  * EBITDA: $160.06B (8% margin) (Adjusted for Remington's $60M profit)
  * Valuation: $2.5T (15x EBITDA)
  * Surplus: $0.8B
+ * Total R&D spending $30B/y
  * Debt: $18B (0.11x EBITDA)
  * Cash on hand: $13.7B
 
@@ -657,6 +661,7 @@ Objective: Scale to $45B revenue, 15% global robotics share.
  * EBITDA: $200.14B (8% margin) (Adjusted for Remington's $140M profit)
  * Valuation: $3T (15x EBITDA)
  * Surplus: $600M
+ * Total R&D spending $45B/y
  * Debt: $19.65B (0.1x EBITDA)
  * Cash on Hand: $14.5B
 

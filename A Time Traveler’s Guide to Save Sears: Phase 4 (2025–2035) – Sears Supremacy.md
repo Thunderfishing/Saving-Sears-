@@ -521,7 +521,7 @@ Objective: Scale to $45B revenue, 15% global robotics share.
  * Ownership: 100%
  * Main HQ: Dallas
  * Satellite HQ's: Yokohama, Calgary, Manchester, Sydney, Seoul,  Singapore, Surabaya, Taipei, Manila,  Dublin ($55M)
- * Objective: Scale to 280 purchased/redeveloped malls (USA: 175, Canada: 25, UK: 25, Japan: 20, Australia: 10, Ireland: 10, Korea: 5, Philippines: 5, Taiwan: 3, Singapore: 1, NZ: 1, 110,000 apartments (USA only).
+ * Objective: Scale to 280 purchased/redeveloped malls (USA: 180, Canada: 25, Japan: 20, UK: 15, Australia: 10, Ireland: 10, Korea: 5, Philippines: 5, Taiwan: 3, Mexico: 3, Singapore: 2, NZ: 2, 110,000 apartments (USA only).
  * Workforce: 19,500
  * Revenue (2025): $33B (NA: $29.7B, Expanded: $3.3B)
  * Revenue (2035): $65B (NA: $58.5B, Expanded: $6.5B)
@@ -650,7 +650,7 @@ Objective: Scale to $45B revenue, 15% global robotics share.
  * Valuation: $2.5T (15x EBITDA)
  * Surplus: $0.8B
  * Debt: $18B (0.11x EBITDA)
- * Cash on hand: $14.5B
+ * Cash on hand: $13.7B
 
 ## Financial Snapshot (2035)
  * Total Revenue: $2.6518T (Datsun: $48B, Remington: $1.8B) (NA: $2T, Expanded: $0.5T)
@@ -658,6 +658,7 @@ Objective: Scale to $45B revenue, 15% global robotics share.
  * Valuation: $3T (15x EBITDA)
  * Surplus: $600M
  * Debt: $19.65B (0.1x EBITDA)
+ * Cash on Hand: $14.5B
 
 ## Competitive Positioning (2035)
 | Metric | Sears | Amazon | Walmart | Alibaba | Apple | Home Depot | SBD | Toyota | Datsun |
@@ -734,8 +735,8 @@ Objective: Ensure agility across Sears’ empire, emphasizing factories, Remingt
    * 240SX (RWD, $2.5B):
      * Sub-compact sport coupe: $28K-$38K
      * Hybrid or 2.8L NA V6 (Yamaha, 400hp, 35 MPG, forged internals, blower-ready)
-     * Manual standard (auto optional), RWD, 2-seater, dual exhaust, Posi-Traction T-Loc differential
-   * Rogue (240SX platform, $2.5B):
+     * Manual standard (auto optional), RWD, 2-seater, dual exhaust, Posi-Traction T-Loc differential, hydraulic power steering.
+     * Rogue (240SX platform, $2.5B):
      * Sub-compact hybrid CUV: $23K-$33K
      * Hybrid (1.5L or 2L NA I4, 250hp, 40 MPG) or 2.8L V6 (350hp, 35 MPG)
      * Part-time AWD standard

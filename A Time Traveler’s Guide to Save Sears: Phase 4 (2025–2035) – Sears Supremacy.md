@@ -367,12 +367,12 @@ Objective: Generate $75B.
 **Dean Witter**
  * Revenue (2025): $2B (Standalone)/$40B (fees) (NA: $1.6B/$32B, Expanded: $0.4B/$8B)
  * Revenue (2035): $2.5B (Standalone)/$50B (fees) (NA: $2B/$40B, Expanded: $0.5B/$10B)
- * Budget: $0.12B
- * Features: Manages Corporate Wealth Fund, Bitcoin Fund, 5% of Sears stock held by longterm investors, Sears Ventures, savings, brokerage accounts.
- * Value (2025): Dean-Witter $6B, Funds $13B
- * Value (2035): Dean-Witter $7.5B, Funds $15B
- * Market Share (2025): 2% brokerage
- * Market Share (2035): 3% brokerage
+ * Operating Budget: $0.12B
+ * Features: Manages Corporate Wealth Fund, Bitcoin Fund, 7% of Sears stock held by longterm investors, Sears Ventures, savings, brokerage accounts, Homart Community Fund ($7B 2025, $10B 2035)
+ * Value (2025): Dean-Witter $6B, Funds $20B (excluding Sears fund 7% Sears stock holding)
+ * Value (2035): Dean-Witter $10B, Funds $25B (excluding Sears fund)
+ * Market Share (2025 3% brokerage)
+ * Market Share (2035 5% brokerage)
 
 **Sears Savings Accounts**
  * Revenue (2025): $0.5B (NA: $0.4B, Expanded: $0.1B)
@@ -446,6 +446,7 @@ Objective: Maintain 750 showrooms (280 at Homart malls). (Avg revenue per center
 ### 9. Sears Academy & Sustainability
 Objective: Scale to 220 college partners (195 in NA, 7 in Japan, 18 spread across remaining overseas expanded markets, provide $35B revenue uplift.
  * Workforce: 6,500 employees
+ * Educates 50,000+ students annually since 1989
  * Revenue Uplift (2025): $30B
  * Revenue Uplift (2035): $35B
  * Budget: $4.5B (+$250M gaming, $90M Saks/World Trade/Cub Cadet/Datsun, $10M Remington)
@@ -458,8 +459,8 @@ Objective: Scale to 220 college partners (195 in NA, 7 in Japan, 18 spread acros
    * Upskills 500,000 employees, promotes economic mobility near 280 malls
    * Sustainability: Green factories ($0.8B: Dallas, Colorado, Guadalajara, Surabaya, Osaka, Martin, Brownsville), community programs ($350M), Atari compliance ($350M)
    * Produces Durable domestically produced, modular easily repaired goods, going so far as to take into account of electron migration in wiring of products. (as a example of the many lengths taken by Sears engineers to produce long lasting goods)
-   * Right to Repair advocate/lobbyist, $50M/y
-   * Anti-planned obsolescence, unnecessary subscriptions, software tethering advocate/lobbyist, $50M/y (Sears produced goods are built for durability, modular construction for easy repairability, no required APPs for full functionality)
+   * Right to Repair advocate/lobbyist, $125M/y
+   * Anti-planned obsolescence, unnecessary subscriptions, software tethering advocate/lobbyist, $125M/y (Sears produced goods are built for durability, modular construction for easy repairability, no required APPs for full functionality)
    * Unique Repair network: Independent electronics repair business with certified Sears Academy graduates (with periodic refresher courses) can perform warranty work or subsequent repairs post warranty on Atari, Zenith/Silvertone, and Sears Consumer Robots (with Sears HomeForce Support if needed) thereby subsidizing SMB independent electronics/robotics repair business (additional support available from Sears Ventures, SMB programs).
    * Features
      * The "Sears Heritage Parts" Database: Sears could host a moderated, wiki-style database where certified shops can log their non-standard parts inventory—a kind of "PartsDirect 2.0" populated by the network itself.
@@ -544,13 +545,13 @@ Objective: Scale to $45B revenue, 15% global robotics share.
    * Remington gunsmith counters/displays: $20M (280 Homart mall stores)
    * Community College (Sears Academy partners) campuses have relocated or expand to Homart malls (incentivized) becoming anchors as well.
    * Community initiatives:
-     * Toastmasters partnership: 280 mall chapters, public speaking events ($8M/y)
-     * Vetted buskers/musicians: mall squares/entrances ($8M/y)
-     * Community gardens: underutilized mall property ($0.9M/y)
-     * Parking lot sausage/pancake breakfast: Summer clearance sale ($18M/y)
-     * Car Clubs: annual show & shines ($8M/y)
-     * Carnivals/Shriners: parking lot fairs/circuses ($18M/y)
-     * integrated youth centers, dances, youth based support, basic financial/digital (including student loan advice), summer jobs bank/fairs/placement within Sears/affiliates/partners/Various companies, access to nursing staff located at malls, sports: Floor Hockey/Volleyball/Dodgeball, Chess/board/Magic the Gathering games, Toastmasters for debating and public speaking, Atari lounge tournaments, and more ($50M/y)
+     * Toastmasters partnership: 280 mall chapters, public speaking events 
+     * Vetted buskers/musicians: mall squares/entrances 
+     * Community gardens: underutilized mall property
+     * Parking lot sausage/pancake breakfast: Summer clearance sale 
+     * Car Clubs: annual show & shines 
+     * Carnivals/Shriners: parking lot fairs/circuses 
+     * integrated youth centers, dances, youth based support, basic financial/digital (including student loan advice), summer jobs bank/fairs/placement within Sears/affiliates/partners/Various companies, access to nursing staff located at malls, sports: Floor Hockey/Volleyball/Dodgeball, Chess/board/Magic the Gathering games, Toastmasters for debating and public speaking, Atari lounge tournaments, and more. (community initiatives drawn from $5B/y community fund managed by Dean Witter)
  * Value (2025): $100B
  * Value (2035): $200B
 

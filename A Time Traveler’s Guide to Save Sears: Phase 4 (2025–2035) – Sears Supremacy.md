@@ -35,17 +35,17 @@ By the end of Phase 3 (2025), Sears achieves significant milestones:
 | Coldwell Banker | Full | Real estate brokerage and Sears Mortgages management | $8B (NA: $7.2B, Expanded: $0.8B) | $15B (NA: $13.5B, Expanded: $1.5B) | $16B | $30B | 6% NA | 8% NA |
 | Allstate | 20% stake | Bundled insurance for Datsun purchase/financing, roadside assistance | $8B (NA: $7.2B, Expanded: $0.8B) | $10B (NA: $9B, Expanded: $1B) | $10B | $12B | 5% | 6% |
 | Discover Card Network | Full | Backbone of Sears Financial, facilitates SearsPay/SearsCoin transactions | $5B (NA: $4B, Expanded: $1B) | $8B (NA: $6.4B, Expanded: $1.6B) | $7B | $12B | 4% | 5% |
-| Dean Witter/Funds | Full | Management of Stock Brokerage Accounts, Sears Corporate Wealth/Bitcoin Funds, 5% of Sears shares for dedicated long-term Sears shareholders, Sears Ventures, Dallas HQ | $1B/$30B (NA: $0.8B/$24B, Expanded: $0.2B/$6B) | $2B/$45B (NA: $1.6B/$36B, Expanded: $0.4B/$9B) | $4B/$10B | $6B/$15B | 3% | 4% |
+| Dean Witter/Funds | Full | Management of Stock Brokerage Accounts, Sears Corporate Wealth/Bitcoin Funds, Holds 7% of Sears shares for dedicated long-term Sears shareholders, Sears Ventures, Dallas HQ | $1B/$30B (NA: $0.8B/$24B, Expanded: $0.2B/$6B) | $2B/$45B (NA: $1.6B/$36B, Expanded: $0.4B/$9B) | $4B/$10B | $6B/$15B | 3% | 4% |
 | Western Forge | Full (acquired 2009) | Craftsman hand tools, KENN AI-integrated factory, Colorado | $2B (NA: $1.6B, Expanded: $0.4B) | $4B (NA: $3.2B, Expanded: $0.8B) | $2B | $6B | 20% NA | 25% NA |
 | Remington (by W. Forge) | Full (acquired 2020, $25M) | Bolt-action rifles, shotguns; Colorado factory synergy | $0.8B (NA: $0.72B, Expanded: $0.08B) | $1.8B (NA: $1.62B, Expanded: $0.18B) | $1.2B | $2.7B | 4% NA hunting | 8.5% NA hunting |
 | Serta | 20% stake (2009) | Harmony House mattresses/bedding, Mexico/Indonesia factories | $1.5B (NA: $1.2B, Expanded: $0.3B) | $2B (NA: $1.6B, Expanded: $0.4B) | $2B | $3B | 15% NA | 18% NA |
 | SearsCoin Rewards | Full | Blockchain rewards (3% non-Sears, 5% Sears/affiliates), 45M users | $8B (NA: $6.4B, Expanded: $1.6B) | $15B (NA: $12B, Expanded: $3B) | $10B | $20B | N/A | N/A |
-| Atari Home Entertainment | Full (acquired 2013, $30M) | Console/cloud gaming, Osaka factory, Yokohama/Austin R&D | $60B (NA: $42B, Expanded: $18B) | $100B (NA: $70B, Expanded: $30B) | $90B | $200B | 15% Global | 20% Global |
+| Atari Home Entertainment | Full (acquired 2013, $30M) | Console/cloud gaming, Osaka factory, Yokohama HQ, Yokohama/Austin R&D | $60B (NA: $42B, Expanded: $18B) | $100B (NA: $70B, Expanded: $30B) | $90B | $200B | 15% Global | 20% Global |
 | Kodak Optics/Graphics | Full (acquired 2009, $205M) | Lenses for Sears Optical, KENN AI image tech, Atari graphics, Yokohama/Austin R&D | $1.5B (NA: $1.2B, Expanded: $0.3B) | $4B (NA: $3.2B, Expanded: $0.8B) | $2.5B | $8B | 10% Global | 15% Global |
 | Saks Fifth Avenue | Full (acquired 2025, HBC bankruptcy) | 50 stores | $600M (NA: $480M, Expanded: $120M) | $20B (NA: $16B, Expanded: $4B) | $800M | $40B | 3% Global | 5% Global |
 | Saks Off 5th | Full | Sears.com storefront | $300M (NA: $240M, Expanded: $60M) | $10B (NA: $8B, Expanded: $2B) | $500M | $20B | 2% Global | 4% Global |
 | Cub Cadet | Full (acquired 2016) | Mowers, snowblowers, garden tractors, Martin/Brownsville factories, Austin  R&D | $1.5B (NA: $1.35B, Expanded: $0.15B) | $5B (NA: $4.5B, Expanded: $0.5B) | $1.8B | $7.5B | 12% NA | 15% NA |
-| Sears World Trade, Inc. | Full (revived 1987) | Vetted foreign SKUs for Sears.com, 6,000,000 SKUs | $6B (NA: $3B, Expanded: $3B) | $30B (NA: $15B, Expanded: $15B) | $7B | $45B | 15% | 20% |
+| Sears World Trade, Inc. | Full (revived 1987) |Domestic & Vetted foreign SKUs for Sears.com, 6,000,000 SKUs | $6B (NA: $3B, Expanded: $3B) | $30B (NA: $15B, Expanded: $15B) | $7B | $45B | 15% | 20% |
 
 ## Financial Restructuring
 
@@ -113,8 +113,10 @@ By the end of Phase 3 (2025), Sears achieves significant milestones:
    * Cub Cadet/Datsun (Joint): Austin, TX 
    * Sears/Whirlpool joint R&D: Austin, TX
    * Sears/Serta Joint R&D Austin TX
-   * Advanced Metallurgy Materials Lab: Colorado Springs 
- * Other HQs:
+   * Sears/Sherwin-Williams joint R$D Austin TX (prioritization of Automotive paint to facilitate Datsun acquisition)
+   * Sears/Cooper Tire Joint R&D, Colorado Springs
+   * Advanced Metallurgy Materials Lab: Colorado Springs (Western Forge/Remington/Datsun/Yamaha/Cub Cadet participation)
+   * Other HQs:
    * Sears Canada, Calgary AB, 
    * Yahoo!: Austin, TX, $15M/year
    * Dean Witter: Dallas TX, 
@@ -125,7 +127,8 @@ By the end of Phase 3 (2025), Sears achieves significant milestones:
    * Atari: Yokohama Japan, with an Austin TX NA satellite office
    * Zenith: Austin
    * World Trade Offices: Dallas, Tokyo, Seoul, Taipei, Frankfurt, Mumbai, Manila, Surabaya, Singapore 
-   * Datsun HQ/R&D: Yokohama, Japan 
+   * Datsun HQ/R&D: Yokohama, Japan
+   * Datsun/Yamaha/Getrag Joint R&D, Yokohama Japan. 
 
 ## Strategic Pillars
 
@@ -217,8 +220,8 @@ Objective: Scale to $1.2T revenue, outpacing Amazon ($800B), Apple ($350B), Home
  * Market Share (2025): 12% of $40B market
  * Market Share (2035): 13% of $45B market
  * Features:
-   * Open data Marketplace, 200M users, 20 partners (Apple, Kroger, LVMH, Whirlpool, Shopify, Namco/Bandai, Capcom, Sega/Sammy, Saks, World Trade, Yamaha, Datsun, Remington, etc.)
-   * Consumers voluntary opt-in, accessed via SearsPay "Discover" dashboard, customers sell Their Data to bidders, payments quarterly in SearsCoin.
+   * Open data Marketplace, 200M users, 20 partners and growing (Apple, Kroger, LVMH, Whirlpool, Shopify, Namco/Bandai, Capcom, Sega/Sammy, Saks, World Trade, Yamaha, Datsun, Remington, etc.)
+   * Consumers voluntary opt-in, accessed via SearsPay "Discover" dashboard, customers sell Their Data to bidders, payments quarterly in SearsCoin, 1000 SearCoin sign on payment.
    * Uplift: $3.5B (Sears.com, incl. $0.15B Cub Cadet/Datsun/Remington), $1.5B Yahoo!, $1.5B Atari, $0.8B Saks, $0.4B World Trade
    * Vetted data brokers, consumer ratings, free buyer charts/analytics
  * Budget: Included in KENN AI

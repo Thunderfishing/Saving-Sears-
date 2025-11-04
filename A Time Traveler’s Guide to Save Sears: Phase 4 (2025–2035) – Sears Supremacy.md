@@ -14,7 +14,7 @@ By the end of Phase 3 (2025), Sears achieves significant milestones:
  * Revenue: $850B (North America: $640 billion; Expanded Markets: $160B)
  * EBITDA: $64B (8% margin)
  * Valuation: $980B (15x EBITDA multiple)
- * Total R&D spending $125B/y 
+ * Total R&D spending $180B/y 
  * Surplus: $0.5B
  * Debt: $18B
  * Cash on Hand: $13.7B
@@ -656,7 +656,7 @@ Objective: Scale to $45B revenue, 15% global robotics share.
  * EBITDA: $160.06B (8% margin) (Adjusted for Remington's $60M profit)
  * Valuation: $2.5T (15x EBITDA)
  * Surplus: $0.8B
- * Total R&D spending $60B/y
+ * Total R&D spending $180B/y
  * Debt: $18B (0.11x EBITDA)
  * Cash on hand: $13.7B
 
@@ -665,7 +665,7 @@ Objective: Scale to $45B revenue, 15% global robotics share.
  * EBITDA: $200.14B (8% margin) (Adjusted for Remington's $140M profit)
  * Valuation: $3T (15x EBITDA)
  * Surplus: $600M
- * Total R&D spending $80B/y
+ * Total R&D spend $350B/y
  * Debt: $19.65B (0.1x EBITDA)
  * yearly Net Income (2035) $134B (approx)
  * Cash on Hand: $14.5B

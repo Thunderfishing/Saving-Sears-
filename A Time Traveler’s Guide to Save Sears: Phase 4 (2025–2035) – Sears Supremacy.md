@@ -221,10 +221,11 @@ Objective: Scale to $1.2T revenue, outpacing Amazon ($800B), Apple ($350B), Home
  * Market Share (2035): 13% of $45B market
  * Features:
    * Open data Marketplace, 200M users, 20 partners and growing (Apple, Kroger, LVMH, Whirlpool, Shopify, Namco/Bandai, Capcom, Sega/Sammy, Saks, World Trade, Yamaha, Datsun, Remington, etc.)
-   * Consumers voluntary opt-in, accessed via SearsPay "Discover" dashboard, customers sell Their Data to bidders, payments quarterly in SearsCoin, 1000 SearCoin sign on payment.
+   * Consumers voluntary opt-in, accessed via SearsPay "Discover" dashboard, customers sell Their Data to bidders, payments quarterly in SearsCoin, 10,000 ($100USD) SearCoin sign on payment.
    * Uplift: $3.5B (Sears.com, incl. $0.15B Cub Cadet/Datsun/Remington), $1.5B Yahoo!, $1.5B Atari, $0.8B Saks, $0.4B World Trade
    * Vetted data brokers, consumer ratings, free buyer charts/analytics
- * Budget: Included in KENN AI
+   * Sears is attending to make the CDM like our Amazon, only with Data
+* Budget: Included in KENN AI
  * Value (2025): 7.5B
  * Value (2035): $24B
 
@@ -421,13 +422,13 @@ Objective: Generate $75B.
  * Budget: $4.2B (+$0.35B Atari, $0.14B Saks, $0.09B World Trade, $0.09B Cub Cadet, $0.4B Datsun, $0.02B Remington)
  * Users: 180M
  * Features:
-   * Rewards across Discover Card network, including throughout Homart malls, independent repair businesses, Yahoo Searches (5 SearsCoin/day limit)
+   * Rewards across Discover Card network, including throughout Homart malls, independent repair businesses, Yahoo Searches ($1USD SearsCoin/day limit, threshold bonuses)
    * PartsDirect 2.0 participation reimbursements to SMBs.
    * Consumer Data Marketplace payment method
    * Atari, Saks, World Trade, Cub Cadet, Datsun, Remington eligibility
    * Non-interest portion of Datsun Auto financing/leasing, and or insurance payments eligible.
    * 3% non-Sears, 5% on purchases at Sears/affiliates: $3B uplift (+$0.8B Atari, $0.18B Saks, $0.09B World Trade, $0.09B Cub Cadet, $0.4B Datsun, $0.02B Remington)
-   * Used for Bonuses to Sears Employees (Christmas Bonus: 500 SearsCoin)
+   * Used for Bonuses to Sears Employees, Christmas Bonus: 10,000  SearsCoin (100USD)
  * Market Share: N/A
 
 ### 8. Sears Optical Centers

@@ -663,6 +663,7 @@ Objective: Scale to $45B revenue, 15% global robotics share.
  * Surplus: $600M
  * Total R&D spending $80B/y
  * Debt: $19.65B (0.1x EBITDA)
+ * yearly Net Income (2035) $134B (approx)
  * Cash on Hand: $14.5B
 
 ## Competitive Positioning (2035)

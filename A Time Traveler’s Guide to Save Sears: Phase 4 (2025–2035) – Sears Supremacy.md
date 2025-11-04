@@ -221,7 +221,7 @@ Objective: Scale to $1.2T revenue, outpacing Amazon ($800B), Apple ($350B), Home
  * Market Share (2035): 13% of $45B market
  * Features:
    * Open data Marketplace, 200M users, 20 partners and growing (Apple, Kroger, LVMH, Whirlpool, Shopify, Namco/Bandai, Capcom, Sega/Sammy, Saks, World Trade, Yamaha, Datsun, Remington, etc.)
-   * Consumers voluntary opt-in, accessed via SearsPay "Discover" dashboard, customers sell Their Data to bidders, payments quarterly in SearsCoin, 10,000 ($100USD) SearCoin sign on payment.
+   * Consumers voluntary opt-in, accessed via SearsPay "Discover" dashboard, customers sell Their Data to bidders, payments quarterly in SearsCoin, 10,000 ($100USD) SearCoin sign on payment (10% of payments withheld to fund CDAA or Consumer Data Advocacy Association)
    * Uplift: $3.5B (Sears.com, incl. $0.15B Cub Cadet/Datsun/Remington), $1.5B Yahoo!, $1.5B Atari, $0.8B Saks, $0.4B World Trade
    * Vetted data brokers, consumer ratings, free buyer charts/analytics
    * Sears is attending to make the CDM like our Amazon, only with Data

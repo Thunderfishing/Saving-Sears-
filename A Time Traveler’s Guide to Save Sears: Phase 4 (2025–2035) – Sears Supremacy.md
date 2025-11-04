@@ -14,7 +14,7 @@ By the end of Phase 3 (2025), Sears achieves significant milestones:
  * Revenue: $850B (North America: $640 billion; Expanded Markets: $160B)
  * EBITDA: $64B (8% margin)
  * Valuation: $980B (15x EBITDA multiple)
- * Total R&D spending $60B/y 
+ * Total R&D spending $125B/y 
  * Surplus: $0.5B
  * Debt: $18B
  * Cash on Hand: $13.7B
@@ -112,7 +112,8 @@ By the end of Phase 3 (2025), Sears achieves significant milestones:
    * Atari (1 additinnal in Yokohama Japan), Kodak, Yahoo!, Zenith, Sears Robotics (1 additional in Yokohama): Austin, TX. (collaborating labs)
    * Cub Cadet/Datsun (Joint): Austin, TX 
    * Sears/Whirlpool joint R&D: Austin, TX
-   * Sears/Serta Joint R&D Austin TX (
+   * Sears/Serta Joint R&D Austin TX
+   * Advanced Metallurgy Materials Lab: Colorado Springs 
  * Other HQs:
    * Sears Canada, Calgary AB, 
    * Yahoo!: Austin, TX, $15M/year
@@ -217,13 +218,12 @@ Objective: Scale to $1.2T revenue, outpacing Amazon ($800B), Apple ($350B), Home
  * Market Share (2035): 13% of $45B market
  * Features:
    * Open data Marketplace, 200M users, 20 partners (Apple, Kroger, LVMH, Whirlpool, Shopify, Namco/Bandai, Capcom, Sega/Sammy, Saks, World Trade, Yamaha, Datsun, Remington, etc.)
-   * 50/50 profit split, lump sum quarterly payouts in SearsCoin (Sears/partners-consumers)
-   * Voluntary opt-in, accessed via SearsPay "Discover" dashboard
+   * Consumers voluntary opt-in, accessed via SearsPay "Discover" dashboard, customers sell Their Data to bidders, payments quarterly in SearsCoin.
    * Uplift: $3.5B (Sears.com, incl. $0.15B Cub Cadet/Datsun/Remington), $1.5B Yahoo!, $1.5B Atari, $0.8B Saks, $0.4B World Trade
    * Vetted data brokers, consumer ratings, free buyer charts/analytics
  * Budget: Included in KENN AI
- * Value (2025): $7.5B
- * Value (2035): $9B
+ * Value (2025): 7.5B
+ * Value (2035): $24B
 
 ### 2. Retail Stores & Showrooms
 Objective: Scale to 2,700 stores (2,420 showrooms/micro-DCs, 280 full-line anchor stores), capture 10% retail market share.

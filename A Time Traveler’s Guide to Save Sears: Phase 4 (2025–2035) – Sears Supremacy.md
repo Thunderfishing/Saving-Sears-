@@ -107,24 +107,24 @@ By the end of Phase 3 (2025), Sears achieves significant milestones:
  * Other Operations: 280 malls, 60 logistics distribution centers, 140 Saks stores, 280 Atari Arcades (Homart malls), Cub Cadet factories/R&D, Datsun support, Sears World Trade, Inc.
 
 ## Facilities
- * Sears HQ: Dallas, TX ($18M, 3500 employees)
+ * Sears HQ: Dallas, TX (3500 employees)
  * R&D Facilities:
-   * Atari (1 additinnal in Yokohama Japan), Kodak, Yahoo!, Zenith, Sears Robotics (1 additional in Yokohama): Austin, TX. OM budgets: $50M/$50M, $50M, $30M, $30M, $30M/$30M (collaborating labs)
-   * Cub Cadet/Datsun (Joint): Austin, TX ($30M)
-   * Sears/Whirlpool joint R&D: Austin, TX ($30M)
-   * Sears/Serta Joint R&D Austin TX ($10M)
+   * Atari (1 additinnal in Yokohama Japan), Kodak, Yahoo!, Zenith, Sears Robotics (1 additional in Yokohama): Austin, TX. (collaborating labs)
+   * Cub Cadet/Datsun (Joint): Austin, TX 
+   * Sears/Whirlpool joint R&D: Austin, TX
+   * Sears/Serta Joint R&D Austin TX (
  * Other HQs:
-   * Sears Canada, Calgary AB, $12M/year
+   * Sears Canada, Calgary AB, 
    * Yahoo!: Austin, TX, $15M/year
-   * Dean Witter: Dallas TX, $8M/year
-   * Coldwell Banker/Homart, Dallas, $10M/year
-   * Datsun satellite: Dallas, $18M/year
-   * Chicago satellite: $15M/year
-   * Jakarta satellite: $10M/year
-   * Atari: Yokohama Japan, with an Austin TX NA satellite office, $15M/year each.
-   * Zenith: Austin, $10M/year
-   * World Trade Offices: Dallas, Tokyo, Seoul, Taipei, Frankfurt, Mumbai, Manila, Surabaya, Singapore ($45M)
-   * Datsun HQ/R&D: Yokohama, Japan $28M/year
+   * Dean Witter: Dallas TX, 
+   * Coldwell Banker/Homart, Dallas
+   * Datsun satellite: Dallas
+   * Chicago satellite
+   * Jakarta satellite
+   * Atari: Yokohama Japan, with an Austin TX NA satellite office
+   * Zenith: Austin
+   * World Trade Offices: Dallas, Tokyo, Seoul, Taipei, Frankfurt, Mumbai, Manila, Surabaya, Singapore 
+   * Datsun HQ/R&D: Yokohama, Japan 
 
 ## Strategic Pillars
 

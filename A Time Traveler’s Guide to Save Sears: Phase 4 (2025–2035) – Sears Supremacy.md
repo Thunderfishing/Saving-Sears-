@@ -14,7 +14,7 @@ By the end of Phase 3 (2025), Sears achieves significant milestones:
  * Revenue: $850B (North America: $640 billion; Expanded Markets: $160B)
  * EBITDA: $64B (8% margin)
  * Valuation: $980B (15x EBITDA multiple)
- * Total R&D spending $30B/y 
+ * Total R&D spending $60B/y 
  * Surplus: $0.5B
  * Debt: $18B
  * Cash on Hand: $13.7B
@@ -109,7 +109,7 @@ By the end of Phase 3 (2025), Sears achieves significant milestones:
 ## Facilities
  * Sears HQ: Dallas, TX ($18M, 3500 employees)
  * R&D Facilities:
-   * Atari (1 additinnal in Yokohama Japan), Kodak, Yahoo!, Zenith: Austin, TX ($50M, $50M, $30M, $30M, collaborating labs)
+   * Atari (1 additinnal in Yokohama Japan), Kodak, Yahoo!, Zenith, Sears Robotics (1 additional in Yokohama): Austin, TX. OM budgets: $50M/$50M, $50M, $30M, $30M, $30M/$30M (collaborating labs)
    * Cub Cadet/Datsun (Joint): Austin, TX ($30M)
    * Sears/Whirlpool joint R&D: Austin, TX ($30M)
    * Sears/Serta Joint R&D Austin TX ($10M)
@@ -652,7 +652,7 @@ Objective: Scale to $45B revenue, 15% global robotics share.
  * EBITDA: $160.06B (8% margin) (Adjusted for Remington's $60M profit)
  * Valuation: $2.5T (15x EBITDA)
  * Surplus: $0.8B
- * Total R&D spending $30B/y
+ * Total R&D spending $60B/y
  * Debt: $18B (0.11x EBITDA)
  * Cash on hand: $13.7B
 
@@ -661,7 +661,7 @@ Objective: Scale to $45B revenue, 15% global robotics share.
  * EBITDA: $200.14B (8% margin) (Adjusted for Remington's $140M profit)
  * Valuation: $3T (15x EBITDA)
  * Surplus: $600M
- * Total R&D spending $45B/y
+ * Total R&D spending $80B/y
  * Debt: $19.65B (0.1x EBITDA)
  * Cash on Hand: $14.5B
 

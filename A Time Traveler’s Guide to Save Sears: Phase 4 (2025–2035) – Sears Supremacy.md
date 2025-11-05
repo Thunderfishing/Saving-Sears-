@@ -1,5 +1,7 @@
 # A Time Traveler’s Guide to Save Sears: Phase 4 (2025–2035) 
 
+# The Sears Concordant (aka: The bloc) A unified Alliance of Sears and it's partners, employees, customers abd each other. Bound by a covenant of reciprocity, durability and repair.
+
 ## Mission
 To Cement Sears as a vertically integrated, AI, crypto-powered retail-industrial mega-corporation, valued at $3 trillion by 2035, through Sears.com, generating $900 billion in revenue.
  * Offer 102M+ stock-keeping units (SKUs).
@@ -35,7 +37,7 @@ By the end of Phase 3 (2025), Sears achieves significant milestones:
 | Coldwell Banker | Full | Real estate brokerage and Sears Mortgages management | $8B (NA: $7.2B, Expanded: $0.8B) | $15B (NA: $13.5B, Expanded: $1.5B) | $16B | $30B | 6% NA | 8% NA |
 | Allstate | 20% stake | Bundled insurance for Datsun purchase/financing, roadside assistance | $8B (NA: $7.2B, Expanded: $0.8B) | $10B (NA: $9B, Expanded: $1B) | $10B | $12B | 5% | 6% |
 | Discover Card Network | Full | Backbone of Sears Financial, facilitates SearsPay/SearsCoin transactions | $5B (NA: $4B, Expanded: $1B) | $8B (NA: $6.4B, Expanded: $1.6B) | $7B | $12B | 4% | 5% |
-| Dean Witter/Funds | Full | Management of Stock Brokerage Accounts, Sears Corporate Wealth/Bitcoin Funds, Holds 7% of Sears shares for dedicated long-term Sears shareholders, Sears Ventures, Dallas HQ | $1B/$30B (NA: $0.8B/$24B, Expanded: $0.2B/$6B) | $2B/$45B (NA: $1.6B/$36B, Expanded: $0.4B/$9B) | $4B/$10B | $6B/$15B | 3% | 4% |
+| Dean Witter/Funds | Full | Management of Stock Brokerage Accounts, Sears Corporate Wealth/Bitcoin Funds, Holds 7% of Sears shares for dedicated long-term Sears shareholders, Sears Ventures, Dallas HQ | $1B/$30B (NA: $0.8B/$24B, Expanded: $0.2B/$6B) | $2B/$45B (NA: $1.6B/$36B, Expanded: $0.4B/$9B) | $6B/$100B | $10B/$200B | 4% | 5% |
 | Western Forge | Full (acquired 2009) | Craftsman hand tools, KENN AI-integrated factory, Colorado | $2B (NA: $1.6B, Expanded: $0.4B) | $4B (NA: $3.2B, Expanded: $0.8B) | $2B | $6B | 20% NA | 25% NA |
 | Remington (by W. Forge) | Full (acquired 2020, $25M) | Bolt-action rifles, shotguns; Colorado factory synergy | $0.8B (NA: $0.72B, Expanded: $0.08B) | $1.8B (NA: $1.62B, Expanded: $0.18B) | $1.2B | $2.7B | 4% NA hunting | 8.5% NA hunting |
 | Serta | 20% stake (2009) | Harmony House mattresses/bedding, Mexico/Indonesia factories | $1.5B (NA: $1.2B, Expanded: $0.3B) | $2B (NA: $1.6B, Expanded: $0.4B) | $2B | $3B | 15% NA | 18% NA |
@@ -106,7 +108,7 @@ By the end of Phase 3 (2025), Sears achieves significant milestones:
    * Mechanics at $50/hour base with warranty incentives (hybrid pay, tiered bonuses, no-fault safety net, quarterly team incentives)
  * Other Operations: 280 malls, 60 logistics distribution centers, 140 Saks stores, 280 Atari Arcades (Homart malls), Cub Cadet factories/R&D, Datsun support, Sears World Trade, Inc.
  * profit-sharing contracts with key suppliers: Cooper Tire, Yamaha, Whirlpool, Sherwin-Williams, Char-Broil, Magba/Getrag, Allstate, Serta, and Key SMBs from Sears Ventures.
- * Profit sharing contacts signatories bound by: Maintain Low debt level (to ward off entities like Black Rock, Vanguard etc.), adoption of modular, repairable designs, 5-10 year parts support, parts supply for parts direct listing, support Heritage Parts initiative ( core returns, heritage parts refurbishments on high demand parts, support Unique Repair Network shared (voluntary), shared R&D and patents, licensing Voting, and adoption of corporate minimum wages.
+ * Profit sharing contacts signatories bound by: Maintain Low debt level (to ward off entities like Black Rock, Vanguard etc.), adoption of modular, repairable designs, 5-10 year parts support, parts supply for parts direct listing, support Heritage Parts initiative ( core returns, heritage parts refurbishments on high demand parts, support "Unique Repair Network" shared (voluntary), Sears Academy credentialing, Internal use of SearsCoin (with conditions tied to maintenance of value), most importantly shared R&D and resulting patents, tied to level of involvement, licensing Voting, and adoption of corporate minimum wages.
 
 ## Facilities
  * Sears HQ: Dallas, TX (3500 employees)
@@ -549,6 +551,7 @@ Objective: Scale to $45B revenue, 15% global robotics share.
  * Revenue (2025): $60B (NA: $42B, Expanded: $18B)
  * Revenue (2035): $100B (NA: $70B, Expanded: $30B)
  * Features: 55M users, console/cloud gaming, acquisitions synergies
+ * Deeping partnership with Sega for continuing development of sports games (by 2035 rivals EA sports)
  * Unique Repair network. Independent electronics repair business with certified Sears Academy graduates (with periodic refresher courses) can perform warranty work, subsidizing independent electronics repair business (additional support available from Sears Ventures, SMB programs).
  * Value (2025): $90B
  * Value (2035): $150B
@@ -765,15 +768,15 @@ Objective: Ensure agility across Sears’ empire, emphasizing factories, Remingt
  * Serta: 2009, 20% stake, $210M (profit-sharing)
  * Kodak Optics: 2012, $205M
  * Atari: 2013, $30M
- * Cub Cadet: 2016, $500M-$625M (Martin/Brownsville)
+ * Cub Cadet: 2016, $500M-$625M (Martin/Brownsville Tennessee)
  * Saks Off 5th: 2025, $250M (online)
  * Saks Fifth Avenue: 2025, $350M
- * Whirlpool: 2030, $2B (15% stake)
+ * Whirlpool: 2030, $2B (15% stake, profit-sharing)
  * Kroger: 2032, $4.5B (10% stake)
  * Shopify: 2033, $2.5B (10% stake)
  * Namco/Bandai: 2026, $250M (5% stake, Atari)
  * Capcom: 2026, $200M (5% stake, Atari)
- * Sega/Sammy: 2026, $150M (5% stake, Atari)
+ * Sega/Sammy: 2026, $300M (20% stake, Atari, profit-sharing)
  * Nissan/Datsun: 2026-2028, $8B (33-51% stake)
  * Yamaha: 2026, $450M (15% stake, profit-sharing)
 

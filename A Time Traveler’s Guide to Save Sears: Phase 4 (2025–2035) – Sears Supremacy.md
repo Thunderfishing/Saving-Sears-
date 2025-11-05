@@ -415,6 +415,40 @@ Objective: Generate $75B.
   * SSGF gets board representation proportional to stake
   * 2 seats reserved for Sears Fund (Dean Witter-managed)
 
+**Employee Stock Purchase Program (ESPP) with Class A Voting Shares**
+ * All employees after 1 year of service
+Sears Academy graduates upon certification
+ * Purchase Terms:
+   * Employees can contribute up to 15% of salary to ESPP
+Sears matches 50% (up to 7.5% of salary)
+   * Example: Employee earning $50K contributes $7.5K (15%), Sears adds $3.75K, total $11.25K/year invested
+ * Share Class:
+  * ESPP purchases are Class A shares (10 votes each)
+Vesting: 20% per year over 5 years (retention incentive)
+  * Upon departure: Unvested shares forfeited, vested shares convert to Class B
+  * Discount: 15% discount to market price (standard ESPP benefit)
+ * Financial Impact/ Participation Assumptions:
+   * 60% of 621,000 employees participate = 372,600 employees
+Average salary: $45K
+Average contribution: 10% of salary = $4,500/year
+Sears match: $2,250/year
+Total per employee: $6,750/year
+ * Annual ESPP Investment:
+   * Employee contributions: 372,600 × $4,500 = $1.68B, Sears matching: 372,600 × $2,250 = $837M
+ * Total: $2.5B/year
+By 2035 (10 years of ESPP):
+  * Cumulative investment: $25B
+With stock appreciation (8%/year): ~$36B
+   * Ownership: 1.2% of $3T valuation
+ * Voting Power:
+   * Class A shares: 10 votes each
+If ESPP holds 1.2% of shares as Class A
+   * Voting power: 12% of total votes (10x multiplier)
+   * Class A is EARNED, not inherited
+    * Employees must work 5 years to fully vest
+    * Converts to Class B upon sale (no perpetual control) vs. Google/Facebook (founders have perpetual super-votingClass
+    * A auto-converts to Class B in 2060 (35 years)
+
 **Discover Card Network and SearsPay**
  * Revenue (2025): $10B (NA: $8B, Expanded: $2B)
  * Revenue (2035): $11B (NA: $8.8B, Expanded: $2.2B)

@@ -410,7 +410,7 @@ Objective: Generate $75B.
    *Suppliers can contribute from their profit-sharing distributions
 *Example:* Whirlpool receives $500M profit-sharing, contributes $50M (10%) to SSGF
 *Matching:* Sears matches supplier contributions 50% (up to $500M/year total).If suppliers contribute $300M, Sears adds $150M. This accelerates fund growth while maintaining supplier control.
-**2035 value:** $23B (after growth)
+ **2035 value:** $23B (after growth)
   * Ownership: 0.77% of $3T = $23B 
   * SSGF gets board representation proportional to stake
   * 2 seats reserved for Sears Fund (Dean Witter-managed)

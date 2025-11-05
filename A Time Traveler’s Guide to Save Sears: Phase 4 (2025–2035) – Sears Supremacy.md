@@ -1,7 +1,7 @@
 # A Time Traveler’s Guide to Save Sears: Phase 4 (2025–2035) 
 
 ## The Sears Concordant (aka: The bloc) 
-  * A unified Alliance of Sears and it's partners, employees, customers abd each other. Bound by a covenant of reciprocity, durability and repair.
+  * A unified Alliance of Sears and it's partners, employees, customers and each other. Bound by a covenant of reciprocity, durability and repair.
 
 ## Mission
 To Cement Sears as a vertically integrated, AI, crypto-powered retail-industrial mega-corporation, valued at $3 trillion by 2035, through Sears.com, generating $900 billion in revenue.

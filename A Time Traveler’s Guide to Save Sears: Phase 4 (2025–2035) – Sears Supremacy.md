@@ -105,6 +105,8 @@ By the end of Phase 3 (2025), Sears achieves significant milestones:
  * Payroll: $20/hour min wage floor; 10% premium above medians for roles (e.g., tech specialists ~$30-40/hour); annual reviews tied to inflation/market benchmarks.
    * Mechanics at $50/hour base with warranty incentives (hybrid pay, tiered bonuses, no-fault safety net, quarterly team incentives)
  * Other Operations: 280 malls, 60 logistics distribution centers, 140 Saks stores, 280 Atari Arcades (Homart malls), Cub Cadet factories/R&D, Datsun support, Sears World Trade, Inc.
+ * profit-sharing contracts with key suppliers: Cooper Tire, Yamaha, Whirlpool, Sherwin-Williams, Char-Broil, Magba/Getrag, Allstate, Serta, and Key SMBs from Sears Ventures.
+ * Profit sharing contacts signatories bound by: Maintain Low debt level (to ward off entities like Black Rock, Vanguard etc.), adoption of modular, repairable designs, 5-10 year parts support, parts supply for parts direct listing, support Heritage Parts initiative ( core returns, heritage parts refurbishments on high demand parts, support Unique Repair Network shared (voluntary), shared R&D and patents, licensing Voting, and adoption of corporate minimum wages.
 
 ## Facilities
  * Sears HQ: Dallas, TX (3500 employees)
@@ -368,9 +370,8 @@ Objective: Generate $75B.
  * Revenue (2025): $2B (Standalone)/$40B (fees) (NA: $1.6B/$32B, Expanded: $0.4B/$8B)
  * Revenue (2035): $2.5B (Standalone)/$50B (fees) (NA: $2B/$40B, Expanded: $0.5B/$10B)
  * Operating Budget: $0.12B
- * Features: Manages Corporate Wealth Fund, Bitcoin Fund, 7% of Sears stock held by longterm investors, Sears Ventures, savings, brokerage accounts (50B), Homart Community Fund ($7B 2025, $10B 2035), SSGF: ($23B, by 2035)
- * Value (2025): Dean-Witter $6B, Funds $20B (excluding Sears fund 7% Sears stock holding)
- * Value (2035): Dean-Witter $10B, Funds $25B (excluding Sears fund)
+ * Features: Manages Corporate Wealth Fund, Bitcoin Fund, Sears Fund: 7% of Sears stock held by longterm investors ($70B, approx. 2025), Sears Ventures: ($20B), savings, brokerage accounts (50B), Homart Community Fund ($7B 2025, $10B 2035), SSGF: ($23B, by 2035), ESPP: ($25B 2035), profit-sharing programs with key suppliers
+ * Value (2035): Dean-Witter $10B, Funds/brokerage accounts/venture capital: ($200B+)
  * Market Share (2025 3% brokerage)
  * Market Share (2035 5% brokerage)
 

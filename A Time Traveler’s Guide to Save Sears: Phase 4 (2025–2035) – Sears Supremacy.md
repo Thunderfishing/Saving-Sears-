@@ -368,7 +368,7 @@ Objective: Generate $75B.
  * Revenue (2025): $2B (Standalone)/$40B (fees) (NA: $1.6B/$32B, Expanded: $0.4B/$8B)
  * Revenue (2035): $2.5B (Standalone)/$50B (fees) (NA: $2B/$40B, Expanded: $0.5B/$10B)
  * Operating Budget: $0.12B
- * Features: Manages Corporate Wealth Fund, Bitcoin Fund, 7% of Sears stock held by longterm investors, Sears Ventures, savings, brokerage accounts, Homart Community Fund ($7B 2025, $10B 2035)
+ * Features: Manages Corporate Wealth Fund, Bitcoin Fund, 7% of Sears stock held by longterm investors, Sears Ventures, savings, brokerage accounts (50B), Homart Community Fund ($7B 2025, $10B 2035), SSGF: ($23B, by 2035)
  * Value (2025): Dean-Witter $6B, Funds $20B (excluding Sears fund 7% Sears stock holding)
  * Value (2035): Dean-Witter $10B, Funds $25B (excluding Sears fund)
  * Market Share (2025 3% brokerage)
@@ -401,6 +401,19 @@ Objective: Generate $75B.
    * Electric/hybrid vehicle startups: $1.8B (Datsun)
    * Domestic, SMB Sears.com retailer preference program: $1.8B
    * Hunting/Sporting Goods SMB startups: $0.1B (Remington)
+
+**Sears Supplier Growth Fund (SSGF)**
+ * Purpose:
+  * Allow suppliers to collectively invest in Sears stock
+  * Pool resources to block hostile takeovers
+  * Share in Sears growth (aligned incentives)
+   *Suppliers can contribute from their profit-sharing distributions
+*Example:* Whirlpool receives $500M profit-sharing, contributes $50M (10%) to SSGF
+*Matching:* Sears matches supplier contributions 50% (up to $500M/year total).If suppliers contribute $300M, Sears adds $150M. This accelerates fund growth while maintaining supplier control.
+**2035 value:** $23B (after growth)
+  * Ownership: 0.77% of $3T = $23B 
+  * SSGF gets board representation proportional to stake
+  * 2 seats reserved for Sears Fund (Dean Witter-managed)
 
 **Discover Card Network and SearsPay**
  * Revenue (2025): $10B (NA: $8B, Expanded: $2B)

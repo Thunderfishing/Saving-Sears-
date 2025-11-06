@@ -67,12 +67,14 @@ By the end of Phase 3 (2025), Sears achieves significant milestones:
 
 ### Corporate Wealth Investments
  * Investments:
-   * Tesla: $600M
-   * ByteDance: $400M
-   * Malls: $2B
-   * Silver Wheaton: $300M
+   * Tesla: $200M (additional)
+   * ByteDance: $200M (additional)
+   * Malls: $1B
+   * Silver Wheaton: $800M
+   * Agnico Eagle: $1B
+   * Barrick Gold: $500M
    * Gaming startups: $400M
-   * Other startups/SMBs: $1.5B, targeting 16% CAGR to reach $22B by 2035
+   * Other startups/SMBs: $1.1B, targeting 16% CAGR to reach $22B by 2035, $2B investment in precious metals miners for SearsCoin backing. 
  * Total Cost: $16B
 
 ### Asset Sales
@@ -149,6 +151,7 @@ Objective: Scale to $1.2T revenue, outpacing Amazon ($800B), Apple ($350B), Home
 **Sears.com**
  * SKUs: 102M+, 12M+ first-party (NA produced), 90M+ reputable third-party vendors (brand focused, i.e., Levi’s, Samsung, Pyrex, Patagonia)
  * Users: 350M (210M mobile, 135M Prime members)
+ * Commission rates charged to sellers are comparable to the "real" Amazon, but SMBs receive 10% (reimbursed with SearsCoin) discount over large cap.
  * Market Share (2025): 25% North America ($800B TAM, revenue $200B), 8% Expanded ($1.8T TAM, revenue $144B)
  * Market Share (2035): 35% North America ($4T TAM, revenue $1.4T), 12% Expanded ($4.5T TAM, revenue $540B)
  * Features:
@@ -480,6 +483,7 @@ If ESPP holds 1.2% of shares as Class A
    * Non-interest portion of Datsun Auto financing/leasing, and or insurance payments eligible.
    * 3% non-Sears, 5% on purchases at Sears/affiliates: $3B uplift (+$0.8B Atari, $0.18B Saks, $0.09B World Trade, $0.09B Cub Cadet, $0.4B Datsun, $0.02B Remington)
    * Used for Bonuses to Sears Employees, Christmas Bonus: 10,000  SearsCoin (100USD)
+   * by 2035 Dean-Witter will have aquired $10B in mining securities as initial backing for SearsCoin in conjunction with Bitcoin fund, (initiated due to adoption success, attempting to back with alternates to bonds or bullion)
  * Market Share: N/A
 
 ### 8. Sears Optical Centers

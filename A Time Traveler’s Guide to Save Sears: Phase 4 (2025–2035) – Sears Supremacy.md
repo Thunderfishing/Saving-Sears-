@@ -8,7 +8,7 @@ To Cement Sears as a vertically integrated, AI, crypto-powered retail-industrial
  * Offer 102M+ stock-keeping units (SKUs).
  * Serve 350M users.
  * Command a 35% share of the North American market, capturing $1.4T out of a $4T total e-commerce market.
- * Secure a 12% share in expanded markets (Japan, Taiwan, Indonesia, Australia, New Zealand, Singapore, Philippines), capturing $200B out of a $4.5T Southeast Asia and emerging regions market.
+ * Secure a 15% share in expanded markets (Japan, Taiwan, Indonesia, Australia/New Zealand, Singapore, Philippines, Vietnam, Argentina UK/Ireland), capturing $200B out of a $4.5T Southeast Asia and emerging regions market.
  * Maintain working class hero reputation.
  * Continue developing "safe harbor" ecosystem.
 
@@ -17,7 +17,7 @@ By the end of Phase 3 (2025), Sears achieves significant milestones:
  * Revenue: $850B (North America: $640 billion; Expanded Markets: $160B)
  * EBITDA: $64B (8% margin)
  * Valuation: $980B (15x EBITDA multiple)
- * Total R&D spending $180B/y 
+ * Total R&D spending $35B/y 
  * Surplus: $0.5B
  * Debt: $18B
  * Cash on Hand: $13.7B
@@ -43,11 +43,11 @@ By the end of Phase 3 (2025), Sears achieves significant milestones:
 | Remington (by W. Forge) | Full (acquired 2020, $25M) | Bolt-action rifles, shotguns; Colorado factory synergy | $0.8B (NA: $0.72B, Expanded: $0.08B) | $1.8B (NA: $1.62B, Expanded: $0.18B) | $1.2B | $2.7B | 4% NA hunting | 8.5% NA hunting |
 | Serta | 20% stake (2009) | Harmony House mattresses/bedding, Mexico/Indonesia factories | $1.5B (NA: $1.2B, Expanded: $0.3B) | $2B (NA: $1.6B, Expanded: $0.4B) | $2B | $3B | 15% NA | 18% NA |
 | SearsCoin Rewards | Full | Blockchain rewards (3% non-Sears, 5% Sears/affiliates), 45M users | $8B (NA: $6.4B, Expanded: $1.6B) | $15B (NA: $12B, Expanded: $3B) | $10B | $20B | N/A | N/A |
-| Atari Home Entertainment | Full (acquired 2013, $30M) | Console/cloud gaming, Osaka factory, Yokohama HQ, Yokohama/Austin R&D | $60B (NA: $42B, Expanded: $18B) | $100B (NA: $70B, Expanded: $30B) | $90B | $200B | 15% Global | 20% Global |
-| Kodak Optics/Graphics | Full (acquired 2009, $205M) | Lenses for Sears Optical, KENN AI image tech, Atari graphics, Yokohama/Austin R&D | $1.5B (NA: $1.2B, Expanded: $0.3B) | $4B (NA: $3.2B, Expanded: $0.8B) | $2.5B | $8B | 10% Global | 15% Global |
+| Atari Home Entertainment | Full (acquired 2013, $30M) | Console/cloud gaming, Osaka factory and HQ, Osaka/San Antonio R&D | $60B (NA: $42B, Expanded: $18B) | $100B (NA: $70B, Expanded: $30B) | $90B | $200B | 15% Global | 20% Global |
+| Kodak Optics/Graphics | Full (acquired 2009, $205M) | Lenses for Sears Optical, KENN AI image tech, Atari graphics, Osaka/San Antonio R&D | $1.5B (NA: $1.2B, Expanded: $0.3B) | $4B (NA: $3.2B, Expanded: $0.8B) | $2.5B | $8B | 10% Global | 15% Global |
 | Saks Fifth Avenue | Full (acquired 2025, HBC bankruptcy) | 50 stores | $600M (NA: $480M, Expanded: $120M) | $20B (NA: $16B, Expanded: $4B) | $800M | $40B | 3% Global | 5% Global |
 | Saks Off 5th | Full | Sears.com storefront | $300M (NA: $240M, Expanded: $60M) | $10B (NA: $8B, Expanded: $2B) | $500M | $20B | 2% Global | 4% Global |
-| Cub Cadet | Full (acquired 2016) | Mowers, snowblowers, garden tractors, Martin/Brownsville factories, Austin  R&D | $1.5B (NA: $1.35B, Expanded: $0.15B) | $5B (NA: $4.5B, Expanded: $0.5B) | $1.8B | $7.5B | 12% NA | 15% NA |
+| Cub Cadet | Full (acquired 2016) | Mowers, snowblowers, garden tractors, Martin/Brownsville factories, San Antonio R&D | $1.5B (NA: $1.35B, Expanded: $0.15B) | $5B (NA: $4.5B, Expanded: $0.5B) | $1.8B | $7.5B | 12% NA | 15% NA |
 | Sears World Trade, Inc. | Full (revived 1987) |Domestic & Vetted foreign SKUs for Sears.com, 6,000,000 SKUs | $6B (NA: $3B, Expanded: $3B) | $30B (NA: $15B, Expanded: $15B) | $7B | $45B | 15% | 20% |
 
 ## Financial Restructuring
@@ -116,28 +116,28 @@ By the end of Phase 3 (2025), Sears achieves significant milestones:
 ## Facilities
  * Sears HQ: Dallas, TX (3500 employees)
  * R&D Facilities:
-   * Atari: Osaka, San Antonio
-   * Kodak Optics: Osaka, San Antonio    * Yahoo!: San Antonio ,
-   * Zenith: Osaka, San Antonio          * Sears Robotics: Osaka, San Antonio
+   * Atari: Osaka/San Antonio
+   * Kodak Optics: Osaka/San Antonio     * Yahoo!: San Antonio ,
+   * Zenith: Osaka/San Antonio           * Sears Robotics: Osaka/San Antonio
    * Cub Cadet/Datsun (Joint): San Antonio
    * Sears/Whirlpool joint R&D: San Antonio
    * Sears/Serta: Joint R&D, San Antonio
-   * Sears/Sherwin-William: joint R&D San Antonio (prioritizing development of WeatherBeater Automotive paint for Datsun acquisition)
+   * Sears/Sherwin-William: Joint R&D San Antonio (prioritizing development of WeatherBeater Automotive paint for Datsun acquisition)
    * Sears/GoodYear Joint R&D, Colorado Springs
    * DieHard: San Antonio
    * Advanced Metallurgy Materials Lab: Colorado Springs, Western Forge/Remington/Datsun/Yamaha/Cub Cadet/Getrag Joint R&D
    * Other HQs:
    * Sears Canada, Calgary AB, 
-   * Yahoo!: Austin, TX, $15M/year
+   * Yahoo!: San Antonio, TX, $15M/year
    * Dean Witter: Dallas TX, 
    * Coldwell Banker/Homart, Dallas
    * Datsun satellite: Dallas
    * Chicago satellite
    * Jakarta satellite
-   * Atari: Osaka Japan, with a Dallas NA satellite office
+   * Atari: Osaka Japan, with a San Antonio NA satellite office
    * Zenith: San Antonio
    * World Trade Offices: Dallas, Tokyo, Seoul, Taipei, Frankfurt, Mumbai, Manila, Surabaya, Singapore 
-   * Datsun HQ/R&D: Osaka, Japan
+   * Datsun HQ/R&D: Osaka Japan, Dallas Satellite 
    * Datsun/Yamaha/Getrag Joint R&D, Osaka, Japan. 
 
 ## Strategic Pillars
@@ -162,8 +162,8 @@ Objective: Scale to $1.2T revenue, outpacing Amazon ($800B), Apple ($350B), Home
    * Saks Off 5th: 180,000 SKUs, $12B
    * PartsDirect: 9,000,000 SKUs, $50B
    * Books/CDs: $8B
-   * Zenith/Silvertone: $55B (Guadalajara)
-   * Cub Cadet: 90,000 SKUs, $2.5B (Martin, Brownsville, Austin R&D)
+   * Zenith/Silvertone: $55B 
+   * Cub Cadet: 90,000 SKUs, $2.5B (Ma
    * Datsun: 90,000 SKUs, $0.8B (parts/accessories)
    * Remington (by W. Forge): 8,000 SKUs, $0.4B (rifles/shotguns/accessories)
    * World Trade: 9,000,000 SKUs, $30B
@@ -290,12 +290,12 @@ Objective: Scale to 90 distribution centers, capture 2.5% of $15T global market.
 
 ### 4. Factories & Brands
 Objective: Scale factories and brands to generate $250B, leveraging Cub Cadet, Remington, and Datsun.
- * Workforce: 30,000 (+1,000 Zenith, 2,800 Dallas/Colorado, 1,800 Surabaya, 900 Atari Osaka, 2,200 Cub Cadet Martin/Brownsville, 450 Cub Cadet R&D Austin, 200 Remington)
+ * Workforce: 38,350
  * Revenue (2025): $200.8B (NA: $160.72B, Expanded: $40.08B) (Adjusted for Remington)
  * Revenue (2035): $251.8B (NA: $201.62B, Expanded: $50.18B) (Adjusted for Remington)
  * Budget: $24B ($0.5B Guadalajara, $0.7B Surabaya/Osaka, $0.5B Dallas/Colorado, $0.25B Martin/Brownsville, $0.04B Cub Cadet R&D, $1.8B Atari, $0.25B developer/modder kits, $1B Saks, $1.8B Datsun, $0.1B Remington)
  * Features:
-   * Whirlpool/Serta/Yamaha/Magna, small/medium business supplier profit-sharing: $3.5B uplift
+   * Whirlpool/Serta/Yamaha/GoodYear/Magna/Sherwin-Williams/CharBroil/Small/medium business supplier profit-sharing: $3.5B uplift
    * Second Guadalajara plant: $0.5B (2030)
    * Atari gaming: 55M users, $8B; indie developer kits: $250M
    * Gaming stakes: $0.6B (2026)
@@ -304,7 +304,7 @@ Objective: Scale factories and brands to generate $250B, leveraging Cub Cadet, R
    * Surabaya/Osaka: $0.7B
    * Martin/Brownsville: 450,000 mowers/rotor tillers/snowblowers, $2B ($0.25B capex)
    * Non-exclusive licensing with supplier's (with exception of Sears/Whirlpool co-developed Kenmore/Coldspot technology/features)
-   * Austin R&D: $0.8B uplift
+   * San Antonio R&D: $0.8B uplift
    * Datsun synergies: $6B (Sears.com, Auto Centers, HomeForce, Allstate)
    * No BNPL for Saks 5th Avenue (sacrifice impulse buys for exclusivity)
  * Value (2025): $301.2B (Adjusted for Remington)
@@ -316,10 +316,10 @@ Objective: Scale factories and brands to generate $250B, leveraging Cub Cadet, R
 | Kenmore | Sears/Whirlpool | 35% NA, 12% Expanded | 38% NA, 14% Expanded | Stoves, Washer/Dryers, Dish Washers, Waterheaters 900,000 units (Dallas), 450,000 (Surabaya/Osaka) | $90B (NA: $72B, Expanded: $18B) | $100B (NA: $80B, Expanded: $20B) | $1.2B (Dallas: $0.8B, Surabaya/Osaka: $0.3B, Austin R&D: $0.1B) | $135B | $150B |
 | Craftsman | Sears | 28% NA, 10% Expanded | 30% NA, 12% Expanded | 1.8M power tools (Dallas), 18M hand tools (Colorado) | $11B (NA: $8.8B, Expanded: $2.2B) | $12B (NA: $9.6B, Expanded: $2.4B) | $0.8B (Dallas: $0.4B, Colorado: $0.4B) | $16.5B | $18B |
 | Remington (by W. Forge) | Sears | 4% NA hunting | 8.5% NA hunting | Bolt-action rifles/shotguns (Colorado/Western Forge facility) | $0.8B (NA: $0.72B, Expanded: $0.08B) | $1.8B (NA: $1.62B, Expanded: $0.18B) | $0.1B (Colorado) | $1.2B | $2.7B |
-| Cub Cadet | Sears (acquired 2016) | 12% NA, 6% Expanded | 15% NA, 8% Expanded | Ride-on mowers, Snowblowers, Rotor Tillers 180,000 (Martin), 270,000 (Brownsville) | $5B (NA: $4.5B, Expanded: $0.5B) | $5.5B (NA: $4.95B, Expanded: $0.55B) | $0.3B (Martin: $0.09B, Brownsville: $0.18B, Austin R&D: $0.03B) | $7.5B | $8.25B |
+| Cub Cadet | Sears (acquired 2016) | 12% NA, 6% Expanded | 15% NA, 8% Expanded | Ride-on mowers, Snowblowers, Rotor Tillers 180,000 (Martin), 270,000 (Brownsville) | $5B (NA: $4.5B, Expanded: $0.5B) | $5.5B (NA: $4.95B, Expanded: $0.55B) | $0.3B (Martin: $0.09B, Brownsville: $0.18B, San Antonio R&D: $0.03B) | $7.5B | $8.25B |
 | DieHard Batteries | Sears | 25% NA, 15% Expanded | 28% NA, 17% Expanded | 5.4M Automotive, Marine, EV/Hybrid, Craftsman Lithium-ion batteries (Dallas) | $9B (NA: $7.2B, Expanded: $1.8B) | $10B (NA: $8B, Expanded: $2B) | $0.4B (Dallas) | $13.5B | $15B |
 | WeatherBeater | Sears/Sherwin-Williams | 15% NA, 8% Expanded | 17% NA, 9% Expanded | Paints/Sealants/Tapes/Caulkings/polishes/Waxes | $6B (NA: $4.8B, Expanded: $1.2B) | $6.5B (NA: $5.2B, Expanded: $1.3B) | - | $9B | $9.75B |
-| RoadHandler Tires | Sears/Cooper Tire | 18% NA, 10% Expanded | 20% NA, 11% Expanded | Tire line | $20B (NA: $16B, Expanded: $4B) | $22B (NA: $17.6B, Expanded: $4.4B) | - | $30B | $33B |
+| RoadHandler Tires | Sears/GoodYear Tire | 18% NA, 10% Expanded | 20% NA, 11% Expanded | Tire line | $20B (NA: $16B, Expanded: $4B) | $22B (NA: $17.6B, Expanded: $4.4B) | - | $30B | $33B |
 | Coldspot Refrigerants | Sears/Whirlpool | 12% NA, 8% Expanded | 14% NA, 9% Expanded | 225,000 (Dallas), 270,000 (Surabaya/Osaka) Fridges, Freezers, AC units | $35B (NA: $28B, Expanded: $7B) | $40B (NA: $32B, Expanded: $8B) | $0.8B (Dallas: $0.4B, Surabaya/Osaka: $0.3B, Austin R&D: $0.1B) | $52.5B | $60B |
 | Harmony House | Sears/Serta (20%) | 18% NA, 6% Expanded | 20% NA, 7% Expanded | 1.8M mattresses/Beddings (Surabaya), 900,000 (Guadalajara) | $7B (NA: $5.6B, Expanded: $1.4B) | $7.5B (NA: $6B, Expanded: $1.5B) | $0.4B (Surabaya: $0.16B, Guadalajara: $0.24B) | $10.5B | $11.25B |
 | Silvertone | Sears/Zenith (100% stake) | 18% NA, 8% Expanded | 20% NA, 9% Expanded | 1.1M audio devices (Guadalajara) | $45B (NA: $36B, Expanded: $9B) | $50B (NA: $40B, Expanded: $10B) | $0.4B (Guadalajara) | $67.5B | $75B |

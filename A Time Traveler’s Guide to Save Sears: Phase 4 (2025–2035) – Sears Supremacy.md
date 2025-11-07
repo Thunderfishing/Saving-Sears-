@@ -1,7 +1,8 @@
 # A Time Traveler’s Guide to Save Sears: Phase 4 (2025–2035) 
 
-## The Sears Concordant (aka: The bloc) 
-  * A unified Alliance of Sears and it's partners, employees, customers and each other. Bound by a covenant of reciprocity, durability and repair.
+## The Sears Concordant (aka: The Syndicate) 
+  * A unified alliance between a industrialized Sears and it's industrial suppliers, employees, customers and each other.
+  * Bound by a covenant of reciprocity, durability and repair.
 
 ## Mission
 To Cement Sears as a vertically integrated, AI, crypto-powered retail-industrial mega-corporation, valued at $3 trillion by 2035, through Sears.com, generating $900 billion in revenue.
@@ -47,7 +48,7 @@ By the end of Phase 3 (2025), Sears achieves significant milestones:
 | Kodak Optics/Graphics | Full (acquired 2009, $205M) | Lenses for Sears Optical, KENN AI image tech, Atari graphics, Osaka/San Antonio R&D | $1.5B (NA: $1.2B, Expanded: $0.3B) | $4B (NA: $3.2B, Expanded: $0.8B) | $2.5B | $8B | 10% Global | 15% Global |
 | Saks Fifth Avenue | Full (acquired 2025, HBC bankruptcy) | 50 stores | $600M (NA: $480M, Expanded: $120M) | $20B (NA: $16B, Expanded: $4B) | $800M | $40B | 3% Global | 5% Global |
 | Saks Off 5th | Full | Sears.com storefront | $300M (NA: $240M, Expanded: $60M) | $10B (NA: $8B, Expanded: $2B) | $500M | $20B | 2% Global | 4% Global |
-| Cub Cadet | Full (acquired 2016) | Mowers, snowblowers, garden tractors, Martin/Brownsville factories, San Antonio R&D | $1.5B (NA: $1.35B, Expanded: $0.15B) | $5B (NA: $4.5B, Expanded: $0.5B) | $1.8B | $7.5B | 12% NA | 15% NA |
+| Cub Cadet | Full (acquired 2016) | Mowers, snowblowers, garden tractors, Martin/Brownsville, TN factories, San Antonio R&D | $1.5B (NA: $1.35B, Expanded: $0.15B) | $5B (NA: $4.5B, Expanded: $0.5B) | $1.8B | $7.5B | 12% NA | 15% NA |
 | Sears World Trade, Inc. | Full (revived 1987) |Domestic & Vetted foreign SKUs for Sears.com, 6,000,000 SKUs | $6B (NA: $3B, Expanded: $3B) | $30B (NA: $15B, Expanded: $15B) | $7B | $45B | 15% | 20% |
 
 ## Financial Restructuring
@@ -57,9 +58,9 @@ By the end of Phase 3 (2025), Sears achieves significant milestones:
  * Kroger: 10% stake for $4.5B to anchor 300 Homart malls
  * Shopify: 10% stake for $2.5B to improve Sears.com tools
  * Atari Acquisitions:
-   * Namco/Bandai: 5% stake for $250M (2026)
-   * Capcom: 5% stake for $200M
-   * Sega/Sammy: 10% stake for $300M (2026)
+   * Namco/Bandai: 15% stake for $750M (2026)
+   * Capcom: 10% stake for $400M
+   * Sega/Sammy: 20% stake for $600M (2026)
  * Nissan/Datsun: 33-51% stake for $8B for automotive entry (2026, Chapter 11)
  * Yamaha: 15% stake for $450 million (2026).
    * Partner with Yamaha ($800M) for engine manufacturing
@@ -74,7 +75,8 @@ By the end of Phase 3 (2025), Sears achieves significant milestones:
    * Agnico Eagle: $1B
    * Barrick Gold: $500M
    * Gaming startups: $400M
-   * Other startups/SMBs: $1.1B, targeting 16% CAGR to reach $22B by 2035, $2B investment in precious metals miners for SearsCoin backing. 
+   * 
+   * targeting 16% CAGR to reach $22B by 2035, $2B investment in precious metals miners for SearsCoin backing. 
  * Total Cost: $16B
 
 ### Asset Sales
@@ -716,7 +718,7 @@ Objective: Scale to $45B revenue, 15% global robotics share.
  * EBITDA: $160.06B (8% margin) (Adjusted for Remington's $60M profit)
  * Valuation: $2.5T (15x EBITDA)
  * Surplus: $0.8B
- * Total R&D spending $180B/y
+ * Total R&D spending $35B/y
  * Debt: $18B (0.11x EBITDA)
  * Cash on hand: $13.7B
 
@@ -725,7 +727,7 @@ Objective: Scale to $45B revenue, 15% global robotics share.
  * EBITDA: $200.14B (8% margin) (Adjusted for Remington's $140M profit)
  * Valuation: $3T (15x EBITDA)
  * Surplus: $600M
- * Total R&D spend $350B/y
+ * Total R&D spend $50B/y
  * Debt: $19.65B (0.1x EBITDA)
  * yearly Net Income (2035) $134B (approx)
  * Cash on Hand: $14.5B
@@ -782,9 +784,9 @@ Objective: Ensure agility across Sears’ empire, emphasizing factories, Remingt
  * Whirlpool: 2030, $2B (15% stake, profit-sharing)
  * Kroger: 2032, $4.5B (10% stake)
  * Shopify: 2033, $2.5B (10% stake)
- * Namco/Bandai: 2026, $250M (5% stake, Atari)
- * Capcom: 2026, $200M (5% stake, Atari)
- * Sega/Sammy: 2026, $300M (20% stake, Atari, profit-sharing)
+ * Namco/Bandai: 2026, $750M (15% stake, Atari)
+ * Capcom: 2026, $400M (10% stake, Atari)
+ * Sega/Sammy: 2026, $600M (20% stake, Atari, profit-sharing)
  * Nissan/Datsun: 2026-2028, $8B (33-51% stake)
  * Yamaha: 2026, $450M (15% stake, profit-sharing)
 

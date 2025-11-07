@@ -116,13 +116,16 @@ By the end of Phase 3 (2025), Sears achieves significant milestones:
 ## Facilities
  * Sears HQ: Dallas, TX (3500 employees)
  * R&D Facilities:
-   * Atari (1 additinnal in Yokohama Japan), Kodak, Yahoo!, Zenith, Sears Robotics (1 additional in Yokohama): Austin, TX. (collaborating labs)
-   * Cub Cadet/Datsun (Joint): Austin, TX 
-   * Sears/Whirlpool joint R&D: Austin, TX
-   * Sears/Serta Joint R&D Austin TX
-   * Sears/Sherwin-Williams joint R$D Austin TX (prioritization of Automotive paint to facilitate Datsun acquisition)
-   * Sears/Cooper Tire Joint R&D, Colorado Springs
-   * Advanced Metallurgy Materials Lab: Colorado Springs (Western Forge/Remington/Datsun/Yamaha/Cub Cadet participation)
+   * Atari: Osaka, San Antonio
+   * Kodak Optics: Osaka, San Antonio    * Yahoo!: San Antonio ,
+   * Zenith: Osaka, San Antonio          * Sears Robotics: Osaka, San Antonio
+   * Cub Cadet/Datsun (Joint): San Antonio
+   * Sears/Whirlpool joint R&D: San Antonio
+   * Sears/Serta: Joint R&D, San Antonio
+   * Sears/Sherwin-William: joint R&D San Antonio (prioritizing development of WeatherBeater Automotive paint for Datsun acquisition)
+   * Sears/GoodYear Joint R&D, Colorado Springs
+   * DieHard: San Antonio
+   * Advanced Metallurgy Materials Lab: Colorado Springs, Western Forge/Remington/Datsun/Yamaha/Cub Cadet/Getrag Joint R&D
    * Other HQs:
    * Sears Canada, Calgary AB, 
    * Yahoo!: Austin, TX, $15M/year
@@ -131,11 +134,11 @@ By the end of Phase 3 (2025), Sears achieves significant milestones:
    * Datsun satellite: Dallas
    * Chicago satellite
    * Jakarta satellite
-   * Atari: Yokohama Japan, with an Austin TX NA satellite office
-   * Zenith: Austin
+   * Atari: Osaka Japan, with a Dallas NA satellite office
+   * Zenith: San Antonio
    * World Trade Offices: Dallas, Tokyo, Seoul, Taipei, Frankfurt, Mumbai, Manila, Surabaya, Singapore 
-   * Datsun HQ/R&D: Yokohama, Japan
-   * Datsun/Yamaha/Getrag Joint R&D, Yokohama Japan. 
+   * Datsun HQ/R&D: Osaka, Japan
+   * Datsun/Yamaha/Getrag Joint R&D, Osaka, Japan. 
 
 ## Strategic Pillars
 

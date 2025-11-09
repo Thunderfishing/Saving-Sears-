@@ -124,7 +124,7 @@ By the end of Phase 3 (2025), Sears achieves significant milestones:
 
 *The Covenant of Reciprocity, Durability and Repair creates a self-reinforcing innovation loop, externalizing R&D costs.*
 
-| Source of "Free R&D" Contribution | Estimated Annual Financial Value (2035) | Rationale / Mechanism |
+| Source of supplementary R&D Contribution | Estimated Annual Financial Value (2035) | Rationale / Mechanism |
 | :--- | :--- | :--- |
 | **Syndicate Partner Licensing** | **$4.0 – $6.0 Billion** | Technology from joint R&D (e.g., Whirlpool, Yamaha) becomes non-exclusive after 5 years, encouraging greater **Syndicate participation** and rapid innovation diffusion. |
 | **HomeForce / Repair Network** | **$1.0 – $1.5 Billion** | HomeForce, Auto Center, and **Unique Repair Network** shops submitting **KENN TSBs** (5 SearsCoin reward) that provide immediate, real-world failure analysis, skipping millions in lab testing. |
@@ -316,6 +316,23 @@ Objective: Scale to $1.2T revenue.
 * **KENN AI:** Multimodal, contextually aware retail intelligence.
 * **Consumer Data Marketplace:** Open data marketplace, customers sell their data for SearsCoin payments.
 
+---
+
+### 💻 Sears.com Core Features & Ecosystem Integration
+
+*Sears.com is the **$1.35 Trillion market catalyst**, blending a massive SKU selection with industry-leading service features and deep integration across the entire Sears ecosystem.*
+
+| Feature Area | Key Metric / Detail | Integrated Subsidiaries | Strategic Value |
+| :--- | :--- | :--- | :--- |
+| **Scale & Marketplace** | **102M+ SKUs** (12M+ first-party, 90M+ reputable third-party vendors). Targets **35% NA Market Share** ($1.4T revenue). | Sears World Trade, Saks Off 5th, Cub Cadet, Remington, Datsun. | Captures vast market share and maximizes **vendor participation** through vetted curation. |
+| **Repair & Durability** | **5-year parts support** on all core/participating brands. **PartsDirect** boasts **9,000,000 SKUs** ($50B revenue). | HomeForce, Western Forge, Datsun, Cub Cadet, Remington. | Solidifies the **covenant of repair and durability**, driving high-margin service/parts revenue. |
+| **Sears Prime** | **135M Prime Members** ($55/year, **$4.5B** revenue). Includes **Extended Warranties** (e.g., Datsun 5y/80K mi, $90 deductible). | Datsun, Sears Auto Centers, Atari. | Provides a massive, stable **high-margin revenue** stream and crucial customer lock-in (especially Datsun). |
+| **Financial Backbone** | **SearsPay** (180M users), processing via **Discover Card Network**. SearsCoin rewards (3% non-Sears, 5% Sears/affiliates). | Discover Card Network, Sears Financial, Dean Witter. | Centralizes transactions, minimizes third-party fees, and fuels the **SearsCoin crypto economy**. |
+| **Luxury & Niche** | Integration of **Saks Off 5th** (10M+ SKUs, $10B revenue) and dedicated portals for brands like **Zenith/Silvertone** and **Remington**. | Saks Fifth Avenue, Zenith, Remington (by Western Forge). | Diversifies revenue streams and provides seamless access to **high-end and specialized goods**. |
+| **AI/Search Uplift** | Utilizes **KENN AI** for retail intelligence, logistics routing, and fraud detection, with a **$50B uplift**. | KENN AI, Yahoo!, SCloud. | Maximizes operational efficiency, enhances the customer experience, and drives **Search-to-Purchase conversion**. |
+
+---
+
 ### 💎 Sears Prime: The Customer Concordant
 
 *Sears Prime is positioned as a **value-centric, working-class subscription**—less than half the cost of competing services, focusing on essential durability and service rather than entertainment streaming.*
@@ -463,6 +480,25 @@ Objective: Generate $75.5B in revenue by 2035.
 * **Dean Witter Asset Management:** *See consolidated section above.*
 * **Discover Card Network and SearsPay:** Facilitates SearsPay, SearsCoin, Datsun financing.
 * **SearsCoin:** Asset-backed by SearsCoin Reserve Fund ($23.2B in 2035), used for rewards and CDM payments.
+
+---
+
+### 💳 Discover Card Network & Datsun Financing: The Sears Financial Engine
+
+*The Discover Card Network is the foundation of **Sears Financial**, processing SearsPay and SearsCoin, and offering highly competitive, consumer-friendly financing for the Datsun line.*
+
+| Feature Category | Description / Terms | Datsun Financing Impact | Strategic Financial Impact |
+| :--- | :--- | :--- | :--- |
+| **Discover Card Terms** | **14.95% APR** (Highly competitive standard rate). **$50** annual fee. 24-day grace period. | Used for financing Datsun/Sears purchases. Encourages card adoption by **working-class families**. | Revenue projected at **$11 Billion** by 2035, securing a 5% global market share. |
+| **Standard Datsun Loans** | 36 months at **5.49% APR** (Prime/Excellent Credit). 60 months at **6.99% APR**. | Offers **sub-prime rates** on new cars, undercutting traditional banks and dealerships. | Drives Datsun sales, generating **$1.8 Billion** in financing synergies. |
+| **Negative Equity Lease** | **Special "Negative Equity Exit Lease"** for suitable customers (on base Ultima model only). | Allows credit-challenged/upside-down trade-in customers to enter a **new, durable vehicle**, reinforcing the "working-class hero" reputation. | Sacrifices short-term margin for **long-term customer loyalty** and full ecosystem lock-in. |
+| **SearsCoin Rewards** | **5% back** in SearsCoin on Sears/Affiliates (including Datsun parts/insurance/non-interest payments). **3% back** elsewhere. | Non-interest Datsun/insurance payments are **SearsCoin eligible**, driving adoption of the crypto reward ecosystem (180M users). | SearsCoin revenue projected at **$18 Billion** by 2035, serving as a value-backing asset. |
+| **SearsPay Integration** | One-click payment solution, Discover Network processing, all rewards managed via SearsPay **"Discover" dashboard**. | Simplifies the entire purchase and post-purchase experience (parts, service, accessories). | Facilitates **$800 Billion** in processed payments, centralizing all customer transactions. |
+| **Consumer Data Sales** | Payments for voluntary consumer data sales are processed quarterly in SearsCoin via the **"Discover" dashboard**. | Gives the customer direct, financial benefit from their vehicle usage data. | Fosters trust and transparency, funding the CDAA (Consumer Data Advocacy Association). |
+| **BNPL Loans (Internal)** | Underwriting for large purchases (>$1,500), avoiding 6% third-party BNPL fees. | Applies to major Datsun parts, accessories, and Sears Auto Center services/tires. | Captures additional margin by providing **in-house financing** for high-ticket items. |
+
+---
+
 ### 💰 SearsCoin: Creation, Management, and Value (2035)
 
 | Category | Mechanism / Source of Creation (Mining) | Management & Stability | Burn/Utility |

@@ -105,6 +105,34 @@ By the end of Phase 3 (2025), Sears achieves significant milestones:
 | **Datsun/Yamaha/Getrag Joint R&D** | **Osaka**, Japan | **1,000** | $3.5B | Powertrain and Transmission Synergy |
 | **Total Estimated R&D Spending** | | | **$50B** | **(Split as shown, with $150M for Metallurgy Lab)** |
 
+### 🔬 R&D Cluster Staffing & Financial Contributions (2035)
+
+*R&D is centralized in key "Centers of Excellence" (San Antonio, Osaka, Colorado Springs) to maximize inter-subsidiary knowledge sharing.*
+
+| R&D Cluster / Facility | Primary Location | Estimated Staff (2035) | R&D Spending (2035) | Key Cross-Pollination / Shared Tech |
+| :--- | :--- | :--- | :--- | :--- |
+| **KENN AI / SCloud Core** | San Antonio, TX | **3,000** | **$8.0 Billion** | AI for **Yahoo!** Search, **Robotics** logic, **Datsun** diagnostics, **Kodak** image recognition. |
+| **Datsun / Cub Cadet (Joint)** | San Antonio, TX | **2,000** | **$3.5 Billion** | Shared EV battery tech (**DieHard**), propulsion systems, KENN AI vehicle diagnostics, **Yamaha/Getrag** synergy. |
+| **Atari / Zenith / Robotics** | Osaka, JP / San Antonio, TX | **9,000** (4.5k Atari, 2k Zenith, 2.5k Robotics) | **$8.0 Billion** | **Kodak** optics for VR/AR and robot vision, **Zenith** display tech for consoles/cockpits, **SCloud** for cloud gaming. |
+| **Kodak Optics/Graphics** | Osaka, JP / San Antonio, TX | **2,000** | **$2.5 Billion** | Lenses for **Sears Optical**, graphics chips for **Atari**, image processing for KENN AI (Retail Discovery). |
+| **Appliance (Whirlpool/Serta)** | San Antonio, TX | **2,000** (1.5k Whirlpool, 500 Serta) | **$4.5 Billion** | Shared modular design (Kenmore/Coldspot), **Harmony House** materials science, KENN smart home integration. |
+| **Metallurgy / Automotive** | Colorado Springs, CO | **500** (Goodyear + 150 Lab) | **$1.15 Billion** | Advanced materials for **Craftsman/Remington**, high-wear parts for **Datsun/Cub Cadet**, **RoadHandler** tire compounds. |
+| **DieHard / WeatherBeater** | San Antonio, TX | **1,500** | **$3.5 Billion** | EV battery materials (**DieHard**), high-durability coatings/paints (**WeatherBeater** for Datsun). |
+| **Other R&D / Global Support** | Various (Yahoo!, Osaka/Datsun) | **~35,000** | **$18.85 Billion** | **Total R&D Spend: $50B/year** |
+
+### 💡 Estimated Value of Free/Open-Source R&D Contributions (2035)
+
+*The Covenant of Reciprocity, Durability and Repair creates a self-reinforcing innovation loop, externalizing R&D costs.*
+
+| Source of "Free R&D" Contribution | Estimated Annual Financial Value (2035) | Rationale / Mechanism |
+| :--- | :--- | :--- |
+| **Syndicate Partner Licensing** | **$4.0 – $6.0 Billion** | Technology from joint R&D (e.g., Whirlpool, Yamaha) becomes non-exclusive after 5 years, encouraging greater **Syndicate participation** and rapid innovation diffusion. |
+| **HomeForce / Repair Network** | **$1.0 – $1.5 Billion** | HomeForce, Auto Center, and **Unique Repair Network** shops submitting **KENN TSBs** (5 SearsCoin reward) that provide immediate, real-world failure analysis, skipping millions in lab testing. |
+| **Sears Academy / Students** | **$0.5 – $1.0 Billion** | Student projects, dissertations, and Capstone work on **modularity, repairability, and electron migration issues** provide valuable, low-cost research inputs. |
+| **High-Paid Mechanics / Techs** | **$0.8 – $1.2 Billion** | Highly-paid ($50/hr base) HomeForce and Auto Center mechanics are incentivized to provide proactive **diagnostic feedback** and optimization suggestions directly to R&D teams via KENN. |
+| **Total Estimated Free R&D Value** | **$6.3 – $9.7 Billion / year** | This is a significant supplement to the formal **$50B/year R&D budget**, providing unparalleled real-world data and design inputs. |
+
+
 ---
 
 ### Financial Restructuring
@@ -252,6 +280,21 @@ By the end of Phase 3 (2025), Sears achieves significant milestones:
 * **Payroll:** $20/hour min wage floor; 10% premium above medians for roles; mechanics at $50/hour base with warranty incentives.
 * **Other Operations:** 280 malls, 60 logistics distribution centers, 140 Saks stores, 280 Atari Arcades (Homart malls), Cub Cadet factories/R&D, Datsun support, Sears World Trade, Inc.
 * **Profit-sharing contracts** with key suppliers: **Goodyear Tire**, Yamaha, Whirlpool, Sherwin-Williams, Char-Broil, Magna/Getrag, Allstate, Serta, and Key SMBs from Sears Ventures.
+
+### 👨‍🔧 Employee Roles and Estimated Payroll Breakdown (2035)
+
+*Sears operates on a minimum wage floor of **$20/hour** with a **10% premium** above local medians for specialized roles.*
+
+| Employee Segment | Estimated Headcount (2035) | Estimated Base Hourly/Salary Range (NA) | Total Annual Payroll Est. (NA) | Notes on Incentives |
+| :--- | :--- | :--- | :--- | :--- |
+| **Auto/HomeForce Techs** | **66,000** (48k HomeForce + 18k Auto Ctr) | **$50/hour base** ($104K/yr) + **Warranty Incentives** | ~$6.86 Billion | Hybrid Pay, tiered bonuses, no-fault safety net, quarterly team incentives. |
+| **Factory Floor/Logistics** | **243,350** (38.35k Factory + 205k Logistics) | **$20 – $35/hour** ($41.6K - $72.8K/yr) | ~$13 Billion | Profit-sharing participation with key suppliers, robotics training. |
+| **Retail/Showroom Staff** | **202,500** (195k Retail + 7.5k Showroom/DC) | **$20 – $30/hour** ($41.6K - $62.4K/yr) | ~$8.4 Billion | High base wage, SearsCoin bonuses, 15% ESPP discount (after 1 year). |
+| **R&D Specialists/Engineers** | **52,500** (Estimated R&D Staff from facilities table) | **$120K – $220K/yr+** | ~$8 Billion | 10% premium above market median, significant ESPP, high-value profit-sharing. |
+| **Mid/Senior Management** | **42,000** (Estimated 5% of non-C-Suite) | **$100K – $350K/yr+** | ~$6.3 Billion | Performance bonuses, significant stock options, access to Sears Fund. |
+| **C-Suite/Executive** | **3,000** (Approx. 0.5% of total staff) | **$500K – $5M+/yr** | ~$1 Billion | Performance-based equity, long-term incentive plans tied to **$3T valuation** goal. |
+| **Datsun Employees** | **140,000** (Japanese/Expanded Markets) | **$45K – $150K/yr equivalent** | ~$10 Billion | Competitive global compensation, profit-sharing integration, access to Datsun IPO shares. |
+| **Total Workforce** | **657,350** | | **~$53.5 Billion** (Estimate) | **Min wage floor: $20/hour.** |
 
 ---
 
@@ -404,6 +447,17 @@ Objective: Generate $75.5B in revenue by 2035.
 * **Dean Witter Asset Management:** *See consolidated section above.*
 * **Discover Card Network and SearsPay:** Facilitates SearsPay, SearsCoin, Datsun financing.
 * **SearsCoin:** Asset-backed by SearsCoin Reserve Fund ($23.2B in 2035), used for rewards and CDM payments.
+### 💰 SearsCoin: Creation, Management, and Value (2035)
+
+| Category | Mechanism / Source of Creation (Mining) | Management & Stability | Burn/Utility |
+| :--- | :--- | :--- | :--- |
+| **User Rewards** | **Rewards Program:** 3% non-Sears, **5% Sears/Affiliates** purchases (via Discover Card/SearsPay) (Total Revenue: $18B) | **Reserve Fund Backing:** SearsCoin Reserve Fund holds **$23.2B** (incl. $18B in mining securities and $5.2B Bitcoin) by 2035. | **Customer Data Marketplace (CDM):** Customers spend SearsCoin to opt-in/sign up for the CDM. |
+| **Ecosystem Incentives** | **Yahoo! Search Rewards:** Up to **$1 USD SearsCoin/day limit** for KENN AI/iFixit-integrated searches/discovery. | **Pegging Policy:** **Not pegged** to USD, but actively managed by Dean Witter to maintain high stability (low volatility) for practical use. | **SearsPay/Credit Card Fees:** Used to cover transaction/network fees across the Discover Card Network. |
+| **Employee/Partner Incentives** | **Employee Bonus:** **10,000 SearsCoin** ($100 USD) Christmas Bonus for all 621,021 employees (by 2035). | **Transaction Backbone:** Facilitated by the Discover Card Network ($11B Revenue, 5% market share). | **Sears Ventures Repayment:** Used to pay back certain SMB loans/investments in the ecosystem. |
+| **R&D / Diagnostics** | **Repair Network TSBs:** **5 SearsCoin reward** to **HomeForce techs and Unique Repair Network shops** for submitting verified Technical Service Bulletins (TSBs)/diagnostics to KENN AI. | **Governance:** Regulated by Dean Witter, with transparent quarterly reporting and dedicated independent oversight board (SearsCoin Reserve Fund). | **Rewards Redemption:** Redeemed SearsCoin in-store or on Sears.com (up to 5% uplift on purchases). |
+| **New User Adoption** | **CDM Sign-on Payment:** **10,000 SearsCoin** ($100 USD) sign-on payment for customers voluntarily opting into the Consumer Data Marketplace. | **Circulation Control:** KENN AI monitors and adjusts reward generation rates to maintain stability against the $23.2B Reserve Fund. | **Partner Services:** Used by participating **Syndicate suppliers** (Whirlpool, Yamaha) to settle internal service fees. |
+
+---
 
 #### 8. Sears Optical Centers
 Objective: Maintain 750 showrooms, generate $5.25B.

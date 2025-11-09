@@ -302,6 +302,27 @@ For any Syndicate Partner to be eligible for profit-sharing distributions (cash,
 8.  **Internal Wealth Fund:** The partner must establish its own dedicated, independently managed **Internal Wealth Fund** (e.g., the 'Yamaha Fund'), modeled after the Sears Fund, to manage corporate wealth and equity stakes transparently.
 9.  **SearsCoin Acceptance:** The partner must accept **SearsCoin** as payment for a minimum of five (5) specified internal B2B services or licenses related to the Sears ecosystem, thus supporting the SearsCoin reserve value and utility.
 
+| Partner (Syndicate Member) | Gross Allocation ($ Billions) | USD Payout (70%) ($ Billions) | SCN Payout (20%) (SCN Billions) | SSGF Payout (10%) ($ Billions) | Total SC Value ($ Billions) |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **Whirlpool** (Appliances) | $1.20$ | **$0.84$** | **$24.0$** | $0.12$ | **$1.20$** |
+| **Goodyear Tire** (RoadHandler) | $0.75$ | **$0.525$** | **$15.0$** | $0.075$ | **$0.75$** |
+| **Yamaha** (Powertrain) | $0.55$ | **$0.385$** | **$11.0$** | $0.055$ | **$0.55$** |
+| **Sega/Sammy** (Atari Sports) | $0.40$ | **$0.28$** | **$8.0$** | $0.04$ | **$0.40$** |
+| **Sherwin-Williams** (Paint) | $0.30$ | **$0.21$** | **$6.0$** | $0.03$ | **$0.30$** |
+| **Serta** (Harmony House) | $0.25$ | **$0.175$** | **$5.0$** | $0.025$ | **$0.25$** |
+| **Magna/Getrag** (Transmission) | $0.20$ | **$0.14$** | **$4.0$** | $0.02$ | **$0.20$** |
+| **Char-Broil** (Grills) | $0.16$ | **$0.112$** | **$3.2$** | $0.016$ | **$0.16$** |
+| **Allstate** (Insurance) | $0.14$ | **$0.098$** | **$2.8$** | $0.014$ | **$0.14$** |
+| **TOTALS** | **$4.00$** | **$2.80$** | **$80.0$** | **$0.40$** | **$4.00$** |
+
+---
+
+| Component | Payout Value ($ Billions) | Percentage (%) | SearsCoin Payout (SCN Billions) |
+| :--- | :--- | :--- | :--- |
+| **Cash (USD)** | $2.80$ | $70.0\%$ | N/A |
+| **SearsCoin (SCN)** | $0.80$ | $20.0\%$ | $80.0 \text{ Billion SCN}$ |
+| **SSGF Equity Contribution** | $0.40$ | $10.0\%$ | N/A |
+| **Total Pool** | **$4.00$** | **$100.0\%$** | |
 
 ---
 

@@ -316,6 +316,22 @@ Objective: Scale to $1.2T revenue.
 * **KENN AI:** Multimodal, contextually aware retail intelligence.
 * **Consumer Data Marketplace:** Open data marketplace, customers sell their data for SearsCoin payments.
 
+### 💎 Sears Prime: The Customer Concordant
+
+*Sears Prime is positioned as a **value-centric, working-class subscription**—less than half the cost of competing services, focusing on essential durability and service rather than entertainment streaming.*
+
+| Feature Category | Benefit / Perk | Fee & Financials | Strategic Impact |
+| :--- | :--- | :--- | :--- |
+| **Core Access** | **Annual Fee** | **$55 / year** (Significantly lower than competing prime/membership programs). | Affordability maintains the **"working class hero"** reputation and maximizes subscriber numbers (135M by 2035). |
+| **Delivery & Logistics** | **Free / Same-Day Delivery** | Included in $55 annual fee. | Competes directly with rivals on speed and convenience across the vast Sears Logistics network. |
+| **Product Protection** | **Extended Warranties (Core)** | Included on all Sears core/participating brand purchases (Kenmore, Craftsman, Coldspot, etc.). | Drives sales of high-margin Sears brands and reinforces the **durability/repair** covenant. |
+| **Automotive Coverage** | **Extended Datsun Warranty** | 5 years / 80,000 miles bumper-to-bumper and powertrain coverage. **$90 deductible.** | **Crucial lock-in** for Datsun customers, leveraging the 2,900 Sears Auto Centers for service revenue ($1.8B). |
+| **Incentives** | **Online / In-Store Promotions** | Exclusive discounts and early access to sales events. | Encourages consolidated spending within the Sears ecosystem (Sears.com, Homart stores, Saks Off 5th). |
+| **Digital Perks** | **Atari Cloud/Gaming** | **Basic** Atari cloud streaming and online gaming subscription included. | Provides an introductory taste of the Atari service without adding high costs, encouraging upgrades. |
+| **Financial Reward** | **SearsCoin & SearsPay** | Prime members receive **5% back** in SearsCoin rewards on all Sears/affiliate purchases (3% elsewhere). | Drives adoption of SearsCoin (180M users by 2035) and the SearsPay/Discover financial backbone. |
+| **Financial Outcome** | **Total Prime Revenue** | **$4.5 Billion / year** (135M members). | Provides a massive, stable, high-margin revenue stream to fuel corporate R&D and community funds. |
+
+
 #### 2. Retail Stores & Showrooms
 Objective: Scale to 2,700 stores, capture 10% retail market share.
 
@@ -507,7 +523,7 @@ Objective: Scale to $45B revenue, 15% global robotics share.
 | **Western Forge** | Colorado | 75 (+ 50 for Remington) | $4B |
 | **Yahoo!** | **San Antonio**, TX | 5,500 | $45.5B |
 | **Zenith** | **San Antonio**, TX | 8,500 | $55B |
-| * **Dean Witter Asset Management:** *See consolidated section above.* |
+| **Dean Witter Asset Management:** *See consolidated section above.* |
 
 ---
 
@@ -604,6 +620,21 @@ Objective: Scale to $45B revenue, 15% global robotics share.
 * **Structure:** Standalone Japanese corporation, **Osaka** HQ/R&D.
 * **Ownership:** 33-51% Sears stake ($8B, 2026-2028).
 * **Service:** Auto Centers (2,900 centers), HomeForce (mobile repair), **RoadHandler Tires** included.
+
+---
+
+### 🚗 Datsun Model Lineup & The Repairable Vehicle Strategy
+
+*The new Datsun lineup is built on the Sears ethos: **durability, repairability, and economic value**, focusing on hybrid power and core utility over disposable design.*
+
+| Model Name | Positioning / Target Market | Key Specs & Drivetrain | Repair & Durability Features | Financial/Sales |
+| :--- | :--- | :--- | :--- | :--- |
+| **Ultima** | **Compact Sedan/Hatch/Wagon** (Young buyers, Fleets, Value) | **Hybrid Standard:** 1.5L Yamaha (250hp, 45 MPG). Optional 2L NA I4 (6-speed manual/auto). Wagon: AWD turbo option. | **Modular Construction** for easy service. **No "Strategic Component" failure points.** Engine/transmission (Yamaha/Getrag) built for longevity and simple parts access. | **$18K–$28K** range. **Negative Equity Exit Lease** option for suitable customers. DTC sales via Sears.com/showrooms. |
+| **240SX** | **Sub-Compact Sport Coupe** (Enthusiasts, Tuner market) | **2.8L NA V6 Yamaha** (400hp, 35 MPG, **Forged Internals, Blower-Ready**). Manual standard. RWD, Posi-Traction T-Loc Diff. | Hydraulic power steering (simple, durable). **Overbuilt mechanicals** to withstand modification/hard use. All parts directly listed on PartsDirect. | **$28K–$38K** range. R&D cost: $2.5B. **Manual transmission standard.** |
+| **Rogue** | **Sub-Compact Hybrid CUV** (Family, Everyday Utility) | Hybrid (1.5L or 2L I4) or 2.8L V6. Part-time **AWD Standard**. | High-durability interior materials. Easily removable and replaceable body panels and lights to reduce insurance/repair costs. | **$23K–$33K** range. Expected **720,000 units** sold (by 2035). |
+| **Frontier/Pathfinder** | **Mid-Size Pickup/Utility Van/CUV** (Commercial, Off-Road) | Hybrid, 2.0L NA I4, or 2.8L V6. **Real 4x4 Option** (lockers, skid plates). **Full EV Delivery Van** variant available. | Utilitarian design. **Long-term parts support** guaranteed. Compatible with Craftsman tools for DIY maintenance. | **$22K–$40K** range. Targets commercial fleets (serviced by HomeForce mobile repair). |
+| **Service Network** | **DTC Sales & Servicing** | **$1.8B** service revenue via 2,900 Sears Auto Centers. | Sears Auto Centers provide nationwide warranty work and servicing, eliminating the need for a costly dealership network in North America (saving **$2.5B**). |
+
 
 ---
 

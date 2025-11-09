@@ -281,6 +281,30 @@ By the end of Phase 3 (2025), Sears achieves significant milestones:
 * **Other Operations:** 280 malls, 60 logistics distribution centers, 140 Saks stores, 280 Atari Arcades (Homart malls), Cub Cadet factories/R&D, Datsun support, Sears World Trade, Inc.
 * **Profit-sharing contracts** with key suppliers: **Goodyear Tire**, Yamaha, Whirlpool, Sherwin-Williams, Char-Broil, Magna/Getrag, Allstate, Serta, and Key SMBs from Sears Ventures.
 
+---
+
+### 📜 Syndicate Profit-Sharing Eligibility Conditions (The Covenant)
+
+For any Syndicate Partner to be eligible for profit-sharing distributions (cash, SSGF equity, and SearsCoin), they must satisfy all the following contractual conditions, reinforcing the core values of The Sears Concordant:
+
+#### I. Product Lifecycle Commitments
+1.  **Durability & Modularity:** Suppliers must adopt **Sears' Standards for Durability and Modularity** in all jointly developed products (Kenmore, Coldspot, RoadHandler, etc.), ensuring designs prioritize component accessibility and long service life.
+2.  **Parts Support:** The partner must guarantee **five (5) years of active parts support** for all core SKUs produced under the Sears brand (or for Sears-exclusive distribution), with inventory listing and availability mandated on the Sears PartsDirect system.
+3.  **Right to Repair:** The partner must provide diagnostic codes, service manuals, and proprietary tooling information to the Sears HomeForce/Auto Center network and to independent repair shops participating in the Unique Repair Network, in alignment with Sears' **Right to Repair** ethos.
+
+#### II. Financial & Operational Integration
+4.  **Joint Funding Participation:** The partner must actively participate and contribute capital (as defined in the Joint Venture agreement) to all **Sears/Partner Joint R&D Clusters** (e.g., Sears/Whirlpool Joint R&D, Datsun/Yamaha/Getrag Joint R&D).
+5.  **SCloud & KENN Integration:** The partner must utilize **SCloud** as the primary cloud platform for all joint product R&D, manufacturing telemetry, and supply chain logistics, and integrate their proprietary data streams into the **KENN AI** retail and diagnostic intelligence engine.
+6.  **Supplier Growth Fund (SSGF):** The partner's annual profit-sharing distribution is subject to a mandatory **ten percent (10%) contribution** toward the Sears Supplier Growth Fund (SSGF) in the form of Sears equity.
+
+#### III. Employee & Financial Ecosystem Alignment
+7.  **Employee Stock Purchase Program (ESPP):** The partner must develop and implement its own version of a robust, transparent **Employee Stock Purchase Program (ESPP)** for its employees, modeled after the Sears ESPP, to foster long-term employee ownership.
+8.  **Internal Wealth Fund:** The partner must establish its own dedicated, independently managed **Internal Wealth Fund** (e.g., the 'Yamaha Fund'), modeled after the Sears Fund, to manage corporate wealth and equity stakes transparently.
+9.  **SearsCoin Acceptance:** The partner must accept **SearsCoin** as payment for a minimum of five (5) specified internal B2B services or licenses related to the Sears ecosystem, thus supporting the SearsCoin reserve value and utility.
+
+
+---
+
 ### 👨‍🔧 Employee Roles and Estimated Payroll Breakdown (2035)
 
 *Sears operates on a minimum wage floor of **$20/hour** with a **10% premium** above local medians for specialized roles.*

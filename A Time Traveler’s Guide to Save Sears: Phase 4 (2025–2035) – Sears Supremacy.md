@@ -308,16 +308,67 @@ Objective: Scale factories and brands to generate $252B, leveraging Cub Cadet, R
 
 * Features: Profit-sharing with key suppliers, Saks expansion, Datsun synergies, **No BNPL for Saks 5th Avenue**.
 
-| Core Brands | Partner | Revenue (2035) | Production Notes |
-| :--- | :--- | :--- | :--- |
-| Kenmore | Sears/Whirlpool | $100B | 900,000 units (Dallas), 450,000 (Surabaya/**Osaka**) |
-| Craftsman | Sears | $12B | 1.8M power tools (Dallas), 18M hand tools (Colorado) |
-| Remington (by W. Forge) | Sears | $1.8B | Bolt-action rifles/shotguns (Colorado/Western Forge facility) |
-| RoadHandler Tires | Sears/**Goodyear Tire** | **$22B** | Tire line |
-| Coldspot Refrigerants | Sears/Whirlpool | $40B | 225,000 (Dallas), 270,000 (Surabaya/**Osaka**) Fridges, Freezers, AC units |
-| Silvertone | Sears/Zenith | $50B | 1.1M audio devices (Guadalajara) |
-| Kodak Optics/Graphics | Sears | $6B | Lenses for Sears Optical, AI image tech, Kodak Graphics |
-| **...and others** | | | |
+## 🏭 Core Brands & Production Roster - Final Revision
+
+This table consolidates all major brands and clarifies the production model: **Sears-Owned Factory (Vertical)** or **Syndicate Supplier (Partner)**.
+
+| Core Brand | Production Model | Partner | Revenue (2035) | Production Notes |
+| :--- | :--- | :--- | :--- | :--- |
+| **Kenmore** | Vertical/Partner | Sears/Whirlpool | $100B | 900,000 units (Dallas), 450,000 (Surabaya/Osaka) |
+| **Coldspot Refrigerants** | Vertical/Partner | Sears/Whirlpool | $40B | 225,000 (Dallas), 270,000 (Surabaya/Osaka) Fridges, Freezers, AC units |
+| **Craftsman** | Vertical | Sears | $12B | 1.8M power tools (Dallas), 18M hand tools (Colorado) |
+| **Remington (by W. Forge)** | Vertical | Sears | $1.8B | Bolt-action rifles/shotguns (Colorado/Western Forge facility) |
+| **Zenith Electronics** | Vertical | Sears/Zenith | **$55B** | **Electronics, Display Tech, including Silvertone Audio (Guadalajara x2)** |
+| **Silvertone** | Vertical/Partner | Sears/Zenith | (Included in Zenith) | Audio devices (Guadalajara) |
+| **Kodak Optics/Graphics** | Vertical | Sears | $6B | Lenses for Sears Optical, AI image tech, Kodak Graphics (Osaka/San Antonio R&D) |
+| **RoadHandler Tires** | Partner | **Goodyear Tire** | **$22B** | Tire line produced via profit-sharing contract. |
+| **DieHard Batteries** | Vertical | Sears | $10B | Produced in **Dallas, TX** factory (EV/Hybrid, Lithium-ion focus). |
+| **Cub Cadet** | Vertical | Sears | $5.5B | Mowers, snowblowers, tractors made in **Martin/Brownsville, TN** factories. |
+| **Datsun Vehicles** | Vertical/Partner | Sears/Nissan/Yamaha/Getrag | $48B | Assembly in TN/MX/JP; Powertrain via **Yamaha/Getrag** synergy. |
+| **Atari Peripherals** | Vertical | Sears | N/A (Included in Atari Rev.) | Produced in **Osaka, Japan** factory. |
+| **Harmony House** | Vertical/Partner | Sears/Serta | $7.5B | Mattresses/bedding produced in **Guadalajara/Surabaya** factories. |
+| **WeatherBeater Paint** | Partner | **Sherwin-Williams** | $6.5B | Paint/sealants for Datsun and retail, produced via profit-sharing. |
+| **Char-Broil Grills** | Partner | **Char-Broil** | $1.1B | High-volume SKU for Sears.com, produced via profit-sharing contract. |
+| **Kiva Appliance Bots** | Vertical | Sears Robotics | N/A (Included in Robotics Rev.) | Robotics made in **Surabaya/Osaka/Dallas** factories. |
+
+
+## 🏭 Corrected Sears-Affiliated Manufacturing & Production Roster
+
+This table lists the key facilities, incorporating Zenith, revised Datsun production split (Cars/CUVs in Japan, Trucks/EV Vans in NA/MX), and capacity metrics.
+
+| Factory/Location | Brand Focus | Most Likely Datsun Vehicle | Estimated Annual Capacity (Units) | Capital Expenditure (Capex) (2035) |
+| :--- | :--- | :--- | :--- | :--- |
+| **Datsun - Brownsville, TN** | Vehicles (Trucks/Vans) | **Datsun Pathfinder** (SUV) / **EV Vans** (Logistics) | 1,000,000 | $1.17 Billion |
+| **Datsun - Martin, TN** | Vehicles (Trucks/Vans) | **Datsun Frontier** (Mid-Size Truck) | 1,000,000 | $1.17 Billion |
+| **Datsun - Guadalajara, Mexico** | Vehicles (Trucks/Vans) | **Datsun Titan** (Full-Size Truck/Sedan) | 1,000,000 | $1.16 Billion |
+| **Datsun - Osaka, Japan (x2)** | Vehicles (Cars/CUVs) | **Datsun Rogue** (Crossover/SUV) / **Ultima** (Sedan) | 1,200,000 | $0.80 Billion |
+| **Datsun - Yokohama, Japan** | Vehicles (Cars/R&D) | **Datsun 240SX** (Sports Coupe) | 400,000 | $0.40 Billion |
+| **Datsun - Toyota, Japan** | Vehicles (Engine Plant) | Powertrain / Engine Manufacturing | N/A (Supports all Datsun) | $0.30 Billion |
+| **Datsun - Hiroshima, Japan** | Vehicles (Stamping) | Body Stamping / Chassis | N/A (Supports all Datsun) | $0.20 Billion |
+| **Dallas, TX** | Kenmore, Coldspot, Craftsman Power Tools, DieHard | 900,000 Appliances / 1.8M Power Tools | $2.80 Billion |
+| **Guadalajara, Mexico (x2)** | **Zenith/Silvertone** Audio, Harmony House Mattresses | 1.1M Audio Devices / 2.5M Mattresses | $1.40 Billion |
+| **Surabaya, Indonesia** | Kenmore, Coldspot, Harmony House, Kiva Appliance Bots | 270,000 Appliances / 1M Appliance Bots | $0.35 Billion |
+| **Osaka, Japan (Alt. Factory)** | Atari Peripherals, Kodak Optics, Robotics | 450,000 Appliances / 1.5M Peripherals | $0.35 Billion |
+| **Colorado Springs, CO** | Craftsman Hand Tools, Remington Rifles | 18M Hand Tools / 1.5M Rifles/Shotguns | $0.50 Billion |
+| **Brownsville, TN (Cub Cadet)** | Cub Cadet Mowers, Snowblowers | 1.5M Mowers/Tractors | $0.18 Billion |
+| **Martin, TN (Cub Cadet)** | Cub Cadet Mowers, Snowblowers | 1.5M Mowers/Tractors | $0.09 Billion |
+| **TOTALS** | | | **Approx. 13.6 Million Units** | **$11.17 Billion** |
+
+
+## 📈 Industrial Prowess Visualization: Total Capex by Facility Type
+
+This visualization highlights the strategic distribution of the **$11.17 Billion** Capex budget.
+
+| Facility Type / Major Hub | Capex ($ Millions) | Visualization (Bar = $100 Million) |
+| :--- | :--- | :--- |
+| **Dallas, TX** (Appliances/Tools/DieHard) | $2,800M | **████████████████████████████** |
+| **Datsun - North America/MX** (Trucks/Vans) | $3,500M | **█████████████████████████████████** |
+| **Guadalajara, MX** (Zenith/Silvertone/Mattresses) | $1,400M | **██████████████** |
+| **Datsun - Japan** (Cars/Rogue/R&D) | $1,700M | **█████████████████** |
+| **Colorado Springs, CO** (Craftsman/Remington/Metallurgy) | $500M | **█████** |
+| **Asia (Surabaya/Osaka)** (Appliances/Atari/Kodak) | $700M | **███████** |
+| **Brownsville/Martin, TN** (Cub Cadet) | $270M | **██▋** |
+
 
 #### 5. HomeForce & PartsDirect
 Objective: Generate $28B, add 9,000 technicians.

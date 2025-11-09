@@ -507,6 +507,24 @@ Objective: Scale to $45B revenue, 15% global robotics share.
 | **Western Forge** | Colorado | 75 (+ 50 for Remington) | $4B |
 | **Yahoo!** | **San Antonio**, TX | 5,500 | $45.5B |
 | **Zenith** | **San Antonio**, TX | 8,500 | $55B |
+| * **Dean Witter Asset Management:** *See consolidated section above.* |
+
+---
+
+### 🏬 Homart Mall: Community Initiatives & The "Safe Harbor" Ecosystem
+
+*Homart Malls are reimagined as community anchors, blending commerce with education, health, and social services.*
+
+| Category | Initiative / Program | Scale / Financial Commitment | Strategic Impact (2035) |
+| :--- | :--- | :--- | :--- |
+| **Financial Backing** | **Sears Community Fund** | **$5 Billion / year** community fund (managed by Dean Witter). | Ensures long-term, stable funding for community programs and local reinvestment. |
+| **Scale & Footprint** | **Redeveloped Mall Network** | **280** Malls (180 US, 100 Global) featuring Sears, Kroger, Saks, Atari, etc. | Provides a vast, accessible physical network for program delivery across North America and Expanded Markets. |
+| **Education & Jobs** | **Sears Academy Partnerships** | Community College campuses are relocated/expanded into Homart malls (incentivized). | Fills malls with **high-value anchors**; provides convenient access to **certified career training**. |
+| **Job & Financial Support** | **Youth Services** | Integrated youth centers offer **summer jobs bank/fairs/placement** within Sears/affiliates/partners. | Direct path for local youth into the **Sears workforce** and **Syndicate partners**. |
+| **Literacy & Skills** | **Core Skill Training** | Basic financial/digital literacy courses, student loan advice, and **Toastmasters** partnership (280 mall chapters). | Fosters economic mobility and public speaking skills for employees and the community. |
+| **Health & Wellness** | **Community Access** | Access to **nursing staff** located at the malls. | Provides a basic health safety net and convenient access to essential services. |
+| **Engagement & Events** | **Social/Recreational Hub** | **Integrated Youth Centers** (dances, sports, support), **Atari lounge tournaments**, Chess/board games. | Creates a "safe harbor" environment, fostering community cohesion and engagement for all ages. |
+| **Local Culture** | **Seasonal & Arts Events** | Vetted buskers/musicians, **Car Clubs** (show & shines), Carnivals/Shriners, Community gardens. | **Re-establishes the mall as a town square** and local cultural center. |
 
 ---
 
@@ -542,12 +560,41 @@ Objective: Scale to $45B revenue, 15% global robotics share.
 * **Centers of Excellence:** AI (**San Antonio**), Supply Chain (Dallas), HR (Dallas), Compliance (Dallas), Datsun Engines (Yamaha), Datsun Transmissions (Getrag).
 
 ---
+### 💯 Outright Acquisitions (100% Ownership)
 
-### Acquisitions/Price
+| Acquired Asset | Year Acquired | Acquisition Cost | Core Strategic Purpose | Current Segment (2035) |
+| :--- | :--- | :--- | :--- | :--- |
+| **Zenith** | 1995 | $585M | Manufacturing base for Silvertone audio/video products and R&D. | Factories & Brands / Tech Division |
+| **iFixit** | 1995 | $50M | Anchor for the **Right to Repair** ethos and **PartsDirect** knowledge base. | HomeForce & PartsDirect |
+| **Yahoo!** | 1997 | $1.5B | Core search engine for **KENN AI** integration and advertising revenue. | Tech Division |
+| **Dragonfly (Drones)** | 2001 | $30M | Logistics and Robotics R&D/manufacturing. | Logistics / Robotics |
+| **Kiva (Robotics)** | 2003 | $50M | Logistics automation and **Robotics** manufacturing. | Logistics / Robotics |
+| **Western Forge** | 2009 | $70M | **Craftsman** hand tool manufacturing base and **Advanced Metallurgy Lab**. | Factories & Brands |
+| **Kodak Optics** | 2012 | $205M | Lenses for **Sears Optical** and advanced optics for KENN AI/Atari. | Optical Centers / Tech Division |
+| **Atari Home Ent.** | 2013 | $30M | Console/Cloud gaming and global entertainment platform. | Subsidiaries / Tech Division |
+| **Cub Cadet** | 2016 | $500M–$625M | Expansion into power lawn/garden equipment manufacturing. | Factories & Brands |
+| **Remington** | 2020 | $25M | Bolt-action rifle/shotgun manufacturing; factory synergy with W. Forge. | Factories & Brands |
+| **Saks Off 5th** | 2025 | $250M | E-commerce based luxury/off-price retail expansion. | Retail Stores / Factories & Brands |
+| **Saks Fifth Avenue** | 2025 | $350M | Luxury retail store presence (anchors Homart malls). | Retail Stores / Factories & Brands |
 
-*(List remains the same, reflecting updated dates and entities, with **Goodyear Tire** mentioned in Datsun synergies)*
+### 🤝 Strategic Stakes in Suppliers & Partners (The Syndicate)
 
-* **...**
+*These partners are part of The Sears Concordant (The Syndicate), bound by profit-sharing and the Covenant of Reciprocity, Durability, and Repair.*
+
+| Partner / Stake | Year Acquired | Sears Stake (%) | Acquisition Cost | Core Strategic Alignment |
+| :--- | :--- | :--- | :--- | :--- |
+| **Serta** | 2009 | 20% | $210M | **Harmony House** bedding/mattress quality and supply control. |
+| **Whirlpool** | 2030 | 15% | $2.0B | Joint R&D/quality control for **Kenmore/Coldspot** appliances. |
+| **Allstate** | N/A | 20% | N/A (Existing) | Datsun insurance bundles and roadside assistance. |
+| **Kroger** | 2032 | 10% | $4.5B | Anchoring 300 **Homart** malls and retail foot traffic. |
+| **Shopify** | 2033 | 10% | $2.5B | Improving **Sears.com** third-party vendor tools and marketplace. |
+| **Sega/Sammy** | 2026 | 20% | $600M | **Atari** gaming content, especially sports titles (via deep partnership). |
+| **Namco/Bandai** | 2026 | 15% | $750M | **Atari** gaming content expansion and IP portfolio. |
+| **Capcom** | 2026 | 10% | $400M | **Atari** gaming content expansion and IP portfolio. |
+| **Nissan/Datsun** | 2026–2028 | 33%–51% | $8.0B | Entry into the automotive market (NA DTC sales) and EV/hybrid R&D. |
+| **Yamaha** | 2026 | 15% | $450M | Engine R&D/supply for **Datsun** vehicles. |
+
+
 * **Datsun:** Synergies ($6B): DieHard batteries, **RoadHandler tires ($0.8B from Goodyear Tire)**, Allstate insurance, KENN AI, etc.
 
 ---

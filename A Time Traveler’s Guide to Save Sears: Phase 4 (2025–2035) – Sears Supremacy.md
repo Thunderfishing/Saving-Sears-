@@ -50,10 +50,10 @@ By the end of Phase 3 (2025), Sears achieves significant milestones:
 | Yahoo! | 100% (Standalone) | 35% search market share | $30B (NA: $24B, Expanded: $6B) | $45B (NA: $36B, Expanded: $9B) | $150B | $225B | 30% | 35% |
 | SCloud | Full | Cloud services (1995), 2M 3rd-party customers | $200B (NA: $140B, Expanded: $60B) | $375B (NA: $262.5B, Expanded: $112.5B) | $300B | $562.5B | 10% Global | 15% Global |
 | Homart | Full | 250 malls, 80,000 apartments, property management | $25B (NA: $22.5B, Expanded: $2.5B) | $50B (NA: $45B, Expanded: $5B) | $100B | $200B | 8% NA | 10% NA |
-| Coldwell Banker | Full | Real estate brokerage and Sears Mortgages management | $8B (NA: $7.2B, Expanded: $0.8B) | $15B (NA: $13.5B, Expanded: $1.5B) | $16B | $30B | 6% NA | 8% NA |
+| **Coldwell Banker** | **Full** | **Real estate brokerage, Sears Mortgages (30% down, stress-tested), and property management. Originates mortgages for the Dean Witter Homart Mortgage Fund.** | **$8B (NA: $7.2B, Expanded: $0.8B)** | **$15B (NA: $13.5B, Expanded: $1.5B)** | **$16B** | **$30B** | **6% NA** | **8% NA** |
 | Allstate | 20% stake | Bundled insurance for Datsun purchase/financing, roadside assistance | $8B (NA: $7.2B, Expanded: $0.8B) | $10B (NA: $9B, Expanded: $1B) | $10B | $12B | 5% | 6% |
 | Discover Card Network | Full | Backbone of Sears Financial, facilitates SearsPay/SearsCoin transactions | $5B (NA: $4B, Expanded: $1B) | $8B (NA: $6.4B, Expanded: $1.6B) | $7B | $12B | 4% | 5% |
-| Dean Witter Asset Management | Full | Management of Stock Brokerage Accounts, Sears Funds (Corporate Wealth Fund, SearsCoin Reserve Fund, Sears Fund, Homart Community Fund, SSGF, ESPP), Sears Ventures, Dallas HQ | $2.5B/$50B (NA: $2B/$40B, Expanded: $0.5B/$10B) | $3.5B/$70B (NA: $2.8B/$56B, Expanded: $0.7B/$14B) | $10B/$392B | $15B/$582B | 4% | 5% |
+| **Dean Witter Asset Management** | **Full** | **Management of Stock Brokerage Accounts, Sears Funds (Corporate Wealth Fund, SearsCoin Reserve Fund, Sears Fund, Homart Mortgage Fund, Homart Community Fund, SSGF, ESPP), Sears Ventures, Dallas HQ** | **$2.5B/$50B (NA: $2B/$40B, Expanded: $0.5B/$10B)** | **$8.75B/$1.457T (NA: $7B/$1.1656T, Expanded: $1.75B/$291.4B)** | **$10B/$392B** | **$37.5B/$1.494T** | **4%** | **5%** |
 | Western Forge | Full (acquired 2009) | Craftsman hand tools, KENN AI-integrated factory, Colorado | $2B (NA: $1.6B, Expanded: $0.4B) | $4B (NA: $3.2B, Expanded: $0.8B) | $2B | $6B | 20% NA | 25% NA |
 | Remington (by W. Forge) | Full (acquired 2020, $25M) | Bolt-action rifles, shotguns; Colorado factory synergy | $0.8B (NA: $0.72B, Expanded: $0.08B) | $1.8B (NA: $1.62B, Expanded: $0.18B) | $1.2B | $2.7B | 4% NA hunting | 8.5% NA hunting |
 | Serta | 20% stake (2009) | Harmony House mattresses/bedding, Mexico/Indonesia factories | $1.5B (NA: $1.2B, Expanded: $0.3B) | $2B (NA: $1.6B, Expanded: $0.4B) | $2B | $3B | 15% NA | 18% NA |
@@ -67,95 +67,9 @@ By the end of Phase 3 (2025), Sears achieves significant milestones:
 
 ---
 
-### Facilities
-
-**Note on Estimated Staff & R&D Allocation:**
-* *Estimated HQ Staff:* Based on Dallas HQ staff size and complexity of function.
-* *Estimated R&D Staff:* Based on a rough ratio to R&D budget and complexity.
-* *R&D Spending Split:* The total $50B/year R&D budget is split based on estimated need and the requirement for the Metallurgy Lab to exceed $50M.
-
-| Facility Type | Location | Estimated Staff (2035) | Estimated R&D Spending (2035) | Notes |
-| :--- | :--- | :--- | :--- | :--- |
-| **Sears HQ** | Dallas, TX | **3,500** | $500M | Core Corporate and Strategy |
-| **Coldwell Banker/Homart HQ** | Dallas, TX | **2,500** | $200M | Real Estate and Property Management |
-| **Dean Witter Asset Management HQ** | Dallas, TX | **4,500** | $50M | Financial Services |
-| **Sears Canada HQ** | Calgary, AB | **1,500** | $100M | Canadian Operations |
-| **Yahoo! HQ** | **San Antonio**, TX | **5,500** | $500M | Internet Services |
-| **Datsun Satellite HQ** | Dallas, TX | **1,000** | $100M | North American Automotive Operations Support |
-| **Datsun HQ/R&D** | **Osaka**, Japan | **9,500** | $4.5B | Automotive Core R&D and Global HQ |
-| **Atari HQ** | **Osaka**, Japan | **4,500** | $3.5B | Gaming Core R&D and Global HQ |
-| **Zenith HQ** | **San Antonio**, TX | **8,500** | $1.5B | Electronics and Silvertone Audio |
-| **Chicago Satellite** | Chicago, IL | **1,000** | $50M | Regional Operating Unit: North America |
-| **Jakarta Satellite** | Jakarta, Indonesia | **800** | $50M | Regional Operating Unit: Southeast Asia |
-| **World Trade Offices** | Dallas, Tokyo, Seoul, Taipei, Frankfurt, Mumbai, Manila, Surabaya, Singapore | **4,500** (+1,800 global ops) | $500M | Global Vetting and Procurement |
-| **R&D Facilities** | | | | |
-| **Center of Excellence for AI & Cloud R&D** | **San Antonio**, TX | **3,000** | $8.0B | KENN AI, SCloud Core Development, Cloud Gaming (Atari) |
-| **Metallurgy Materials Lab** | Colorado Springs, CO | **150** | $150M | Advanced Metallurgy for Western Forge/Remington/Datsun/Yamaha/Cub Cadet/Getrag |
-| **Atari R&D** | **Osaka**/**San Antonio** | **5,000** | $5.5B | Console, Cloud, and Game Development |
-| **Kodak Optics R&D** | **Osaka**/**San Antonio** | **2,000** | $2.5B | Lenses, AI Image Tech, Graphics |
-| **Yahoo! R&D** | **San Antonio** | **2,000** | $2.5B | Search, Discovery, and KENN AI Integration |
-| **Zenith R&D** | **Osaka**/**San Antonio** | **2,000** | $1.5B | Electronics, Display Technology |
-| **Sears Robotics R&D** | **Osaka**/**San Antonio** | **2,000** | $2.5B | Consumer/Industrial Robotics, Drones |
-| **Cub Cadet/Datsun (Joint) R&D** | **San Antonio** | **2,000** | $3.5B | Vehicle, Engine, and Garden Equipment Tech |
-| **Sears/Whirlpool Joint R&D** | **San Antonio** | **1,500** | $3.0B | Kenmore/Coldspot Appliance Innovation |
-| **Sears/Serta Joint R&D** | **San Antonio** | **500** | $1.5B | Harmony House Bedding and Materials |
-| **Sears/Sherwin-Williams Joint R&D** | **San Antonio** | **500** | $1.5B | WeatherBeater Automotive Paint, Sealants |
-| **Sears/Goodyear Tire Joint R&D** | Colorado Springs, CO | **500** | $1.0B | RoadHandler Tire Technology |
-| **DieHard R&D** | **San Antonio** | **1,000** | $2.0B | Battery Technology (EV/Hybrid, Marine, Lithium-ion) |
-| **Datsun/Yamaha/Getrag Joint R&D** | **Osaka**, Japan | **1,000** | $3.5B | Powertrain and Transmission Synergy |
-| **Total Estimated R&D Spending** | | | **$50B** | **(Split as shown, with $150M for Metallurgy Lab)** |
-
-### 🔬 R&D Cluster Staffing & Financial Contributions (2035)
-
-*R&D is centralized in key "Centers of Excellence" (San Antonio, Osaka, Colorado Springs) to maximize inter-subsidiary knowledge sharing.*
-
-| R&D Cluster / Facility | Primary Location | Estimated Staff (2035) | R&D Spending (2035) | Key Cross-Pollination / Shared Tech |
-| :--- | :--- | :--- | :--- | :--- |
-| **KENN AI / SCloud Core** | San Antonio, TX | **3,000** | **$8.0 Billion** | AI for **Yahoo!** Search, **Robotics** logic, **Datsun** diagnostics, **Kodak** image recognition. |
-| **Datsun / Cub Cadet (Joint)** | San Antonio, TX | **2,000** | **$3.5 Billion** | Shared EV battery tech (**DieHard**), propulsion systems, KENN AI vehicle diagnostics, **Yamaha/Getrag** synergy. |
-| **Atari / Zenith / Robotics** | Osaka, JP / San Antonio, TX | **9,000** (4.5k Atari, 2k Zenith, 2.5k Robotics) | **$8.0 Billion** | **Kodak** optics for VR/AR and robot vision, **Zenith** display tech for consoles/cockpits, **SCloud** for cloud gaming. |
-| **Kodak Optics/Graphics** | Osaka, JP / San Antonio, TX | **2,000** | **$2.5 Billion** | Lenses for **Sears Optical**, graphics chips for **Atari**, image processing for KENN AI (Retail Discovery). |
-| **Appliance (Whirlpool/Serta)** | San Antonio, TX | **2,000** (1.5k Whirlpool, 500 Serta) | **$4.5 Billion** | Shared modular design (Kenmore/Coldspot), **Harmony House** materials science, KENN smart home integration. |
-| **Metallurgy / Automotive** | Colorado Springs, CO | **500** (Goodyear + 150 Lab) | **$1.15 Billion** | Advanced materials for **Craftsman/Remington**, high-wear parts for **Datsun/Cub Cadet**, **RoadHandler** tire compounds. |
-| **DieHard / WeatherBeater** | San Antonio, TX | **1,500** | **$3.5 Billion** | EV battery materials (**DieHard**), high-durability coatings/paints (**WeatherBeater** for Datsun). |
-| **Other R&D / Global Support** | Various (Yahoo!, Osaka/Datsun) | **~35,000** | **$18.85 Billion** | **Total R&D Spend: $50B/year** |
-
-### 💡 Estimated Value of Free/Open-Source R&D Contributions (2035)
-
-*The Covenant of Reciprocity, Durability and Repair creates a self-reinforcing innovation loop, externalizing R&D costs.*
-
-| Source of supplementary R&D Contribution | Estimated Annual Financial Value (2035) | Rationale / Mechanism |
-| :--- | :--- | :--- |
-| **Syndicate Partner Licensing** | **$4.0 – $6.0 Billion** | Technology from joint R&D (e.g., Whirlpool, Yamaha) becomes non-exclusive after 5 years, encouraging greater **Syndicate participation** and rapid innovation diffusion. |
-| **HomeForce / Repair Network** | **$1.0 – $1.5 Billion** | HomeForce, Auto Center, and **Unique Repair Network** shops submitting **KENN TSBs** (5 SearsCoin reward) that provide immediate, real-world failure analysis, skipping millions in lab testing. |
-| **Sears Academy / Students** | **$0.5 – $1.0 Billion** | Student projects, dissertations, and Capstone work on **modularity, repairability, and electron migration issues** provide valuable, low-cost research inputs. |
-| **High-Paid Mechanics / Techs** | **$0.8 – $1.2 Billion** | Highly-paid ($50/hr base) HomeForce and Auto Center mechanics are incentivized to provide proactive **diagnostic feedback** and optimization suggestions directly to R&D teams via KENN. |
-| **Total Estimated Free R&D Value** | **$6.3 – $9.7 Billion / year** | This is a significant supplement to the formal **$50B/year R&D budget**, providing unparalleled real-world data and design inputs. |
-
-
----
-
-### Financial Restructuring
-
-#### Acquisitions (2025-2035)
-
-* Whirlpool: 15% stake for $2B to enhance Kenmore/Coldspot
-* Kroger: 10% stake for $4.5B to anchor 300 Homart malls
-* Shopify: 10% stake for $2.5B to improve Sears.com tools
-* **Atari Acquisitions:**
-    * Namco/Bandai: 15% stake for $750M (2026)
-    * Capcom: 10% stake for $400M
-    * Sega/Sammy: 20% stake for $600M (2026)
-* Nissan/Datsun: 33-51% stake for $8B for automotive entry (2026, Chapter 11)
-* Yamaha: 15% stake for $450 million (2026)
-    * Partner with Yamaha ($800M) for engine manufacturing
-    * Partner with Getrag/Magna ($800M) for transmission manufacturing
-
----
-
 ## Dean Witter Financials & Asset Management
 
-**Total Assets Under Management (AUM) by 2035: $582B**
+**Total Assets Under Management (AUM) by 2035: $1.457 Trillion**
 
 **Dean Witter** operates as an independent asset management subsidiary with oversight boards for each fund category to ensure fiduciary duty and prevent conflicts of interest.
 
@@ -163,10 +77,10 @@ By the end of Phase 3 (2025), Sears achieves significant milestones:
 | :--- | :--- | :--- |
 | **Total Employees** | 3,800 | 4,500 |
 | **Operating Budget** | $150M/year | $200M/year |
-| **Total AUM** | $392B | $582B |
-| **Revenue (Management/Performance Fees)** | $2.5B (NA: $2B, Expanded: $0.5B) | $3.5B (NA: $2.8B, Expanded: $0.7B) |
-| **Entity Value** | $10B | $15B |
-| **Combined Ecosystem Value** | $402B | $597B |
+| **Total AUM** | $392B | **$1.457T** |
+| **Revenue (Management/Performance Fees)** | $2.5B (NA: $2B, Expanded: $0.5B) | **$8.75B** (NA: $7B, Expanded: $1.75B) |
+| **Entity Value** | $10B | **$37.5B** |
+| **Combined Ecosystem Value** | $402B | **$1.494T** |
 
 **Headquarters:** Dallas, TX
 
@@ -199,33 +113,40 @@ By the end of Phase 3 (2025), Sears achieves significant milestones:
     * **2035 Assets:** $210B (7% of $3T valuation)
     * **Board Seats:** 2 reserved for Sears Fund representation on main Sears board.
 
-4.  **Homart Community Fund**
+4.  **Homart Mortgage Fund (HMF)**
+    *   **Purpose:** To hold the ultra-safe, 30%-down, stress-tested mortgages originated by Coldwell Banker since 2010. Provides a stable, long-term income stream for the Sears financial ecosystem.
+    *   **2035 Assets:** **$875 Billion** (Original principal value of 2.5 million mortgages, avg. $350k).
+    *   **Funding:** Corporate Wealth Fund ($175B), Sears Fund ($262.5B), SearsCoin Reserve ($87.5B), SSGF ($87.5B), Customer Brokerage Accounts ($262.5B).
+    *   **Annual Investor Distributions:** **~$51 Billion** (from ~6% mortgage interest).
+    *   **Management:** Independent board with real estate economists and risk management experts.
+
+5.  **Homart Community Fund**
     * **Purpose:** Finance community initiatives at Homart malls
     * **2025 Assets:** $7B
     * **2035 Assets:** $10B
     * **Annual Disbursements:** ~$500M/year for community programs.
 
-5.  **Sears Supplier Growth Fund (SSGF)**
+6.  **Sears Supplier Growth Fund (SSGF)**
     * **Purpose:** Collective Syndicate supplier investment in Sears equity; defensive position against hostile takeovers
     * **Structure:** Suppliers contribute from profit-sharing (10% of distributions), Sears matches 50% (up to $500M/year cap).
     * **2035 Assets:** $23B (0.77% of Sears)
 
-6.  **Employee Stock Purchase Program (ESPP)**
+7.  **Employee Stock Purchase Program (ESPP)**
     * **Purpose:** Employee ownership with Class A voting shares (10 votes each)
     * **Structure:** Employees contribute up to 15% of salary, Sears matches 50% (up to 7.5% of salary), 15% discount.
     * **2035 Assets:** $36B (1.2% equity = 12% voting power)
 
-7.  **Sears Ventures**
+8.  **Sears Ventures**
     * **Purpose:** Venture capital for SMBs, startups aligned with Sears ecosystem
     * **2025 Assets:** $20B
     * **2035 Assets:** $30B
     * **Focus Areas:** NA SMB, Gaming, Electric/hybrid vehicles, etc.
 
-8.  **Customer Brokerage Accounts**
+9.  **Customer Brokerage Accounts**
     * **2035 Assets:** $80B
     * **Management:** Standard fiduciary oversight.
 
-9.  **Sears Savings Accounts**
+10. **Sears Savings Accounts**
     * **Revenue (2035):** $0.6B
     * **Features:** Integrated with **Dean Witter** banking services.
 
@@ -304,25 +225,25 @@ For any Syndicate Partner to be eligible for profit-sharing distributions (cash,
 
 | Partner (Syndicate Member) | Gross Allocation ($ Billions) | USD Payout (70%) ($ Billions) | SCN Payout (20%) (SCN Billions) | SSGF Payout (10%) ($ Billions) | Total SC Value ($ Billions) |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| **Whirlpool** (Appliances) | $1.20$ | **$0.84$** | **$24.0$** | $0.12$ | **$1.20$** |
-| **Goodyear Tire** (RoadHandler) | $0.75$ | **$0.525$** | **$15.0$** | $0.075$ | **$0.75$** |
-| **Yamaha** (Powertrain) | $0.55$ | **$0.385$** | **$11.0$** | $0.055$ | **$0.55$** |
-| **Sega/Sammy** (Atari Sports) | $0.40$ | **$0.28$** | **$8.0$** | $0.04$ | **$0.40$** |
-| **Sherwin-Williams** (Paint) | $0.30$ | **$0.21$** | **$6.0$** | $0.03$ | **$0.30$** |
-| **Serta** (Harmony House) | $0.25$ | **$0.175$** | **$5.0$** | $0.025$ | **$0.25$** |
-| **Magna/Getrag** (Transmission) | $0.20$ | **$0.14$** | **$4.0$** | $0.02$ | **$0.20$** |
-| **Char-Broil** (Grills) | $0.16$ | **$0.112$** | **$3.2$** | $0.016$ | **$0.16$** |
-| **Allstate** (Insurance) | $0.14$ | **$0.098$** | **$2.8$** | $0.014$ | **$0.14$** |
-| **TOTALS** | **$4.00$** | **$2.80$** | **$80.0$** | **$0.40$** | **$4.00$** |
+| **Whirlpool** (Appliances) | $1.20 | **$0.84** | **$24.0** | $0.12 | **$1.20** |
+| **Goodyear Tire** (RoadHandler) | $0.75 | **$0.525** | **$15.0** | $0.075 | **$0.75** |
+| **Yamaha** (Powertrain) | $0.55 | **$0.385** | **$11.0** | $0.055 | **$0.55** |
+| **Sega/Sammy** (Atari Sports) | $0.40 | **$0.28** | **$8.0** | $0.04 | **$0.40** |
+| **Sherwin-Williams** (Paint) | $0.30 | **$0.21** | **$6.0** | $0.03 | **$0.30** |
+| **Serta** (Harmony House) | $0.25 | **$0.175** | **$5.0** | $0.025 | **$0.25** |
+| **Magna/Getrag** (Transmission) | $0.20 | **$0.14** | **$4.0** | $0.02 | **$0.20** |
+| **Char-Broil** (Grills) | $0.16 | **$0.112** | **$3.2** | $0.016 | **$0.16** |
+| **Allstate** (Insurance) | $0.14 | **$0.098** | **$2.8** | $0.014 | **$0.14** |
+| **TOTALS** | **$4.00** | **$2.80** | **$80.0** | **$0.40** | **$4.00** |
 
 ---
 
 | Component | Payout Value ($ Billions) | Percentage (%) | SearsCoin Payout (SCN Billions) |
 | :--- | :--- | :--- | :--- |
-| **Cash (USD)** | $2.80$ | $70.0\%$ | N/A |
-| **SearsCoin (SCN)** | $0.80$ | $20.0\%$ | $80.0 \text{ Billion SCN}$ |
-| **SSGF Equity Contribution** | $0.40$ | $10.0\%$ | N/A |
-| **Total Pool** | **$4.00$** | **$100.0\%$** | |
+| **Cash (USD)** | $2.80 | 70.0% | N/A |
+| **SearsCoin (SCN)** | $0.80 | 20.0% | 80.0 Billion SCN |
+| **SSGF Equity Contribution** | $0.40 | 10.0% | N/A |
+| **Total Pool** | **$4.00** | **100.0%** | |
 
 ---
 
@@ -344,7 +265,6 @@ For any Syndicate Partner to be eligible for profit-sharing distributions (cash,
 ---
 
 ### Strategic Pillars
-*(Sections 1-10 remain in original order for continuity, with content changes applied)*
 
 #### 1. Tech Division
 Objective: Scale to $1.2T revenue.
@@ -482,13 +402,13 @@ This visualization highlights the strategic distribution of the **$11.17 Billion
 
 | Facility Type / Major Hub | Capex ($ Millions) | Visualization (Bar = $100 Million) |
 | :--- | :--- | :--- |
-| **Dallas, TX** (Appliances/Tools/DieHard) | $2,800M | **████████████████████████████** |
-| **Datsun - North America/MX** (Trucks/Vans) | $3,500M | **█████████████████████████████████** |
-| **Guadalajara, MX** (Zenith/Silvertone/Mattresses) | $1,400M | **██████████████** |
-| **Datsun - Japan** (Cars/Rogue/R&D) | $1,700M | **█████████████████** |
-| **Colorado Springs, CO** (Craftsman/Remington/Metallurgy) | $500M | **█████** |
-| **Asia (Surabaya/Osaka)** (Appliances/Atari/Kodak) | $700M | **███████** |
-| **Brownsville/Martin, TN** (Cub Cadet) | $270M | **██▋** |
+| **Dallas, TX** (Appliances/Tools/DieHard) | $2,800M | `████████████████████████████` |
+| **Datsun - North America/MX** (Trucks/Vans) | $3,500M | `█████████████████████████████████` |
+| **Guadalajara, MX** (Zenith/Silvertone/Mattresses) | $1,400M | `██████████████` |
+| **Datsun - Japan** (Cars/Rogue/R&D) | $1,700M | `█████████████████` |
+| **Colorado Springs, CO** (Craftsman/Remington/Metallurgy) | $500M | `█████` |
+| **Asia (Surabaya/Osaka)** (Appliances/Atari/Kodak) | $700M | `███████` |
+| **Brownsville/Martin, TN** (Cub Cadet) | $270M | `██▋` |
 
 
 #### 5. HomeForce & PartsDirect
@@ -514,12 +434,12 @@ Objective: Scale to 2,900 centers, generate $38B. (Avg revenue per store: $13M)
 * Features: Electric/hybrid/ICE vehicle servicing, DieHard batteries, KENN diagnostics, Cub Cadet/Datsun tires (**RoadHandler, Goodyear Tire**), Datsun warranty/servicing.
 
 #### 7. Sears Financial Division
-Objective: Generate $75.5B in revenue by 2035.
+Objective: Generate **$86.25B** in revenue by 2035.
 
 | Metric | 2025 | 2035 |
 | :--- | :--- | :--- |
-| **Revenue** | $58.8B | $75.5B |
-| **Value** | $90B | $113.25B |
+| **Revenue** | $58.8B | **$86.25B** |
+| **Value** | $90B | **$129.375B** |
 | **Workforce** | 4,500 employees (2035) | |
 
 * **Dean Witter Asset Management:** *See consolidated section above.*
@@ -634,7 +554,7 @@ Objective: Scale to $45B revenue, 15% global robotics share.
 | **EBITDA** | $160.06B (8% margin) | $200.14B (7.5% margin) |
 | **Valuation** | $2.5T (15.6x EBITDA) | **$3T** (15x EBITDA) |
 | **Total R&D spending** | $35B/y | **$50B/y** |
-| **Dean Witter AUM** | $392B | $582B |
+| **Dean Witter AUM** | $392B | **$1.457T** |
 
 ---
 
@@ -720,7 +640,6 @@ Objective: Scale to $45B revenue, 15% global robotics share.
 ---
 
 ### Summary Tables
-*(Tables remain in original structure, reflecting new AUM and e-commerce figures)*
 
 **Dean Witter Asset Management Fund Structure (2035)**
 
@@ -728,8 +647,15 @@ Objective: Scale to $45B revenue, 15% global robotics share.
 | :--- | :--- | :--- |
 | **Corporate Wealth Fund** | $34B | Strategic Syndicate investments |
 | **SearsCoin Reserve Fund** | $23.2B | Asset backing for SearsCoin |
-| **...** | **...** | **...** |
-| **Total AUM** | **$582B** | Master 9-member oversight board |
+| **Sears Fund** | $210B | Long-term shareholder equity |
+| **Homart Mortgage Fund (HMF)** | **$875B** | **Holds Coldwell Banker's elite-grade mortgages** |
+| **Homart Community Fund** | $10B | Community initiatives |
+| **Sears Supplier Growth Fund (SSGF)** | $23B | Supplier collective investment |
+| **Employee Stock Purchase Program (ESPP)** | $36B | Employee ownership |
+| **Sears Ventures** | $30B | Venture capital for SMBs/startups |
+| **Customer Brokerage Accounts** | $80B | Retail customer investments |
+| **Sears Savings Accounts** | $136B | Integrated banking services |
+| **Total AUM** | **$1.457T** | Master 9-member oversight board |
 
 **E-commerce Market Analysis (2035)**
 
@@ -741,6 +667,6 @@ Objective: Scale to $45B revenue, 15% global robotics share.
 
 ---
 
-*Document Version: Phase 4 Final (Dean Witter Restructured, E-commerce Corrected)*
+*Document Version: Phase 4 Final (Coldwell Banker & Dean Witter HMF Integrated)*
 *Last Updated: 2025 Planning Cycle*
 *Next Review: Phase 5 Development (2035-2045)*

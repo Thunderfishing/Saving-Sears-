@@ -295,7 +295,19 @@ Objective: Generate $28B, add 9,000 technicians.
 | **Value** | $37.5B | $42B |
 | **Workforce** | 48,000 (+9,000 Datsun commercial mobile repair) | |
 
-* Features: PartsDirect (9M SKUs), Academy training, Datsun mobile repair, Remington gunsmith/repair services.
+* Features: PartsDirect (9M SKUs), Academy training, Datsun mobile repair, Remington gunsmith/repair services, independent repair business network.
+
+## ⚙️ Independent Repair Network (IRN) Operations & Financial Impact (2025 Projected)
+
+| Metric | Detail | Value/Commentary | Source in Plan |
+|---|---|---|---|
+| **Likely Amount of IRN Shops** | Estimated number of independent shops with Sears Academy-certified technicians performing warranty/post-warranty work. | **3,500 - 5,000 Shops** | *Inferred from "Upskills 500,000 employees," 220 College partners, and the scale of the Sears ecosystem.* |
+| **Sears Subsidy via Warranty Work ($)** | Sears' total expenditure on warranty work performed by IRN shops. | **$1.8 Billion** | *Calculated: Assuming 80% of $25B HomeForce/Auto Centers **warranty** revenue (20% is in-house) is outsourced, with IRN taking roughly $2.25B (50% of the outsourced portion) at an average of 80% reimbursement rate.* |
+| **Sears Savings (if any)** | Cost savings realized by Sears by leveraging IRN vs. full in-house expansion (HomeForce/Auto Centers). | **$2.5 Billion/Year** | *Inferred from lower overhead, reduced need for in-house hiring/training, and KENN AI Logistics savings ($14B) from reduced HomeForce driving/scheduling. The IRN absorbs variable costs.* |
+| **Warranty Work Breakdown (IRN)** | IRN's share of total Sears/Affiliate warranty work (Atari, Zenith, Consumer Robotics, etc.) | **~50% of Total Outsourced** | *Plan states 20% in-house. IRN focuses on easily transportable products (Atari, Zenith/Silvertone, Consumer Robotics). HomeForce covers non-easily transportable (Kenmore, Coldspot).* |
+| **Likely Amount of Parts Added to Heritage Parts Database** | Estimated new SKUs added to the "Sears Heritage Parts" Database by IRN shops. | **350,000 - 500,000 SKUs** | *Inferred from 9M PartsDirect SKUs and 3,500-5,000 shops logging their unique, non-standard inventory (PartsDirect 2.0).* |
+| **Core Charge SCN Payouts** | Total SearsCoin ($USD) paid to IRN shops for core returns of valuable discontinued components. | **$45 Million/Year** | *Estimated at an average of $15/core return across 3 million core returns annually (inferred from IRN scale and 'Core Return Incentives' feature).* |
+| **IRN Key Brands Focus** | Primary brands covered under the IRN's Unique Repair Network initiative. | **Atari, Zenith/Silvertone, Sears Consumer Robotics** | *From the "Unique Repair network" feature in Sears Academy section.* |
 
 #### 6. Auto Centers
 Objective: Scale to 2,900 centers, generate $38B. (Avg revenue per store: $13M)
@@ -368,8 +380,24 @@ Objective: Scale to 220 college partners, provide $35B revenue uplift.
 | **Revenue Uplift** | $30B | $35B |
 | **Workforce** | 6,500 | |
 
-* Features: Network of 220 colleges, Dallas polytechnic campus, programs in AI/robotics/EV tech, **Right to Repair** advocate, **Anti-planned obsolescence** advocate.
+* Features: Network of 220 colleges, Dallas polytechnic campus, programs in AI/robotics/EV tech, **Right to Repair** advocate, **Anti-planned obsolescence** advocate, **Homart Mall Community initiatives**
 
+## 🎓 Sears Academy Functions, Operations, & Impact (2035 Projected)
+
+| Category | Function/Operation | Key Metrics/Impact (2035) | Source in Plan |
+|---|---|---|---|
+| **Education & Scale** | **Campus & Network** | Dallas campus; 220 College Partners (195 NA, 25 Expanded). | Phase 4, Pillar 9 |
+| | **Enrollment & Upskilling** | Educates **50,000+** students annually; Upskills **500,000** employees. | Phase 4, Pillar 9 |
+| | **Curriculum Focus** | AI, Robotics, EV/Hybrid/ICE Tech, Gaming Dev, Luxury Retail, Logistics, Factory Ops, Precision Manufacturing/Gunsmithing. | Phase 4, Pillar 9 |
+| **Financial & Economic** | **Revenue Uplift** | **$35 Billion** in revenue uplift for Sears/Affiliates (up from $30B in 2025). | Phase 4, Pillar 9 |
+| | **Budget & Investment** | **$4.5 Billion** operating budget (+ $250M for gaming, $10M for Remington, etc.). | Phase 4, Pillar 9 |
+| | **Student Benefits** | Partial/Full scholarships, 228-piece Craftsman kits, interviews, certifications. | Phase 4, Pillar 9 |
+| | **Community Outreach** | Free financial, consumer debt, and literacy courses offered. | Phase 4, Pillar 9 |
+| **Repair & Durability** | **IRN Certification** | Certifies Independent Repair Network (IRN) technicians for warranty/post-warranty work on Atari, Zenith/Silvertone, and Robotics. | Phase 4, Pillar 9 (Unique Repair Network) |
+| | **Heritage Parts** | Offers specialized "Legacy Product Repair" certifications and manages the **Sears Heritage Parts Database** (PartsDirect 2.0). | Phase 4, Pillar 9 (Advanced Training Modules) |
+| | **Lobbying/Advocacy** | **Right to Repair** advocate/lobbyist: **$125M/year**; **Anti-Planned Obsolescence** advocate: **$125M/year**. | Phase 4, Pillar 9 |
+| **Sustainability** | **Green Factories** | Manages sustainability for manufacturing: Dallas, Colorado, Guadalajara, Surabaya, Osaka, Martin, Brownsville. | Phase 4, Pillar 9 |
+| | **Product Mandate** | Ensures production of durable, modular, easily repaired goods (e.g., accounting for electron migration). | Phase 4, Pillar 9 |
 
 ### 🏬 Homart Mall: Community Initiatives & The "Safe Harbor" Ecosystem
 

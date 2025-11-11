@@ -37,71 +37,12 @@ By the end of Phase 3 (2025), Sears achieves significant milestones:
 
 * **Stores:** **2,300** total (2,050 showrooms for merchandise (Kenmore/Coldspot, Craftsman, etc.), Cub Cadet and Datsun display/test drive centers and micro-distribution centers, 250 full-line stores at Sears Homart Malls)
 * **Workforce:** **490,000** employees
-* **Logistics:** **65** distribution centers (45 U.S., 16 global, 4 in Canada) and **9,000** Local distribution centers
-* **Sears Academy:** Dallas campus partnered with **90** colleges
-
----
-
-## 🏭 Core Brands & Production Roster (Combined)
-
-This table consolidates all major brands, production models, factory locations, and key production/manufacturing details.
-
-| Core Brand | Production Model | Partner | Factory Location(s) | Production Notes & Revenue (2035) |
-| :--- | :--- | :--- | :--- | :--- |
-| **Kenmore** | Vertical/Partner | Sears/Whirlpool | Dallas, TX; Surabaya, Indonesia; Osaka, Japan (Alt. Factory) | 900k units (Dallas), 450k (Asia). **$100B Revenue.** |
-| **Coldspot** | Vertical/Partner | Sears/Whirlpool | Dallas, TX; Surabaya, Indonesia; Osaka, Japan (Alt. Factory) | 225k (Dallas), 270k (Asia) Fridges, Freezers, AC. **$40B Revenue.** |
-| **Craftsman** | Vertical | Sears | Dallas, TX; Colorado Springs, CO | 1.8M power tools (Dallas), 18M hand tools (Colorado). **$12B Revenue.** |
-| **Remington (by W. Forge)**| Vertical | Sears | Colorado Springs, CO | Bolt-action rifles/shotguns (Western Forge synergy). **$1.8B Revenue.** |
-| **Zenith Electronics** | Vertical | Sears/Zenith | Guadalajara, Mexico (x2); San Antonio R&D | Electronics, Display Tech, Silvertone Audio. **$55B Revenue.** |
-| **Kodak Optics/Graphics**| Vertical | Sears | Osaka, Japan (Alt. Factory); San Antonio R&D | Lenses for Sears Optical, AI image tech, Atari graphics. **$4B Revenue.** |
-| **RoadHandler Tires** | Partner | **Goodyear Tire** | N/A (Syndicate Partner Factories) | Tire line produced via profit-sharing contract. **$22B Revenue.** |
-| **DieHard Batteries** | Vertical | Sears | Dallas, TX | EV/Hybrid, Lithium-ion focus. **$10B Revenue.** |
-| **Cub Cadet** | Vertical | Sears | Martin, TN; Brownsville, TN | Mowers, snowblowers, tractors. **$5.5B Revenue.** |
-| **Datsun Vehicles** | Vertical/Partner | Sears/Nissan/Yamaha/Getrag| TN (Brownsville/Martin), MX (Guadalajara), JP (Osaka/Yokohama/Toyota/Hiroshima) | Assembly/Engine/Stamping. **$48B Revenue.** |
-| **Atari consoles/Peripherals**| Vertical | Sears | Osaka, Japan (Alt. Factory) | Gaming consoles and peripherals. **$100B Revenue (Combined).** |
-| **Harmony House** | Vertical/Partner | Sears/Serta | Guadalajara, Mexico (x2); Surabaya, Indonesia | Mattresses/bedding. **$7.5B Revenue.** |
-| **WeatherBeater Paint** | Partner | **Sherwin-Williams** | N/A (Syndicate Partner Factories) | Paint/sealants for Datsun and retail. **$6.5B Revenue.** |
-| **Char-Broil Grills** | Partner | **Char-Broil** | N/A (Syndicate Partner Factories) | High-volume SKU for Sears.com. **$1.1B Revenue.** |
-
----
-
-## 🏭 Sears-Affiliated Manufacturing & Production Roster: Factory Locations
-
-This table lists the key facilities, brand focus, and capacity/Capex, ensuring location information is preserved.
-
-| Factory/Location | Brand Focus | Most Likely Datsun Vehicle | Estimated Annual Capacity (Units) | Capital Expenditure (Capex) (2035) |
-| :--- | :--- | :--- | :--- | :--- |
-| **Datsun - Brownsville, TN** | Vehicles (Trucks/Vans) | **Datsun Pathfinder** (SUV) / **EV Vans** (Logistics) | 1,000,000 | $1.17 Billion |
-| **Datsun - Martin, TN** | Vehicles (Trucks/Vans) | **Datsun Frontier** (Mid-Size Truck) | 1,000,000 | $1.17 Billion |
-| **Datsun - Guadalajara, Mexico** | Vehicles (Trucks/Vans) | **Datsun Titan** (Full-Size Truck/Sedan) | 1,000,000 | $1.16 Billion |
-| **Datsun - Osaka, Japan (x2)** | Vehicles (Cars/CUVs) | **Datsun Rogue** (Crossover/SUV) / **Ultima** (Sedan) | 1,200,000 | $0.80 Billion |
-| **Datsun - Yokohama, Japan** | Vehicles (Cars/R&D) | **Datsun 240SX** (Sports Coupe) | 400,000 | $0.40 Billion |
-| **Datsun - Toyota, Japan** | Vehicles (Engine Plant) | Powertrain / Engine Manufacturing | N/A (Supports all Datsun) | $0.30 Billion |
-| **Datsun - Hiroshima, Japan** | Vehicles (Stamping) | Body Stamping / Chassis | N/A (Supports all Datsun) | $0.20 Billion |
-| **Dallas, TX** | Kenmore, Coldspot, Craftsman Power Tools, DieHard | 900,000 Appliances / 1.8M Power Tools | $2.80 Billion |
-| **Guadalajara, Mexico (x2)** | **Zenith/Silvertone** Audio, Harmony House Mattresses | 1.1M Audio Devices / 2.5M Mattresses | $1.40 Billion |
-| **Surabaya, Indonesia** | Kenmore, Coldspot, Harmony House, Kiva Appliance Bots | 270,000 Appliances / 1M Appliance Bots | $0.35 Billion |
-| **Osaka, Japan (Alt. Factory)** | Atari Peripherals, Kodak Optics, Robotics | 450,000 Appliances / 1.5M Peripherals | $0.35 Billion |
-| **Colorado Springs, CO** | Craftsman Hand Tools, Remington Rifles | 18M Hand Tools / 1.5M Rifles/Shotguns | $0.50 Billion |
-| **Brownsville, TN (Cub Cadet)** | Cub Cadet Mowers, Snowblowers | 1.5M Mowers/Tractors | $0.18 Billion |
-| **Martin, TN (Cub Cadet)** | Cub Cadet Mowers, Snowblowers | 1.5M Mowers/Tractors | $0.09 Billion |
-| **TOTALS** | | | **Approx. 13.6 Million Units** | **$11.17 Billion** |
-
----
-
-## 📈 Industrial Prowess Visualization: Total Capex by Facility Type
-
-This visualization highlights the strategic distribution of the **$11.17 Billion** Capex budget.
-
-| Facility Type / Major Hub | Capex ($ Millions) | Visualization (Bar = $100 Million) |
-| :--- | :--- | :--- |
-| **Dallas, TX** (Appliances/Tools/DieHard) | $2,800M | `████████████████████████████` |
-| **Datsun - North America/MX** (Trucks/Vans) | $3,500M | `█████████████████████████████████` |
-| **Guadalajara, MX** (Zenith/Silvertone/Mattresses) | $1,400M | `██████████████` |
-| **Datsun - Japan** (Cars/Rogue/R&D) | $1,700M | `█████████████████` |
-| **Colorado Springs, CO** (Craftsman/Remington/Metallurgy) | $500M | `█████` |
-| **Asia (Surabaya/Osaka)** (Appliances/Atari/Kodak) | $700M | `███████` |
-| **Brownsville/Martin, TN** (Cub Cadet) | $270M | `██▋` |
+* **Logistics (2025):** **65** distribution centers (45 U.S., 16 global, 4 in Canada) and **9,000** Local distribution centers
+* **Sears Academy (2025):** Dallas campus partnered with **180** colleges
+### Decentralized Management
+**Decentralized Business Units:** 10 (Tech, Retail, Logistics, Factories/Brands, HomeForce, Auto Centers, Financial, Optical, Academy/Sustainability, Robotics)
+* **Regional Operating Units:** North America (Chicago), Southeast Asia (Jakarta), Emerging Markets (Manila), Japan/AUS/NZ/Singapore/UK.
+* **Centers of Excellence:** AI (**San Antonio**), Supply Chain (Dallas), HR (Dallas), Compliance (Dallas), Datsun Engines (Yamaha), Datsun Transmissions (Getrag).
 
 ---
 
@@ -114,26 +55,6 @@ This new graph includes the full-ownership corporate assets that are not brands,
 | **Sears.com** | Full | Online digital marketplace (beta 1993, full launch 1995), 320M+ users | $900B | $1.35T |
 | **SCloud** | Full | Cloud services (1995), 2M 3rd-party customers | $375B | $562.5B |
 | **Sears Logistics** | Full | 65 distribution centers (45 U.S., 16 global, 4 Canada), 9,000 micro-DCs | $155B | $232.5B |
-
----
-
-## 🏛️ Sears Subsidiaries & Financial Ecosystem
-
-This graph now consolidates all subsidiaries and includes the functions of **Coldwell Banker**, which originates mortgages for the **Dean Witter Homart Mortgage Fund**, and the newly structured **Discover Card Network** as a full subsidiary.
-
-| Subsidiary | HQ | Employees (2035) | Revenue (2035) | Core Function & Notes |
-| :--- | :--- | :--- | :--- | :--- |
-| **Atari Home Entertainment** | **Osaka**, Japan | 9,500 | $100B | Console/Cloud gaming and global entertainment platform. |
-| **Datsun** | **Osaka**, Japan | 9,500 (+140k global) | $48B | Automotive market entry and EV/hybrid R&D. |
-| **Homart Development** | Dallas, TX | 19,500 | $65B | Property management and mall redevelopment. |
-| **Sears Canada** | Calgary, AB | 45,500 | $18B | Canadian retail and market operations. |
-| **Sears World Trade, Inc.** | Dallas, TX | 4,500 (+1,800 global ops) | $30B | Domestic & Vetted foreign SKUs for Sears.com (6M SKUs). |
-| **Western Forge** | Colorado Springs, CO | 75 (+ 50 for Remington) | $4B | Craftsman hand tools, Remington rifles manufacturing. |
-| **Yahoo!/iFixit** | **San Antonio**, TX | 5,500 | $45.5B | Search engine/AI integration and Right to Repair knowledge base. |
-| **Zenith** | **San Antonio**, TX | 8,500 | $55B | Electronics, Display Tech, Silvertone Audio. |
-| **Coldwell Banker** | Dallas, TX | (Included in Dean Witter) | $15B | Real estate brokerage, property management. **Originates 30%-down mortgages for Dean Witter Homart Mortgage Fund.** |
-| **Discover Card Network** | **Dallas, TX** | **4,800 (New Est.)** | **$11B (Network) + $18B (SearsCoin)** | Backbone of SearsPay/SearsCoin transactions. **Manages SearsCoin (SCN)**. **Manages Consumer Data Marketplace (CDM)**. |
-| **Dean Witter Asset Management** | Dallas, TX | 3,800 | $8.75B | Manages Sears Funds/Brokerage Accounts. **Total AUM: $1.457T.** |
 
 ---
 
@@ -345,6 +266,67 @@ Objective: Scale factories and brands to generate $252B, leveraging Cub Cadet, R
 
 * Features: Profit-sharing with key suppliers, Saks expansion, Datsun synergies, **No BNPL for Saks 5th Avenue**.
 
+
+## 🏭 Core Brands & Production Roster (Combined)
+
+This table consolidates all major brands, production models, factory locations, and key production/manufacturing details.
+
+| Core Brand | Production Model | Partner | Factory Location(s) | Production Notes & Revenue (2035) |
+| :--- | :--- | :--- | :--- | :--- |
+| **Kenmore** | Vertical/Partner | Sears/Whirlpool | Dallas, TX; Surabaya, Indonesia; Osaka, Japan (Alt. Factory) | 900k units (Dallas), 450k (Asia). **$100B Revenue.** |
+| **Coldspot** | Vertical/Partner | Sears/Whirlpool | Dallas, TX; Surabaya, Indonesia; Osaka, Japan (Alt. Factory) | 225k (Dallas), 270k (Asia) Fridges, Freezers, AC. **$40B Revenue.** |
+| **Craftsman** | Vertical | Sears | Dallas, TX; Colorado Springs, CO | 1.8M power tools (Dallas), 18M hand tools (Colorado). **$12B Revenue.** |
+| **Remington (by W. Forge)**| Vertical | Sears | Colorado Springs, CO | Bolt-action rifles/shotguns (Western Forge synergy). **$1.8B Revenue.** |
+| **Zenith Electronics** | Vertical | Sears/Zenith | Guadalajara, Mexico (x2); San Antonio R&D | Electronics, Display Tech, Silvertone Audio. **$55B Revenue.** |
+| **Kodak Optics/Graphics**| Vertical | Sears | Osaka, Japan (Alt. Factory); San Antonio R&D | Lenses for Sears Optical, AI image tech, Atari graphics. **$4B Revenue.** |
+| **RoadHandler Tires** | Partner | **Goodyear Tire** | N/A (Syndicate Partner Factories) | Tire line produced via profit-sharing contract. **$22B Revenue.** |
+| **DieHard Batteries** | Vertical | Sears | Dallas, TX | EV/Hybrid, Lithium-ion focus. **$10B Revenue.** |
+| **Cub Cadet** | Vertical | Sears | Martin, TN; Brownsville, TN | Mowers, snowblowers, tractors. **$5.5B Revenue.** |
+| **Datsun Vehicles** | Vertical/Partner | Sears/Nissan/Yamaha/Getrag| TN (Brownsville/Martin), MX (Guadalajara), JP (Osaka/Yokohama/Toyota/Hiroshima) | Assembly/Engine/Stamping. **$48B Revenue.** |
+| **Atari consoles/Peripherals**| Vertical | Sears | Osaka, Japan (Alt. Factory) | Gaming consoles and peripherals. **$100B Revenue (Combined).** |
+| **Harmony House** | Vertical/Partner | Sears/Serta | Guadalajara, Mexico (x2); Surabaya, Indonesia | Mattresses/bedding. **$7.5B Revenue.** |
+| **WeatherBeater Paint** | Partner | **Sherwin-Williams** | N/A (Syndicate Partner Factories) | Paint/sealants for Datsun and retail. **$6.5B Revenue.** |
+| **Char-Broil Grills** | Partner | **Char-Broil** | N/A (Syndicate Partner Factories) | High-volume SKU for Sears.com. **$1.1B Revenue.** |
+
+--
+
+## 🏭 Sears-Affiliated Manufacturing & Production Roster: Factory Locations
+
+This table lists the key facilities, brand focus, and capacity/Capex, ensuring location information is preserved.
+
+| Factory/Location | Brand Focus | Most Likely Datsun Vehicle | Estimated Annual Capacity (Units) | Capital Expenditure (Capex) (2035) |
+| :--- | :--- | :--- | :--- | :--- |
+| **Datsun - Brownsville, TN** | Vehicles (Trucks/Vans) | **Datsun Pathfinder** (SUV) / **EV Vans** (Logistics) | 1,000,000 | $1.17 Billion |
+| **Datsun - Martin, TN** | Vehicles (Trucks/Vans) | **Datsun Frontier** (Mid-Size Truck) | 1,000,000 | $1.17 Billion |
+| **Datsun - Guadalajara, Mexico** | Vehicles (Trucks/Vans) | **Datsun Titan** (Full-Size Truck/Sedan) | 1,000,000 | $1.16 Billion |
+| **Datsun - Osaka, Japan (x2)** | Vehicles (Cars/CUVs) | **Datsun Rogue** (Crossover/SUV) / **Ultima** (Sedan) | 1,200,000 | $0.80 Billion |
+| **Datsun - Yokohama, Japan** | Vehicles (Cars/R&D) | **Datsun 240SX** (Sports Coupe) | 400,000 | $0.40 Billion |
+| **Datsun - Toyota, Japan** | Vehicles (Engine Plant) | Powertrain / Engine Manufacturing | N/A (Supports all Datsun) | $0.30 Billion |
+| **Datsun - Hiroshima, Japan** | Vehicles (Stamping) | Body Stamping / Chassis | N/A (Supports all Datsun) | $0.20 Billion |
+| **Dallas, TX** | Kenmore, Coldspot, Craftsman Power Tools, DieHard | 900,000 Appliances / 1.8M Power Tools | $2.80 Billion |
+| **Guadalajara, Mexico (x2)** | **Zenith/Silvertone** Audio, Harmony House Mattresses | 1.1M Audio Devices / 2.5M Mattresses | $1.40 Billion |
+| **Surabaya, Indonesia** | Kenmore, Coldspot, Harmony House, Kiva Appliance Bots | 270,000 Appliances / 1M Appliance Bots | $0.35 Billion |
+| **Osaka, Japan (Alt. Factory)** | Atari Peripherals, Kodak Optics, Robotics | 450,000 Appliances / 1.5M Peripherals | $0.35 Billion |
+| **Colorado Springs, CO** | Craftsman Hand Tools, Remington Rifles | 18M Hand Tools / 1.5M Rifles/Shotguns | $0.50 Billion |
+| **Brownsville, TN (Cub Cadet)** | Cub Cadet Mowers, Snowblowers | 1.5M Mowers/Tractors | $0.18 Billion |
+| **Martin, TN (Cub Cadet)** | Cub Cadet Mowers, Snowblowers | 1.5M Mowers/Tractors | $0.09 Billion |
+| **TOTALS** | | | **Approx. 13.6 Million Units** | **$11.17 Billion** |
+
+
+## 📈 Industrial Prowess Visualization: Total Capex by Facility Type
+
+This visualization highlights the strategic distribution of the **$11.17 Billion** Capex budget.
+
+| Facility Type / Major Hub | Capex ($ Millions) | Visualization (Bar = $100 Million) |
+| :--- | :--- | :--- |
+| **Dallas, TX** (Appliances/Tools/DieHard) | $2,800M | `████████████████████████████` |
+| **Datsun - North America/MX** (Trucks/Vans) | $3,500M | `█████████████████████████████████` |
+| **Guadalajara, MX** (Zenith/Silvertone/Mattresses) | $1,400M | `██████████████` |
+| **Datsun - Japan** (Cars/Rogue/R&D) | $1,700M | `█████████████████` |
+| **Colorado Springs, CO** (Craftsman/Remington/Metallurgy) | $500M | `█████` |
+| **Asia (Surabaya/Osaka)** (Appliances/Atari/Kodak) | $700M | `███████` |
+| **Brownsville/Martin, TN** (Cub Cadet) | $270M | `██▋` |
+
 #### 5. HomeForce & PartsDirect
 Objective: Generate $28B, add 9,000 technicians.
 
@@ -459,38 +441,27 @@ Objective: Scale to $45B revenue, 15% global robotics share.
 
 ---
 
-### Financial Snapshot
 
-| Metric | 2025 | 2035 |
-| :--- | :--- | :--- |
-| **Total Revenue** | $2.0008T | $2.6518T |
-| **E-commerce Revenue** | $560B | $1.985T |
-| **EBITDA** | $160.06B (8% margin) | $200.14B (7.5% margin) |
-| **Valuation** | $2.5T (15.6x EBITDA) | **$3T** (15x EBITDA) |
-| **Total R&D spending** | $35B/y | **$50B/y** |
-| **Dean Witter AUM** | $392B | **$1.457T** |
+## 🏛️ Sears Subsidiaries & Financial Ecosystem
 
----
+This graph now consolidates all subsidiaries and includes the functions of **Coldwell Banker**, which originates mortgages for the **Dean Witter Homart Mortgage Fund**, and the newly structured **Discover Card Network** as a full subsidiary.
 
-### Competitive Positioning (2035)
-
-| Metric | Sears | Amazon | Walmart | Alibaba | Apple | Home Depot | SBD | Toyota | Datsun |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| **Revenue** | $2.65T | $800B | $650B | $450B | $350B | $140B | $16B | $280B | $48B |
-| **E-commerce Revenue** | $1.985T | $575B | $80B | $350B | $65B | $25B | $2B | -- | -- |
-| **Valuation** | **$3T** | $1.8T | $450B | $540B | $2.7T | $360B | $18B | $270B | $72B |
-| **Hunting/Sporting Share** | 8.5% (Remington) | - | 15% | - | - | - | - | - | - |
-| **Gaming Share** | 20% (Atari) | 4% (Twitch) | - | - | 4% (Apple Arcade) | - | - | - | - |
+| Subsidiary | HQ | Employees (2035) | Revenue (2035) | Core Function & Notes |
+| :--- | :--- | :--- | :--- | :--- |
+| **Atari Home Entertainment** | **Osaka**, Japan | 9,500 | $100B | Console/Cloud gaming and global entertainment platform. |
+| **Datsun** | **Osaka**, Japan | 9,500 (+140k global) | $48B | Automotive market entry and EV/hybrid R&D. |
+| **Homart Development** | Dallas, TX | 19,500 | $65B | Property management and mall redevelopment. |
+| **Sears Canada** | Calgary, AB | 45,500 | $18B | Canadian retail and market operations. |
+| **Sears World Trade, Inc.** | Dallas, TX | 4,500 (+1,800 global ops) | $30B | Domestic & Vetted foreign SKUs for Sears.com (6M SKUs). |
+| **Western Forge** | Colorado Springs, CO | 75 (+ 50 for Remington) | $4B | Craftsman hand tools, Remington rifles manufacturing. |
+| **Yahoo!/iFixit** | **San Antonio**, TX | 5,500 | $45.5B | Search engine/AI integration and Right to Repair knowledge base. |
+| **Zenith** | **San Antonio**, TX | 8,500 | $55B | Electronics, Display Tech, Silvertone Audio. |
+| **Coldwell Banker** | Dallas, TX | (Included in Dean Witter) | $15B | Real estate brokerage, property management. **Originates 30%-down mortgages for Dean Witter Homart Mortgage Fund.** |
+| **Discover Card Network** | **Dallas, TX** | **4,800 (New Est.)** | **$11B (Network) + $18B (SearsCoin)** | Backbone of SearsPay/SearsCoin transactions. **Manages SearsCoin (SCN)**. **Manages Consumer Data Marketplace (CDM)**. |
+| **Dean Witter Asset Management** | Dallas, TX | 3,800 | $8.75B | Manages Sears Funds/Brokerage Accounts. **Total AUM: $1.457T.** |
 
 ---
 
-### Decentralized Management
-
-* **Decentralized Business Units:** 10 (Tech, Retail, Logistics, Factories/Brands, HomeForce, Auto Centers, Financial, Optical, Academy/Sustainability, Robotics)
-* **Regional Operating Units:** North America (Chicago), Southeast Asia (Jakarta), Emerging Markets (Manila), Japan/AUS/NZ/Singapore/UK.
-* **Centers of Excellence:** AI (**San Antonio**), Supply Chain (Dallas), HR (Dallas), Compliance (Dallas), Datsun Engines (Yamaha), Datsun Transmissions (Getrag).
-
----
 ### 💯 Outright Acquisitions (100% Ownership)
 
 | Acquired Asset | Year Acquired | Acquisition Cost | Core Strategic Purpose | Current Segment (2035) |
@@ -591,6 +562,31 @@ For any Syndicate Partner to be eligible for profit-sharing distributions (cash,
 | **Rogue** | **Sub-Compact Hybrid CUV** (Family, Everyday Utility) | Hybrid (1.5L or 2L I4) or 2.8L V6. Part-time **AWD Standard**. | High-durability interior materials. Easily removable and replaceable body panels and lights to reduce insurance/repair costs. | **$23K–$33K** range. Expected **720,000 units** sold (by 2035). |
 | **Frontier/Pathfinder** | **Mid-Size Pickup/Utility Van/CUV** (Commercial, Off-Road) | Hybrid, 2.0L NA I4, or 2.8L V6. **Real 4x4 Option** (lockers, skid plates). **Full EV Delivery Van** variant available. | Utilitarian design. **Long-term parts support** guaranteed. Compatible with Craftsman tools for DIY maintenance. | **$22K–$40K** range. Targets commercial fleets (serviced by HomeForce mobile repair). |
 | **Service Network** | **DTC Sales & Servicing** | **$1.8B** service revenue via 2,900 Sears Auto Centers. | Sears Auto Centers provide nationwide warranty work and servicing, eliminating the need for a costly dealership network in North America (saving **$2.5B**). |
+
+---
+
+### Financial Snapshot
+
+| Metric | 2025 | 2035 |
+| :--- | :--- | :--- |
+| **Total Revenue** | $2.0008T | $2.6518T |
+| **E-commerce Revenue** | $560B | $1.985T |
+| **EBITDA** | $160.06B (8% margin) | $200.14B (7.5% margin) |
+| **Valuation** | $2.5T (15.6x EBITDA) | **$3T** (15x EBITDA) |
+| **Total R&D spending** | $35B/y | **$50B/y** |
+| **Dean Witter AUM** | $392B | **$1.457T** |
+
+---
+
+### Competitive Positioning (2035)
+
+| Metric | Sears | Amazon | Walmart | Alibaba | Apple | Home Depot | SBD | Toyota | Datsun |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| **Revenue** | $2.65T | $800B | $650B | $450B | $350B | $140B | $16B | $280B | $48B |
+| **E-commerce Revenue** | $1.985T | $575B | $80B | $350B | $65B | $25B | $2B | -- | -- |
+| **Valuation** | **$3T** | $1.8T | $450B | $540B | $2.7T | $360B | $18B | $270B | $72B |
+| **Hunting/Sporting Share** | 8.5% (Remington) | - | 15% | - | - | - | - | - | - |
+| **Gaming Share** | 20% (Atari) | 4% (Twitch) | - | - | 4% (Apple Arcade) | - | - | - | - |
 
 ---
 

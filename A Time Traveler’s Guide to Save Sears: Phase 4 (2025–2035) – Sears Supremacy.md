@@ -124,7 +124,7 @@ This graph includes all partners where Sears owns a stake, including the Serta i
 
 ---
 
-## 📈 Corporate Entities & Technology Assets (Non-Subsidiary/Partner Stakes)
+## 📈 Corporate Entities & Technology 
 
 This new graph includes the full-ownership corporate assets that are not brands, factories, or formal subsidiaries, moved from the original Key Assets table.
 
@@ -132,7 +132,6 @@ This new graph includes the full-ownership corporate assets that are not brands,
 | :--- | :--- | :--- | :--- | :--- |
 | **Sears.com** | Full | Online digital marketplace (beta 1993, full launch 1995), 320M+ users | $900B | $1.35T |
 | **SCloud** | Full | Cloud services (1995), 2M 3rd-party customers | $375B | $562.5B |
-| **Homart** | Full | 250 malls, 80,000 apartments, property management | $50B | $200B |
 | **Sears Logistics** | Full | 65 distribution centers (45 U.S., 16 global, 4 Canada), 9,000 micro-DCs | $155B | $232.5B |
 
 ---
@@ -212,24 +211,6 @@ The Discover Card Network is now the subsidiary responsible for the day-to-day t
 
 ---
 
-### 👨‍🔧 Employee Roles and Estimated Payroll Breakdown (2035)
-
-*The payroll estimate has been updated to reflect the new Discover Card Network staff and budget changes. **Total Annual Payroll is now estimated at ~$53.6 Billion.** *
-
-| Employee Segment | Estimated Headcount (2035) | Estimated Base Hourly/Salary Range (NA) | Total Annual Payroll Est. (NA) | Notes on Incentives |
-| :--- | :--- | :--- | :--- | :--- |
-| **Auto/HomeForce Techs** | **66,000** (48k HomeForce + 18k Auto Ctr) | **$50/hour base** ($104K/yr) + **Warranty Incentives** | ~$6.86 Billion | Hybrid Pay, tiered bonuses, no-fault safety net, quarterly team incentives. |
-| **Factory Floor/Logistics** | **243,350** (38.35k Factory + 205k Logistics) | **$20 – $35/hour** ($41.6K - $72.8K/yr) | ~$13 Billion | Profit-sharing participation with key suppliers, robotics training. |
-| **Retail/Showroom Staff** | **202,500** (195k Retail + 7.5k Showroom/DC) | **$20 – $30/hour** ($41.6K - $62.4K/yr) | ~$8.4 Billion | High base wage, SearsCoin bonuses, 15% ESPP discount (after 1 year). |
-| **R&D Specialists/Engineers** | **52,500** | **$120K – $220K/yr+** | ~$8 Billion | 10% premium above market median, significant ESPP, high-value profit-sharing. |
-| **Mid/Senior Management** | **42,000** | **$100K – $350K/yr+** | ~$6.3 Billion | Performance bonuses, significant stock options, access to Sears Fund. |
-| **C-Suite/Executive** | **3,000** | **$500K – $5M+/yr** | ~$1 Billion | Performance-based equity, long-term incentive plans tied to **$3T valuation** goal. |
-| **Dean Witter/Discover** | **8,600** (3.8k DWF + 4.8k Discover) | **$80K – $200K/yr+** | ~$1.6 Billion **(New Est.)** | Competitive financial sector pay. |
-| **Datsun Employees** | **140,000** (Japanese/Expanded Markets) | **$45K – $150K/yr equivalent** | ~$10 Billion | Competitive global compensation, profit-sharing integration, access to Datsun IPO shares. |
-| **Total Workforce** | **703,950** | | **~$55.16 Billion** (Estimate) | **Min wage floor: $20/hour.** |
-
----
-
 ### Revised Corporate Wealth Investment Summary
 
 | Category | 2025 Total Investment | 2035 Target | New Investments (2025-2035) |
@@ -278,50 +259,23 @@ The Discover Card Network is now the subsidiary responsible for the day-to-day t
 * **Stores:** 2,700 (2,420 showrooms/micro-DCs, 280 full-line Homart Mall anchor stores)
 * **Payroll:** $20/hour min wage floor; 10% premium above medians for roles; mechanics at $50/hour base with warranty incentives.
 * **Other Operations:** 280 malls, 60 logistics distribution centers, 140 Saks stores, 280 Atari Arcades (Homart malls), Cub Cadet factories/R&D, Datsun support, Sears World Trade, Inc.
-* **Profit-sharing contracts** with key suppliers: **Goodyear Tire**, Yamaha, Whirlpool, Sherwin-Williams, Char-Broil, Magna/Getrag, Allstate, Serta, and Key SMBs from Sears Ventures.
+* **Profit-sharing contracts** with key suppliers: **Goodyear Tire, Yamaha, etc.**
 
----
+### 👨‍🔧 Employee Roles and Estimated Payroll Breakdown (2035)
 
-### 📜 Syndicate Profit-Sharing Eligibility Conditions (The Covenant)
+*The payroll estimate has been updated to reflect the new Discover Card Network staff and budget changes. **Total Annual Payroll is now estimated at ~$53.6 Billion.** *
 
-For any Syndicate Partner to be eligible for profit-sharing distributions (cash, SSGF equity, and SearsCoin), they must satisfy all the following contractual conditions, reinforcing the core values of The Sears Concordant:
-
-#### I. Product Lifecycle Commitments
-1.  **Durability & Modularity:** Suppliers must adopt **Sears' Standards for Durability and Modularity** in all jointly developed products (Kenmore, Coldspot, RoadHandler, etc.), ensuring designs prioritize component accessibility and long service life.
-2.  **Parts Support:** The partner must guarantee **five (5) years of active parts support** for all core SKUs produced under the Sears brand (or for Sears-exclusive distribution), with inventory listing and availability mandated on the Sears PartsDirect system.
-3.  **Right to Repair:** The partner must provide diagnostic codes, service manuals, and proprietary tooling information to the Sears HomeForce/Auto Center network and to independent repair shops participating in the Unique Repair Network, in alignment with Sears' **Right to Repair** ethos.
-
-#### II. Financial & Operational Integration
-4.  **Joint Funding Participation:** The partner must actively participate and contribute capital (as defined in the Joint Venture agreement) to all **Sears/Partner Joint R&D Clusters** (e.g., Sears/Whirlpool Joint R&D, Datsun/Yamaha/Getrag Joint R&D).
-5.  **SCloud & KENN Integration:** The partner must utilize **SCloud** as the primary cloud platform for all joint product R&D, manufacturing telemetry, and supply chain logistics, and integrate their proprietary data streams into the **KENN AI** retail and diagnostic intelligence engine.
-6.  **Supplier Growth Fund (SSGF):** The partner's annual profit-sharing distribution is subject to a mandatory **ten percent (10%) contribution** toward the Sears Supplier Growth Fund (SSGF) in the form of Sears equity.
-
-#### III. Employee & Financial Ecosystem Alignment
-7.  **Employee Stock Purchase Program (ESPP):** The partner must develop and implement its own version of a robust, transparent **Employee Stock Purchase Program (ESPP)** for its employees, modeled after the Sears ESPP, to foster long-term employee ownership.
-8.  **Internal Wealth Fund:** The partner must establish its own dedicated, independently managed **Internal Wealth Fund** (e.g., the 'Yamaha Fund'), modeled after the Sears Fund, to manage corporate wealth and equity stakes transparently.
-9.  **SearsCoin Acceptance:** The partner must accept **SearsCoin** as payment for a minimum of five (5) specified internal B2B services or licenses related to the Sears ecosystem, thus supporting the SearsCoin reserve value and utility.
-
-| Partner (Syndicate Member) | Gross Allocation ($ Billions) | USD Payout (70%) ($ Billions) | SCN Payout (20%) (SCN Billions) | SSGF Payout (10%) ($ Billions) | Total SC Value ($ Billions) |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| **Whirlpool** (Appliances) | $1.20 | **$0.84** | **$24.0** | $0.12 | **$1.20** |
-| **Goodyear Tire** (RoadHandler) | $0.75 | **$0.525** | **$15.0** | $0.075 | **$0.75** |
-| **Yamaha** (Powertrain) | $0.55 | **$0.385** | **$11.0** | $0.055 | **$0.55** |
-| **Sega/Sammy** (Atari Sports) | $0.40 | **$0.28** | **$8.0** | $0.04 | **$0.40** |
-| **Sherwin-Williams** (Paint) | $0.30 | **$0.21** | **$6.0** | $0.03 | **$0.30** |
-| **Serta** (Harmony House) | $0.25 | **$0.175** | **$5.0** | $0.025 | **$0.25** |
-| **Magna/Getrag** (Transmission) | $0.20 | **$0.14** | **$4.0** | $0.02 | **$0.20** |
-| **Char-Broil** (Grills) | $0.16 | **$0.112** | **$3.2** | $0.016 | **$0.16** |
-| **Allstate** (Insurance) | $0.14 | **$0.098** | **$2.8** | $0.014 | **$0.14** |
-| **TOTALS** | **$4.00** | **$2.80** | **$80.0** | **$0.40** | **$4.00** |
-
----
-
-| Component | Payout Value ($ Billions) | Percentage (%) | SearsCoin Payout (SCN Billions) |
-| :--- | :--- | :--- | :--- |
-| **Cash (USD)** | $2.80 | 70.0% | N/A |
-| **SearsCoin (SCN)** | $0.80 | 20.0% | 80.0 Billion SCN |
-| **SSGF Equity Contribution** | $0.40 | 10.0% | N/A |
-| **Total Pool** | **$4.00** | **100.0%** | |
+| Employee Segment | Estimated Headcount (2035) | Estimated Base Hourly/Salary Range (NA) | Total Annual Payroll Est. (NA) | Notes on Incentives |
+| :--- | :--- | :--- | :--- | :--- |
+| **Auto/HomeForce Techs** | **66,000** (48k HomeForce + 18k Auto Ctr) | **$50/hour base** ($104K/yr) + **Warranty Incentives** | ~$6.86 Billion | Hybrid Pay, tiered bonuses, no-fault safety net, quarterly team incentives. |
+| **Factory Floor/Logistics** | **243,350** (38.35k Factory + 205k Logistics) | **$20 – $35/hour** ($41.6K - $72.8K/yr) | ~$13 Billion | Profit-sharing participation with key suppliers, robotics training. |
+| **Retail/Showroom Staff** | **202,500** (195k Retail + 7.5k Showroom/DC) | **$20 – $30/hour** ($41.6K - $62.4K/yr) | ~$8.4 Billion | High base wage, SearsCoin bonuses, 15% ESPP discount (after 1 year). |
+| **R&D Specialists/Engineers** | **52,500** | **$120K – $220K/yr+** | ~$8 Billion | 10% premium above market median, significant ESPP, high-value profit-sharing. |
+| **Mid/Senior Management** | **42,000** | **$100K – $350K/yr+** | ~$6.3 Billion | Performance bonuses, significant stock options, access to Sears Fund. |
+| **C-Suite/Executive** | **3,000** | **$500K – $5M+/yr** | ~$1 Billion | Performance-based equity, long-term incentive plans tied to **$3T valuation** goal. |
+| **Dean Witter/Discover** | **8,600** (3.8k DWF + 4.8k Discover) | **$80K – $200K/yr+** | ~$1.6 Billion **(New Est.)** | Competitive financial sector pay. |
+| **Datsun Employees** | **140,000** (Japanese/Expanded Markets) | **$45K – $150K/yr equivalent** | ~$10 Billion | Competitive global compensation, profit-sharing integration, access to Datsun IPO shares. |
+| **Total Workforce** | **703,950** | | **~$55.16 Billion** (Estimate) | **Min wage floor: $20/hour.** |
 
 ---
 
@@ -592,6 +546,48 @@ Objective: Scale to $45B revenue, 15% global robotics share.
 
 
 * **Datsun:** Synergies ($6B): DieHard batteries, **RoadHandler tires ($0.8B from Goodyear Tire)**, Allstate insurance, KENN AI, etc.
+
+
+### 📜 Sipplier Profit-Sharing program & Eligibility Conditions
+
+For any Syndicate Partner to be eligible for profit-sharing distributions (cash, SSGF equity, and SearsCoin), they must satisfy all the following contractual conditions, reinforcing the core values of The Sears Concordant:
+
+#### I. Product Lifecycle Commitments
+1.  **Durability & Modularity:** Suppliers must adopt **Sears' Standards for Durability and Modularity** in all jointly developed products (Kenmore, Coldspot, RoadHandler, etc.), ensuring designs prioritize component accessibility and long service life.
+2.  **Parts Support:** The partner must guarantee **five (5) years of active parts support** for all core SKUs produced under the Sears brand (or for Sears-exclusive distribution), with inventory listing and availability mandated on the Sears PartsDirect system.
+3.  **Right to Repair:** The partner must provide diagnostic codes, service manuals, and proprietary tooling information to the Sears HomeForce/Auto Center network and to independent repair shops participating in the Unique Repair Network, in alignment with Sears' **Right to Repair** ethos.
+
+#### II. Financial & Operational Integration
+4.  **Joint Funding Participation:** The partner must actively participate and contribute capital (as defined in the Joint Venture agreement) to all **Sears/Partner Joint R&D Clusters** (e.g., Sears/Whirlpool Joint R&D, Datsun/Yamaha/Getrag Joint R&D).
+5.  **SCloud & KENN Integration:** The partner must utilize **SCloud** as the primary cloud platform for all joint product R&D, manufacturing telemetry, and supply chain logistics, and integrate their proprietary data streams into the **KENN AI** retail and diagnostic intelligence engine.
+6.  **Supplier Growth Fund (SSGF):** The partner's annual profit-sharing distribution is subject to a mandatory **ten percent (10%) contribution** toward the Sears Supplier Growth Fund (SSGF) in the form of Sears equity.
+
+#### III. Employee & Financial Ecosystem Alignment
+7.  **Employee Stock Purchase Program (ESPP):** The partner must develop and implement its own version of a robust, transparent **Employee Stock Purchase Program (ESPP)** for its employees, modeled after the Sears ESPP, to foster long-term employee ownership.
+8.  **Internal Wealth Fund:** The partner must establish its own dedicated, independently managed **Internal Wealth Fund** (e.g., the 'Yamaha Fund'), modeled after the Sears Fund, to manage corporate wealth and equity stakes transparently.
+9.  **SearsCoin Acceptance:** The partner must accept **SearsCoin** as payment for a minimum of five (5) specified internal B2B services or licenses related to the Sears ecosystem, thus supporting the SearsCoin reserve value and utility.
+
+| Partner (Syndicate Member) | Gross Allocation ($ Billions) | USD Payout (70%) ($ Billions) | SCN Payout (20%) (SCN Billions) | SSGF Payout (10%) ($ Billions) | Total SC Value ($ Billions) |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **Whirlpool** (Appliances) | $1.20 | **$0.84** | **$24.0** | $0.12 | **$1.20** |
+| **Goodyear Tire** (RoadHandler) | $0.75 | **$0.525** | **$15.0** | $0.075 | **$0.75** |
+| **Yamaha** (Powertrain) | $0.55 | **$0.385** | **$11.0** | $0.055 | **$0.55** |
+| **Sega/Sammy** (Atari Sports) | $0.40 | **$0.28** | **$8.0** | $0.04 | **$0.40** |
+| **Sherwin-Williams** (Paint) | $0.30 | **$0.21** | **$6.0** | $0.03 | **$0.30** |
+| **Serta** (Harmony House) | $0.25 | **$0.175** | **$5.0** | $0.025 | **$0.25** |
+| **Magna/Getrag** (Transmission) | $0.20 | **$0.14** | **$4.0** | $0.02 | **$0.20** |
+| **Char-Broil** (Grills) | $0.16 | **$0.112** | **$3.2** | $0.016 | **$0.16** |
+| **Allstate** (Insurance) | $0.14 | **$0.098** | **$2.8** | $0.014 | **$0.14** |
+| **TOTALS** | **$4.00** | **$2.80** | **$80.0** | **$0.40** | **$4.00** |
+
+---
+
+| Component | Payout Value ($ Billions) | Percentage (%) | SearsCoin Payout (SCN Billions) |
+| :--- | :--- | :--- | :--- |
+| **Cash (USD)** | $2.80 | 70.0% | N/A |
+| **SearsCoin (SCN)** | $0.80 | 20.0% | 80.0 Billion SCN |
+| **SSGF Equity Contribution** | $0.40 | 10.0% | N/A |
+| **Total Pool** | **$4.00** | **100.0%** | |
 
 ---
 

@@ -337,7 +337,7 @@ Objective: Scale to 90 distribution centers, capture 2.5% of $30T global market.
 
 * Features: 90 distribution centers, 10,000 micro-DCs, 200,000 hybrid vehicles, 57 Boeing/70 737-800BCF/90 Cessna Skycourier feeder aircraft, Self-Healing Supply Chains via KENN AI.
 
-#### 4. Factories & Brands
+#### 4. Brands & Factories 
 Objective: Scale factories and brands to generate $252B, leveraging Cub Cadet, Remington, and Datsun.
 
 | Metric | 2025 | 2035 |
@@ -349,7 +349,7 @@ Objective: Scale factories and brands to generate $252B, leveraging Cub Cadet, R
 
 * Features: Profit-sharing with key suppliers, Saks expansion, Datsun synergies, **No BNPL for Saks 5th Avenue**.
 
-## 🏭 Core Brands & Production Roster - Final Revision
+## 🏭 Core Brands & Production Roster
 
 This table consolidates all major brands and clarifies the production model: **Sears-Owned Factory (Vertical)** or **Syndicate Supplier (Partner)**.
 
@@ -366,14 +366,14 @@ This table consolidates all major brands and clarifies the production model: **S
 | **DieHard Batteries** | Vertical | Sears | $10B | Produced in **Dallas, TX** factory (EV/Hybrid, Lithium-ion focus). |
 | **Cub Cadet** | Vertical | Sears | $5.5B | Mowers, snowblowers, tractors made in **Martin/Brownsville, TN** factories. |
 | **Datsun Vehicles** | Vertical/Partner | Sears/Nissan/Yamaha/Getrag | $48B | Assembly in TN/MX/JP; Powertrain via **Yamaha/Getrag** synergy. |
-| **Atari Peripherals** | Vertical | Sears | N/A (Included in Atari Rev.) | Produced in **Osaka, Japan** factory. |
+| **Atari consoles/Peripherals** | Vertical | Sears | N/A (Included in Atari Rev.) | Produced in **Osaka, Japan** factory. |
 | **Harmony House** | Vertical/Partner | Sears/Serta | $7.5B | Mattresses/bedding produced in **Guadalajara/Surabaya** factories. |
 | **WeatherBeater Paint** | Partner | **Sherwin-Williams** | $6.5B | Paint/sealants for Datsun and retail, produced via profit-sharing. |
 | **Char-Broil Grills** | Partner | **Char-Broil** | $1.1B | High-volume SKU for Sears.com, produced via profit-sharing contract. |
-| **Kiva Appliance Bots** | Vertical | Sears Robotics | N/A (Included in Robotics Rev.) | Robotics made in **Surabaya/Osaka/Dallas** factories. |
+| **Kiva/Dragonfly logistics/consumer Bots** | Vertical | Sears Robotics | N/A (Included in Robotics Rev.) | Robotics made in **Surabaya/Osaka** factories. |
 
 
-## 🏭 Corrected Sears-Affiliated Manufacturing & Production Roster
+## 🏭 Sears-Affiliated Manufacturing & Production Roster
 
 This table lists the key facilities, incorporating Zenith, revised Datsun production split (Cars/CUVs in Japan, Trucks/EV Vans in NA/MX), and capacity metrics.
 
@@ -522,9 +522,9 @@ Objective: Scale to $45B revenue, 15% global robotics share.
 | **Sears Canada** | Calgary, AB | 45,500 | $18B |
 | **Sears World Trade, Inc.** | Dallas | 4,500 (+1,800 global ops) | $30B |
 | **Western Forge** | Colorado | 75 (+ 50 for Remington) | $4B |
-| **Yahoo!** | **San Antonio**, TX | 5,500 | $45.5B |
+| **Yahoo!/Ifixit** | **San Antonio**, TX | 5,500 | $45.5B |
 | **Zenith** | **San Antonio**, TX | 8,500 | $55B |
-| **Dean Witter Asset Management:** *See consolidated section above.* |
+| **Dean Witter** | *See consolidated section above.* |
 
 ---
 
@@ -620,7 +620,7 @@ Objective: Scale to $45B revenue, 15% global robotics share.
 
 * **Structure:** Standalone Japanese corporation, **Osaka** HQ/R&D.
 * **Ownership:** 33-51% Sears stake ($8B, 2026-2028).
-* **Service:** Auto Centers (2,900 centers), HomeForce (mobile repair), **RoadHandler Tires** included.
+* **Service:** Auto Centers (2,900 centers), HomeForce (mobile repair), **RoadHandler Tires, DieHard batteries, WeatherBeater (automotive paint), Harmony House (seat foam)** included.
 
 ---
 

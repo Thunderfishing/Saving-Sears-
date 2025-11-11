@@ -98,6 +98,8 @@ By the end of Phase 3 (2025), Sears achieves significant milestones:
 | **Dean Witter/Discover** | **8,600** (3.8k DWF + 4.8k Discover) | **$80K – $200K/yr+** | ~$1.6 Billion **(New Est.)** | Competitive financial sector pay. |
 | **Datsun Employees** | **140,000** (Japanese/Expanded Markets) | **$45K – $150K/yr equivalent** | ~$10 Billion | Competitive global compensation, profit-sharing integration, access to Datsun IPO shares. |
 | **Total Workforce** | **703,950** | | **~$55.16 Billion** (Estimate) | **Min wage floor: $20/hour.** |
+ 
+ *Clarification note: Wages are paid in local currency (e.i. USD), Christmas/Performance bonuses issued in SearsCoin.*
 
 ### 🔬 R&D Cluster Staffing & Financial Contributions (2035)
 

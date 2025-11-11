@@ -419,7 +419,7 @@ Objective: Maintain 750 showrooms, generate $5.25B.
 
 * Features: Kodak-branded/engineered lightweight prescription lenses.
 
-#### 9. Sears Academy & Sustainability
+#### 9. Sears Academy & Sustainability/Community initiatives 
 Objective: Scale to 220 college partners, provide $35B revenue uplift.
 
 | Metric | 2025 | 2035 |
@@ -429,18 +429,6 @@ Objective: Scale to 220 college partners, provide $35B revenue uplift.
 
 * Features: Network of 220 colleges, Dallas polytechnic campus, programs in AI/robotics/EV tech, **Right to Repair** advocate, **Anti-planned obsolescence** advocate.
 
-#### 10. Sears Robotics
-Objective: Scale to $45B revenue, 15% global robotics share.
-
-| Metric | 2025 | 2035 |
-| :--- | :--- | :--- |
-| **Revenue** | $20B | $45B |
-| **Value** | $30B | $67.5B |
-| **Workforce** | 10,000 | |
-
-* Features: Consumer/industrial robots, Gen 3 Kodak Optics, Atari peripherals.
-
----
 
 ### 🏬 Homart Mall: Community Initiatives & The "Safe Harbor" Ecosystem
 
@@ -456,6 +444,18 @@ Objective: Scale to $45B revenue, 15% global robotics share.
 | **Health & Wellness** | **Community Access** | Access to **nursing staff** located at the malls. | Provides a basic health safety net and convenient access to essential services. |
 | **Engagement & Events** | **Social/Recreational Hub** | **Integrated Youth Centers** (dances, sports, support), **Atari lounge tournaments**, Chess/board games. | Creates a "safe harbor" environment, fostering community cohesion and engagement for all ages. |
 | **Local Culture** | **Seasonal & Arts Events** | Vetted buskers/musicians, **Car Clubs** (show & shines), Carnivals/Shriners, Community gardens. | **Re-establishes the mall as a town square** and local cultural center. |
+
+
+#### 10. Sears Robotics
+Objective: Scale to $45B revenue, 15% global robotics share.
+
+| Metric | 2025 | 2035 |
+| :--- | :--- | :--- |
+| **Revenue** | $20B | $45B |
+| **Value** | $30B | $67.5B |
+| **Workforce** | 10,000 | |
+
+* Features: Consumer/industrial robots, Gen 3 Kodak Optics, Atari peripherals.
 
 ---
 

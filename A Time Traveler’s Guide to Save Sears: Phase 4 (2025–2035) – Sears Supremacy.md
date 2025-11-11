@@ -45,85 +45,6 @@ By the end of Phase 3 (2025), Sears achieves significant milestones:
 
 ---
 
-## 📈 Corporate Entities & Technology 
-
-This new graph includes the full-ownership corporate assets that are not brands, factories, or formal subsidiaries, moved from the original Key Assets table.
-
-| Asset | Ownership | Description | Revenue (2035) | Value (2035) |
-| :--- | :--- | :--- | :--- | :--- |
-| **Sears.com** | Full | Online digital marketplace (beta 1993, full launch 1995), 320M+ users | $900B | $1.35T |
-| **SCloud** | Full | Cloud services (1995), 2M 3rd-party customers | $375B | $562.5B |
-| **Sears Logistics** | Full | 65 distribution centers (45 U.S., 16 global, 4 Canada), 9,000 micro-DCs | $155B | $232.5B |
-
----
-
-## 💰 Dean Witter Asset Management & Discover Card Financial Ecosystem
-
-This section combines the Dean Witter Financials and Asset Management with the Discover Card Network details, reflecting the new organizational structure.
-
-### 💳 Discover Card Network: Financial Engine & Crypto Management
-
-The Discover Card Network is now the subsidiary responsible for the day-to-day transaction backbone and the management of Sears' crypto and data initiatives.
-
-| Metric | 2025 (Network Only) | 2035 (Combined) | Notes |
-| :--- | :--- | :--- | :--- |
-| **Total Employees** | (Original 4,500 DWF) | **4,800 (New Est. for Discover)** | New dedicated staff for network/crypto/CDM management. |
-| **Operating Budget** | N/A | **$250M/year (Increased)** | Increased budget to manage crypto/data/network operations. |
-| **Revenue (Network/Fees/SCN)** | $5B/$8B (Original) | **$11B (Network) + $18B (SCN) = $29B** | Includes network fees and SearsCoin rewards revenue. |
-| **SearsCoin & CDM Management** | N/A | **Full Management** | **SearsCoin (SCN) and the Consumer Data Marketplace (CDM) are managed by Discover Card Network.** |
-| **Coldwell Banker Synergy** | N/A | **$15B Revenue** | Real estate brokerage and mortgage origination. |
-
-### 📈 Dean Witter Asset Management: Fund Structure & Governance
-
-**Total Assets Under Management (AUM) by 2035: $1.457 Trillion**
-
-**Dean Witter** operates as an independent asset management subsidiary with oversight boards for each fund category.
-
-| Metric | 2025 | 2035 |
-| :--- | :--- | :--- |
-| **Total Employees** | 3,800 | 3,800 (Stable) |
-| **Operating Budget** | $150M/year | $200M/year |
-| **Total AUM** | $392B | **$1.457T** |
-| **Revenue (Management/Performance Fees)** | $2.5B | **$8.75B** |
-| **Entity Value** | $10B | **$37.5B** |
-
-**Headquarters:** Dallas, TX
-
-**Governance:**
-* **Master Oversight Board:** 9 members (3 independent directors, 2 Sears board members, 1 Syndicate representative, 1 employee representative, 1 customer advocate, 1 regulatory expert)
-* **Regulatory Compliance Office:** Dedicated team ensuring Chinese walls between funds, transparent reporting, fiduciary duty adherence.
-* **Annual External Audit:** Required for all funds with public disclosure.
-
-#### Dean Witter Asset Management Fund Structure (2035)
-
-| Fund | Assets (2035) | Purpose |
-| :--- | :--- | :--- |
-| **Corporate Wealth Fund** | $34B | Strategic Syndicate investments |
-| **SearsCoin Reserve Fund** | $23.2B | Asset backing for SearsCoin (Managed by Dean Witter, operations via Discover) |
-| **Sears Fund** | $210B | Long-term shareholder equity |
-| **Homart Mortgage Fund (HMF)** | **$875B** | **Holds Coldwell Banker's elite-grade mortgages** |
-| **Homart Community Fund** | $10B | Community initiatives |
-| **Sears Supplier Growth Fund (SSGF)** | $23B | Supplier collective investment |
-| **Employee Stock Purchase Program (ESPP)** | $36B | Employee ownership |
-| **Sears Ventures** | $30B | Venture capital for SMBs/startups |
-| **Customer Brokerage Accounts** | $80B | Retail customer investments |
-| **Sears Savings Accounts** | $136B | Integrated banking services |
-| **Total AUM** | **$1.457T** | Master 9-member oversight board |
-
----
-
-### Revised Corporate Wealth Investment Summary
-
-| Category | 2025 Total Investment | 2035 Target | New Investments (2025-2035) |
-| :--- | :--- | :--- | :--- |
-| **Mining Securities (SearsCoin Reserve)** | $12.3B ($10B existing) | $18B | $2.3B |
-| **Corporate Wealth Strategic Investments** | $13B | $34B | $13.0B |
-| **Total Investment Budget** | | | **$15.3B** |
-
-* **Asset Sales:** Generate **$8B** from non-core Nissan assets.
-
----
-
 ### Funding
 
 | Source | Amount |
@@ -178,9 +99,46 @@ The Discover Card Network is now the subsidiary responsible for the day-to-day t
 | **Datsun Employees** | **140,000** (Japanese/Expanded Markets) | **$45K – $150K/yr equivalent** | ~$10 Billion | Competitive global compensation, profit-sharing integration, access to Datsun IPO shares. |
 | **Total Workforce** | **703,950** | | **~$55.16 Billion** (Estimate) | **Min wage floor: $20/hour.** |
 
+### 🔬 R&D Cluster Staffing & Financial Contributions (2035)
+
+*R&D is centralized in key "Centers of Excellence" (San Antonio, Osaka, Colorado Springs) to maximize inter-subsidiary knowledge sharing.*
+
+| R&D Cluster / Facility | Primary Location | Estimated Staff (2035) | R&D Spending (2035) | Key Cross-Pollination / Shared Tech |
+| :--- | :--- | :--- | :--- | :--- |
+| **KENN AI / SCloud Core** | San Antonio, TX | **3,000** | **$8.0 Billion** | AI for **Yahoo!** Search, **Robotics** logic, **Datsun** diagnostics, **Kodak** image recognition. |
+| **Datsun / Cub Cadet (Joint)** | San Antonio, TX | **2,000** | **$3.5 Billion** | Shared EV battery tech (**DieHard**), propulsion systems, KENN AI vehicle diagnostics, **Yamaha/Getrag** synergy. |
+| **Atari / Zenith / Robotics** | Osaka, JP / San Antonio, TX | **9,000** (4.5k Atari, 2k Zenith, 2.5k Robotics) | **$8.0 Billion** | **Kodak** optics for VR/AR and robot vision, **Zenith** display tech for consoles/cockpits, **SCloud** for cloud gaming. |
+| **Kodak Optics/Graphics** | Osaka, JP / San Antonio, TX | **2,000** | **$2.5 Billion** | Lenses for **Sears Optical**, graphics chips for **Atari**, image processing for KENN AI (Retail Discovery). |
+| **Appliance (Whirlpool/Serta)** | San Antonio, TX | **2,000** (1.5k Whirlpool, 500 Serta) | **$4.5 Billion** | Shared modular design (Kenmore/Coldspot), **Harmony House** materials science, KENN smart home integration. |
+| **Metallurgy / Automotive** | Colorado Springs, CO | **500** (Goodyear + 150 Lab) | **$1.15 Billion** | Advanced materials for **Craftsman/Remington**, high-wear parts for **Datsun/Cub Cadet**, **RoadHandler** tire compounds. |
+| **DieHard / WeatherBeater** | San Antonio, TX | **1,500** | **$3.5 Billion** | EV battery materials (**DieHard**), high-durability coatings/paints (**WeatherBeater** for Datsun). |
+| **Other R&D / Global Support** | Various (Yahoo!, Osaka/Datsun) | **~35,000** | **$18.85 Billion** | **Total R&D Spend: $50B/year** |
+
+### 💡 Estimated Value of Free/Open-Source R&D Contributions (2035)
+
+*The Covenant of Reciprocity, Durability and Repair creates a self-reinforcing innovation loop, externalizing R&D costs.*
+
+| Source of "Free R&D" Contribution | Estimated Annual Financial Value (2035) | Rationale / Mechanism |
+| :--- | :--- | :--- |
+| **Syndicate Partner Licensing** | **$4.0 – $6.0 Billion** | Technology from joint R&D (e.g., Whirlpool, Yamaha) becomes non-exclusive after 5 years, encouraging greater **Syndicate participation** and rapid innovation diffusion. |
+| **HomeForce / Repair Network** | **$1.0 – $1.5 Billion** | HomeForce, Auto Center, and **Unique Repair Network** shops submitting **KENN TSBs** (5 SearsCoin reward) that provide immediate, real-world failure analysis, skipping millions in lab testing. |
+| **Sears Academy / Students** | **$0.5 – $1.0 Billion** | Student projects, dissertations, and Capstone work on **modularity, repairability, and electron migration issues** provide valuable, low-cost research inputs. |
+| **High-Paid Mechanics / Techs** | **$0.8 – $1.2 Billion** | Highly-paid ($50/hr base) HomeForce and Auto Center mechanics are incentivized to provide proactive **diagnostic feedback** and optimization suggestions directly to R&D teams via KENN. |
+| **Total Estimated Free R&D Value** | **$6.3 – $9.7 Billion / year** | This is a significant supplement to the formal **$50B/year R&D budget**, providing unparalleled real-world data and design inputs. |
+
 ---
 
 ### Strategic Pillars
+
+## 📈 Corporate Entities & Technology 
+
+This new graph includes the full-ownership corporate assets that are not brands, factories, or formal subsidiaries, moved from the original Key Assets table.
+
+| Asset | Ownership | Description | Revenue (2035) | Value (2035) |
+| :--- | :--- | :--- | :--- | :--- |
+| **Sears.com** | Full | Online digital marketplace (beta 1993, full launch 1995), 320M+ users | $900B | $1.35T |
+| **SCloud** | Full | Cloud services (1995), 2M 3rd-party customers | $375B | $562.5B |
+| **Sears Logistics** | Full | 90 distribution centers (60 U.S., 24 global, 6 Canada), 9,000 micro-DCs | $155B | $232.5B |
 
 #### 1. Tech Division
 Objective: Scale to $1.2T revenue.
@@ -458,6 +416,72 @@ This graph now consolidates all subsidiaries and includes the functions of **Col
 | **Coldwell Banker** | Dallas, TX | (Included in Dean Witter) | $15B | Real estate brokerage, property management. **Originates 30%-down mortgages for Dean Witter Homart Mortgage Fund.** |
 | **Discover Card Network** | **Dallas, TX** | **4,800 (New Est.)** | **$11B (Network) + $18B (SearsCoin)** | Backbone of SearsPay/SearsCoin transactions. **Manages SearsCoin (SCN)**. **Manages Consumer Data Marketplace (CDM)**. |
 | **Dean Witter Asset Management** | Dallas, TX | 3,800 | $8.75B | Manages Sears Funds/Brokerage Accounts. **Total AUM: $1.457T.** |
+
+
+## 💰 Dean Witter Asset Management & Discover Card Financial Ecosystem
+
+This section combines the Dean Witter Financials and Asset Management with the Discover Card Network details, reflecting the new organizational structure.
+
+### 💳 Discover Card Network: Financial Engine & Crypto Management
+
+The Discover Card Network is now the subsidiary responsible for the day-to-day transaction backbone and the management of Sears' crypto and data initiatives.
+
+| Metric | 2025 (Network Only) | 2035 (Combined) | Notes |
+| :--- | :--- | :--- | :--- |
+| **Total Employees** | (Original 4,500 DWF) | **4,800 (New Est. for Discover)** | New dedicated staff for network/crypto/CDM management. |
+| **Operating Budget** | N/A | **$250M/year (Increased)** | Increased budget to manage crypto/data/network operations. |
+| **Revenue (Network/Fees/SCN)** | $5B/$8B (Original) | **$11B (Network) + $18B (SCN) = $29B** | Includes network fees and SearsCoin rewards revenue. |
+| **SearsCoin & CDM Management** | N/A | **Full Management** | **SearsCoin (SCN) and the Consumer Data Marketplace (CDM) are managed by Discover Card Network.** |
+| **Coldwell Banker Synergy** | N/A | **$15B Revenue** | Real estate brokerage and mortgage origination. |
+
+### 📈 Dean Witter Asset Management: Fund Structure & Governance
+
+**Total Assets Under Management (AUM) by 2035: $1.457 Trillion**
+
+**Dean Witter** operates as an independent asset management subsidiary with oversight boards for each fund category.
+
+| Metric | 2025 | 2035 |
+| :--- | :--- | :--- |
+| **Total Employees** | 3,800 | 3,800 (Stable) |
+| **Operating Budget** | $150M/year | $200M/year |
+| **Total AUM** | $392B | **$1.457T** |
+| **Revenue (Management/Performance Fees)** | $2.5B | **$8.75B** |
+| **Entity Value** | $10B | **$37.5B** |
+
+**Headquarters:** Dallas, TX
+
+**Governance:**
+* **Master Oversight Board:** 9 members (3 independent directors, 2 Sears board members, 1 Syndicate representative, 1 employee representative, 1 customer advocate, 1 regulatory expert)
+* **Regulatory Compliance Office:** Dedicated team ensuring Chinese walls between funds, transparent reporting, fiduciary duty adherence.
+* **Annual External Audit:** Required for all funds with public disclosure.
+
+#### Dean Witter Asset Management Fund Structure (2035)
+
+| Fund | Assets (2035) | Purpose |
+| :--- | :--- | :--- |
+| **Corporate Wealth Fund** | $34B | Strategic Syndicate investments |
+| **SearsCoin Reserve Fund** | $23.2B | Asset backing for SearsCoin (Managed by Dean Witter, operations via Discover) |
+| **Sears Fund** | $210B | Long-term shareholder equity |
+| **Homart Mortgage Fund (HMF)** | **$875B** | **Holds Coldwell Banker's elite-grade mortgages** |
+| **Homart Community Fund** | $10B | Community initiatives |
+| **Sears Supplier Growth Fund (SSGF)** | $23B | Supplier collective investment |
+| **Employee Stock Purchase Program (ESPP)** | $36B | Employee ownership |
+| **Sears Ventures** | $30B | Venture capital for SMBs/startups |
+| **Customer Brokerage Accounts** | $80B | Retail customer investments |
+| **Sears Savings Accounts** | $136B | Integrated banking services |
+| **Total AUM** | **$1.457T** | Master 9-member oversight board |
+
+---
+
+### Revised Corporate Wealth Investment Summary
+
+| Category | 2025 Total Investment | 2035 Target | New Investments (2025-2035) |
+| :--- | :--- | :--- | :--- |
+| **Mining Securities (SearsCoin Reserve)** | $12.3B ($10B existing) | $18B | $2.3B |
+| **Corporate Wealth Strategic Investments** | $13B | $34B | $13.0B |
+| **Total Investment Budget** | | | **$15.3B** |
+
+* **Asset Sales:** Generate **$8B** from non-core Nissan assets.
 
 ---
 

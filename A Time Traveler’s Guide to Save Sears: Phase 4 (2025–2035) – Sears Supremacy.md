@@ -120,7 +120,7 @@ By the end of Phase 3 (2025), Sears achieves significant milestones:
 
 *The Covenant of Reciprocity, Durability and Repair creates a self-reinforcing innovation loop, externalizing R&D costs.*
 
-| Source of "Free R&D" Contribution | Estimated Annual Financial Value (2035) | Rationale / Mechanism |
+| Source of "free R&D" Contribution | Estimated Annual Financial Value (2035) | Rationale / Mechanism |
 | :--- | :--- | :--- |
 | **Syndicate Partner Licensing** | **$4.0 – $6.0 Billion** | Technology from joint R&D (e.g., Whirlpool, Yamaha) becomes non-exclusive after 5 years, encouraging greater **Syndicate participation** and rapid innovation diffusion. |
 | **HomeForce / Repair Network** | **$1.0 – $1.5 Billion** | HomeForce, Auto Center, and **Unique Repair Network** shops submitting **KENN TSBs** (5 SearsCoin reward) that provide immediate, real-world failure analysis, skipping millions in lab testing. |
@@ -230,7 +230,7 @@ Objective: Scale to 90 distribution centers, capture 2.5% of $30T global market.
 | **Workforce** | 205,000 | |
 | **Budget** | $100B | |
 
-* Features: 90 distribution centers, 10,000 micro-DCs, 200,000 hybrid vehicles, 57 Boeing 767,70 737-800BCF, 90 Cessna Skycourier feeder aircraft, Self-Healing Supply Chains via KENN AI.
+* Features: 90 distribution centers, 10,000 micro-DCs, 200,000 hybrid vehicles, 65 Boeing 767,75 737-800BCF, 95 Cessna Skycourier feeder aircraft, Self-Healing Supply Chains via KENN AI.
 
 #### 4. Brands & Factories
 Objective: Scale factories and brands to generate $252B, leveraging Cub Cadet, Remington, and Datsun.
@@ -474,16 +474,17 @@ The Discover Card Network is now the subsidiary responsible for the day-to-day t
 | Fund | Assets (2035) | Purpose |
 | :--- | :--- | :--- |
 | **Corporate Wealth Fund** | $34B | Strategic Syndicate investments |
-| **SearsCoin Reserve Fund** | $23.2B | Asset backing for SearsCoin (Managed by Dean Witter, operations via Discover) |
-| **Sears Fund** | $210B | Long-term shareholder equity |
+| **SearsCoin Reserve Fund** | $23.2B | Asset backing for SearsCoin consisting of precious metal mining securities/Bitcoin (Managed by Dean Witter, operations via Discover) |
+| **Sears Fund** | $210B/7% | Long-term shareholder equity |
 | **Homart Mortgage Fund (HMF)** | **$875B** | **Holds Coldwell Banker's elite-grade mortgages** |
 | **Homart Community Fund** | $10B | Community initiatives |
 | **Sears Supplier Growth Fund (SSGF)** | $23B | Supplier collective investment |
 | **Employee Stock Purchase Program (ESPP)** | $36B | Employee ownership |
+| Syndicate Resilience Fund (SRF) | **$50B** | Rapid stabilization/bridge loans for critical-path global suppliers. |
 | **Sears Ventures** | $30B | Venture capital for SMBs/startups |
 | **Customer Brokerage Accounts** | $80B | Retail customer investments |
 | **Sears Savings Accounts** | $136B | Integrated banking services |
-| **Total AUM** | **$1.457T** | Master 9-member oversight board |
+| **Total AUM** | **$1.507T** | Master 9-member oversight board |
 
 ### Revised Corporate Wealth Investment Summary
 
@@ -755,7 +756,6 @@ Customer Outcomes (36 months):
 ├─ Job Access: Maintained transportation
 └─ Lease-to-Own Option: $8,000 (60% convert)
 ```
-
 ---
 
 ### Strategic Value
@@ -871,11 +871,12 @@ Customer Outcomes (36 months):
 | **Homart Mortgage Fund (HMF)** | **$875B** | **Holds Coldwell Banker's elite-grade mortgages** |
 | **Homart Community Fund** | $10B | Community initiatives |
 | **Sears Supplier Growth Fund (SSGF)** | $23B | Supplier collective investment |
+| Syndicate Resilience Fund (SRF) | **$50B** | Rapid stabilization/bridge loans for critical-path global suppliers, through Sears World Trade Inc. |
 | **Employee Stock Purchase Program (ESPP)** | $36B | Employee ownership |
 | **Sears Ventures** | $30B | Venture capital for SMBs/startups |
 | **Customer Brokerage Accounts** | $80B | Retail customer investments |
 | **Sears Savings Accounts** | $136B | Integrated banking services |
-| **Total AUM** | **$1.457T** | Master 9-member oversight board |
+| **Total AUM** | **$1.507T** | Master 9-member oversight board |
 
 **E-commerce Market Analysis (2035)**
 

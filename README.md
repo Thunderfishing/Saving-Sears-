@@ -170,11 +170,11 @@ Positioned as a value-centric, working-class subscription at **$55 / year** (135
 
 | Region/Nation | Total Malls (2035) | SCloud Data Centers (DC) | SWT Office & Homart HQ |
 |:---|:---|:---|:---|
-| USA | 180 | 45 DCs (Integrated into mall climate control) | Dallas, TX (Primary HQ) |
-| Canada | 25 | 4 DCs | Calgary, AB |
-| Japan | 20 | 5 DCs | Yokohama/Tokyo |
-| UK/Ireland | 25 | 3 DCs | Dublin, Ireland |
-| Other Global | 30 | 3 DCs | Manila, Jakarta, Sydney, Seoul, etc. |
+| USA | 180 | 45 Data Centers (Integrated into mall climate control) | Dallas, TX (Primary HQ) |
+| Canada | 25 | 4 Data Centers | Calgary, AB |
+| Japan | 20 | 5 Data Centers | Yokohama/Tokyo |
+| UK/Ireland | 25 | 3 Data Centers | Dublin, Ireland |
+| Other Global | 30 | 3 Data Centers | Manila, Jakarta, Sydney, Seoul, etc. |
 | **TOTALS** | **280** | **60** | **15 HQs/Offices** |
 
 ---

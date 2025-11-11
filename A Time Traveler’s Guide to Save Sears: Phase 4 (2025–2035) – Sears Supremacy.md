@@ -154,7 +154,7 @@ Objective: Scale to $1.2T revenue.
 
 * **Sears.com:** Features include **5 year parts support** on core/participating brands, Sears Prime, SearsPay, and Shopify tools uplift.
 * **SCloud:** 60 data centers integrated into bowels of Homart malls.
-* **KENN AI:** Multimodal, contextually aware retail intelligence.
+* **KENN AI:** Multimodal, contextually aware retail intelligence, non-biased product reviews/recommendations.
 * **Consumer Data Marketplace (CDM):** Open data marketplace, customers sell their data for SearsCoin payments. **Managed by Discover Card Network.**
 
 ---
@@ -211,7 +211,7 @@ Objective: Scale to 90 distribution centers, capture 2.5% of $30T global market.
 | **Workforce** | 205,000 | |
 | **Budget** | $100B | |
 
-* Features: 90 distribution centers, 10,000 micro-DCs, 200,000 hybrid vehicles, 57 Boeing/70 737-800BCF/90 Cessna Skycourier feeder aircraft, Self-Healing Supply Chains via KENN AI.
+* Features: 90 distribution centers, 10,000 micro-DCs, 200,000 hybrid vehicles, 57 Boeing 767,70 737-800BCF, 90 Cessna Skycourier feeder aircraft, Self-Healing Supply Chains via KENN AI.
 
 #### 4. Brands & Factories
 Objective: Scale factories and brands to generate $252B, leveraging Cub Cadet, Remington, and Datsun.
@@ -322,40 +322,6 @@ Objective: Scale to 2,900 centers, generate $38B. (Avg revenue per store: $13M)
 
 ---
 
-### 💳 Discover Card Network & Datsun Financing: The Sears Financial Engine
-
-*The Discover Card Network is the foundation of **Sears Financial**, processing SearsPay and SearsCoin, and offering highly competitive, consumer-friendly financing for the Datsun line.*
-
-| Feature Category | Description / Terms | Datsun Financing Impact | Strategic Financial Impact |
-| :--- | :--- | :--- | :--- |
-| **Discover Card Terms** | **14.95% APR** (Highly competitive standard rate). **$50** annual fee. 24-day grace period. | Used for financing Datsun/Sears purchases. Encourages card adoption by **working-class families**. | Revenue projected at **$11 Billion** by 2035, securing a 5% global market share. |
-| **Standard Datsun Loans** | 36 months at **5.49% APR** (Prime/Excellent Credit). 60 months at **6.99% APR**. | Offers **sub-prime rates** on new cars, undercutting traditional banks and dealerships. | Drives Datsun sales, generating **$1.8 Billion** in financing synergies. |
-| **Negative Equity Lease** | **Special "Negative Equity Exit Lease"** for suitable customers (on base Ultima model only). | Allows credit-challenged/upside-down trade-in customers to enter a **new, durable vehicle**, reinforcing the "working-class hero" reputation. | Sacrifices short-term margin for **long-term customer loyalty** and full ecosystem lock-in. |
-| **SearsCoin Rewards** | **5% back** in SearsCoin on Sears/Affiliates (including Datsun parts/insurance/non-interest payments). **3% back** elsewhere. | Non-interest Datsun/insurance payments are **SearsCoin eligible**, driving adoption of the crypto reward ecosystem (180M users). | SearsCoin revenue projected at **$18 Billion** by 2035, serving as a value-backing asset. |
-| **SearsPay Integration** | One-click payment solution, Discover Network processing, all rewards managed via SearsPay **"Discover" dashboard**. | Simplifies the entire purchase and post-purchase experience (parts, service, accessories). | Facilitates **$800 Billion** in processed payments, centralizing all customer transactions. |
-| **Consumer Data Sales** | Payments for voluntary consumer data sales are processed quarterly in SearsCoin via the **"Discover" dashboard**. **Managed by Discover Card Network.** | Gives the customer direct, financial benefit from their vehicle usage data. | Fosters trust and transparency, funding the CDAA (Consumer Data Advocacy Association). |
-| **BNPL Loans (Internal)** | Underwriting for large purchases (>$1,500), avoiding 6% third-party BNPL fees. | Applies to major Datsun parts, accessories, and Sears Auto Center services/tires. | Captures additional margin by providing **in-house financing** for high-ticket items. |
-
----
-
-### 💰 SearsCoin: Creation, Management, and Value (2035)
-
-| Category | Mechanism / Source of Creation (Mining) | Management & Stability | Burn/Utility |
-| :--- | :--- | :--- | :--- |
-| **User Rewards** | **Rewards Program:** 3% non-Sears, **5% Sears/Affiliates** purchases (via Discover Card/SearsPay) (Total Revenue: $18B) | **Reserve Fund Backing:** SearsCoin Reserve Fund holds **$23.2B** (incl. $18B in mining securities and $5.2B Bitcoin) by 2035. **Fund managed by Dean Witter.** | **Customer Data Marketplace (CDM):** Customers spend SearsCoin to opt-in/sign up for the CDM. **Managed by Discover Card Network.** |
-| **Ecosystem Incentives** | **Yahoo! Search Rewards:** Up to **$1 USD SearsCoin/day limit** for KENN AI/iFixit-integrated searches/discovery. | **Pegging Policy:** **Not pegged** to USD, but actively managed by Dean Witter to maintain high stability (low volatility) for practical use. With Supplier/Employee protection thru **Syndicate Contract Clause:**
-"If SCN falls below $0.0095 or rises above $0.0105 for more than
-90 consecutive days, Syndicate Partners may demand:
-(a) Immediate USD conversion of all accrued SCN
-(b) Audit of Dean Witter Reserve Fund
-(c) Emergency governance meeting with binding resolution
-(d) Exit from Covenant with damages" | **SearsPay/Credit Card Fees:** Used to cover transaction/network fees across the Discover Card Network. |
-| **Employee/Partner Incentives** | **Employee Bonus:** **10,000 SearsCoin** ($100 USD) Christmas Bonus for all 621,021 employees (by 2035). | **Transaction Backbone:** Facilitated by the Discover Card Network ($11B Revenue, 5% market share). | **Sears Ventures Repayment:** Used to pay back certain SMB loans/investments in the ecosystem. |
-| **R&D / Diagnostics** | **Repair Network TSBs:** **5 SearsCoin reward** to **HomeForce techs and Unique Repair Network shops** for submitting verified Technical Service Bulletins (TSBs)/diagnostics to KENN AI. | **Governance:** Regulated by Dean Witter, with transparent quarterly reporting and dedicated independent oversight board (SearsCoin Reserve Fund). | **Rewards Redemption:** Redeemed SearsCoin in-store or on Sears.com (up to 5% uplift on purchases). |
-| **New User Adoption** | **CDM Sign-on Payment:** **10,000 SearsCoin** ($100 USD) sign-on payment for customers voluntarily opting into the Consumer Data Marketplace. | **Circulation Control:** KENN AI monitors and adjusts reward generation rates to maintain stability against the $23.2B Reserve Fund. | **Partner Services:** Used by participating **Syndicate suppliers** (Whirlpool, Yamaha) to settle internal service fees. |
-
----
-
 #### 7. Financial Division Summary (REMOVED: Consolidated into Dean Witter and Discover)
 *The former Sears Financial Division is now structured as the **Dean Witter Asset Management** and **Discover Card Network** subsidiaries.*
 * **Total Revenue (2035):** $8.75B (Dean Witter) + $29B (Discover/SCN) + $15B (Coldwell Banker) = **$52.75B**
@@ -427,7 +393,6 @@ Objective: Scale to $45B revenue, 15% global robotics share.
 * Features: Consumer/industrial robots, Gen 3 Kodak Optics, Atari peripherals.
 
 ---
-
 
 ## 🏛️ Sears Subsidiaries & Financial Ecosystem
 
@@ -512,6 +477,22 @@ The Discover Card Network is now the subsidiary responsible for the day-to-day t
 | **Total Investment Budget** | | | **$15.3B** |
 
 * **Asset Sales:** Generate **$8B** from non-core Nissan assets.
+
+### 💰 SearsCoin: Creation, Management, and Value (2035)
+
+| Category | Mechanism / Source of Creation (Mining) | Management & Stability | Burn/Utility |
+| :--- | :--- | :--- | :--- |
+| **User Rewards** | **Rewards Program:** 3% non-Sears, **5% Sears/Affiliates** purchases (via Discover Card/SearsPay) (Total Revenue: $18B) | **Reserve Fund Backing:** SearsCoin Reserve Fund holds **$23.2B** (incl. $18B in mining securities and $5.2B Bitcoin) by 2035. **Fund managed by Dean Witter.** | **Customer Data Marketplace (CDM):** Customers spend SearsCoin to opt-in/sign up for the CDM. **Managed by Discover Card Network.** |
+| **Ecosystem Incentives** | **Yahoo! Search Rewards:** Up to **$1 USD SearsCoin/day limit** for KENN AI/iFixit-integrated searches/discovery. | **Pegging Policy:** **Not pegged** to USD, but actively managed by Dean Witter to maintain high stability (low volatility) for practical use. With Supplier/Employee protection thru **Syndicate Contract Clause:**
+"If SCN falls below $0.0095 or rises above $0.0105 for more than
+90 consecutive days, Syndicate Partners may demand:
+(a) Immediate USD conversion of all accrued SCN
+(b) Audit of Dean Witter Reserve Fund
+(c) Emergency governance meeting with binding resolution
+(d) Exit from Covenant with damages" | **SearsPay/Credit Card Fees:** Used to cover transaction/network fees across the Discover Card Network. |
+| **Employee/Partner Incentives** | **Employee Bonus:** **10,000 SearsCoin** ($100 USD) Christmas Bonus for all 621,021 employees (by 2035). | **Transaction Backbone:** Facilitated by the Discover Card Network ($11B Revenue, 5% market share). | **Sears Ventures Repayment:** Used to pay back certain SMB loans/investments in the ecosystem. |
+| **R&D / Diagnostics** | **Repair Network TSBs:** **5 SearsCoin reward** to **HomeForce techs and Unique Repair Network shops** for submitting verified Technical Service Bulletins (TSBs)/diagnostics to KENN AI. | **Governance:** Regulated by Dean Witter, with transparent quarterly reporting and dedicated independent oversight board (SearsCoin Reserve Fund). | **Rewards Redemption:** Redeemed SearsCoin in-store or on Sears.com (up to 5% uplift on purchases). |
+| **New User Adoption** | **CDM Sign-on Payment:** **10,000 SearsCoin** ($100 USD) sign-on payment for customers voluntarily opting into the Consumer Data Marketplace. | **Circulation Control:** KENN AI monitors and adjusts reward generation rates to maintain stability against the $23.2B Reserve Fund. | **Partner Services:** Used by participating **Syndicate suppliers** (Whirlpool, Yamaha) to settle internal service fees. |
 
 ---
 
@@ -601,6 +582,22 @@ For any Syndicate Partner to be eligible for profit-sharing distributions (cash,
 * **Structure:** Standalone Japanese corporation, **Osaka** HQ/R&D.
 * **Ownership:** 33-51% Sears stake ($8B, 2026-2028).
 * **Service:** Auto Centers (2,900 centers), HomeForce (mobile repair), **RoadHandler Tires, DieHard batteries, WeatherBeater (automotive paint), Harmony House (seat foam)** included.
+
+---
+
+### 💳 Discover Card Network & Datsun Financing: The Sears Financial Engine
+
+*The Discover Card Network is the foundation of **Sears Financial**, processing SearsPay and SearsCoin, and offering highly competitive, consumer-friendly financing for the Datsun line.*
+
+| Feature Category | Description / Terms | Datsun Financing Impact | Strategic Financial Impact |
+| :--- | :--- | :--- | :--- |
+| **Discover Card Terms** | **14.95% APR** (Highly competitive standard rate). **$50** annual fee. 24-day grace period. | Used for financing Datsun/Sears purchases. Encourages card adoption by **working-class families**. | Revenue projected at **$11 Billion** by 2035, securing a 5% global market share. |
+| **Standard Datsun Loans** | 36 months at **5.49% APR** (Prime/Excellent Credit). 60 months at **6.99% APR**. | Offers **sub-prime rates** on new cars, undercutting traditional banks and dealerships. | Drives Datsun sales, generating **$1.8 Billion** in financing synergies. |
+| **Negative Equity Lease** | **Special "Negative Equity Exit Lease"** for suitable customers (on base Ultima model only). | Allows credit-challenged/upside-down trade-in customers to enter a **new, durable vehicle**, reinforcing the "working-class hero" reputation. | Sacrifices short-term margin for **long-term customer loyalty** and full ecosystem lock-in. |
+| **SearsCoin Rewards** | **5% back** in SearsCoin on Sears/Affiliates (including Datsun parts/insurance/non-interest payments). **3% back** elsewhere. | Non-interest Datsun/insurance payments are **SearsCoin eligible**, driving adoption of the crypto reward ecosystem (180M users). | SearsCoin revenue projected at **$18 Billion** by 2035, serving as a value-backing asset. |
+| **SearsPay Integration** | One-click payment solution, Discover Network processing, all rewards managed via SearsPay **"Discover" dashboard**. | Simplifies the entire purchase and post-purchase experience (parts, service, accessories). | Facilitates **$800 Billion** in processed payments, centralizing all customer transactions. |
+| **Consumer Data Sales** | Payments for voluntary consumer data sales are processed quarterly in SearsCoin via the **"Discover" dashboard**. **Managed by Discover Card Network.** | Gives the customer direct, financial benefit from their vehicle usage data. | Fosters trust and transparency, funding the CDAA (Consumer Data Advocacy Association). |
+| **BNPL Loans (Internal)** | Underwriting for large purchases (>$1,500), avoiding 6% third-party BNPL fees. | Applies to major Datsun parts, accessories, and Sears Auto Center services/tires. | Captures additional margin by providing **in-house financing** for high-ticket items. |
 
 ---
 

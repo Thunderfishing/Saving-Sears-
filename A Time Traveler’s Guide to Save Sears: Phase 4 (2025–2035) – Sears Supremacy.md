@@ -105,25 +105,6 @@ This visualization highlights the strategic distribution of the **$11.17 Billion
 
 ---
 
-## 🤝 Strategic Stakes in Suppliers & Partners (The Syndicate)
-
-This graph includes all partners where Sears owns a stake, including the Serta information moved from the original Key Assets table.
-
-| Partner / Stake | Year Acquired | Sears Stake (%) | Core Strategic Alignment |
-| :--- | :--- | :--- | :--- |
-| **Serta** | 2009 | 20% | **Harmony House** bedding/mattress quality and supply control. |
-| **Whirlpool** | 2030 | 15% | Joint R&D/quality control for **Kenmore/Coldspot** appliances. |
-| **Allstate** | N/A | 20% | Datsun insurance bundles and roadside assistance. |
-| **Kroger** | 2032 | 10% | Anchoring 300 **Homart** malls and retail foot traffic. |
-| **Shopify** | 2033 | 10% | Improving **Sears.com** third-party vendor tools and marketplace. |
-| **Sega/Sammy** | 2026 | 20% | **Atari** gaming content, especially sports titles (via deep partnership). |
-| **Namco/Bandai** | 2026 | 15% | **Atari** gaming content expansion and IP portfolio. |
-| **Capcom** | 2026 | 10% | **Atari** gaming content expansion and IP portfolio. |
-| **Nissan/Datsun** | 2026–2028 | 33%–51% | Entry into the automotive market (NA DTC sales) and EV/hybrid R&D. |
-| **Yamaha** | 2026 | 15% | Engine R&D/supply for **Datsun** vehicles. |
-
----
-
 ## 📈 Corporate Entities & Technology 
 
 This new graph includes the full-ownership corporate assets that are not brands, factories, or formal subsidiaries, moved from the original Key Assets table.

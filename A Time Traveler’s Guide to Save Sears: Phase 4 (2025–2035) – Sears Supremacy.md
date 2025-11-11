@@ -39,8 +39,7 @@ By the end of Phase 3 (2025), Sears achieves significant milestones:
 * **Workforce:** **490,000** employees
 * **Logistics (2025):** **65** distribution centers (45 U.S., 16 global, 4 in Canada) and **9,000** Local distribution centers
 * **Sears Academy (2025):** Dallas campus partnered with **180** colleges
-### Decentralized Management
-**Decentralized Business Units:** 10 (Tech, Retail, Logistics, Factories/Brands, HomeForce, Auto Centers, Financial, Optical, Academy/Sustainability, Robotics)
+* **Decentralized Business Units:** 10 (Tech, Retail, Logistics, Factories/Brands, HomeForce, Auto Centers, Financial, Optical, Academy/Sustainability, Robotics)
 * **Regional Operating Units:** North America (Chicago), Southeast Asia (Jakarta), Emerging Markets (Manila), Japan/AUS/NZ/Singapore/UK.
 * **Centers of Excellence:** AI (**San Antonio**), Supply Chain (Dallas), HR (Dallas), Compliance (Dallas), Datsun Engines (Yamaha), Datsun Transmissions (Getrag).
 

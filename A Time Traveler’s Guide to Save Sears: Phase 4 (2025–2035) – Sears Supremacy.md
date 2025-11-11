@@ -157,6 +157,25 @@ Objective: Scale to $1.2T revenue.
 * **KENN AI:** Multimodal, contextually aware retail intelligence, non-biased product reviews/recommendations.
 * **Consumer Data Marketplace (CDM):** Open data marketplace, customers sell their data for SearsCoin payments. **Managed by Discover Card Network.**
 
+## 🧠 KENN AI: Functions, Security, and Strategic Impact (2035)
+
+| Category | Function/Feature | Strategic Impact & Metrics (2035) | Financial Impact (2035) |
+|---|---|---|---|
+| **Core Intelligence** | **Model Architecture** | Multimodal, contextually aware Retail Intelligence (non-black-box AGI with xAI collaboration). | Uplift: **$80 Billion** total |
+| | **Integrated Data Sources** | Integrates Yahoo! Search, Kodak image recognition, ifixit utilization/data. | Revenue: **$10 Billion** |
+| | **Learning Domains** | Retail/Discovery, Education, Financial, Repair/DIY focus. | Value: **$150 Billion** |
+| **Operational Efficiency** | **Logistics Routing** | Autonomously reroutes shipments, manages inventory, and optimizes supply chains globally. | Savings: **$14 Billion** |
+| | **World Trade Vetting** | Vets foreign and domestic vendors for Sears.com (100,000+ vendors). | Uplift/Savings: **$1.5 Billion** |
+| | **Robotics/Automation** | Manages Kiva, MuleBots, and Dragonfly fleets within logistics and factories. | Savings: **$4.5 Billion** (Robotics) |
+| **Retail & Discovery** | **Retail Discovery Engine** | Drives personalized recommendations and product placement across Sears.com. | Uplift: **$18 Billion** (includes Cub Cadet/Datsun/Remington) |
+| | **Smart Home Integration** | Provides intelligence for Kenmore, Coldspot, Zenith, and Consumer Robotics products. | Uplift: **$3.5 Billion** |
+| | **Luxury (Saks) AI** | Optimizes inventory, pricing, and customer experience for Saks Fifth Avenue. | Uplift: **$1.5 Billion** |
+| **Financial & Security** | **Fraud Detection** | Monitors SearsPay and Discover Card Network transactions in real-time. | Savings: **$7 Billion** |
+| | **SearsCoin Management** | Manages blockchain rewards, consumer data payments, and employee bonuses. | Uplift/Management: **$1.5 Billion** |
+| | **Cybersecurity Agents** | Autonomous agents manage data anonymization, consent, and threat detection. | Security Budget: **$6 Billion** (total KENN/Consumer Data) |
+| **Quantum Security** | **Resilience Layers** | Regional subnets and **quantum resilience layers** for long-term data security. | Security Feature |
+| | **Blockchain Protocol** | Quantum-resistant blockchain protocols for SearsCoin and Discover Network backbone. | Security Feature |
+
 ---
 
 ### 💻 Sears.com Core Features & Ecosystem Integration
@@ -466,8 +485,6 @@ The Discover Card Network is now the subsidiary responsible for the day-to-day t
 | **Sears Savings Accounts** | $136B | Integrated banking services |
 | **Total AUM** | **$1.457T** | Master 9-member oversight board |
 
----
-
 ### Revised Corporate Wealth Investment Summary
 
 | Category | 2025 Total Investment | 2035 Target | New Investments (2025-2035) |
@@ -477,6 +494,8 @@ The Discover Card Network is now the subsidiary responsible for the day-to-day t
 | **Total Investment Budget** | | | **$15.3B** |
 
 * **Asset Sales:** Generate **$8B** from non-core Nissan assets.
+
+---
 
 ### 💰 SearsCoin: Creation, Management, and Value (2035)
 
@@ -493,6 +512,27 @@ The Discover Card Network is now the subsidiary responsible for the day-to-day t
 | **Employee/Partner Incentives** | **Employee Bonus:** **10,000 SearsCoin** ($100 USD) Christmas Bonus for all 621,021 employees (by 2035). | **Transaction Backbone:** Facilitated by the Discover Card Network ($11B Revenue, 5% market share). | **Sears Ventures Repayment:** Used to pay back certain SMB loans/investments in the ecosystem. |
 | **R&D / Diagnostics** | **Repair Network TSBs:** **5 SearsCoin reward** to **HomeForce techs and Unique Repair Network shops** for submitting verified Technical Service Bulletins (TSBs)/diagnostics to KENN AI. | **Governance:** Regulated by Dean Witter, with transparent quarterly reporting and dedicated independent oversight board (SearsCoin Reserve Fund). | **Rewards Redemption:** Redeemed SearsCoin in-store or on Sears.com (up to 5% uplift on purchases). |
 | **New User Adoption** | **CDM Sign-on Payment:** **10,000 SearsCoin** ($100 USD) sign-on payment for customers voluntarily opting into the Consumer Data Marketplace. | **Circulation Control:** KENN AI monitors and adjusts reward generation rates to maintain stability against the $23.2B Reserve Fund. | **Partner Services:** Used by participating **Syndicate suppliers** (Whirlpool, Yamaha) to settle internal service fees. |
+
+---
+
+## 🌍 Homart Malls, SCloud Data Centers, & World Trade Offices (2035)
+
+| Region/Nation | Total Malls (2035) | SCloud Data Centers (DC) | SWT Office & Homart HQ | Cost Savings/Synergy Comment |
+|---|---|---|---|---|
+| **USA** | **180** | **45 DCs** (Located in colder climate northern malls) | Dallas, TX (Primary HQ) | *Major cost avoidance by integrating into mall climate controls ($5.5B).* |
+| **Canada** | **25** | **4 DCs** | Calgary, AB (Sears Canada HQ) | *Low latency for Sears Canada ops. Synergy with Canada HQ.* |
+| **Japan** | **20** | **5 DCs** | Yokohama, Japan (Atari/Datsun HQ) & Tokyo (SWT) | *Crucial low-latency support for Atari/Datsun R&D and manufacturing.* |
+| **UK** | **15** | **2 DCs** | Dublin, Ireland (Homart Satellite) | *Synergy with Dublin/UK finance hubs and logistics for EU/UK sales.* |
+| **Australia** | **10** | **2 DCs** | Sydney (Homart Satellite) | *Low latency for AUS/NZ e-commerce and SCloud clients.* |
+| **Ireland** | **10** | **1 DC** | Dublin, Ireland (Homart Satellite) | *Low latency for UK/EU SCloud users and financial services.* |
+| **Korea** | **5** | **1 DC** | Seoul (SWT Office) | *Streamlines logistics and vendor vetting for Northeast Asian markets.* |
+| **Philippines** | **5** | **0 DCs** | Manila (SWT Office) | *Focus on World Trade vetting and emerging market logistics/supply chain.* |
+| **Taiwan** | **3** | **0 DCs** | Taipei (SWT Office) | *Critical for high-tech procurement and World Trade vetting.* |
+| **Mexico** | **3** | **0 DCs** | Guadalajara (Zenith/Harmony House Factories) | *Focus on factory support and NA logistics coordination.* |
+| **Indonesia** | **0** | **0 DCs** | Surabaya (SWT Office) & Jakarta (SE Asia RU) | *Primary hub for Southeast Asia logistics and factory operations.* |
+| **India** | **0** | **0 DCs** | Mumbai (SWT Office) | *Procurement and vetting hub for the massive Indian supply chain.* |
+| **Germany** | **0** | **0 DCs** | Frankfurt (SWT Office) | *Gateway for European vendors and financial operations.* |
+| **TOTALS** | **280** | **60 DCs** | **10 Satellite HQs + 5 SWT Offices** | **$5.5B** in SCloud data center integration savings + **$1.5B** in World Trade vetting savings. |
 
 ---
 

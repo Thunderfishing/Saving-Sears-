@@ -8,7 +8,7 @@ Bound by a covenant of reciprocity, durability and repair.
 ### Mission
 To Cement **Sears** as a vertically integrated, AI, crypto-powered retail-industrial mega-corporation, valued at **$3 trillion** by 2035, through Sears.com, generating **$900 billion** in revenue.
 
-* Offer **102M+** stock-keeping units (SKUs).
+* Offer **112M+** stock-keeping units (SKUs).
 * Serve **350M** users.
 * Command a **35%** share of the North American market, capturing **$1.4T** out of a $4T total e-commerce market.
 * Secure a **13%** share in expanded markets (Japan, Taiwan, Indonesia, Australia/New Zealand, Singapore, Philippines, Vietnam, Argentina, UK/Ireland), capturing **$585B** out of a $4.5T Southeast Asia and emerging regions market.
@@ -37,11 +37,11 @@ By the end of Phase 3 (2025), Sears achieves significant milestones:
 
 * **Stores:** **2,300** total (2,050 showrooms for merchandise (Kenmore/Coldspot, Craftsman, etc.), Cub Cadet and Datsun display/test drive centers and micro-distribution centers, 250 full-line stores at Sears Homart Malls)
 * **Workforce:** **490,000** employees
-* **Logistics (2025):** **65** distribution centers (45 U.S., 16 global, 4 in Canada) and **9,000** Local distribution centers
+* **Logistics (2025, 2.5% global):** **65** distribution centers (45 U.S., 16 global, 4 in Canada) and **9,000** Local distribution centers
 * **Sears Academy (2025):** Dallas campus partnered with **180** colleges
 * **Decentralized Business Units:** 10 (Tech, Retail, Logistics, Factories/Brands, HomeForce, Auto Centers, Financial, Optical, Academy/Sustainability, Robotics)
 * **Regional Operating Units:** North America (Chicago), Southeast Asia (Jakarta), Emerging Markets (Manila), Japan/AUS/NZ/Singapore/UK.
-* **Centers of Excellence:** AI (**San Antonio**), Supply Chain (Dallas), HR (Dallas), Compliance (Dallas), Datsun Engines (Yamaha), Datsun Transmissions (Getrag).
+* **Centers of Excellence:** AI/cloud (**San Antonio**), Supply Chain (Dallas), HR (Dallas), Compliance (Dallas), Datsun Engines (Yamaha), Datsun Transmissions (Getrag).
 
 ---
 
@@ -75,12 +75,12 @@ By the end of Phase 3 (2025), Sears achieves significant milestones:
 
 ---
 
-### Workforce & Operations
+### Workforce & Operations (by 2035)
 
-* **Workforce:** 621,021 + 140,000 Datsun employees + 4.8k Discover (by 2035) = **765,821**
-* **Stores:** 2,700 (2,420 showrooms/micro-DCs, 280 full-line Homart Mall anchor stores)
+* **Workforce:** 625,821 + 140,000 Datsun employees + 4.8k Discover (by 2035) = **765,821**
+* **Stores:** 2,700 (USA),100 (Japan/foreign markets) (2,520 showrooms/micro-DCs, 180 (USA) full-line Homart Mall anchor stores 
 * **Payroll:** $20/hour min wage floor; 10% premium above medians for roles; mechanics at $50/hour base with warranty incentives.
-* **Other Operations:** 280 malls, 60 logistics distribution centers, 140 Saks stores, 280 Atari Arcades (Homart malls), Cub Cadet factories/R&D, Datsun support, Sears World Trade, Inc.
+* **Other Operations:** 180 USA, 100 Japan/expanded markets malls, 90 logistics distribution centers, 180 Saks stores, 280 (180 USA,100 expanded markets) Atari Arcades (Homart malls), Cub Cadet factories/R&D, Datsun support, Sears World Trade, Inc.
 * **Profit-sharing contracts** with key suppliers: **Goodyear Tire, Yamaha, etc.**
 
 ### 👨‍🔧 Employee Roles and Estimated Payroll Breakdown (2035)
@@ -153,7 +153,7 @@ Objective: Scale to $1.2T revenue.
 | **Budget** | $60B | |
 
 * **Sears.com:** Features include **5 year parts support** on core/participating brands, Sears Prime, SearsPay, and Shopify tools uplift.
-* **SCloud:** 60 data centers integrated into bowels of Homart malls.
+* **SCloud:** 60 data centers integrated into bowels of Homart malls (by 2035)
 * **KENN AI:** Multimodal, contextually aware retail intelligence, non-biased product reviews/recommendations.
 * **Consumer Data Marketplace (CDM):** Open data marketplace, customers sell their data for SearsCoin payments. **Managed by Discover Card Network.**
 
@@ -474,7 +474,7 @@ The Discover Card Network is now the subsidiary responsible for the day-to-day t
 | Fund | Assets (2035) | Purpose |
 | :--- | :--- | :--- |
 | **Corporate Wealth Fund** | $34B | Strategic Syndicate investments |
-| **SearsCoin Reserve Fund** | $23.2B | Asset backing for SearsCoin consisting of precious metal mining securities/Bitcoin (Managed by Dean Witter, operations via Discover) |
+| **SearsCoin Reserve Fund** | $45.2B | Asset backing for SearsCoin consisting of precious metal mining securities/Bitcoin (Managed by Dean Witter, operations via Discover) |
 | **Sears Fund** | $210B/7% | Long-term shareholder equity |
 | **Homart Mortgage Fund (HMF)** | **$875B** | **Holds Coldwell Banker's elite-grade mortgages** |
 | **Homart Community Fund** | $10B | Community initiatives |
@@ -490,7 +490,7 @@ The Discover Card Network is now the subsidiary responsible for the day-to-day t
 
 | Category | 2025 Total Investment | 2035 Target | New Investments (2025-2035) |
 | :--- | :--- | :--- | :--- |
-| **Mining Securities (SearsCoin Reserve)** | $12.3B ($10B existing) | $18B | $2.3B |
+| **Mining Securities (SearsCoin Reserve)** | $12.3B ($45B existing) | $18B | $2.3B |
 | **Corporate Wealth Strategic Investments** | $13B | $34B | $13.0B |
 | **Total Investment Budget** | | | **$15.3B** |
 

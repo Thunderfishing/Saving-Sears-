@@ -474,7 +474,7 @@ The Discover Card Network is now the subsidiary responsible for the day-to-day t
 | Fund | Assets (2035) | Purpose |
 | :--- | :--- | :--- |
 | **Corporate Wealth Fund** | $34B | Strategic Syndicate investments |
-| **SearsCoin Reserve Fund** | $45.2B | Asset backing for SearsCoin consisting of precious metal mining securities/Bitcoin (Managed by Dean Witter, operations via Discover) |
+| **SearsCoin Reserve Fund** | $43.5B | Asset backing for SearsCoin consisting of precious metal mining securities/Bitcoin (Managed by Dean Witter, operations via Discover) |
 | **Sears Fund** | $210B/7% | Long-term shareholder equity |
 | **Homart Mortgage Fund (HMF)** | **$875B** | **Holds Coldwell Banker's elite-grade mortgages** |
 | **Homart Community Fund** | $10B | Community initiatives |
@@ -484,13 +484,13 @@ The Discover Card Network is now the subsidiary responsible for the day-to-day t
 | **Sears Ventures** | $30B | Venture capital for SMBs/startups |
 | **Customer Brokerage Accounts** | $80B | Retail customer investments |
 | **Sears Savings Accounts** | $136B | Integrated banking services |
-| **Total AUM** | **$1.507T** | Master 9-member oversight board |
+| **Total AUM** | **$1.537T** | Master 9-member oversight board |
 
 ### Revised Corporate Wealth Investment Summary
 
 | Category | 2025 Total Investment | 2035 Target | New Investments (2025-2035) |
 | :--- | :--- | :--- | :--- |
-| **Mining Securities (SearsCoin Reserve)** | $12.3B ($45B existing) | $18B | $2.3B |
+| **Mining Securities (SearsCoin Reserve)** | $12.2B ($30B existing) | $38.3B | $2.3B |
 | **Corporate Wealth Strategic Investments** | $13B | $34B | $13.0B |
 | **Total Investment Budget** | | | **$15.3B** |
 
@@ -502,7 +502,7 @@ The Discover Card Network is now the subsidiary responsible for the day-to-day t
 
 | Category | Mechanism / Source of Creation (Mining) | Management & Stability | Burn/Utility |
 | :--- | :--- | :--- | :--- |
-| **User Rewards** | **Rewards Program:** 3% non-Sears, **5% Sears/Affiliates** purchases (via Discover Card/SearsPay) (Total Revenue: $18B) | **Reserve Fund Backing:** SearsCoin Reserve Fund holds **$23.2B** (incl. $18B in mining securities and $5.2B Bitcoin) by 2035. **Fund managed by Dean Witter.** | **Customer Data Marketplace (CDM):** Customers spend SearsCoin to opt-in/sign up for the CDM. **Managed by Discover Card Network.** |
+| **User Rewards** | **Rewards Program:** 3% non-Sears, **5% Sears/Affiliates** purchases (via Discover Card/SearsPay) (Total Revenue: $18B) | **Reserve Fund Backing:** SearsCoin Reserve Fund holds **$43.5B** (incl. $38.3B in mining securities and $5.2B Bitcoin) by 2035. **Fund managed by Dean Witter.** | **Customer Data Marketplace (CDM):** Customers spend SearsCoin to opt-in/sign up for the CDM. **Managed by Discover Card Network.** |
 | **Ecosystem Incentives** | **Yahoo! Search Rewards:** Up to **$1 USD SearsCoin/day limit** for KENN AI/iFixit-integrated searches/discovery. | **Pegging Policy:** **Not pegged** to USD, but actively managed by Dean Witter to maintain high stability (low volatility) for practical use. With Supplier/Employee protection thru **Syndicate Contract Clause:**
 "If SCN falls below $0.0095 or rises above $0.0105 for more than
 90 consecutive days, Syndicate Partners may demand:
@@ -866,17 +866,17 @@ Customer Outcomes (36 months):
 | Fund | Assets (2035) | Purpose |
 | :--- | :--- | :--- |
 | **Corporate Wealth Fund** | $34B | Strategic Syndicate investments |
-| **SearsCoin Reserve Fund** | $23.2B | Asset backing for SearsCoin (Managed by Dean Witter, operations via Discover) |
+| **SearsCoin Reserve Fund** | 4.55B | Asset backing for SearsCoin (Managed by Dean Witter, operations via Discover) |
 | **Sears Fund** | $210B | Long-term shareholder equity |
 | **Homart Mortgage Fund (HMF)** | **$875B** | **Holds Coldwell Banker's elite-grade mortgages** |
 | **Homart Community Fund** | $10B | Community initiatives |
 | **Sears Supplier Growth Fund (SSGF)** | $23B | Supplier collective investment |
-| Syndicate Resilience Fund (SRF) | **$50B** | Rapid stabilization/bridge loans for critical-path global suppliers, through Sears World Trade Inc. |
+| **Syndicate Resilience Fund (SRF)** | **$50B** | Rapid stabilization/bridge loans for critical-path global suppliers, through Sears World Trade Inc. |
 | **Employee Stock Purchase Program (ESPP)** | $36B | Employee ownership |
 | **Sears Ventures** | $30B | Venture capital for SMBs/startups |
 | **Customer Brokerage Accounts** | $80B | Retail customer investments |
 | **Sears Savings Accounts** | $136B | Integrated banking services |
-| **Total AUM** | **$1.507T** | Master 9-member oversight board |
+| **Total AUM** | **$1.537T** | Master 9-member oversight board |
 
 **E-commerce Market Analysis (2035)**
 

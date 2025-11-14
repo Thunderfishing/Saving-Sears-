@@ -690,6 +690,30 @@ A Dean Witter-sponsored 501(c)(3) charity providing transportation relief, debt 
 ---
 
 ### Program Benefits (Per Recipient)
+Old Vehicle Situation:
+├─ Owed: $18,000
+├─ Worth: $11,000
+├─ Negative Equity: $7,000
+├─ Monthly Payment: $480
+└─ Facing Repossession
+DOF Intervention:
+├─ Debt Payoff: $18,000 (DOF pays lender)
+├─ Trade-In Donation: Vehicle to DOF (salvage value $6,000)
+├─ New Lease: $199/month × 36 months = $7,164
+├─ Free Services: $600 (maintenance)
+├─ Education: $400 (program delivery)
+└─ Total DOF Cost: $22,600
+Tax Benefits:
+├─ Vehicle Donation Deduction: $4,620 (Datsun)
+├─ Cash Contribution Deductions: $94.5M (all donors)
+└─ Net Cost After Benefits: $6,027 per family
+Customer Outcomes (36 months):
+├─ Monthly Savings: $281 ($480 old payment - $199 new)
+├─ Total Savings: $10,116
+├─ Financial Literacy: Completed
+├─ Credit Rebuilt: On-time payment history
+├─ Job Access: Maintained transportation
+└─ Lease-to-Own Option: $8,000 (60% convert)
 
 | Benefit | Value |
 |---|---|

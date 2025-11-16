@@ -128,6 +128,10 @@ By the end of Phase 3 (2025), Sears achieves significant milestones:
 | **High-Paid Mechanics / Techs** | **$0.8 – $1.2 Billion** | Highly-paid ($50/hr base) HomeForce and Auto Center mechanics are incentivized to provide proactive **diagnostic feedback** and optimization suggestions directly to R&D teams via KENN. |
 | **Total Estimated Free R&D Value** | **$6.3 – $9.7 Billion / year** | This is a significant supplement to the formal **$50B/year R&D budget**, providing unparalleled real-world data and design inputs. |
 
+*Important note these are conservative estimates, resulting could be 50-100% higher.*
+
+*$50B R&D Sears funding does not include subsidiary R&D funding, i.e. Atari at $18B/y.*
+
 ### 🔓 Syndicate IP Governance & Revenue-Sharing Amendment (2035+)
 
 **Clause IV: Joint R&D Patent Licensing & Perpetual Royalties**  

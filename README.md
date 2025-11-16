@@ -128,6 +128,38 @@ By the end of Phase 3 (2025), Sears achieves significant milestones:
 | **High-Paid Mechanics / Techs** | **$0.8 – $1.2 Billion** | Highly-paid ($50/hr base) HomeForce and Auto Center mechanics are incentivized to provide proactive **diagnostic feedback** and optimization suggestions directly to R&D teams via KENN. |
 | **Total Estimated Free R&D Value** | **$6.3 – $9.7 Billion / year** | This is a significant supplement to the formal **$50B/year R&D budget**, providing unparalleled real-world data and design inputs. |
 
+### 🔓 Syndicate IP Governance & Revenue-Sharing Amendment (2035+)
+
+**Clause IV: Joint R&D Patent Licensing & Perpetual Royalties**  
+*Added to Sipplier Profit-Sharing Program; effective 2026.*
+
+1. **Exclusivity Period**: All patents from Syndicate joint R&D (Sears + 1+ partners) are **exclusive to contributors** for **5 years** post-filing.
+
+2. **Post-Exclusivity Licensing Rights**:  
+   After Year 5, **any contributor** may license the patent to third parties (internal or external to Syndicate).
+
+3. **Revenue Split**:  
+   Licensing fees split **pro-rata** by documented contribution (% of funding, engineering hours, in-kind IP).  
+   - Tracked via **KENN AI + SCloud telemetry** (automated 95%).  
+   - Disputes or 3+ party patents → binding vote by **Syndicate Governance Board** (1 vote per member, weighted by 3-year avg contribution).
+
+4. **Diffusion Trigger (Mitigation)**:  
+   After **Year 7**, *any single contributor* may force **open licensing** at FRAND base rate (≤1% royalty).  
+   → Proceeds still split per contribution %; prevents hoarding, ensures ecosystem diffusion.
+
+5. **Execution & Marketplace**:  
+   - All licenses via **Sears IP Exchange** (SCloud portal).  
+   - Smart contracts in **SearsCoin**; 2% platform fee (Sears revenue).  
+   - External licensees welcome under transparent, non-discriminatory terms.
+
+| Impact (2035 est.) | Value |
+|--------------------|-------|
+| **Total IP Licensing Revenue** | **$8–15B/year** |
+| **Sears Share (avg 40%)** | **$3.2–6B/year profit** |
+| **R&D Multiplier** | **1.4–1.8x** ($70–90B effective) |
+
+> *“Build together, earn forever. Diffuse at 7, never dilute.”*
+
 ---
 
 ### Strategic Pillars

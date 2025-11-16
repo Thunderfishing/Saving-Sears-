@@ -232,7 +232,31 @@ Objective: Scale to 90 distribution centers, capture 2.5% of $30T global market.
 | **Workforce** | 150,000 | 205,000 |
 | **Budget** | $80B | $100B |
 
-* Features: 90 distribution centers, 10,000 micro-DCs, 200,000 hybrid vehicles, 65 Boeing 767,75 737-800BCF, 95 Cessna Skycourier feeder aircraft, Self-Healing Supply Chains via KENN AI.
+* Features: 90 distribution centers, 10,000 micro-DCs, 200,000 hybrid vehicles, 65 Boeing 767,75 737-800BCF, 105 Cessna Skycourier feeder aircraft, Self-Healing Supply Chains via KENN AI.
+### 🚛 Sears Logistics Owner-Operator Program (SLOOP)  
+*“Drive for Dignity. Own Your Future.”*  
+**Added to Pillar 3: Sears Logistics (2035)**
+
+| Feature | Detail |
+|---------|--------|
+| **Fleet** | 5,000 Diesel tractors (Paccar) |
+| **Pay** | **$0.85–$1.10/mi** ($85k–$130k/yr) |
+| **Structure** | 70% cash, 20% SearsCoin, 10% ESPP |
+| **Ownership** | **Lease-to-own @ cost, 60 mo → title** |
+| **Fuel | 50% diesel subsidy |
+| **Maintenance** | **Free** at Auto Centers |
+| **Routes** | **KENN AI**, 95% utilization, route guarantees |
+| **Training** | Paid CDL/EV certs (Sears Academy) |
+| **Safety Net** | $200/day downtime; health via Community Fund |
+| **ESPP** | 15% discount after 1 yr |
+
+#### 💰 Financials (2035)
+| Metric | Value |
+|--------|-------|
+| **Payroll** | ~$550M |
+| **Net Cost** | ~$400M/yr |
+| **KENN Uplift** | **$2.1B** |
+| **ROI** | **5.25x** |
 
 #### 4. Brands & Factories
 Objective: Scale factories and brands to generate $252B, leveraging Cub Cadet, Remington, and Datsun.
@@ -493,7 +517,7 @@ The Discover Card Network is now the subsidiary responsible for the day-to-day t
 | **Sears Savings Accounts** | $75B | $136B | Integrated banking services |
 | **Total AUM** | **$806B** | **$1.537T** | Master 9-member oversight board |
 
-### Revised Corporate Wealth Investment Summary
+### Corporate Wealth Investment Summary
 
 | Category | 2025 Total Investment | 2035 Target | New Investments (2025-2035) |
 | :--- | :--- | :--- | :--- |

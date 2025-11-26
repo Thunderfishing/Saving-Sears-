@@ -312,11 +312,11 @@ This table lists the key facilities, brand focus, and capacity/Capex, ensuring l
 
 | Factory/Location | Brand Focus | Most Likely Datsun Vehicle | Estimated Annual Capacity (Units) | Capital Expenditure (Capex) (2035) |
 | :--- | :--- | :--- | :--- | :--- |
-| **Datsun - Brownsville, TN** | Vehicles (Trucks/Vans) | **Datsun Pathfinder** (SUV) / **EV Vans** (Logistics) | 1,000,000 | $1.17 Billion |
-| **Datsun - Martin, TN** | Vehicles (Trucks/Vans) | **Datsun Frontier** (Mid-Size Truck) | 1,000,000 | $1.17 Billion |
-| **Datsun - Guadalajara, Mexico** | Vehicles (Trucks/Vans) | **Datsun Titan** (Full-Size Truck/Sedan) | 1,000,000 | $1.16 Billion |
-| **Datsun - Osaka, Japan (x2)** | Vehicles (Cars/CUVs) | **Datsun Rogue** (Crossover/SUV) / **Ultima** (Sedan) | 1,200,000 | $0.80 Billion |
-| **Datsun - Yokohama, Japan** | Vehicles (Cars/R&D) | **Datsun 240SX** (Sports Coupe) | 400,000 | $0.40 Billion |
+| **Datsun - Brownsville, TN** | Vehicles (Trucks/Vans) | **Datsun Pathfinder** (SUV) / **EV Vans** (Logistics) | 240,000 | $1.17 Billion |
+| **Datsun - Martin, TN** | Vehicles (Trucks/Vans) | **Datsun Frontier** (Mid-Size Truck) | 220,000 | $1.17 Billion |
+| **Datsun - Guadalajara, Mexico** | Vehicles (Trucks/Vans) | **Datsun Titan** (Full-Size Truck/Sedan) | 220,000 | $1.16 Billion |
+| **Datsun - Osaka, Japan (x2)** | Vehicles (Cars/CUVs) | **Datsun Rogue** (Crossover/SUV) / **Ultima** (Sedan) | 400,000 | $0.80 Billion |
+| **Datsun - Yokohama, Japan** | Vehicles (Cars/R&D) | **Datsun 240SX** (Sports Coupe) | 120,000 | $0.40 Billion |
 | **Datsun - Toyota, Japan** | Vehicles (Engine Plant) | Powertrain / Engine Manufacturing | N/A (Supports all Datsun) | $0.30 Billion |
 | **Datsun - Hiroshima, Japan** | Vehicles (Stamping) | Body Stamping / Chassis | N/A (Supports all Datsun) | $0.20 Billion |
 | **Dallas, TX (x4)** | Kenmore, Coldspot, Craftsman Power Tools, DieHard | 900,000 Appliances / 1.8M Power Tools | $2.80 Billion |

@@ -431,12 +431,23 @@ This graph now consolidates all subsidiaries and includes the functions of **Col
 | **Discover Card Network** | **Dallas, TX** | **4,800 (New Est.)** | **$11B (Network) + $18B (SearsCoin)** | Backbone of SearsPay/SearsCoin transactions. **Manages SearsCoin (SCN)**. **Manages Consumer Data Marketplace (CDM)**. |
 | **Dean Witter Asset Management** | Dallas, TX | 3,800 | $8.75B | Manages Sears Funds/Brokerage Accounts. **Total AUM: $1.457T.** |
 
+## Additional Atari details 
+
+No Loot boxes, Pay to win, or advertisement in game (product placement allowed), traditional DLC, Skins, New multi-player maps ETC. with Sega Sports NFL, NBA, etc, Sears allows a rare subscription Avenue,  there is no new NHL, or NBA game each year, a 14.95 yearly subscription, updates rosters, player stats, team statistics, patches, tweaks, feedback implementation. Instead of a new sports game every year, Atarl/Sega sports released every 5 years (1 per 5y console generation.
+
+If a game is bought online, for a Additional $9.99 a physical copy of game will be shipped to customer.
+
+Adoption of stop killing games initiative.
+
+## Additional Saks 5th/Off 5th Avenue Details.
+
+No BNPL allowed, Sears attempts to inject intrinsic value into $1000+ handbag etc. sterling/gold buckles, zippers, stiching, clothing infused with silver for anti bacterial properties, refurbishment programs.
 
 ## 💰 Dean Witter Asset Management & Discover Card Financial Ecosystem
 
 This section combines the Dean Witter Financials and Asset Management with the Discover Card Network details, reflecting the new organizational structure.
 
-### 💳 Discover Card Network: Financial Engine & Crypto Management
+### 💳 Discover Card Network: Fnancial Engine & Crypto Management
 
 The Discover Card Network is now the subsidiary responsible for the day-to-day transaction backbone and the management of Sears' crypto and data initiatives.
 
@@ -575,7 +586,7 @@ The Discover Card Network is now the subsidiary responsible for the day-to-day t
 * **Datsun:** Synergies ($6B): DieHard batteries, **RoadHandler tires ($0.8B from Goodyear Tire)**, Allstate insurance, KENN AI, etc.
 
 
-### 📜 Sipplier Profit-Sharing program & Eligibility Conditions
+### supplier Profit-Sharing program & Eligibility Conditions
 
 For any Syndicate Partner to be eligible for profit-sharing distributions (cash, SSGF equity, and SearsCoin), they must satisfy all the following contractual conditions, reinforcing the core values of The Sears Concordant:
 

@@ -100,7 +100,8 @@ By the end of Phase 3 (2025), Sears achieves significant milestones:
 | **Total Workforce** | **703,950** | | **~$55.16 Billion** (Estimate) | **Min wage floor: $20/hour.** |
  
  *Clarification note: Wages are paid in local currency (e.i. USD), Christmas/Performance bonuses issued in SearsCoin.*
- *Important informational note: Unlike most large modern corporations Sears and it's wholly owned subsidiaries maintains hiring managers, smaller facilities the manager assumes the roll, Sears doesn't hire through entities such as LinkedIn, Indead etc. but with prospective employees approaching hiring manager directly with resume in hand, managers are encouraged to perform interviews on the spot if possible. 
+ *Important informational note: Unlike most large modern corporations Sears and it's wholly owned subsidiaries maintains hiring managers, smaller facilities the manager assumes the roll, Sears doesn't hire through entities such as LinkedIn, Indead etc. but with prospective employees approaching hiring manager directly with resume in hand, managers are encouraged to perform interviews on the spot if possible*
+ *It has been recognized that Sears is well ahead of others in mechanizing workforce with Robotics and utilization of AI, as evidenced by its 761,000 head count, it continues to elevate its human workforce through AI/robotics, most of the boring repetitive jobs already automated, employees focused on repairs, logistics and customer service, and continues to scale human workers*
 
 ### 🔬 R&D Cluster Staffing & Financial Contributions (2035)
 

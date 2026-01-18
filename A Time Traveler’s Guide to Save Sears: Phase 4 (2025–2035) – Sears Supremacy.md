@@ -100,6 +100,7 @@ By the end of Phase 3 (2025), Sears achieves significant milestones:
 | **Total Workforce** | **703,950** | | **~$55.16 Billion** (Estimate) | **Min wage floor: $20/hour.** |
  
  *Clarification note: Wages are paid in local currency (e.i. USD), Christmas/Performance bonuses issued in SearsCoin.*
+ *Important informational note: Unlike most large modern corporations Sears and it's wholly owned subsidiaries maintains hiring managers, smaller facilities the manager assumes the roll, Sears doesn't hire through entities such as LinkedIn, Indead etc. but with prospective employees approaching hiring manager directly with resume in hand, managers are encouraged to perform interviews on the spot if possible. 
 
 ### 🔬 R&D Cluster Staffing & Financial Contributions (2035)
 
@@ -434,6 +435,11 @@ This graph now consolidates all subsidiaries and includes the functions of **Col
 ## Additional Atari details 
 
 No Loot boxes, Pay to win, or advertisement in game (product placement allowed), traditional DLC, Skins, New multi-player maps ETC. with Sega Sports NFL, NBA, etc, Sears allows a rare subscription Avenue,  there is no new NHL, or NBA game each year, a 14.95 yearly subscription, updates rosters, player stats, team statistics, patches, tweaks, feedback implementation. Instead of a new sports game every year, Atarl/Sega sports released every 5 years (1 per 5y console generation.
+
+Atari through Sega has a smash hit COD/Battlefield alternative titled "Brothers in Arms" described as a gritty, violent, realistic arcade FPS. Intentionally polarizing and unapologetic in its all male/voiced vast, with heavy influence from both Ukrainian and Russian Veterans of Russo-Ukranian war.
+Sega has begun to dominate and has aquired licenses for NBA, NHL, MLB, and NFL with brisk sales and positive reviews,  EA Retained FIFA. Sega also has a solid Racing title as well.
+Capcom has a new smash hit Street fighter out October 2025.
+
 
 If a game is bought online, for a Additional $9.99 a physical copy of game will be shipped to customer.
 

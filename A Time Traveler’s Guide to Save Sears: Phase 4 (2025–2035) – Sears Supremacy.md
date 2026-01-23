@@ -81,11 +81,11 @@ By the end of Phase 3 (2025), Sears achieves significant milestones:
 * **Stores:** 2,700 (USA),100 (Japan/foreign markets) (2,520 showrooms/micro-DCs, 180 (USA) full-line Homart Mall anchor stores 
 * **Payroll:** $20/hour min wage floor; 10% premium above medians for roles; mechanics at $50/hour base with warranty incentives.
 * **Other Operations:** 180 USA, 100 Japan/expanded markets malls, 90 logistics distribution centers, 180 Saks stores, 280 (180 USA,100 expanded markets) Atari Arcades (Homart malls), Cub Cadet factories/R&D, Datsun support, Sears World Trade, Inc.
-* **Profit-sharing contracts** with key suppliers: **Goodyear Tire, Yamaha, etc.**
+* **Profit-sharing contracts** with key suppliers: **Goodyear Tire, Yamaha, Sherwin-Williams,  etc.**
 
 ### 👨‍🔧 Employee Roles and Estimated Payroll Breakdown (2035)
 
-*The payroll estimate has been updated to reflect the new Discover Card Network staff and budget changes. **Total Annual Payroll is now estimated at ~$53.6 Billion.** *
+**Total Annual Payroll is now estimated at ~$53.6 Billion.** *
 
 | Employee Segment | Estimated Headcount (2035) | Estimated Base Hourly/Salary Range (NA) | Total Annual Payroll Est. (NA) | Notes on Incentives |
 | :--- | :--- | :--- | :--- | :--- |

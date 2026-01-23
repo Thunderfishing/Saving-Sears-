@@ -125,7 +125,7 @@ By the end of Phase 3 (2025), Sears achieves significant milestones:
 | Source of "free R&D" Contribution | Estimated Annual Financial Value (2035) | Rationale / Mechanism |
 | :--- | :--- | :--- |
 | **Syndicate Partner Licensing** | **$4.0 – $6.0 Billion** | Technology from joint R&D (e.g., Whirlpool, Yamaha) becomes non-exclusive after 5 years, encouraging greater **Syndicate participation** and rapid innovation diffusion. |
-| **HomeForce / Repair Network** | **$1.0 – $1.5 Billion** | HomeForce, Auto Center, and **Unique Repair Network** shops submitting **KENN TSBs** (5 SearsCoin reward) that provide immediate, real-world failure analysis, skipping millions in lab testing. |
+| **HomeForce / Repair Network** | **$1.0 – $1.5 Billion** | HomeForce, Auto Center, and **Independent Repair Network** shops submitting **KENN TSBs** (50 SearsCoin reward pendng verification) that provide immediate, real-world failure analysis, skipping millions in lab testing. |
 | **Sears Academy / Students** | **$0.5 – $1.0 Billion** | Student projects, dissertations, and Capstone work on **modularity, repairability, and electron migration issues** provide valuable, low-cost research inputs. |
 | **High-Paid Mechanics / Techs** | **$0.8 – $1.2 Billion** | Highly-paid ($50/hr base) HomeForce and Auto Center mechanics are incentivized to provide proactive **diagnostic feedback** and optimization suggestions directly to R&D teams via KENN. |
 | **Total Estimated Free R&D Value** | **$6.3 – $9.7 Billion / year** | This is a significant supplement to the formal **$50B/year R&D budget**, providing unparalleled real-world data and design inputs. |
@@ -182,7 +182,7 @@ Objective: Scale to $1.2T revenue.
 
 ### 💻 Sears.com Core Features & Ecosystem Integration
 
-*Sears.com is the **$1.35 Trillion market catalyst**, blending a massive SKU selection with industry-leading service features and deep integration across the entire Sears ecosystem.*
+*Sears.com is the **$1.35 Trillion market catalyst**, blending a massive SKU selection with industry-leading service features and deep integration across the entire Sears ecosystem. 10% rebates on commissions paid to sears by SMBs dominated in SCN*
 
 | Feature Area | Key Metric / Detail | Integrated Subsidiaries | Strategic Value |
 | :--- | :--- | :--- | :--- |
@@ -232,7 +232,7 @@ Objective: Scale to 90 distribution centers, capture 2.5% of $30T global market.
 | **Workforce** | 205,000 | |
 | **Budget** | $100B | |
 
-* Features: 90 distribution centers, 10,000 micro-DCs, 200,000 hybrid vehicles, 65 Boeing 767,75 737-800BCF, 95 Cessna Skycourier feeder aircraft, Self-Healing Supply Chains via KENN AI.
+* Features: 90 distribution centers, 10,000 micro-DCs, 200,000 hybrid vehicles, 65 Boeing 767,75 737-800BCF, 95 Cessna Skycourier feeder aircraft, 40,000 diesel Paccar Tractor Trailers, Self-Healing Supply Chains via KENN AI.
 
 #### 4. Brands & Factories
 Objective: Scale factories and brands to generate $252B, leveraging Cub Cadet, Remington, and Datsun.
@@ -367,7 +367,7 @@ Objective: Scale to 220 college partners, provide $35B revenue uplift.
 | **Revenue Uplift** | $30B | $35B |
 | **Workforce** | 6,500 | |
 
-* Features: Network of 220 colleges, Dallas polytechnic campus, programs in AI/robotics/EV tech, **Right to Repair** advocate, **Anti-planned obsolescence** advocate, **Homart Mall Community initiatives**
+* Features: Network of 220 colleges, Main credentialedb Dallas polytechnic campus, programs in AI/robotics/EV tech, **Right to Repair** advocate, **Anti-planned obsolescence** advocate, **Homart Mall Community initiatives**
 
 ## 🎓 Sears Academy Functions, Operations, & Impact (2035 Projected)
 
@@ -426,7 +426,7 @@ This graph now consolidates all subsidiaries and includes the functions of **Col
 | **Homart Development** | Dallas, TX | 19,500 | $65B | Property management and mall redevelopment. |
 | **Sears Canada** | Calgary, AB | 45,500 | $18B | Canadian retail and market operations. |
 | **Sears World Trade, Inc.** | Dallas, TX | 4,500 (+1,800 global ops) | $30B | Domestic & Vetted foreign SKUs for Sears.com (6M SKUs). |
-| **Western Forge** | Colorado Springs, CO | 75 (+ 50 for Remington) | $4B | Craftsman hand tools, Remington rifles manufacturing. |
+| **Western Forge** | Colorado Springs, CO | 75 (+ 50 for Remington) office/management, 3500 factory| $4B | Craftsman hand tools, Remington rifles manufacturing. |
 | **Yahoo!/iFixit** | **San Antonio**, TX | 5,500 | $45.5B | Search engine/AI integration and Right to Repair knowledge base. |
 | **Zenith** | **San Antonio**, TX | 8,500 | $55B | Electronics, Display Tech, Silvertone Audio. |
 | **Coldwell Banker** | Dallas, TX | (Included in Dean Witter) | $15B | Real estate brokerage, property management. **Originates 30%-down mortgages for Dean Witter Homart Mortgage Fund.** |
@@ -435,16 +435,19 @@ This graph now consolidates all subsidiaries and includes the functions of **Col
 
 ## Additional Atari details 
 
-No Loot boxes, Pay to win, or advertisement in game (product placement allowed), traditional DLC, Skins, New multi-player maps ETC. with Sega Sports NFL, NBA, etc, Sears allows a rare subscription Avenue,  there is no new NHL, or NBA game each year, a 14.95 yearly subscription, updates rosters, player stats, team statistics, patches, tweaks, feedback implementation. Instead of a new sports game every year, Atarl/Sega sports released every 5 years (1 per 5y console generation.
+No Loot boxes, Pay to win, or advertisement in game (product placement allowed), traditional DLC, Skins, New multi-player maps ETC. with Sega Sports NFL, NBA, etc, Sears allows a rare subscription Avenue, there is no new NHL, or NBA, etc game each year, a 14.95 yearly subscription, updates rosters, player stats, team statistics, adds performance patches, tweaks, feedback implementation,  minor graphics updates. Instead of a new sports game every year, Atarl/Sega sports released every 5 years (1 per 5y console generation.
 
 Atari through Sega has a smash hit COD/Battlefield alternative titled "Brothers in Arms" described as a gritty, violent, realistic arcade FPS. Intentionally polarizing and unapologetic in its all male/voiced vast, with heavy influence from both Ukrainian and Russian Veterans of Russo-Ukranian war.
-Sega has begun to dominate and has aquired licenses for NBA, NHL, MLB, and NFL with brisk sales and positive reviews,  EA Retained FIFA. Sega also has a solid Racing title as well.
-Capcom has a new smash hit Street fighter out October 2025.
+Sega has begun to dominate and has aquired licenses for NBA, NHL, MLB, and NFL with brisk sales and positive reviews,  EA Retained FIFA and PGA. Sega also has a solid Racing title as well.
+Sega continues Sonic the Hedgehog revival.
+Capcom has a new smash hit Street fighter out October 2027.
 
 
 If a game is bought online, for a Additional $9.99 a physical copy of game will be shipped to customer.
 
 Adoption of stop killing games initiative.
+
+Atari has partnered with Valve to offer games from it's ecosystem for PC, most games especially "Brothers in Arms" optimized for low end PCs.
 
 ## Additional Saks 5th/Off 5th Avenue Details.
 
@@ -529,10 +532,11 @@ The Discover Card Network is now the subsidiary responsible for the day-to-day t
 (c) Emergency governance meeting with binding resolution
 (d) Exit from Covenant with damages" | **SearsPay/Credit Card Fees:** Used to cover transaction/network fees across the Discover Card Network. |
 | **Employee/Partner Incentives** | **Employee Bonus:** **10,000 SearsCoin** ($100 USD) Christmas Bonus for all 621,021 employees (by 2035). | **Transaction Backbone:** Facilitated by the Discover Card Network ($11B Revenue, 5% market share). | **Sears Ventures Repayment:** Used to pay back certain SMB loans/investments in the ecosystem. |
-| **R&D / Diagnostics** | **Repair Network TSBs:** **5 SearsCoin reward** to **HomeForce techs and Unique Repair Network shops** for submitting verified Technical Service Bulletins (TSBs)/diagnostics to KENN AI. | **Governance:** Regulated by Dean Witter, with transparent quarterly reporting and dedicated independent oversight board (SearsCoin Reserve Fund). | **Rewards Redemption:** Redeemed SearsCoin in-store or on Sears.com (up to 5% uplift on purchases). |
+| **R&D / Diagnostics** | **Repair Network TSBs:** **50 SearsCoin reward** to **HomeForce techs and Independent Repair Network shops** for submitting verified Technical Service Bulletins (TSBs)/diagnostics to KENN AI. | **Governance:** Regulated by Dean Witter, with transparent quarterly reporting and dedicated independent oversight board (SearsCoin Reserve Fund). | **Rewards Redemption:** Redeemed SearsCoin in-store or on Sears.com (up to 5% uplift on purchases). |
 | **New User Adoption** | **CDM Sign-on Payment:** **10,000 SearsCoin** ($100 USD) sign-on payment for customers voluntarily opting into the Consumer Data Marketplace. | **Circulation Control:** KENN AI monitors and adjusts reward generation rates to maintain stability against the $23.2B Reserve Fund. | **Partner Services:** Used by participating **Syndicate suppliers** (Whirlpool, Yamaha) to settle internal service fees. |
 
 ---
+
 
 ## 🌍 Homart Malls, SCloud Data Centers, & World Trade Offices (2035)
 
@@ -593,7 +597,7 @@ The Discover Card Network is now the subsidiary responsible for the day-to-day t
 * **Datsun:** Synergies ($6B): DieHard batteries, **RoadHandler tires ($0.8B from Goodyear Tire)**, Allstate insurance, KENN AI, etc.
 
 
-### supplier Profit-Sharing program & Eligibility Conditions
+### Supplier Profit-Sharing program & Eligibility Conditions
 
 For any Syndicate Partner to be eligible for profit-sharing distributions (cash, SSGF equity, and SearsCoin), they must satisfy all the following contractual conditions, reinforcing the core values of The Sears Concordant:
 

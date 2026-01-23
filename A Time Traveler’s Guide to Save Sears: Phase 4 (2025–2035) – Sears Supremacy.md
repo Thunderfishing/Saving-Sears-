@@ -1,8 +1,8 @@
 # A Time Traveler's Guide to Save Sears: Phase 4 (2025–2035)
 
-## The Sears Concordant (aka: The Syndicate)
+## Sears Robuck & Co and The Sears Concordant (aka: The Syndicate)
 
-A unified alliance between an industrialized **Sears** and its industrial suppliers, employees, customers and each other.
+A unified alliance between an industrialized **Sears Robuck & Co** and its industrial suppliers, employees, customers and each other.
 Bound by a covenant of reciprocity, durability and repair.
 
 ### Mission
@@ -77,7 +77,7 @@ By the end of Phase 3 (2025), Sears achieves significant milestones:
 
 ### Workforce & Operations (by 2035)
 
-* **Workforce:** 625,821 + 140,000 Datsun employees + 4.8k Discover (by 2035) = **765,821**
+* **Workforce:** 629,321 + 140,000 Datsun employees + 4.8k Discover (by 2035) = **769,321**
 * **Stores:** 2,700 (USA),100 (Japan/foreign markets) (2,520 showrooms/micro-DCs, 180 (USA) full-line Homart Mall anchor stores 
 * **Payroll:** $20/hour min wage floor; 10% premium above medians for roles; mechanics at $50/hour base with warranty incentives.
 * **Other Operations:** 180 USA, 100 Japan/expanded markets malls, 90 logistics distribution centers, 180 Saks stores, 280 (180 USA,100 expanded markets) Atari Arcades (Homart malls), Cub Cadet factories/R&D, Datsun support, Sears World Trade, Inc.
@@ -105,7 +105,7 @@ By the end of Phase 3 (2025), Sears achieves significant milestones:
 
 ### 🔬 R&D Cluster Staffing & Financial Contributions (2035)
 
-*R&D is centralized in key "Centers of Excellence" (San Antonio, Osaka, Colorado Springs) to maximize inter-subsidiary knowledge sharing.*
+*Sears Corporate R&D is centralized in key "Centers of Excellence" (San Antonio, Osaka, Colorado Springs) to maximize inter-subsidiary knowledge sharing*
 
 | R&D Cluster / Facility | Primary Location | Estimated Staff (2035) | R&D Spending (2035) | Key Cross-Pollination / Shared Tech |
 | :--- | :--- | :--- | :--- | :--- |
@@ -117,6 +117,8 @@ By the end of Phase 3 (2025), Sears achieves significant milestones:
 | **Metallurgy / Automotive** | Colorado Springs, CO | **500** (Goodyear + 150 Lab) | **$1.15 Billion** | Advanced materials for **Craftsman/Remington**, high-wear parts for **Datsun/Cub Cadet**, **RoadHandler** tire compounds. |
 | **DieHard / WeatherBeater** | San Antonio, TX | **1,500** | **$3.5 Billion** | EV battery materials (**DieHard**), high-durability coatings/paints (**WeatherBeater** for Datsun). |
 | **Other R&D / Global Support** | Various (Yahoo!, Osaka/Datsun) | **~35,000** | **$18.85 Billion** | **Total R&D Spend: $50B/year** |
+
+*This spending is in addition to each subsidiaries approx. 5% internal R&D spending*
 
 ### 💡 Estimated Value of Free/Open-Source R&D Contributions (2035)
 

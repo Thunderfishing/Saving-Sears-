@@ -26,7 +26,7 @@ By the end of Phase 3 (2025), Sears achieves significant milestones:
 | **Revenue** | **$850B** (North America: $640 billion; Expanded Markets: $160B) |
 | **EBITDA** | **$64B** (8% margin) |
 | **Valuation** | **$980B** (15x EBITDA multiple) |
-| **Total R&D spending** | **$35B/y** |
+| **Total R&D spending** | **$35B/y By Sears Corporate, plus approx 5% of revenue by each subsidiary** |
 | **Surplus** | **$0.5B** |
 | **Debt** | **$18B** |
 | **Cash on Hand** | **$13.7B** |

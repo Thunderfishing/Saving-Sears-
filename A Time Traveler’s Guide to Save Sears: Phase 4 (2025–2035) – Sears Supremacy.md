@@ -461,7 +461,7 @@ Capcom has a new smash hit Street fighter out October 2027.
 
 ## Additional Saks 5th/Off 5th Avenue Details.
 
-No BNPL allowed, Sears attempts to inject intrinsic value into $1000+ handbag etc. sterling/gold buckles, zippers, stiching, clothing infused with silver for anti bacterial properties, refurbishment programs.
+* No BNPL allowed, Sears attempts to inject intrinsic value into $1000+ handbag etc. sterling/gold buckles, zippers, stiching, clothing infused with silver for anti bacterial properties, refurbishment programs.
 
 ## 💰 Dean Witter Asset Management & Discover Card Financial Ecosystem
 
@@ -609,7 +609,7 @@ The Discover Card Network is now the subsidiary responsible for the day-to-day t
 
 ### Supplier Profit-Sharing program & Eligibility Conditions
 
-For any Syndicate Partner to be eligible for profit-sharing distributions (cash, SSGF equity, and SearsCoin), they must satisfy all the following contractual conditions, reinforcing the core values of The Sears Concordant:
+* For any Syndicate Partner to be eligible for profit-sharing distributions (cash, SSGF equity, and SearsCoin), they must satisfy all the following contractual conditions, reinforcing the core values of The Sears Concordant:
 
 #### I. Product Lifecycle Commitments
 1.  **Durability & Modularity:** Suppliers must adopt **Sears' Standards for Durability and Modularity** in all jointly developed products (Kenmore, Coldspot, RoadHandler, etc.), ensuring designs prioritize component accessibility and long service life.
@@ -654,7 +654,9 @@ For any Syndicate Partner to be eligible for profit-sharing distributions (cash,
 
 * **Structure:** Standalone Japanese corporation, **Osaka** HQ/R&D.
 * **Ownership:** 33-51% Sears stake ($8B, 2026-2028).
-* **Service:** Auto Centers (2,900 centers), HomeForce (mobile repair), **RoadHandler Tires, DieHard batteries, WeatherBeater (automotive paint), Harmony House (seat foam)** included.
+* **Service:** Auto Centers (2,900 centers), HomeForce (mobile repair), **RoadHandler Tires, DieHard batteries, WeatherBeater (automotive paint), Harmony House (seat foam)**
+* **Mandates by Sears** Each model is to be astronomical analog as regulatory possible (analog gauges, Infotainment optional, keep models simple (6 speed automatic/manual transmissions, no 10 or 12)**
+* **CustomerFinancing** Discover has designed financing options to push customers towards 3y financing plan (5.49 APR 3y, 6.99 5Y, no 72 or 84 month options)**
 
 ---
 

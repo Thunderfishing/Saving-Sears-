@@ -99,9 +99,11 @@ By the end of Phase 3 (2025), Sears achieves significant milestones:
 | **Datsun Employees** | **140,000** (Japanese/Expanded Markets) | **$45K – $150K/yr equivalent** | ~$10 Billion | Competitive global compensation, profit-sharing integration, access to Datsun IPO shares. |
 | **Total Workforce** | **703,950** | | **~$55.16 Billion** (Estimate) | **Min wage floor: $20/hour.** |
  
- *Clarification note: Wages are paid in local currency (e.i. USD), Christmas/Performance bonuses issued in SearsCoin.*
- *Important informational note: Unlike most large modern corporations Sears and it's wholly owned subsidiaries maintains hiring managers, smaller facilities the manager assumes the roll, Sears doesn't hire through entities such as LinkedIn, Indead etc. but with prospective employees approaching hiring manager directly with resume in hand, managers are encouraged to perform interviews on the spot if possible*
- *It has been recognized that Sears is well ahead of others in mechanizing workforce with Robotics and utilization of AI, as evidenced by its 761,000 head count, it continues to elevate its human workforce through AI/robotics, most of the boring repetitive jobs already automated, employees focused on repairs, logistics and customer service, and continues to scale human workers*
+ * Clarification note: Wages are paid in local currency (e.i. USD), Christmas/Performance bonuses issued in SearsCoin. *
+ 
+* Unlike most large modern corporations Sears and it's wholly owned subsidiaries maintains hiring managers, smaller facilities the manager assumes the roll, Sears doesn't hire through entities such as LinkedIn, Indead etc. appliances can apply on Seaers website careers page, or with prospective employees approaching hiring manager directly with resume in hand, managers are encouraged to perform interviews on the spot if possible
+
+* It has been recognized that Sears is well ahead of others in mechanizing workforce with Robotics and utilization of AI, as evidenced by its 761,000 head count, it continues to elevate its human workforce through AI/robotics, witb most of the boring repetitive jobs already automated, employees focus on repairs, diagnostics, logistics and customer service, maintaining infrastructure/maintenance, and continues to scale human workforce *
 
 ### 🔬 R&D Cluster Staffing & Financial Contributions (2035)
 
@@ -163,6 +165,8 @@ Objective: Scale to $1.2T revenue.
 
 ## 🧠 KENN AI: Functions, Security, and Strategic Impact (2035)
 
+* D.O.B: Oct, 1995. Began as a rules based aid in Sears.com site navigation and recommendations engine, Yahoo integrated post 1997 acquisition *
+
 | Category | Function/Feature | Strategic Impact & Metrics (2035) | Financial Impact (2035) |
 |---|---|---|---|
 | **Core Intelligence** | **Model Architecture** | Multimodal, contextually aware Retail Intelligence (non-black-box AGI with xAI collaboration). | Uplift: **$80 Billion** total |
@@ -181,6 +185,8 @@ Objective: Scale to $1.2T revenue.
 | | **Blockchain Protocol** | Quantum-resistant blockchain protocols for SearsCoin and Discover Network backbone. | Security Feature |
 
 ---
+
+* Clarification note: KENN AI/agents assists Dean-Witter's and Discover Cards fraud and cyber security teams. *
 
 ### 💻 Sears.com Core Features & Ecosystem Integration
 

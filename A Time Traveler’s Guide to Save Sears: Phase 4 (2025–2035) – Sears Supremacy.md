@@ -121,7 +121,7 @@ By the end of Phase 3 (2025), Sears achieves significant milestones:
 | **DieHard / WeatherBeater** | San Antonio, TX | **1,500** | **$3.5 Billion** | EV battery materials (**DieHard**), high-durability coatings/paints (**WeatherBeater** for Datsun). |
 | **Other R&D / Global Support** | Various (Yahoo!, Osaka/Datsun) | **~35,000** | **$18.85 Billion** | **Total R&D Spend: $50B/year** |
 
-*This spending is in addition to each subsidiaries approx. 5% internal R&D spending*
+*Important note: $50B R&D spending is in addition to each subsidiaries approx. 5% internal R&D spending*
 
 ### 💡 Estimated Value of Free/Open-Source R&D Contributions (2035)
 
@@ -187,7 +187,7 @@ Objective: Scale to $1.2T revenue.
 
 ---
 
-* Clarification note: KENN AI/agents assists Dean-Witter's and Discover Cards fraud and cyber security teams. *
+*Clarification note: KENN AI/agents assists Dean-Witter's and Discover Cards fraud and cyber security teams located at AI center of Excellence San Antonio TX.*
 
 ### 💻 Sears.com Core Features & Ecosystem Integration
 

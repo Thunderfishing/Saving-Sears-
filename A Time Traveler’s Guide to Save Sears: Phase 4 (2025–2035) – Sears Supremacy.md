@@ -444,19 +444,20 @@ This graph now consolidates all subsidiaries and includes the functions of **Col
 
 ## Additional Atari details 
 
-No Loot boxes, Pay to win, or advertisement in game (product placement allowed), traditional DLC, Skins, New multi-player maps ETC. with Sega Sports NFL, NBA, etc, Sears allows a rare subscription Avenue, there is no new NHL, or NBA, etc game each year, a 14.95 yearly subscription, updates rosters, player stats, team statistics, adds performance patches, tweaks, feedback implementation,  minor graphics updates. Instead of a new sports game every year, Atarl/Sega sports released every 5 years (1 per 5y console generation.
+* No Loot boxes, Pay to win, or advertisement in game (product placement allowed), traditional DLC, Skins, New multi-player maps ETC. with Sega Sports NFL, NBA, etc, Sears allows a rare subscription Avenue, there is no new NHL, or NBA, etc game each year, a 14.95 yearly subscription, updates rosters, player stats, team statistics, adds performance patches, tweaks, feedback implementation,  minor graphics updates. Instead of a new sports game every year, Atarl/Sega sports released every 5 years (1 per 5y console generation.
 
-Atari through Sega has a smash hit COD/Battlefield alternative titled "Brothers in Arms" described as a gritty, violent, realistic arcade FPS. Intentionally polarizing and unapologetic in its all male/voiced vast, with heavy influence from both Ukrainian and Russian Veterans of Russo-Ukranian war.
-Sega has begun to dominate and has aquired licenses for NBA, NHL, MLB, and NFL with brisk sales and positive reviews,  EA Retained FIFA and PGA. Sega also has a solid Racing title as well.
+* Atari through Sega has a smash hit COD/Battlefield alternative titled "Brothers in Arms" described as a gritty, violent, realistic arcade FPS. Intentionally polarizing and unapologetic in its all male/voiced vast, with heavy influence from both Ukrainian and Russian Veterans of Russo-Ukranian war.
+
+* Sega has begun to dominate and has aquired licenses for NBA, NHL, MLB, and NFL with brisk sales and positive reviews,  EA Retained FIFA and PGA. Sega also has a solid Racing title as well.
 Sega continues Sonic the Hedgehog revival.
 Capcom has a new smash hit Street fighter out October 2027.
 
 
-If a game is bought online, for a Additional $9.99 a physical copy of game will be shipped to customer.
+* If a game is bought online, for a Additional $9.99 a physical copy of game will be shipped to customer.
 
-Adoption of stop killing games initiative.
+* Adoption of stop killing games initiative.
 
-Atari has partnered with Valve to offer games from it's ecosystem for PC, most games especially "Brothers in Arms" optimized for low end PCs.
+* Atari has partnered with Valve to offer games from it's ecosystem for PC, most games especially "Brothers in Arms" optimized for low end PCs.
 
 ## Additional Saks 5th/Off 5th Avenue Details.
 

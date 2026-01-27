@@ -1,6 +1,7 @@
 # A Time Traveler's Guide to Save Sears: Phase 4 (2025–2035)
 
-## Sears Robuck & Co and The Sears Concordant (aka: The Syndicate)
+## Sears Roebuck & Co 
+The Sears Concordant (aka: The Syndicate)
 
 A unified alliance between an industrialized **Sears Robuck & Co** and its industrial suppliers, employees, customers and each other.
 Bound by a covenant of reciprocity, durability and repair.

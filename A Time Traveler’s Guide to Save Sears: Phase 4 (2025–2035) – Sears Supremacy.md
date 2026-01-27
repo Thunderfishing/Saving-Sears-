@@ -102,7 +102,7 @@ By the end of Phase 3 (2025), Sears achieves significant milestones:
  
  * Clarification note: Wages are paid in local currency (e.i. USD), Christmas/Performance bonuses issued in SearsCoin.
  
-* Unlike most large modern corporations Sears and it's wholly owned subsidiaries maintains hiring managers, at smaller facilities the manager assumes the roll, Sears doesn't hire through entities such as LinkedIn, Indead etc. appliances can apply on Seaers website careers page, or with prospective employees approaching hiring manager directly with resume in hand, managers are encouraged to perform interviews on the spot if possible
+* Unlike most large modern corporations Sears and it's wholly owned subsidiaries maintains hiring managers, at smaller facilities the manager assumes the roll, Sears doesn't hire through entities such as LinkedIn, Indead etc. applicants can apply on Sears website careers page, or with prospective employees approaching hiring manager directly with resume in hand, managers are encouraged to perform interviews on the spot if possible
 
 * It has been recognized that Sears is well ahead of others in mechanizing workforce with Robotics and utilization of AI, as evidenced by its 761,000 head count, it continues to elevate its human workforce through AI/robotics, witb most of the boring repetitive jobs already automated, employees focus on repairs, diagnostics, logistics and customer service, maintaining infrastructure/maintenance, and continues to scale human workforce 
 
@@ -285,8 +285,8 @@ This table lists the key facilities, brand focus, and capacity/Capex, ensuring l
 
 | Factory/Location | Brand Focus | Most Likely Datsun Vehicle | Estimated Annual Capacity (Units) | Capital Expenditure (Capex) (2035) |
 | :--- | :--- | :--- | :--- | :--- |
-| **Datsun - Brownsville, TN** | Vehicles (Trucks/Vans) | **Datsun Pathfinder** (SUV) / **EV Vans** (Logistics) | 1,000,000 | $1.17 Billion |
-| **Datsun - Martin, TN** | Vehicles (Trucks/Vans) | **Datsun Frontier** (Mid-Size Truck) | 1,000,000 | $1.17 Billion |
+| **Datsun - Brownsville, TN** | Vehicles (Trucks/Vans) | **Datsun Pathfinder** (SUV) / **EV Vans** (Logistics) | 200,000 | $1.17 Billion |
+| **Datsun - Martin, TN** | Vehicles (Trucks/Vans) | **Datsun Frontier** (Mid-Size Truck) | 200,000 | $1.17 Billion |
 | **Datsun - Guadalajara, Mexico** | Vehicles (Trucks/Vans) | **Datsun Titan** (Full-Size Truck/Sedan) | 1,000,000 | $1.16 Billion |
 | **Datsun - Osaka, Japan (x2)** | Vehicles (Cars/CUVs) | **Datsun Rogue** (Crossover/SUV) / **Ultima** (Sedan) | 1,200,000 | $0.80 Billion |
 | **Datsun - Yokohama, Japan** | Vehicles (Cars/R&D) | **Datsun 240SX** (Sports Coupe) | 400,000 | $0.40 Billion |

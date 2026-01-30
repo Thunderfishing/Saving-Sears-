@@ -481,7 +481,7 @@ The Discover Card Network is now the subsidiary responsible for the day-to-day t
 
 ### 📈 Dean Witter Asset Management: Fund Structure & Governance
 
-**Total Assets Under Management (AUM) by 2035: $1.457 Trillion**
+**Total Assets Under Management (AUM) by 2035: $1.547 Trillion**
 
 **Dean Witter** operates as an independent asset management subsidiary with oversight boards for each fund category.
 
@@ -489,7 +489,7 @@ The Discover Card Network is now the subsidiary responsible for the day-to-day t
 | :--- | :--- | :--- |
 | **Total Employees** | 3,800 | 3,800 (Stable) |
 | **Operating Budget** | $150M/year | $200M/year |
-| **Total AUM** | $392B | **$1.457T** |
+| **Total AUM** | $392B | **$1.547T** |
 | **Revenue (Management/Performance Fees)** | $2.5B | **$8.75B** |
 | **Entity Value** | $10B | **$37.5B** |
 
@@ -505,7 +505,7 @@ The Discover Card Network is now the subsidiary responsible for the day-to-day t
 | Fund | Assets (2035) | Purpose |
 | :--- | :--- | :--- |
 | **Corporate Wealth Fund** | $34B | Strategic Syndicate investments |
-| **SearsCoin Reserve Fund** | $43.5B | Asset backing for SearsCoin consisting of precious metal mining securities/Bitcoin (Managed by Dean Witter, operations via Discover) |
+| **SearsCoin Reserve Fund** | $53.5B | Asset backing for SearsCoin consisting of precious metal mining/Energy securities/Bitcoin (Managed by Dean Witter, operations via Discover) |
 | **Sears Fund** | $210B/7% | Long-term shareholder equity |
 | **Homart Mortgage Fund (HMF)** | **$875B** | **Holds Coldwell Banker's elite-grade mortgages** |
 | **Homart Community Fund** | $10B | Community initiatives |
@@ -515,7 +515,9 @@ The Discover Card Network is now the subsidiary responsible for the day-to-day t
 | **Sears Ventures** | $30B | Venture capital for SMBs/startups |
 | **Customer Brokerage Accounts** | $80B | Retail customer investments |
 | **Sears Savings Accounts** | $136B | Integrated banking services |
-| **Total AUM** | **$1.537T** | Master 9-member oversight board |
+| **Total AUM** | **$1.547T** | Master 9-member oversight board |
+
+* SearsCoin reserve securities are primarily made up of Barrick, Gold Corp, Agnico Eagle, Silver Wheaton, for precious metals and Chevron, ExxonMobil for Energy.
 
 ### Revised Corporate Wealth Investment Summary
 
@@ -910,7 +912,7 @@ Customer Outcomes (36 months):
 | **Sears Ventures** | $30B | Venture capital for SMBs/startups |
 | **Customer Brokerage Accounts** | $80B | Retail customer investments |
 | **Sears Savings Accounts** | $136B | Integrated banking services |
-| **Total AUM** | **$1.537T** | Master 9-member oversight board |
+| **Total AUM** | **$1.547T** | Master 9-member oversight board |
 
 **E-commerce Market Analysis (2035)**
 

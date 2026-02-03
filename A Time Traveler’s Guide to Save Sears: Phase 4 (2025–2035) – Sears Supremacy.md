@@ -276,7 +276,7 @@ This table consolidates all major brands, production models, factory locations, 
 | **Harmony House** | Vertical/Partner | Sears/Serta | Guadalajara, Mexico (x2); Surabaya, Indonesia | Mattresses/bedding. **$7.5B Revenue.** |
 | **WeatherBeater Paint** | Partner | **Sherwin-Williams** | N/A (Syndicate Partner Factories) | Paint/sealants for Datsun and retail. **$6.5B Revenue.** |
 | **Char-Broil Grills** | Partner | **Char-Broil** | N/A (Syndicate Partner Factories) | High-volume SKU for Sears.com. **$1.1B Revenue.** |
-| **Sears Robotics** | Vertical | Sears/Kiva/Dragonfly | Osaka, Surabaya | 2.5M units **$35B Revenue** |
+| **Sears Robotics** | Vertical | Sears/Kiva/Dragonfly | Osaka, Surabaya | 270,000 Logistics, 27M Drones, 36M Consumer robots **$35B Revenue** |
 
 --
 
@@ -291,10 +291,10 @@ This table consolidates all major brands, production models, factory locations, 
 | **Datsun - Yokohama, Japan** | Vehicles (Cars/R&D) | **Datsun 240SX/Rogue** (Sports Coupe/CUV) | 350,000 | $0.30 Billion |
 | **Datsun - Toyota, Japan** | Vehicles (Cars) | **Datsun Ultima** (Sedan/Hatch/Wagon) | 250,000 | $0.40 Billion |
 | **Datsun - Hiroshima, Japan** | Vehicles (Stamping) | Body Stamping / Chassis | N/A (Supports all Datsun) | $0.20 Billion |
-| **Dallas, TX** | Kenmore, Coldspot, Craftsman Power Tools, DieHard Batteries | 900,000 Appliances / 1.8M Power Tools / 3M Batteries (various) | $2.80 Billion |
-| **Guadalajara, Mexico (x2)** | **Zenith/Silvertone** Audio, Harmony House Mattresses | 1.1M Audio Devices / 2.5M Mattresses | $1.40 Billion |
-| **Surabaya, Indonesia** | Kenmore, Coldspot, Harmony House, Kiva Appliance Bots | 270,000 Appliances / 1M mule Bots/Drones | $0.35 Billion |
-| **Osaka, Japan** | Atari Peripherals, Kodak Optics, 1M Sears Consumer Robotics | 450,000 Appliances / 1.5M Peripherals | $0.35 Billion |
+| **Dallas, TX** (5 Factories) | Kenmore, Coldspot, Craftsman Power Tools, DieHard Batteries (×2) | 900,000 Appliances / 1.8M Power Tools / 27M Auto/Marine, 1.5M EV, 2.8M Powertool Batteries | $2.80 Billion |
+| **Guadalajara, Mexico** (3 Factories) | **Zenith/Silvertone/Harmony House** Silvertone Audio, Zenith Video, Harmony House Mattresses | 1.5M Video, 1.1M Audio Devices / 2.5M Mattresses | $1.40 Billion |
+| **Surabaya, Indonesia** (3 Factories) | Kenmore/Coldspot, Harmony House, Sears Consumer Robots/Dragonfly Drones| 270,000 Appliances / 36M Consumer Robots/27M Drones / 1.5M Mattresses | $0.35 Billion |
+| **Osaka, Japan** | Kenmore/Coldspot Appliances,  Atari Consoles, Kodak Optics/Kiva Logistics Robots| 450,000 Appliances / 1.5M Consoles/Peripherals / 270,000 Robots | $0.35 Billion |
 | **Colorado Springs, CO** | Craftsman Hand Tools, Remington Rifles | 18M Hand Tools / 1.5M Rifles/Shotguns | $0.50 Billion |
 | **Brownsville, TN (Cub Cadet)** | Cub Cadet Mowers, Snowblowers | 1.5M Mowers/Tractors | $0.18 Billion |
 | **Martin, TN (Cub Cadet)** | Cub Cadet Mowers, Snowblowers | 1.5M Mowers/Tractors | $0.09 Billion |

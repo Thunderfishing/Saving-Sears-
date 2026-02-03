@@ -262,7 +262,7 @@ This table consolidates all major brands, production models, factory locations, 
 
 | Core Brand | Production Model | Partner | Factory Location(s) | Production Notes & Revenue (2035) |
 | :--- | :--- | :--- | :--- | :--- |
-| **Kenmore** | Vertical/Partner | Sears/Whirlpool | Dallas, TX; Surabaya, Indonesia; Osaka, Japan (Alt. Factory) | 900k units (Dallas), 450k (Asia). **$100B Revenue.** |
+| **Kenmore** | Vertical/Partner | Sears/Whirlpool | Dallas, TX; Surabaya, Indonesia; Osaka, Japan  | 900k units (Dallas), 450k (Asia). **$100B Revenue.** |
 | **Coldspot** | Vertical/Partner | Sears/Whirlpool | Dallas, TX; Surabaya, Indonesia; Osaka, Japan (Alt. Factory) | 225k (Dallas), 270k (Asia) Fridges, Freezers, AC. **$40B Revenue.** |
 | **Craftsman** | Vertical | Sears | Dallas, TX; Colorado Springs, CO | 1.8M power tools (Dallas), 18M hand tools (Colorado). **$12B Revenue.** |
 | **Remington (by W. Forge)**| Vertical | Sears | Colorado Springs, CO | Bolt-action rifles/shotguns (Western Forge synergy). **$1.8B Revenue.** |
@@ -272,16 +272,15 @@ This table consolidates all major brands, production models, factory locations, 
 | **DieHard Batteries** | Vertical | Sears | Dallas, TX | EV/Hybrid, Lithium-ion focus. **$10B Revenue.** |
 | **Cub Cadet** | Vertical | Sears | Martin, TN; Brownsville, TN | Mowers, snowblowers, tractors. **$5.5B Revenue.** |
 | **Datsun Vehicles** | Vertical/Partner | Sears/Nissan/Yamaha/Getrag| TN (Brownsville/Martin), MX (Guadalajara), JP (Osaka/Yokohama/Toyota/Hiroshima) | Assembly/Engine/Stamping. **$48B Revenue.** |
-| **Atari consoles/Peripherals**| Vertical | Sears | Osaka, Japan (Alt. Factory) | Gaming consoles and peripherals. **$100B Revenue (Combined).** |
+| **Atari consoles/Peripherals**| Vertical | Sears | Osaka, Japan | Gaming consoles and peripherals. **$100B Revenue (Combined).** |
 | **Harmony House** | Vertical/Partner | Sears/Serta | Guadalajara, Mexico (x2); Surabaya, Indonesia | Mattresses/bedding. **$7.5B Revenue.** |
 | **WeatherBeater Paint** | Partner | **Sherwin-Williams** | N/A (Syndicate Partner Factories) | Paint/sealants for Datsun and retail. **$6.5B Revenue.** |
 | **Char-Broil Grills** | Partner | **Char-Broil** | N/A (Syndicate Partner Factories) | High-volume SKU for Sears.com. **$1.1B Revenue.** |
+| **Sears Robotics** | Vertical | Sears/Kiva/Dragonfly | Osaka, Surabaya | 2.5M units **$35B Revenue** |
 
 --
 
 ## 🏭 Sears-Affiliated Manufacturing & Production Roster: Factory Locations
-
-This table lists the key facilities, brand focus, and capacity/Capex, ensuring location information is preserved.
 
 | Factory/Location | Brand Focus | Most Likely Datsun Vehicle | Estimated Annual Capacity (Units) | Capital Expenditure (Capex) (2035) |
 | :--- | :--- | :--- | :--- | :--- |
@@ -292,10 +291,10 @@ This table lists the key facilities, brand focus, and capacity/Capex, ensuring l
 | **Datsun - Yokohama, Japan** | Vehicles (Cars/R&D) | **Datsun 240SX/Rogue** (Sports Coupe/CUV) | 350,000 | $0.30 Billion |
 | **Datsun - Toyota, Japan** | Vehicles (Cars) | **Datsun Ultima** (Sedan/Hatch/Wagon) | 250,000 | $0.40 Billion |
 | **Datsun - Hiroshima, Japan** | Vehicles (Stamping) | Body Stamping / Chassis | N/A (Supports all Datsun) | $0.20 Billion |
-| **Dallas, TX** | Kenmore, Coldspot, Craftsman Power Tools, DieHard | 900,000 Appliances / 1.8M Power Tools | $2.80 Billion |
+| **Dallas, TX** | Kenmore, Coldspot, Craftsman Power Tools, DieHard Batteries | 900,000 Appliances / 1.8M Power Tools / 3M Batteries (various) | $2.80 Billion |
 | **Guadalajara, Mexico (x2)** | **Zenith/Silvertone** Audio, Harmony House Mattresses | 1.1M Audio Devices / 2.5M Mattresses | $1.40 Billion |
-| **Surabaya, Indonesia** | Kenmore, Coldspot, Harmony House, Kiva Appliance Bots | 270,000 Appliances / 1M Appliance Bots | $0.35 Billion |
-| **Osaka, Japan (Alt. Factory)** | Atari Peripherals, Kodak Optics, Robotics | 450,000 Appliances / 1.5M Peripherals | $0.35 Billion |
+| **Surabaya, Indonesia** | Kenmore, Coldspot, Harmony House, Kiva Appliance Bots | 270,000 Appliances / 1M mule Bots/Drones | $0.35 Billion |
+| **Osaka, Japan** | Atari Peripherals, Kodak Optics, 1M Sears Consumer Robotics | 450,000 Appliances / 1.5M Peripherals | $0.35 Billion |
 | **Colorado Springs, CO** | Craftsman Hand Tools, Remington Rifles | 18M Hand Tools / 1.5M Rifles/Shotguns | $0.50 Billion |
 | **Brownsville, TN (Cub Cadet)** | Cub Cadet Mowers, Snowblowers | 1.5M Mowers/Tractors | $0.18 Billion |
 | **Martin, TN (Cub Cadet)** | Cub Cadet Mowers, Snowblowers | 1.5M Mowers/Tractors | $0.09 Billion |
@@ -313,7 +312,7 @@ This visualization highlights the strategic distribution of the **$11.17 Billion
 | **Guadalajara, MX** (Zenith/Silvertone/Mattresses) | $1,400M | `██████████████` |
 | **Datsun - Japan** (Cars/Rogue/R&D) | $1,700M | `█████████████████` |
 | **Colorado Springs, CO** (Craftsman/Remington/Metallurgy) | $500M | `█████` |
-| **Asia (Surabaya/Osaka)** (Appliances/Atari/Kodak) | $700M | `███████` |
+| **Asia (Surabaya/Osaka)** (Appliances/Atari/Kodak/Sears Robotics) | $700M | `███████` |
 | **Brownsville/Martin, TN** (Cub Cadet) | $270M | `██▋` |
 
 #### 5. HomeForce & PartsDirect

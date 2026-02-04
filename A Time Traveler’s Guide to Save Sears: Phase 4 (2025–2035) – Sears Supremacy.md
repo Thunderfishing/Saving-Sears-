@@ -275,7 +275,7 @@ This table consolidates all major brands, production models, factory locations, 
 | **Harmony House** | Vertical/Partner | Sears/Serta | Guadalajara, Mexico (x2); Surabaya, Indonesia | Mattresses/bedding. **$7.5B Revenue.** |
 | **WeatherBeater Paint** | Partner | **Sherwin-Williams** | N/A (Syndicate Partner Factories) | Paint/sealants for Datsun and retail. **$6.5B Revenue.** |
 | **Char-Broil Grills** | Partner | **Char-Broil** | N/A (Syndicate Partner Factories) | High-volume SKU for Sears.com. **$1.1B Revenue.** |
-| **Sears Robotics** | Vertical | Sears/Kiva/Dragonfly | Osaka, Surabaya | 270,000 Logistics, 27M Drones, 36M Consumer robots **$35B Revenue** |
+| **Sears Robotics** | Vertical | Sears/Kiva/Dragonfly | Osaka, Surabaya | 270,000 Logistics, 27M Drones, 36M Consumer robots **$45B Revenue** |
 
 --
 
@@ -552,20 +552,20 @@ The Discover Card Network is now the subsidiary responsible for the day-to-day t
 
 | Region/Nation | Total Malls (2035) | SCloud Data Centers (DC) | SWT Office & Homart HQ | Cost Savings/Synergy Comment |
 |---|---|---|---|---|
-| **USA** | **180** | **45 DCs** (Located in colder climate northern malls) | Dallas, TX (Primary HQ) | *Major cost avoidance by integrating into mall climate controls ($5.5B).* |
-| **Canada** | **25** | **4 DCs** | Calgary, AB (Sears Canada HQ) | *Low latency for Sears Canada ops. Synergy with Canada HQ.* |
-| **Japan** | **20** | **5 DCs** | Yokohama, Japan (Atari/Datsun HQ) & Tokyo (SWT) | *Crucial low-latency support for Atari/Datsun R&D and manufacturing.* |
+| **USA** | **180** | **50 DCs** (Located in colder climate northern malls and Strategically around USA) | Dallas, TX (Primary HQ) | *Major cost avoidance by integrating into mall climate controls ($5.5B).* |
+| **Canada** | **25** | **5 DCs** | Calgary, AB (Sears Canada HQ) | *Low latency for Sears Canada ops. Synergy with Canada HQ.* |
+| **Japan** | **20** | **9 DCs** | Yokohama, Japan (Atari/Datsun HQ) & Tokyo (SWT) | *Crucial low-latency support for Atari/Datsun R&D and manufacturing.* |
 | **UK** | **15** | **2 DCs** | Dublin, Ireland (Homart Satellite) | *Synergy with Dublin/UK finance hubs and logistics for EU/UK sales.* |
-| **Australia** | **10** | **2 DCs** | Sydney (Homart Satellite) | *Low latency for AUS/NZ e-commerce and SCloud clients.* |
+| **Australia** | **10** | **3 DCs** | Sydney (Homart Satellite) | *Low latency for AUS/NZ e-commerce and SCloud clients.* |
 | **Ireland** | **10** | **1 DC** | Dublin, Ireland (Homart Satellite) | *Low latency for UK/EU SCloud users and financial services.* |
-| **Korea** | **5** | **1 DC** | Seoul (SWT Office) | *Streamlines logistics and vendor vetting for Northeast Asian markets.* |
+| **Korea** | **5** | **2 DC** | Seoul (SWT Office) | *Streamlines logistics and vendor vetting for Northeast Asian markets.* |
 | **Philippines** | **5** | **0 DCs** | Manila (SWT Office) | *Focus on World Trade vetting and emerging market logistics/supply chain.* |
 | **Taiwan** | **3** | **0 DCs** | Taipei (SWT Office) | *Critical for high-tech procurement and World Trade vetting.* |
 | **Mexico** | **3** | **0 DCs** | Guadalajara (Zenith/Harmony House Factories) | *Focus on factory support and NA logistics coordination.* |
-| **Indonesia** | **0** | **0 DCs** | Surabaya (SWT Office) & Jakarta (SE Asia RU) | *Primary hub for Southeast Asia logistics and factory operations.* |
+| **Indonesia** | **0** | **2 DCs** | Surabaya (SWT Office) & Jakarta (SE Asia RU) | *Primary hub for Southeast Asia logistics and factory operations.* |
 | **India** | **0** | **0 DCs** | Mumbai (SWT Office) | *Procurement and vetting hub for the massive Indian supply chain.* |
-| **Germany** | **0** | **0 DCs** | Frankfurt (SWT Office) | *Gateway for European vendors and financial operations.* |
-| **TOTALS** | **280** | **60 DCs** | **10 Satellite HQs + 5 SWT Offices** | **$5.5B** in SCloud data center integration savings + **$1.5B** in World Trade vetting savings. |
+| **Germany** | **0** | **1 DCs** | Frankfurt (SWT Office) | *Gateway for European vendors and financial operations.* |
+| **TOTALS** | **280** | **80 DCs** | **10 Satellite HQs + 5 SWT Offices** | **$5.5B** in SCloud data center integration savings + **$1.5B** in World Trade vetting savings. |
 
 ---
 

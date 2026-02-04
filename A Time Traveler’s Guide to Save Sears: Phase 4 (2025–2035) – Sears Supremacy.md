@@ -15,7 +15,6 @@ To Cement **Sears** as a vertically integrated, AI, crypto-powered retail-indust
 * Secure a **13%** share in expanded markets (Japan, Taiwan, Indonesia, Australia/New Zealand, Singapore, Philippines, Vietnam, Argentina, UK/Ireland), capturing **$585B** out of a $4.5T Southeast Asia and emerging regions market.
 * Total E-commerce Revenue (2035): **$1.985T** ($1.4T NA + $585B Expanded Markets)
 * Maintain working class hero reputation.
-* Continue developing "safe harbor" ecosystem.
 
 ---
 
@@ -37,7 +36,7 @@ By the end of Phase 3 (2025), Sears achieves significant milestones:
 ### Operations
 
 * **Stores:** **2,300** total (2,050 showrooms for merchandise (Kenmore/Coldspot, Craftsman, etc.), Cub Cadet and Datsun display/test drive centers and micro-distribution centers, 250 full-line stores at Sears Homart Malls)
-* **Workforce:** **490,000** employees
+* **Workforce:** **505,000** employees
 * **Logistics (2025, 2.5% global):** **65** distribution centers (45 U.S., 16 global, 4 in Canada) and **9,000** Local distribution centers
 * **Sears Academy (2025):** Dallas campus partnered with **180** colleges
 * **Decentralized Business Units:** 10 (Tech, Retail, Logistics, Factories/Brands, HomeForce, Auto Centers, Financial, Optical, Academy/Sustainability, Robotics)
@@ -78,7 +77,7 @@ By the end of Phase 3 (2025), Sears achieves significant milestones:
 
 ### Workforce & Operations (by 2035)
 
-* **Workforce:** 629,321 + 140,000 Datsun employees + 4.8k Discover (by 2035) = **769,321**
+* **Workforce:** 645,950 + 140,000 Datsun employees + 4.8k Discover (by 2035) = **785,950**
 * **Stores:** 2,700 (USA),100 (Japan/foreign markets) (2,520 showrooms/micro-DCs, 180 (USA) full-line Homart Mall anchor stores 
 * **Payroll:** $20/hour min wage floor; 10% premium above medians for roles; mechanics at $50/hour base with warranty incentives.
 * **Other Operations:** 180 USA, 100 Japan/expanded markets malls, 90 logistics distribution centers, 180 Saks stores, 280 (180 USA,100 expanded markets) Atari Arcades (Homart malls), Cub Cadet factories/R&D, Datsun support, Sears World Trade, Inc.
@@ -86,25 +85,25 @@ By the end of Phase 3 (2025), Sears achieves significant milestones:
 
 ### 👨‍🔧 Employee Roles and Estimated Payroll Breakdown (2035)
 
-**Total Annual Payroll is now estimated at ~$53.6 Billion.** *
+**Total Annual Payroll is now estimated at ~$55.6 Billion.** *
 
 | Employee Segment | Estimated Headcount (2035) | Estimated Base Hourly/Salary Range (NA) | Total Annual Payroll Est. (NA) | Notes on Incentives |
 | :--- | :--- | :--- | :--- | :--- |
-| **Auto/HomeForce Techs** | **66,000** (48k HomeForce + 18k Auto Ctr) | **$50/hour base** ($104K/yr) + **Warranty Incentives** | ~$6.86 Billion | Hybrid Pay, tiered bonuses, no-fault safety net, quarterly team incentives. |
-| **Factory Floor/Logistics** | **243,350** (38.35k Factory + 205k Logistics) | **$20 – $35/hour** ($41.6K - $72.8K/yr) | ~$13 Billion | Profit-sharing participation with key suppliers, robotics training. |
+| **Auto/HomeForce Techs** | **66,000** (48k HomeForce + 18k Auto Ctr) | **$50/hour base** ($104K/yr) + **Warranty Incentives** | ~$6.86 Billion | Hybrid Pay, tiered bonuses, no-fault safety net for warranty work, quarterly team incentives. |
+| **Factory Floor/Logistics** | **243,350** (53.35k Factory + 205k Logistics) | **$20 – $35/hour** ($41.6K - $72.8K/yr) | ~$13 Billion | Profit-sharing participation with key suppliers, robotics training. |
 | **Retail/Showroom Staff** | **202,500** (195k Retail + 7.5k Showroom/DC) | **$20 – $30/hour** ($41.6K - $62.4K/yr) | ~$8.4 Billion | High base wage, SearsCoin bonuses, 15% ESPP discount (after 1 year). |
 | **R&D Specialists/Engineers** | **52,500** | **$120K – $220K/yr+** | ~$8 Billion | 10% premium above market median, significant ESPP, high-value profit-sharing. |
 | **Mid/Senior Management** | **42,000** | **$100K – $350K/yr+** | ~$6.3 Billion | Performance bonuses, significant stock options, access to Sears Fund. |
 | **C-Suite/Executive** | **3,000** | **$500K – $5M+/yr** | ~$1 Billion | Performance-based equity, long-term incentive plans tied to **$3T valuation** goal. |
 | **Dean Witter/Discover** | **8,600** (3.8k DWF + 4.8k Discover) | **$80K – $200K/yr+** | ~$1.6 Billion **(New Est.)** | Competitive financial sector pay. |
-| **Datsun Employees** | **140,000** (Japanese/Expanded Markets) | **$45K – $150K/yr equivalent** | ~$10 Billion | Competitive global compensation, profit-sharing integration, access to Datsun IPO shares. |
-| **Total Workforce** | **703,950** | | **~$55.16 Billion** (Estimate) | **Min wage floor: $20/hour.** |
+| **Datsun Employees** | **140,000** (USA/Japanese/Expanded Markets) | **$45K – $150K/yr equivalent** | ~$10 Billion | Competitive global compensation, profit-sharing integration, access to Datsun IPO shares. |
+| **Total Workforce** | **785,950** | | **~$55.16 Billion** (Estimate) | **Min wage floor: $20/hour.** |
  
  * Clarification note: Wages are paid in local currency (e.i. USD), Christmas/Performance bonuses issued in SearsCoin.
  
 * Unlike most large modern corporations Sears and it's wholly owned subsidiaries maintains hiring managers, at smaller facilities the manager assumes the roll, Sears doesn't hire through entities such as LinkedIn, Indead etc. applicants can apply on Sears website careers page, or with prospective employees approaching hiring manager directly with resume in hand, managers are encouraged to perform interviews on the spot if possible
 
-* It has been recognized that Sears is well ahead of others in mechanizing workforce with Robotics and utilization of AI, as evidenced by its 761,000 head count, it continues to elevate its human workforce through AI/robotics, witb most of the boring repetitive jobs already automated, employees focus on repairs, diagnostics, logistics and customer service, maintaining infrastructure/maintenance, and continues to scale human workforce 
+* It has been recognized that Sears is well ahead of it's Peers in mechanizing it's workforce with Robotics and utilization of AI, as evidenced by its 785,000+ head count, it continues to elevate its human workforce through AI/robotics, boring repetitive jobs systematically automated, employees focus on repairs, diagnostics, logistics and customer service, maintaining infrastructure/maintenance, manufacturing and continues to scale human workforce.  
 
 ### 🔬 R&D Cluster Staffing & Financial Contributions (2035)
 
@@ -160,7 +159,7 @@ Objective: Scale to $1.2T revenue.
 | **Budget** | $60B | |
 
 * **Sears.com:** Features include **5 year parts support** on core/participating brands, Sears Prime, SearsPay, and Shopify tools uplift.
-* **SCloud:** 60 data centers integrated into bowels of Homart malls (by 2035)
+* **SCloud:** 80 data centers integrated into bowels of Homart malls (by 2035)
 * **KENN AI:** Multimodal, contextually aware retail intelligence, non-biased product reviews/recommendations.
 * **Consumer Data Marketplace (CDM):** Open data marketplace, customers sell their data for SearsCoin payments. **Managed by Discover Card Network.**
 
@@ -417,7 +416,7 @@ Objective: Scale to $45B revenue, 15% global robotics share.
 | :--- | :--- | :--- |
 | **Revenue** | $20B | $45B |
 | **Value** | $30B | $67.5B |
-| **Workforce** | 10,000 | |
+| **Workforce** | 25,000 | |
 
 * Features: Consumer/industrial robots, Gen 3 Kodak Optics, Atari peripherals.
 

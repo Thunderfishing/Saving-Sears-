@@ -297,7 +297,7 @@ This table consolidates all major brands, production models, factory locations, 
 | **Colorado Springs, CO** | Craftsman Hand Tools, Remington Rifles | 18M Hand Tools / 1.5M Rifles/Shotguns | $0.50 Billion |
 | **Brownsville, TN (Cub Cadet)** | Cub Cadet Mowers, Snowblowers | 1.5M Mowers/Tractors | $0.18 Billion |
 | **Martin, TN (Cub Cadet)** | Cub Cadet Mowers, Snowblowers | 1.5M Mowers/Tractors | $0.09 Billion |
-| **TOTALS** | | | **Approx. 13.6 Million Units** | **$11.17 Billion** |
+| **TOTALS** | | | **Approx. 77,070,000 (63,470,000 Robots/Drones) Million Units** | **$11.17 Billion** |
 
 
 ## 📈 Industrial Prowess Visualization: Total Capex by Facility Type

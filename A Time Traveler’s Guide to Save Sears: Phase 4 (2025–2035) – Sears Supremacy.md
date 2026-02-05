@@ -240,7 +240,7 @@ Objective: Scale to 90 distribution centers, capture 2.5% of $30T global market.
 | **Workforce** | 205,000 | |
 | **Budget** | $100B | |
 
-* Features: 90 distribution centers, 10,000 micro-DCs, 200,000 hybrid vehicles, 65 Boeing 767,75 737-800BCF, 95 Cessna Skycourier feeder aircraft, 40,000 diesel Paccar Tractor Trailers, 329,000K Kiva-SortBots/MuleBots, 90,000 Dragonfly delivery drones, Self-Healing Supply Chains via KENN AI.
+* Features: 90 distribution centers, 10,000 micro-DCs, 200,000 hybrid vehicles, 65 Boeing 767,75 737-800BCF, 95 Cessna Skycourier feeder aircraft, 40,000 diesel Paccar Tractor Trailers, 1,529,000M Kiva-SortBots/MuleBots, 180,000 Dragonfly delivery drones, Self-Healing Supply Chains via KENN AI.
 
 #### 4. Brands & Factories
 Objective: Scale factories and brands to generate $252B, leveraging Cub Cadet, Remington, and Datsun.

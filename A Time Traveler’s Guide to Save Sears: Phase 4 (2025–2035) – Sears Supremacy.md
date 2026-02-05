@@ -351,7 +351,8 @@ Objective: Scale to 2,900 centers, generate $38B. (Avg revenue per store: $13M)
 ---
 
 #### 7. Financial Division Summary (REMOVED: Consolidated into Dean Witter and Discover)
-*The former Sears Financial Division is now structured as the **Dean Witter Asset Management** and **Discover Card Network** subsidiaries.*
+
+**Dean Witter Asset Management** and **Discover Card Network** subsidiaries.*
 * **Total Revenue (2035):** $8.75B (Dean Witter) + $29B (Discover/SCN) + $15B (Coldwell Banker) = **$52.75B**
 * **Total Value (2035):** $37.5B (Dean Witter) + $12B (Discover - Original Key Asset Value) + $30B (Coldwell Banker - Original Key Asset Value) = **$79.5B**
 
@@ -517,7 +518,23 @@ The Discover Card Network is now the subsidiary responsible for the day-to-day t
 | **Sears Savings Accounts** | $136B | Integrated banking services |
 | **Total AUM** | **$1.547T** | Master 9-member oversight board |
 
-* SearsCoin reserve securities are primarily made up of Barrick, Gold Corp, Agnico Eagle, Silver Wheaton, for precious metals and Chevron, ExxonMobil for Energy.
+**Additional Dean-Witter SSGF & Reserve Fund details** 
+
+* specifica SearsCoin reserve securities are: Barrick, Gold Corp, Agnico Eagle, Silver Wheaton, for precious metals and Chevron, ExxonMobil for Energy.
+
+* SSGF (managed by Dean-Witter) is capped at 15% of Sears Roebuck & Co total equity. Supplier representation is proportional inside SSGF.
+
+* Suppliers can use SSGF equity as collateral for 2% bridge loans from SRF.
+
+* Suppliers that reach equity cap inside SSGF Relieve 70% cash and 30% SCN on profit sharing arrangement.
+
+* Explicit SSGF → SCN voluntary conversion mechanism (gives partners liquidity option)
+
+* SCN governance rights formula (e.g., 10B SCN = 1 vote on Consumer Data Marketplace policies)
+
+* SSGF emergency dissolution clause (if Sears valuation drops below $1T for 2 years, partners can force asset sale)
+
+---  
 
 ### Revised Corporate Wealth Investment Summary
 

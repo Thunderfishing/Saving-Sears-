@@ -420,6 +420,8 @@ Objective: Scale to $45B revenue, 15% global robotics share.
 
 * Features: Consumer/industrial robots, Gen 3 Kodak Optics, Atari peripherals.
 
+* Historical note: Founded in 1990 focusing on hobby robots (ei. Robots the Robot) and RC car toy lines. Then expansion into logists an Drones post 2000. Funding $120M ($150M post acquisitions) a year adjusted for inflation 1990-2025, Kiva and Dragonfly incorporated into Brand. Toy/Hobby sales subsidizes budget.
+
 ---
 
 ## 🏛️ Sears Subsidiaries & Financial Ecosystem

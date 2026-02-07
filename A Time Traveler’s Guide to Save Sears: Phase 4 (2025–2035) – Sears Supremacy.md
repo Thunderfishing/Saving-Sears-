@@ -36,7 +36,7 @@ By the end of Phase 3 (2025), Sears achieves significant milestones:
 ### Operations
 
 * **Stores:** **2,300** total (2,050 showrooms for merchandise (Kenmore/Coldspot, Craftsman, etc.), Cub Cadet and Datsun display/test drive centers and micro-distribution centers, 250 full-line stores at Sears Homart Malls)
-* **Workforce:** **505,000** employees
+* **Workforce:** **680,000** employees
 * **Logistics (2025, 2.5% global):** **65** distribution centers (45 U.S., 16 global, 4 in Canada) and **9,000** Local distribution centers
 * **Sears Academy (2025):** Dallas campus partnered with **180** colleges
 * **Decentralized Business Units:** 10 (Tech, Retail, Logistics, Factories/Brands, HomeForce, Auto Centers, Financial, Optical, Academy/Sustainability, Robotics)
@@ -77,7 +77,7 @@ By the end of Phase 3 (2025), Sears achieves significant milestones:
 
 ### Workforce & Operations (by 2035)
 
-* **Workforce:** 645,950 + 140,000 Datsun employees + 4.8k Discover (by 2035) = **785,950**
+* **Workforce:** 895,950 + 140,000 Datsun employees + 4.8k Discover (by 2035) = **785,950**
 * **Stores:** 2,700 (USA),100 (Japan/foreign markets) (2,520 showrooms/micro-DCs, 180 (USA) full-line Homart Mall anchor stores 
 * **Payroll:** $20/hour min wage floor; 10% premium above medians for roles; mechanics at $50/hour base with warranty incentives.
 * **Other Operations:** 180 USA, 100 Japan/expanded markets malls, 90 logistics distribution centers, 180 Saks stores, 280 (180 USA,100 expanded markets) Atari Arcades (Homart malls), Cub Cadet factories/R&D, Datsun support, Sears World Trade, Inc.
@@ -90,14 +90,14 @@ By the end of Phase 3 (2025), Sears achieves significant milestones:
 | Employee Segment | Estimated Headcount (2035) | Estimated Base Hourly/Salary Range (NA) | Total Annual Payroll Est. (NA) | Notes on Incentives |
 | :--- | :--- | :--- | :--- | :--- |
 | **Auto/HomeForce Techs** | **66,000** (48k HomeForce + 18k Auto Ctr) | **$50/hour base** ($104K/yr) + **Warranty Incentives** | ~$6.86 Billion | Hybrid Pay, tiered bonuses, no-fault safety net for warranty work, quarterly team incentives. |
-| **Factory Floor/Logistics** | **243,350** (53.35k Factory + 205k Logistics) | **$20 – $35/hour** ($41.6K - $72.8K/yr) | ~$13 Billion | Profit-sharing participation with key suppliers, robotics training. |
+| **Factory Floor/Logistics** | **493,350** (53.35k Factory + 205k Logistics) | **$20 – $35/hour** ($41.6K - $72.8K/yr) | ~$13 Billion | Profit-sharing participation with key suppliers, robotics training. |
 | **Retail/Showroom Staff** | **202,500** (195k Retail + 7.5k Showroom/DC) | **$20 – $30/hour** ($41.6K - $62.4K/yr) | ~$8.4 Billion | High base wage, SearsCoin bonuses, 15% ESPP discount (after 1 year). |
 | **R&D Specialists/Engineers** | **52,500** | **$120K – $220K/yr+** | ~$8 Billion | 10% premium above market median, significant ESPP, high-value profit-sharing. |
 | **Mid/Senior Management** | **42,000** | **$100K – $350K/yr+** | ~$6.3 Billion | Performance bonuses, significant stock options, access to Sears Fund. |
 | **C-Suite/Executive** | **3,000** | **$500K – $5M+/yr** | ~$1 Billion | Performance-based equity, long-term incentive plans tied to **$3T valuation** goal. |
 | **Dean Witter/Discover** | **8,600** (3.8k DWF + 4.8k Discover) | **$80K – $200K/yr+** | ~$1.6 Billion **(New Est.)** | Competitive financial sector pay. |
 | **Datsun Employees** | **140,000** (USA/Japanese/Expanded Markets) | **$45K – $150K/yr equivalent** | ~$10 Billion | Competitive global compensation, profit-sharing integration, access to Datsun IPO shares. |
-| **Total Workforce** | **785,950** | | **~$55.16 Billion** (Estimate) | **Min wage floor: $20/hour.** |
+| **Total Workforce** | **895,950** | | **~$70.16 Billion** (Estimate) | **Min wage floor: $20/hour.** |
  
  * Clarification note: Wages are paid in local currency (e.i. USD), Christmas/Performance bonuses issued in SearsCoin.
  

@@ -14,7 +14,6 @@ To Cement **Sears** as a vertically integrated, AI, crypto-powered retail-indust
 * Command a **35%** share of the North American market, capturing **$1.4T** out of a $4T total e-commerce market.
 * Secure a **13%** share in expanded markets (Japan, Taiwan, Indonesia, Australia/New Zealand, Singapore, Philippines, Vietnam, Argentina, UK/Ireland), capturing **$585B** out of a $4.5T Southeast Asia and emerging regions market.
 * Total E-commerce Revenue (2035): **$1.985T** ($1.4T NA + $585B Expanded Markets)
-* Maintain working class hero reputation.
 
 ---
 
@@ -29,15 +28,15 @@ By the end of Phase 3 (2025), Sears achieves significant milestones:
 | **Total R&D spending** | **$35B/y By Sears Corporate, plus approx 5% of revenue by each subsidiary** |
 | **Surplus** | **$0.5B** |
 | **Debt** | **$18B** |
-| **Cash on Hand** | **$13.7B** |
+| **Cash on Hand** | **$33.7B** |
 
 ---
 
 ### Operations
 
-* **Stores:** **2,300** total (2,050 showrooms for merchandise (Kenmore/Coldspot, Craftsman, etc.), Cub Cadet and Datsun display/test drive centers and micro-distribution centers, 250 full-line stores at Sears Homart Malls)
+* **Stores:** **2,300** total (**2,050** Showrooms/Local Distribution Denters for merchandising Sears brands (Kenmore/Coldspot, Cub Cadet,  Craftsman, DieHard, Remington, Atari, Zenith, WeatherBeater, etc.), Datsun **Test Drive centers** and Local distribution centers for **Sears.com** order fulfillment, and **250** Traditional Sears Department Stores anchoring Homart Malls.
 * **Workforce:** **680,000** employees
-* **Logistics (2025, 2.5% global):** **65** distribution centers (45 U.S., 16 global, 4 in Canada) and **9,000** Local distribution centers
+* **Logistics (2025, 2.5% global):** **105** Central Distribution Centers (65 U.S., 35 global, 5 in Canada) and **2,050** U.S. Local distribution centers/Showrooms, **180** Canada, **200** Japan, **290** expanded markets.
 * **Sears Academy (2025):** Dallas campus partnered with **180** colleges
 * **Decentralized Business Units:** 10 (Tech, Retail, Logistics, Factories/Brands, HomeForce, Auto Centers, Financial, Optical, Academy/Sustainability, Robotics)
 * **Regional Operating Units:** North America (Chicago), Southeast Asia (Jakarta), Emerging Markets (Manila), Japan/AUS/NZ/Singapore/UK.

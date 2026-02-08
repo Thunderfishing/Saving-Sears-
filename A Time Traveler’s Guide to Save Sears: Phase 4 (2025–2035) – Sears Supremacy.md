@@ -1,8 +1,8 @@
 # A Time Traveler's Guide to Save Sears: Phase 4 (2025–2035)
 
 ## Sears Roebuck & Co 
-The Sears Concordant (aka: The Syndicate)
 
+The Sears Concordant (aka: The Syndicate)
 A alliance between an **Sears Robuck & Co**, its industrial suppliers, employees, and customers. Participating in a Covenant of reciprocity, durability and repair.
 
 ### Mission
@@ -101,7 +101,8 @@ By the end of Phase 3 (2025), Sears achieves significant milestones:
  
 * Unlike most large modern corporations Sears and it's wholly owned subsidiaries maintains hiring managers, at smaller facilities the manager assumes the roll, Sears doesn't hire through entities such as LinkedIn, Indead etc. applicants can apply on Sears website careers page, or with prospective employees approaching hiring manager directly with resume in hand, managers are encouraged to perform interviews on the spot if possible
 
-* It has been recognized that Sears is well ahead of it's Peers in mechanizing it's workforce with Robotics and utilization of AI, as evidenced by its 785,000+ head count, it continues to elevate its human workforce through AI/robotics, boring repetitive jobs systematically automated, employees focus on repairs, diagnostics, logistics and customer service, maintaining infrastructure/maintenance, manufacturing and continues to scale human workforce.  
+---
+
 
 ### 🔬 R&D Cluster Staffing & Financial Contributions (2035)
 
@@ -229,7 +230,7 @@ Objective: Scale to 2,700 stores, capture 10% retail market share.
 * Features: Kiosks, Workshops, Robotics, Kroger anchors, Atari/Cub Cadet/Datsun/Remington displays.
 
 #### 3. Sears Logistics
-Objective: Scale to 90 distribution centers, capture 2.5% of $30T global market.
+Objective: Scale to 130 Central distribution centers, capture 2.5% of $30T global market.
 
 | Metric | 2025 | 2035 |
 | :--- | :--- | :--- |
@@ -238,7 +239,7 @@ Objective: Scale to 90 distribution centers, capture 2.5% of $30T global market.
 | **Workforce** | 205,000 | |
 | **Budget** | $100B | |
 
-* Features: 90 distribution centers, 10,000 micro-DCs, 200,000 hybrid vehicles, 65 Boeing 767,75 737-800BCF, 95 Cessna Skycourier feeder aircraft, 40,000 diesel Paccar Tractor Trailers, 1,529,000M Kiva-SortBots/MuleBots, 180,000 Dragonfly delivery drones, Self-Healing Supply Chains via KENN AI.
+* Features: 120 global central distribution centers, 2,420 U.S local distribution centers, 185 local Canadian, 220 local Japanese, and 320 local expanded market distribution centers,  200,000 hybrid vehicles, 65 Boeing 767,75 737-800BCF, 95 Cessna Skycourier feeder aircraft, 40,000 diesel Paccar Tractor Trailers, 1,529,000M Kiva-SortBots/MuleBots, 180,000 Dragonfly delivery drones, Self-Healing Supply Chains via KENN AI.
 
 #### 4. Brands & Factories
 Objective: Scale factories and brands to generate $252B, leveraging Cub Cadet, Remington, and Datsun.
@@ -667,7 +668,7 @@ The Discover Card Network is now the subsidiary responsible for the day-to-day t
 
 ---
 
-### Datsun Rescue
+### Nissan Rescue
 
 * **Structure:** Standalone Japanese corporation, **Osaka** HQ/R&D.
 * **Ownership:** 33-51% Sears stake ($8B, 2026-2028).
@@ -684,8 +685,7 @@ The Discover Card Network is now the subsidiary responsible for the day-to-day t
 | Feature Category | Description / Terms | Datsun Financing Impact | Strategic Financial Impact |
 | :--- | :--- | :--- | :--- |
 | **Discover Card Terms** | **14.95% APR** (Highly competitive standard rate). **$50** annual fee. 24-day grace period. | Used for financing Datsun/Sears purchases. Encourages card adoption by **working-class families**. | Revenue projected at **$11 Billion** by 2035, securing a 5% global market share. |
-| **Standard Datsun Loans** | 36 months at **5.49% APR** (Prime/Excellent Credit). 60 months at **6.99% APR**. | Offers **sub-prime rates** on new cars, undercutting traditional banks and dealerships. | Drives Datsun sales, generating **$1.8 Billion** in financing synergies. |
-| **Negative Equity Lease** | **Special "Negative Equity Exit Lease"** for suitable customers (on base Ultima model only). | Allows credit-challenged/upside-down trade-in customers to enter a **new, durable vehicle**, reinforcing the "working-class hero" reputation. | Sacrifices short-term margin for **long-term customer loyalty** and full ecosystem lock-in. |
+| **Standard Datsun Loans** | 36 months at **5.49% APR** (Prime/Excellent Credit). 60 months at **6.95% APR**. | Offers **sub-prime rates** on new cars, undercutting traditional banks and dealerships. | Drives Datsun sales, generating **$1.8 Billion** in financing synergies. |
 | **SearsCoin Rewards** | **5% back** in SearsCoin on Sears/Affiliates (including Datsun parts/insurance/non-interest payments). **3% back** elsewhere. | Non-interest Datsun/insurance payments are **SearsCoin eligible**, driving adoption of the crypto reward ecosystem (180M users). | SearsCoin revenue projected at **$18 Billion** by 2035, serving as a value-backing asset. |
 | **SearsPay Integration** | One-click payment solution, Discover Network processing, all rewards managed via SearsPay **"Discover" dashboard**. | Simplifies the entire purchase and post-purchase experience (parts, service, accessories). | Facilitates **$800 Billion** in processed payments, centralizing all customer transactions. |
 | **Consumer Data Sales** | Payments for voluntary consumer data sales are processed quarterly in SearsCoin via the **"Discover" dashboard**. **Managed by Discover Card Network.** | Gives the customer direct, financial benefit from their vehicle usage data. | Fosters trust and transparency, funding the CDAA (Consumer Data Advocacy Association). |
@@ -893,8 +893,8 @@ Customer Outcomes (36 months):
 | **E-commerce Revenue** | $560B | $1.985T |
 | **EBITDA** | $160.06B (8% margin) | $200.14B (7.5% margin) |
 | **Valuation** | $2.5T (15.6x EBITDA) | **$3T** (15x EBITDA) |
-| **Total R&D spending** | $35B/y | **$50B/y** |
-| **Dean Witter AUM** | $392B | **$1.457T** |
+| **Total R&D spending** | $35B/y | **$50B/y + subsidiaries** |
+| **Dean Witter AUM** | $392B | **$1.547T** |
 
 ---
 

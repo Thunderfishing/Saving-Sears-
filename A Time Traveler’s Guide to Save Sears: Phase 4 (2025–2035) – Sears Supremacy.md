@@ -3,7 +3,7 @@
 ## Sears Roebuck & Co 
 The Sears Concordant (aka: The Syndicate)
 
-A Alliance between an **Sears Robuck & Co**, its industrial suppliers, employees, and customers. Participating in a Covenant of reciprocity, durability and repair.
+A alliance between an **Sears Robuck & Co**, its industrial suppliers, employees, and customers. Participating in a Covenant of reciprocity, durability and repair.
 
 ### Mission
 To Cement **Sears** as a vertically integrated, AI, crypto-powered retail-industrial mega-corporation, valued at **$3 trillion** by 2035, through Sears.com, generating **$900 billion** in revenue.

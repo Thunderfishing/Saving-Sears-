@@ -2,17 +2,17 @@
 
 ## Sears Roebuck & Co 
 
-The Sears Concordant (aka: The Syndicate)
-A alliance between an **Sears Robuck & Co**, its industrial suppliers, employees, and customers. Participating in a Covenant of reciprocity, durability and repair.
+The Sears Concordant (aka: The Syndicate)  
+A alliance between **Sears Roebuck & Co**, its industrial suppliers, employees, and customers. Participating in a Covenant of reciprocity, durability and repair.
 
 ### Mission
-To Cement **Sears** as a vertically integrated, AI, crypto-powered retail-industrial mega-corporation, valued at **$3 trillion** by 2035, through Sears.com, generating **$900 billion** in revenue.
+To Cement **Sears** as a vertically integrated, AI, crypto-powered retail-industrial mega-corporation, valued at **$3 trillion** by 2035, through Sears.com, generating **$960 billion** in core revenue (plus substantial high-margin financial revenue).
 
 * Offer **112M+** stock-keeping units (SKUs).
 * Serve **350M** users.
-* Command a **35%** share of the North American market, capturing **$1.4T** out of a $4T total e-commerce market.
+* Command a **35%** share of the North American market, capturing **$1.46T** out of a $4T total e-commerce market (boosted by stronger financial integration).
 * Secure a **13%** share in expanded markets (Japan, Taiwan, Indonesia, Australia/New Zealand, Singapore, Philippines, Vietnam, Argentina, UK/Ireland), capturing **$585B** out of a $4.5T Southeast Asia and emerging regions market.
-* Total E-commerce Revenue (2035): **$1.985T** ($1.4T NA + $585B Expanded Markets)
+* Total E-commerce Revenue (2035): **$2.045T** ($1.46T NA + $585B Expanded Markets), with additional uplift from Discover-driven ecosystem spending.
 
 ---
 
@@ -33,7 +33,7 @@ By the end of Phase 3 (2025), Sears achieves significant milestones:
 
 ### Operations
 
-* **Stores:** **2,300** total (**2,050** Showrooms/Local Distribution Denters for merchandising Sears brands (Kenmore/Coldspot, Cub Cadet,  Craftsman, DieHard, Remington, Atari, Zenith, WeatherBeater, etc.), Datsun **Test Drive centers** and Local distribution centers for **Sears.com** order fulfillment, and **250** Traditional Sears Department Stores anchoring Homart Malls.
+* **Stores:** **2,300** total (**2,050** Showrooms/Local Distribution Centers for merchandising Sears brands (Kenmore/Coldspot, Cub Cadet, Craftsman, DieHard, Remington, Atari, Zenith, WeatherBeater, etc.), Datsun **Test Drive centers** and Local distribution centers for **Sears.com** order fulfillment, and **250** Traditional Sears Department Stores anchoring Homart Malls.
 * **Workforce:** **680,000** employees
 * **Logistics (2025, 2.5% global):** **105** Central Distribution Centers (65 U.S., 35 global, 5 in Canada) and **2,050** U.S. Local distribution centers/Showrooms, **180** Canada, **200** Japan, **290** expanded markets.
 * **Sears Academy (2025):** Dallas campus partnered with **180** colleges
@@ -49,7 +49,7 @@ By the end of Phase 3 (2025), Sears achieves significant milestones:
 | :--- | :--- |
 | Total Funding | **$130B** |
 | 2025 surplus | $0.5B |
-| Profits (2025-2030) | $70B (~50% of $140B EBITDA) |
+| Profits (2025-2030) | **$95B** (~50% of ~$190B cumulative EBITDA) |
 | Debt | $1.65B (Sears: $1B, Datsun: $0.8B) |
 | Datsun IPO | $4B in 2030 for 10% equity |
 | SearsCoin Reserve Fund | $1.2B (for Atari acquisitions, strategic gaming investments) |
@@ -75,15 +75,15 @@ By the end of Phase 3 (2025), Sears achieves significant milestones:
 
 ### Workforce & Operations (by 2035)
 
-* **Workforce:** 895,950 + 140,000 Datsun employees + 4.8k Discover (by 2035) = **785,950**
+* **Workforce:** 895,950 + 140,000 Datsun employees + ~5,200 Discover (by 2035) = **~786,350**
 * **Stores:** 2,700 (USA),100 (Japan/foreign markets) (2,520 showrooms/micro-DCs, 180 (USA) full-line Homart Mall anchor stores 
 * **Payroll:** $20/hour min wage floor; 10% premium above medians for roles; mechanics at $50/hour base with warranty incentives.
 * **Other Operations:** 180 USA, 100 Japan/expanded markets malls, 90 logistics distribution centers, 180 Saks stores, 280 (180 USA,100 expanded markets) Atari Arcades (Homart malls), Cub Cadet factories/R&D, Datsun support, Sears World Trade, Inc.
-* **Profit-sharing contracts** with key suppliers: **Goodyear Tire, Yamaha, Sherwin-Williams,  etc.**
+* **Profit-sharing contracts** with key suppliers: **Goodyear Tire, Yamaha, Sherwin-Williams, etc.**
 
 ### 👨‍🔧 Employee Roles and Estimated Payroll Breakdown (2035)
 
-**Total Annual Payroll is now estimated at ~$55.6 Billion.** *
+**Total Annual Payroll is now estimated at ~$56.2 Billion.** *
 
 | Employee Segment | Estimated Headcount (2035) | Estimated Base Hourly/Salary Range (NA) | Total Annual Payroll Est. (NA) | Notes on Incentives |
 | :--- | :--- | :--- | :--- | :--- |
@@ -93,16 +93,15 @@ By the end of Phase 3 (2025), Sears achieves significant milestones:
 | **R&D Specialists/Engineers** | **52,500** | **$120K – $220K/yr+** | ~$8 Billion | 10% premium above market median, significant ESPP, high-value profit-sharing. |
 | **Mid/Senior Management** | **42,000** | **$100K – $350K/yr+** | ~$6.3 Billion | Performance bonuses, significant stock options, access to Sears Fund. |
 | **C-Suite/Executive** | **3,000** | **$500K – $5M+/yr** | ~$1 Billion | Performance-based equity, long-term incentive plans tied to **$3T valuation** goal. |
-| **Dean Witter/Discover** | **8,600** (3.8k DWF + 4.8k Discover) | **$80K – $200K/yr+** | ~$1.6 Billion **(New Est.)** | Competitive financial sector pay. |
+| **Dean Witter/Discover** | **~9,000** (3.8k DWF + ~5.2k Discover) | **$80K – $200K/yr+** | ~$1.7 Billion **(Updated Est.)** | Competitive financial sector pay. |
 | **Datsun Employees** | **140,000** (USA/Japanese/Expanded Markets) | **$45K – $150K/yr equivalent** | ~$10 Billion | Competitive global compensation, profit-sharing integration, access to Datsun IPO shares. |
-| **Total Workforce** | **895,950** | | **~$70.16 Billion** (Estimate) | **Min wage floor: $20/hour.** |
+| **Total Workforce** | **~786,350** | | **~$56.2 Billion** (Estimate) | **Min wage floor: $20/hour.** |
  
  * Clarification note: Wages are paid in local currency (e.i. USD), Christmas/Performance bonuses issued in SearsCoin.
  
 * Unlike most large modern corporations Sears and it's wholly owned subsidiaries maintains hiring managers, at smaller facilities the manager assumes the roll, Sears doesn't hire through entities such as LinkedIn, Indead etc. applicants can apply on Sears website careers page, or with prospective employees approaching hiring manager directly with resume in hand, managers are encouraged to perform interviews on the spot if possible
 
 ---
-
 
 ### 🔬 R&D Cluster Staffing & Financial Contributions (2035)
 
@@ -143,7 +142,7 @@ This new graph includes the full-ownership corporate assets that are not brands,
 
 | Asset | Ownership | Description | Revenue (2035) | Value (2035) |
 | :--- | :--- | :--- | :--- | :--- |
-| **Sears.com** | Full | Online digital marketplace (beta 1993, full launch 1995), 320M+ users | $900B | $1.35T |
+| **Sears.com** | Full | Online digital marketplace (beta 1993, full launch 1995), 320M+ users | $960B | $1.44T |
 | **SCloud** | Full | Cloud services (1995), 2M 3rd-party customers | $375B | $562.5B |
 | **Sears Logistics** | Full | 90 distribution centers (60 U.S., 24 global, 6 Canada), 9,000 micro-DCs | $155B | $232.5B |
 
@@ -183,20 +182,18 @@ Objective: Scale to $1.2T revenue.
 | **Quantum Security** | **Resilience Layers** | Regional subnets and **quantum resilience layers** for long-term data security. | Security Feature |
 | | **Blockchain Protocol** | Quantum-resistant blockchain protocols for SearsCoin and Discover Network backbone. | Security Feature |
 
----
-
 *Clarification note: KENN AI/agents assists Dean-Witter's and Discover Cards fraud and cyber security teams located at AI center of Excellence San Antonio TX.*
 
 ### 💻 Sears.com Core Features & Ecosystem Integration
 
-*Sears.com is the **$1.35 Trillion market catalyst**, blending a massive SKU selection with industry-leading service features and deep integration across the entire Sears ecosystem. 10% rebates on commissions paid to sears by SMBs dominated in SCN*
+*Sears.com is the **$1.44 Trillion market catalyst**, blending a massive SKU selection with industry-leading service features and deep integration across the entire Sears ecosystem. 10% rebates on commissions paid to sears by SMBs dominated in SCN*
 
 | Feature Area | Key Metric / Detail | Integrated Subsidiaries | Strategic Value |
 | :--- | :--- | :--- | :--- |
-| **Scale & Marketplace** | **102M+ SKUs** (12M+ first-party, 90M+ reputable third-party vendors). Targets **35% NA Market Share** ($1.4T revenue). | Sears World Trade, Saks Off 5th, Cub Cadet, Remington, Datsun. | Captures vast market share and maximizes **vendor participation** through vetted curation. |
+| **Scale & Marketplace** | **102M+ SKUs** (12M+ first-party, 90M+ reputable third-party vendors). Targets **35% NA Market Share** ($1.46T revenue). | Sears World Trade, Saks Off 5th, Cub Cadet, Remington, Datsun. | Captures vast market share and maximizes **vendor participation** through vetted curation. |
 | **Repair & Durability** | **5-year parts support** on all core/participating brands. **PartsDirect** boasts **9,000,000 SKUs** ($50B revenue). | HomeForce, Western Forge, Datsun, Cub Cadet, Remington. | Solidifies the **covenant of repair and durability**, driving high-margin service/parts revenue. |
 | **Sears Prime** | **135M Prime Members** ($55/year, **$4.5B** revenue). Includes **Extended Warranties** (e.g., Datsun 5y/80K mi, $90 deductible). | Datsun, Sears Auto Centers, Atari. | Provides a massive, stable **high-margin revenue** stream and crucial customer lock-in (especially Datsun). |
-| **Financial Backbone** | **SearsPay** (180M users), processing via **Discover Card Network**. SearsCoin rewards (3% non-Sears, 5% Sears/affiliates). | Discover Card Network, Dean Witter. | Centralizes transactions, minimizes third-party fees, and fuels the **SearsCoin crypto economy**. |
+| **Financial Backbone** | **SearsPay** (180M+ users), processing via **Discover Card Network**. SearsCoin rewards (3% non-Sears, 5% Sears/affiliates). | Discover Card Network, Dean Witter. | Centralizes transactions, minimizes third-party fees, and fuels the **SearsCoin crypto economy**. |
 | **Luxury & Niche** | Integration of **Saks Off 5th** (10M+ SKUs, $10B revenue) and dedicated portals for brands like **Zenith/Silvertone** and **Remington**. | Saks Fifth Avenue, Zenith, Remington (by Western Forge). | Diversifies revenue streams and provides seamless access to **high-end and specialized goods**. |
 | **AI/Search Uplift** | Utilizes **KENN AI** for retail intelligence, logistics routing, and fraud detection, with a **$50B uplift**. | KENN AI, Yahoo!, SCloud. | Maximizes operational efficiency, enhances the customer experience, and drives **Search-to-Purchase conversion**. |
 
@@ -214,9 +211,8 @@ Objective: Scale to $1.2T revenue.
 | **Automotive Coverage** | **Extended Datsun Warranty** | 5 years / 80,000 miles bumper-to-bumper and powertrain coverage. **$90 deductible.** | **Crucial lock-in** for Datsun customers, leveraging the 2,900 Sears Auto Centers for service revenue ($1.8B). |
 | **Incentives** | **Online / In-Store Promotions** | Exclusive discounts and early access to sales events. | Encourages consolidated spending within the Sears ecosystem (Sears.com, Homart stores, Saks Off 5th). |
 | **Digital Perks** | **Atari Cloud/Gaming** | **Basic** Atari cloud streaming and online gaming subscription included. | Provides an introductory taste of the Atari service without adding high costs, encouraging upgrades. |
-| **Financial Reward** | **SearsCoin & SearsPay** | Prime members receive **5% back** in SearsCoin rewards on all Sears/affiliate purchases (3% elsewhere). | Drives adoption of SearsCoin (180M users by 2035) and the SearsPay/Discover financial backbone. |
+| **Financial Reward** | **SearsCoin & SearsPay** | Prime members receive **5% back** in SearsCoin rewards on all Sears/affiliate purchases (3% elsewhere). | Drives adoption of SearsCoin (180M+ users by 2035) and the SearsPay/Discover financial backbone. |
 | **Financial Outcome** | **Total Prime Revenue** | **$4.5 Billion / year** (135M members). | Provides a massive, stable, high-margin revenue stream to fuel corporate R&D and community funds. |
-
 
 #### 2. Retail Stores & Showrooms
 Objective: Scale to 2,700 stores, capture 10% retail market share.
@@ -252,7 +248,6 @@ Objective: Scale factories and brands to generate $252B, leveraging Cub Cadet, R
 | **Budget** | $24B | |
 
 * Features: Profit-sharing with key suppliers, Saks expansion, Datsun synergies, **No BNPL for Saks 5th Avenue**.
-
 
 ## 🏭 Core Brands & Production Roster (Combined)
 
@@ -297,7 +292,6 @@ This table consolidates all major brands, production models, factory locations, 
 | **Brownsville, TN (Cub Cadet)** | Cub Cadet Mowers, Snowblowers | 1.5M Mowers/Tractors | $0.18 Billion |
 | **Martin, TN (Cub Cadet)** | Cub Cadet Mowers, Snowblowers | 1.5M Mowers/Tractors | $0.09 Billion |
 | **TOTALS** | | | **Approx. 77,070,000 (63,470,000 Robots/Drones) Million Units** | **$11.17 Billion** |
-
 
 ## 📈 Industrial Prowess Visualization: Total Capex by Facility Type
 
@@ -352,8 +346,8 @@ Objective: Scale to 2,900 centers, generate $38B. (Avg revenue per store: $13M)
 #### 7. Financial Division Summary (REMOVED: Consolidated into Dean Witter and Discover)
 
 **Dean Witter Asset Management** and **Discover Card Network** subsidiaries.*
-* **Total Revenue (2035):** $8.75B (Dean Witter) + $29B (Discover/SCN) + $15B (Coldwell Banker) = **$52.75B**
-* **Total Value (2035):** $37.5B (Dean Witter) + $12B (Discover - Original Key Asset Value) + $30B (Coldwell Banker - Original Key Asset Value) = **$79.5B**
+* **Total Revenue (2035):** $8.75B (Dean Witter) + $104.4B (Discover/SCN) + $15B (Coldwell Banker) = **$128.15B**
+* **Total Value (2035):** $37.5B (Dean Witter) + updated Discover value + $30B (Coldwell Banker) = **~$100B+** (reflecting scale)
 
 #### 8. Sears Optical Centers
 Objective: Maintain 750 showrooms, generate $5.25B.
@@ -374,7 +368,7 @@ Objective: Scale to 220 college partners, provide $35B revenue uplift.
 | **Revenue Uplift** | $30B | $35B |
 | **Workforce** | 6,500 | |
 
-* Features: Network of 220 colleges, Main credentialedb Dallas polytechnic campus, programs in AI/robotics/EV tech, **Right to Repair** advocate, **Anti-planned obsolescence** advocate, **Homart Mall Community initiatives**
+* Features: Network of 220 colleges, Main credentialed Dallas polytechnic campus, programs in AI/robotics/EV tech, **Right to Repair** advocate, **Anti-planned obsolescence** advocate, **Homart Mall Community initiatives**
 
 ## 🎓 Sears Academy Functions, Operations, & Impact (2035 Projected)
 
@@ -408,7 +402,6 @@ Objective: Scale to 220 college partners, provide $35B revenue uplift.
 | **Engagement & Events** | **Social/Recreational Hub** | **Integrated Youth Centers** (dances, sports, support), **Atari lounge tournaments**, Chess/board games. | Creates a "safe harbor" environment, fostering community cohesion and engagement for all ages. |
 | **Local Culture** | **Seasonal & Arts Events** | Vetted buskers/musicians, **Car Clubs** (show & shines), Carnivals/Shriners, Community gardens. | **Re-establishes the mall as a town square** and local cultural center. |
 
-
 #### 10. Sears Robotics
 Objective: Scale to $45B revenue, 15% global robotics share.
 
@@ -439,8 +432,8 @@ This graph now consolidates all subsidiaries and includes the functions of **Col
 | **Yahoo!/iFixit** | **San Antonio**, TX | 5,500 | $45.5B | Search engine/AI integration and Right to Repair knowledge base. |
 | **Zenith** | **San Antonio**, TX | 8,500 | $55B | Electronics, Display Tech, Silvertone Audio. |
 | **Coldwell Banker** | Dallas, TX | (Included in Dean Witter) | $15B | Real estate brokerage, property management. **Originates 30%-down mortgages for Dean Witter Homart Mortgage Fund.** |
-| **Discover Card Network** | **Dallas, TX** | **4,800 (New Est.)** | **$11B (Network) + $18B (SearsCoin)** | Backbone of SearsPay/SearsCoin transactions. **Manages SearsCoin (SCN)**. **Manages Consumer Data Marketplace (CDM)**. |
-| **Dean Witter Asset Management** | Dallas, TX | 3,800 | $8.75B | Manages Sears Funds/Brokerage Accounts. **Total AUM: $1.457T.** |
+| **Discover Card Network** | **Dallas, TX** | **~5,200** | **$39.6B (Network) + $64.8B (SearsCoin) = $104.4B** | Backbone of SearsPay/SearsCoin transactions. **Manages SearsCoin (SCN)**. **Manages Consumer Data Marketplace (CDM)**. 20% NA / 18% global market share. |
+| **Dean Witter Asset Management** | Dallas, TX | 3,800 | $8.75B | Manages Sears Funds/Brokerage Accounts. **Total AUM: $1.62T.** |
 
 ## Additional Atari details 
 
@@ -451,7 +444,6 @@ This graph now consolidates all subsidiaries and includes the functions of **Col
 * Sega has begun to dominate and has aquired licenses for NBA, NHL, MLB, and NFL with brisk sales and positive reviews,  EA Retained FIFA and PGA. Sega also has a solid Racing title as well.
 Sega continues Sonic the Hedgehog revival.
 Capcom has a new smash hit Street fighter out October 2027.
-
 
 * If a game is bought online, for a Additional $9.99 a physical copy of game will be shipped to customer.
 
@@ -473,15 +465,15 @@ The Discover Card Network is now the subsidiary responsible for the day-to-day t
 
 | Metric | 2025 (Network Only) | 2035 (Combined) | Notes |
 | :--- | :--- | :--- | :--- |
-| **Total Employees** | (Original 4,500 DWF) | **4,800 (New Est. for Discover)** | New dedicated staff for network/crypto/CDM management. |
-| **Operating Budget** | N/A | **$250M/year (Increased)** | Increased budget to manage crypto/data/network operations. |
-| **Revenue (Network/Fees/SCN)** | $5B/$8B (Original) | **$11B (Network) + $18B (SCN) = $29B** | Includes network fees and SearsCoin rewards revenue. |
+| **Total Employees** | (Original 4,500 DWF) | **~5,200** | New dedicated staff for network/crypto/CDM management. |
+| **Operating Budget** | N/A | **$300M/year (Increased)** | Increased budget to manage crypto/data/network operations. |
+| **Revenue (Network/Fees/SCN)** | $5B/$8B (Original) | **$39.6B (Network) + $64.8B (SCN) = $104.4B** | Includes network fees and SearsCoin rewards revenue. |
 | **SearsCoin & CDM Management** | N/A | **Full Management** | **SearsCoin (SCN) and the Consumer Data Marketplace (CDM) are managed by Discover Card Network.** |
 | **Coldwell Banker Synergy** | N/A | **$15B Revenue** | Real estate brokerage and mortgage origination. |
 
 ### 📈 Dean Witter Asset Management: Fund Structure & Governance
 
-**Total Assets Under Management (AUM) by 2035: $1.547 Trillion**
+**Total Assets Under Management (AUM) by 2035: $1.62 Trillion**
 
 **Dean Witter** operates as an independent asset management subsidiary with oversight boards for each fund category.
 
@@ -489,7 +481,7 @@ The Discover Card Network is now the subsidiary responsible for the day-to-day t
 | :--- | :--- | :--- |
 | **Total Employees** | 3,800 | 3,800 (Stable) |
 | **Operating Budget** | $150M/year | $200M/year |
-| **Total AUM** | $392B | **$1.547T** |
+| **Total AUM** | $392B | **$1.62T** |
 | **Revenue (Management/Performance Fees)** | $2.5B | **$8.75B** |
 | **Entity Value** | $10B | **$37.5B** |
 
@@ -505,7 +497,7 @@ The Discover Card Network is now the subsidiary responsible for the day-to-day t
 | Fund | Assets (2035) | Purpose |
 | :--- | :--- | :--- |
 | **Corporate Wealth Fund** | $34B | Strategic Syndicate investments |
-| **SearsCoin Reserve Fund** | $53.5B | Asset backing for SearsCoin consisting of precious metal mining/Energy securities/Bitcoin (Managed by Dean Witter, operations via Discover) |
+| **SearsCoin Reserve Fund** | $48B | Asset backing for SearsCoin consisting of precious metal mining/Energy securities/Bitcoin (Managed by Dean Witter, operations via Discover) |
 | **Sears Fund** | $210B/7% | Long-term shareholder equity |
 | **Homart Mortgage Fund (HMF)** | **$875B** | **Holds Coldwell Banker's elite-grade mortgages** |
 | **Homart Community Fund** | $10B | Community initiatives |
@@ -515,11 +507,11 @@ The Discover Card Network is now the subsidiary responsible for the day-to-day t
 | **Sears Ventures** | $30B | Venture capital for SMBs/startups |
 | **Customer Brokerage Accounts** | $80B | Retail customer investments |
 | **Sears Savings Accounts** | $136B | Integrated banking services |
-| **Total AUM** | **$1.547T** | Master 9-member oversight board |
+| **Total AUM** | **$1.62T** | Master 9-member oversight board |
 
 **Additional Dean-Witter SSGF & Reserve Fund details** 
 
-* specifica SearsCoin reserve securities are: Barrick, Gold Corp, Agnico Eagle, Silver Wheaton, for precious metals and Chevron, ExxonMobil for Energy.
+* Specific SearsCoin reserve securities are: Barrick, Gold Corp, Agnico Eagle, Silver Wheaton, for precious metals and Chevron, ExxonMobil for Energy.
 
 * SSGF (managed by Dean-Witter) is capped at 15% of Sears Roebuck & Co total equity. Supplier representation is proportional inside SSGF.
 
@@ -551,20 +543,13 @@ The Discover Card Network is now the subsidiary responsible for the day-to-day t
 
 | Category | Mechanism / Source of Creation (Mining) | Management & Stability | Burn/Utility |
 | :--- | :--- | :--- | :--- |
-| **User Rewards** | **Rewards Program:** 3% non-Sears, **5% Sears/Affiliates** purchases (via Discover Card/SearsPay) (Total Revenue: $18B) | **Reserve Fund Backing:** SearsCoin Reserve Fund holds **$43.5B** (incl. $38.3B in mining securities and $5.2B Bitcoin) by 2035. **Fund managed by Dean Witter.** | **Customer Data Marketplace (CDM):** Customers spend SearsCoin to opt-in/sign up for the CDM. **Managed by Discover Card Network.** |
-| **Ecosystem Incentives** | **Yahoo! Search Rewards:** Up to **$1 USD SearsCoin/day limit** for KENN AI/iFixit-integrated searches/discovery. | **Pegging Policy:** **Not pegged** to USD, but actively managed by Dean Witter to maintain high stability (low volatility) for practical use. With Supplier/Employee protection thru **Syndicate Contract Clause:**
-"If SCN falls below $0.0095 or rises above $0.0105 for more than
-90 consecutive days, Syndicate Partners may demand:
-(a) Immediate USD conversion of all accrued SCN
-(b) Audit of Dean Witter Reserve Fund
-(c) Emergency governance meeting with binding resolution
-(d) Exit from Covenant with damages" | **SearsPay/Credit Card Fees:** Used to cover transaction/network fees across the Discover Card Network. |
-| **Employee/Partner Incentives** | **Employee Bonus:** **10,000 SearsCoin** ($100 USD) Christmas Bonus for all 621,021 employees (by 2035). | **Transaction Backbone:** Facilitated by the Discover Card Network ($11B Revenue, 5% market share). | **Sears Ventures Repayment:** Used to pay back certain SMB loans/investments in the ecosystem. |
+| **User Rewards** | **Rewards Program:** 3% non-Sears, **5% Sears/Affiliates** purchases (via Discover Card/SearsPay) (Total Revenue: $64.8B) | **Reserve Fund Backing:** SearsCoin Reserve Fund holds **$48B** (incl. $38.3B in mining securities and $5.2B Bitcoin) by 2035. **Fund managed by Dean Witter.** | **Customer Data Marketplace (CDM):** Customers spend SearsCoin to opt-in/sign up for the CDM. **Managed by Discover Card Network.** |
+| **Ecosystem Incentives** | **Yahoo! Search Rewards:** Up to **$1 USD SearsCoin/day limit** for KENN AI/iFixit-integrated searches/discovery. | **Pegging Policy:** **Not pegged** to USD, but actively managed by Dean Witter to maintain high stability (low volatility) for practical use. With Supplier/Employee protection thru **Syndicate Contract Clause:** "If SCN falls below $0.0095 or rises above $0.0105 for more than 90 consecutive days, Syndicate Partners may demand: (a) Immediate USD conversion of all accrued SCN (b) Audit of Dean Witter Reserve Fund (c) Emergency governance meeting with binding resolution (d) Exit from Covenant with damages" | **SearsPay/Credit Card Fees:** Used to cover transaction/network fees across the Discover Card Network. |
+| **Employee/Partner Incentives** | **Employee Bonus:** **10,000 SearsCoin** ($100 USD) Christmas Bonus for all employees (by 2035). | **Transaction Backbone:** Facilitated by the Discover Card Network ($104.4B Revenue, 18% global / 20% NA market share). | **Sears Ventures Repayment:** Used to pay back certain SMB loans/investments in the ecosystem. |
 | **R&D / Diagnostics** | **Repair Network TSBs:** **50 SearsCoin reward** to **HomeForce techs and Independent Repair Network shops** for submitting verified Technical Service Bulletins (TSBs)/diagnostics to KENN AI. | **Governance:** Regulated by Dean Witter, with transparent quarterly reporting and dedicated independent oversight board (SearsCoin Reserve Fund). | **Rewards Redemption:** Redeemed SearsCoin in-store or on Sears.com (up to 5% uplift on purchases). |
-| **New User Adoption** | **CDM Sign-on Payment:** **10,000 SearsCoin** ($100 USD) sign-on payment for customers voluntarily opting into the Consumer Data Marketplace. | **Circulation Control:** KENN AI monitors and adjusts reward generation rates to maintain stability against the $23.2B Reserve Fund. | **Partner Services:** Used by participating **Syndicate suppliers** (Whirlpool, Yamaha) to settle internal service fees. |
+| **New User Adoption** | **CDM Sign-on Payment:** **10,000 SearsCoin** ($100 USD) sign-on payment for customers voluntarily opting into the Consumer Data Marketplace. | **Circulation Control:** KENN AI monitors and adjusts reward generation rates to maintain stability against the $48B Reserve Fund. | **Partner Services:** Used by participating **Syndicate suppliers** (Whirlpool, Yamaha) to settle internal service fees. |
 
 ---
-
 
 ## 🌍 Homart Malls, SCloud Data Centers, & World Trade Offices (2035)
 
@@ -621,9 +606,7 @@ The Discover Card Network is now the subsidiary responsible for the day-to-day t
 | **Nissan/Datsun** | 2026–2028 | 33%–51% | Entry into the automotive market (NA DTC sales) and EV/hybrid R&D. |
 | **Yamaha** | 2026 | 15% | Engine R&D/supply for **Datsun** vehicles. |
 
-
 * **Datsun:** Synergies ($6B): DieHard batteries, **RoadHandler tires ($0.8B from Goodyear Tire)**, Allstate insurance, KENN AI, etc.
-
 
 ### Supplier Profit-Sharing program & Eligibility Conditions
 
@@ -668,7 +651,7 @@ The Discover Card Network is now the subsidiary responsible for the day-to-day t
 
 ---
 
-### Nissan Rescue
+### Nissan Rescue (Datsun Rescue)
 
 * **Structure:** Standalone Japanese corporation, **Osaka** HQ/R&D.
 * **Ownership:** 33-51% Sears stake ($8B, 2026-2028).
@@ -684,10 +667,10 @@ The Discover Card Network is now the subsidiary responsible for the day-to-day t
 
 | Feature Category | Description / Terms | Datsun Financing Impact | Strategic Financial Impact |
 | :--- | :--- | :--- | :--- |
-| **Discover Card Terms** | **14.95% APR** (Highly competitive standard rate). **$50** annual fee. 24-day grace period. | Used for financing Datsun/Sears purchases. Encourages card adoption by **working-class families**. | Revenue projected at **$11 Billion** by 2035, securing a 5% global market share. |
-| **Standard Datsun Loans** | 36 months at **5.49% APR** (Prime/Excellent Credit). 60 months at **6.95% APR**. | Offers **sub-prime rates** on new cars, undercutting traditional banks and dealerships. | Drives Datsun sales, generating **$1.8 Billion** in financing synergies. |
-| **SearsCoin Rewards** | **5% back** in SearsCoin on Sears/Affiliates (including Datsun parts/insurance/non-interest payments). **3% back** elsewhere. | Non-interest Datsun/insurance payments are **SearsCoin eligible**, driving adoption of the crypto reward ecosystem (180M users). | SearsCoin revenue projected at **$18 Billion** by 2035, serving as a value-backing asset. |
-| **SearsPay Integration** | One-click payment solution, Discover Network processing, all rewards managed via SearsPay **"Discover" dashboard**. | Simplifies the entire purchase and post-purchase experience (parts, service, accessories). | Facilitates **$800 Billion** in processed payments, centralizing all customer transactions. |
+| **Discover Card Terms** | **14.95% APR** (Highly competitive standard rate). **$50** annual fee. 24-day grace period. | Used for financing Datsun/Sears purchases. Encourages card adoption by **working-class families**. | Revenue projected at **$104.4 Billion** by 2035, securing **20% NA / 18% global** market share. |
+| **Standard Datsun Loans** | 36 months at **5.49% APR** (Prime/Excellent Credit). 60 months at **6.95% APR**. | Offers **sub-prime rates** on new cars, undercutting traditional banks and dealerships. | Drives Datsun sales, generating **~$2.2 Billion** in financing synergies. |
+| **SearsCoin Rewards** | **5% back** in SearsCoin on Sears/Affiliates (including Datsun parts/insurance/non-interest payments). **3% back** elsewhere. | Non-interest Datsun/insurance payments are **SearsCoin eligible**, driving adoption of the crypto reward ecosystem (180M+ users). | SearsCoin revenue projected at **$64.8 Billion** by 2035, serving as a value-backing asset. |
+| **SearsPay Integration** | One-click payment solution, Discover Network processing, all rewards managed via SearsPay **"Discover" dashboard**. | Simplifies the entire purchase and post-purchase experience (parts, service, accessories). | Facilitates **~$1.1T+** in processed payments, centralizing all customer transactions. |
 | **Consumer Data Sales** | Payments for voluntary consumer data sales are processed quarterly in SearsCoin via the **"Discover" dashboard**. **Managed by Discover Card Network.** | Gives the customer direct, financial benefit from their vehicle usage data. | Fosters trust and transparency, funding the CDAA (Consumer Data Advocacy Association). |
 | **BNPL Loans (Internal)** | Underwriting for large purchases (>$1,500), avoiding 6% third-party BNPL fees. | Applies to major Datsun parts, accessories, and Sears Auto Center services/tires. | Captures additional margin by providing **in-house financing** for high-ticket items. |
 
@@ -889,12 +872,16 @@ Customer Outcomes (36 months):
 
 | Metric | 2025 | 2035 |
 | :--- | :--- | :--- |
-| **Total Revenue** | $2.0008T | $2.6518T |
-| **E-commerce Revenue** | $560B | $1.985T |
-| **EBITDA** | $160.06B (8% margin) | $200.14B (7.5% margin) |
-| **Valuation** | $2.5T (15.6x EBITDA) | **$3T** (15x EBITDA) |
+| **Total Revenue** | ~$2.05T | **~$2.85T** |
+| **E-commerce Revenue** | $560B | **$2.045T** (core) + financial/ecosystem uplift |
+| **EBITDA** | ~$164B (8% margin) | **~$215B** (7.5% margin) |
+| **Valuation** | ~$2.5T (15.6x EBITDA) | **$3T+** (15x EBITDA) |
 | **Total R&D spending** | $35B/y | **$50B/y + subsidiaries** |
-| **Dean Witter AUM** | $392B | **$1.547T** |
+| **Dean Witter AUM** | $392B | **$1.62T** |
+| **Annual Net Profit (post-tax, post all expenses)** | — | **~$35B** |
+| **Cash on Hand** | $33.7B | **~$185–210 Billion** |
+
+**Note on Cash on Hand:** The upgraded Discover Card Network (high-margin fees + SearsCoin layer) plus knock-on ecosystem spending generate strong free cash flow. After heavy R&D ($50B+), Datsun rescue costs, Syndicate sharing, DOF, and conservative capex, Sears ends 2035 with **~$185–210 Billion** in cash — providing significant strategic flexibility.
 
 ---
 
@@ -902,9 +889,9 @@ Customer Outcomes (36 months):
 
 | Metric | Sears | Amazon | Walmart | Alibaba | Apple | Home Depot | SBD | Toyota | Datsun |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| **Revenue** | $2.65T | $800B | $650B | $450B | $350B | $140B | $16B | $280B | $48B |
-| **E-commerce Revenue** | $1.985T | $575B | $80B | $350B | $65B | $25B | $2B | -- | -- |
-| **Valuation** | **$3T** | $1.8T | $450B | $540B | $2.7T | $360B | $18B | $270B | $72B |
+| **Revenue** | **~$2.85T** | $800B | $650B | $450B | $350B | $140B | $16B | $280B | $48B |
+| **E-commerce Revenue** | **$2.045T+** | $575B | $80B | $350B | $65B | $25B | $2B | -- | -- |
+| **Valuation** | **$3T+** | $1.8T | $450B | $540B | $2.7T | $360B | $18B | $270B | $72B |
 | **Hunting/Sporting Share** | 8.5% (Remington) | - | 15% | - | - | - | - | - | - |
 | **Gaming Share** | 20% (Atari) | 4% (Twitch) | - | - | 4% (Apple Arcade) | - | - | - | - |
 
@@ -917,7 +904,7 @@ Customer Outcomes (36 months):
 | Fund | Assets (2035) | Purpose |
 | :--- | :--- | :--- |
 | **Corporate Wealth Fund** | $34B | Strategic Syndicate investments |
-| **SearsCoin Reserve Fund** | 4.55B | Asset backing for SearsCoin (Managed by Dean Witter, operations via Discover) |
+| **SearsCoin Reserve Fund** | ~$48B | Asset backing for SearsCoin (Managed by Dean Witter, operations via Discover) |
 | **Sears Fund** | $210B | Long-term shareholder equity |
 | **Homart Mortgage Fund (HMF)** | **$875B** | **Holds Coldwell Banker's elite-grade mortgages** |
 | **Homart Community Fund** | $10B | Community initiatives |
@@ -927,15 +914,15 @@ Customer Outcomes (36 months):
 | **Sears Ventures** | $30B | Venture capital for SMBs/startups |
 | **Customer Brokerage Accounts** | $80B | Retail customer investments |
 | **Sears Savings Accounts** | $136B | Integrated banking services |
-| **Total AUM** | **$1.547T** | Master 9-member oversight board |
+| **Total AUM** | **$1.62T** | Master 9-member oversight board |
 
 **E-commerce Market Analysis (2035)**
 
 | Region | TAM | Sears Revenue |
 | :--- | :--- | :--- |
-| North America | $4.0T | $1.4T |
+| North America | $4.0T | $1.46T |
 | Expanded Markets | $4.5T | $585B |
-| **Total** | **$8.5T** | **$1.985T** |
+| **Total** | **$8.5T** | **$2.045T** |
 
 ---
 

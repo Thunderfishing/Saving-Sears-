@@ -543,7 +543,7 @@ The Discover Card Network is now the subsidiary responsible for the day-to-day t
 
 | Category | Mechanism / Source of Creation (Mining) | Management & Stability | Burn/Utility |
 | :--- | :--- | :--- | :--- |
-| **User Rewards** | **Rewards Program:** 3% non-Sears, **5% Sears/Affiliates** purchases (via Discover Card/SearsPay) (Total Revenue: $64.8B) | **Reserve Fund Backing:** SearsCoin Reserve Fund holds **$48B** (incl. $38.3B in mining securities and $5.2B Bitcoin) by 2035. **Fund managed by Dean Witter.** | **Customer Data Marketplace (CDM):** Customers spend SearsCoin to opt-in/sign up for the CDM. **Managed by Discover Card Network.** |
+| **User Rewards** | **Rewards Program:** 3% non-Sears, **5% Sears/Affiliates** purchases (via Discover Card/SearsPay) (Total Revenue: $64.8B) | **Reserve Fund Backing:** SearsCoin Reserve Fund holds **$53.5B** (incl. $38.3B in mining securities (Barrick/AgnicoEagle/Gold Corp), $10B in Energy securities (ExxonMobil/Chevron) and $5.2B Bitcoin) by 2035. **Fund managed by Dean Witter.** | **Customer Data Marketplace (CDM):** Customers spend SearsCoin to opt-in/sign up for the CDM. **Managed by Discover Card Network.** |
 | **Ecosystem Incentives** | **Yahoo! Search Rewards:** Up to **$1 USD SearsCoin/day limit** for KENN AI/iFixit-integrated searches/discovery. | **Pegging Policy:** **Not pegged** to USD, but actively managed by Dean Witter to maintain high stability (low volatility) for practical use. With Supplier/Employee protection thru **Syndicate Contract Clause:** "If SCN falls below $0.0095 or rises above $0.0105 for more than 90 consecutive days, Syndicate Partners may demand: (a) Immediate USD conversion of all accrued SCN (b) Audit of Dean Witter Reserve Fund (c) Emergency governance meeting with binding resolution (d) Exit from Covenant with damages" | **SearsPay/Credit Card Fees:** Used to cover transaction/network fees across the Discover Card Network. |
 | **Employee/Partner Incentives** | **Employee Bonus:** **10,000 SearsCoin** ($100 USD) Christmas Bonus for all employees (by 2035). | **Transaction Backbone:** Facilitated by the Discover Card Network ($104.4B Revenue, 18% global / 20% NA market share). | **Sears Ventures Repayment:** Used to pay back certain SMB loans/investments in the ecosystem. |
 | **R&D / Diagnostics** | **Repair Network TSBs:** **50 SearsCoin reward** to **HomeForce techs and Independent Repair Network shops** for submitting verified Technical Service Bulletins (TSBs)/diagnostics to KENN AI. | **Governance:** Regulated by Dean Witter, with transparent quarterly reporting and dedicated independent oversight board (SearsCoin Reserve Fund). | **Rewards Redemption:** Redeemed SearsCoin in-store or on Sears.com (up to 5% uplift on purchases). |
@@ -879,7 +879,7 @@ Customer Outcomes (36 months):
 | **Total R&D spending** | $35B/y | **$50B/y + subsidiaries** |
 | **Dean Witter AUM** | $392B | **$1.62T** |
 | **Annual Net Profit (post-tax, post all expenses)** | — | **~$35B** |
-| **Cash on Hand** | $33.7B | **~$185–210 Billion** |
+| **Cash on Hand** | $33.7B | **~210 Billion** |
 
 **Note on Cash on Hand:** The upgraded Discover Card Network (high-margin fees + SearsCoin layer) plus knock-on ecosystem spending generate strong free cash flow. After heavy R&D ($50B+), Datsun rescue costs, Syndicate sharing, DOF, and conservative capex, Sears ends 2035 with **~$185–210 Billion** in cash — providing significant strategic flexibility.
 
@@ -904,7 +904,7 @@ Customer Outcomes (36 months):
 | Fund | Assets (2035) | Purpose |
 | :--- | :--- | :--- |
 | **Corporate Wealth Fund** | $34B | Strategic Syndicate investments |
-| **SearsCoin Reserve Fund** | ~$48B | Asset backing for SearsCoin (Managed by Dean Witter, operations via Discover) |
+| **SearsCoin Reserve Fund** | ~$53.5B | Asset backing for SearsCoin (Managed by Dean Witter, operations via Discover) |
 | **Sears Fund** | $210B | Long-term shareholder equity |
 | **Homart Mortgage Fund (HMF)** | **$875B** | **Holds Coldwell Banker's elite-grade mortgages** |
 | **Homart Community Fund** | $10B | Community initiatives |
@@ -914,7 +914,7 @@ Customer Outcomes (36 months):
 | **Sears Ventures** | $30B | Venture capital for SMBs/startups |
 | **Customer Brokerage Accounts** | $80B | Retail customer investments |
 | **Sears Savings Accounts** | $136B | Integrated banking services |
-| **Total AUM** | **$1.62T** | Master 9-member oversight board |
+| **Total AUM** | **$1.72T** | Master 9-member oversight board |
 
 **E-commerce Market Analysis (2035)**
 
